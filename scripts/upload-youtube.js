@@ -21,16 +21,18 @@ const clean = (s, max) => String(s || "").replace(/[<>]/g, "").slice(0, max);
 
 function longDescription(ep) {
   const chapters = (ep.render?.chapters || []).map((c, i) => `${clock(i === 0 ? 0 : c.start)} ${c.titleEn}`).join("\n");
+  const clips = ep.render?.clipCredits || [];
   const parts = [
-    ep.meta.descriptionEn, "", ep.meta.descriptionHi, "",
+    ep.meta.descriptionEn, "", ep.meta.descriptionUr || ep.meta.descriptionHi || "", "",
     chapters ? `⏱️ Chapters\n${chapters}\n` : "",
-    `📝 Full script, sources & photo credits: ${pageUrl(ep)}`,
+    `📝 Full story in English, sources & photo credits: ${pageUrl(ep)}`,
     `📚 Research: ${ep.sources.slice(0, 4).map((s) => s.url).join(" , ")}`,
+    clips.length ? `🎥 Stock footage: Pexels (${[...new Set(clips.map((c) => c.user))].slice(0, 8).join(", ")})` : "",
     "",
-    "ℹ️ Narration voice and illustrations are AI-generated. All facts are based on the sources listed above; real photos are credited on screen and on the page above.",
+    "ℹ️ The narration voice, the animated host and the illustrations are AI-generated / computer-made; the host is a fictional character. All facts are based on the sources listed above; real photos are credited on screen and on the page above.",
     "",
     ep.meta.hashtags.join(" "),
-  ];
+  ].filter((l, i, a) => l !== "" || a[i - 1] !== "");
   return clean(parts.join("\n"), 4900);
 }
 
@@ -43,7 +45,7 @@ function body({ title, description, tags, publishAt }) {
   return {
     snippet: {
       title: clean(title, 100), description, tags,
-      categoryId: config.youtube.categoryId, defaultLanguage: config.youtube.language, defaultAudioLanguage: config.youtube.language,
+      categoryId: config.youtube.categoryId, defaultLanguage: config.youtube.metadataLanguage, defaultAudioLanguage: config.youtube.audioLanguage,
     },
     status: {
       privacyStatus: "private", // required for scheduling; YouTube makes it public at publishAt
@@ -104,10 +106,11 @@ export async function uploadAll(date = today(), { dryRun = hasFlag("dry-run") } 
     }
     if (!L.captions) {
       try {
-        await yt.captions.insert({ part: ["snippet"], requestBody: { snippet: { videoId: L.videoId, language: "hi", name: "हिन्दी", isDraft: false } },
+        const [language, name] = ep.language === "ur" ? ["ur", "Roman Urdu"] : ["hi", "हिन्दी"];
+        await yt.captions.insert({ part: ["snippet"], requestBody: { snippet: { videoId: L.videoId, language, name, isDraft: false } },
           media: { mimeType: "application/octet-stream", body: fs.createReadStream(workDir(date, "long", "captions.srt")) } });
         L.captions = true;
-        console.log("  ✔ Hindi subtitles added");
+        console.log(`  ✔ ${name} subtitles added`);
       } catch (e) { console.warn(`  ⚠ Subtitles not added: ${e.message}`); }
     }
     writeEpisode(ep);

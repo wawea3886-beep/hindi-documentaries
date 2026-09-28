@@ -165,25 +165,45 @@ export function randomMove(rand, strength = 1) {
   return { z0: zin ? 1 : z, z1: zin ? z : 1, fx0: f(), fy0: f(), fx1: f(), fy1: f() };
 }
 
+/** Where the host and the "screen" sit in a host scene (1920x1080). */
+export const STUDIO = { x: 860, y: 250, sw: 1000, sh: 562, hostX: 20, hostY: 190, hostW: 800, hostH: 890 };
+
 /**
- * Render one still image as a moving shot (video only), exactly `frames` long.
- * overlays: [{ png, start, end }] transparent PNGs faded in/out over the picture.
+ * Render one shot (video only), exactly `frames` long.
+ * - image: a still with a slow camera move · clip: a real video clip (looped if short)
+ * - studio: { png, host } → the picture plays on a framed screen with the lip-synced host on the left
+ * - overlays: [{ png, start, end }] transparent PNGs faded in/out over the whole frame
  */
-export async function renderShot({ image, out, frames, fps, w, h, move, overlays = [] }) {
+export async function renderShot({ image, clip, out, frames, fps, w, h, move, overlays = [], studio }) {
   if (fs.existsSync(out)) return out;
-  const { z0, z1, fx0, fy0, fx1, fy1 } = move;
   const N = frames;
-  const W2 = Math.round(w * 1.6 / 2) * 2, H2 = Math.round(h * 1.6 / 2) * 2;
   const dur = N / fps;
-  const args = ["-i", image];
-  overlays.forEach((o) => args.push("-loop", "1", "-framerate", String(fps), "-t", dur.toFixed(3), "-i", o.png));
-  const f = [
-    `[0:v]scale=${W2}:${H2}:force_original_aspect_ratio=increase,crop=${W2}:${H2},setsar=1,` +
-    `zoompan=z='${z0}+(${z1 - z0})*on/${N}':x='(${fx0}+(${fx1 - fx0})*on/${N})*(iw-iw/zoom)':y='(${fy0}+(${fy1 - fy0})*on/${N})*(ih-ih/zoom)':d=${N}:s=${w}x${h}:fps=${fps}[v0]`,
-  ];
+  const [iw, ih] = studio ? [STUDIO.sw, STUDIO.sh] : [w, h];
+  const args = [];
+  const f = [];
+  if (clip) {
+    args.push("-stream_loop", "-1", "-i", clip);
+    f.push(`[0:v]scale=${iw}:${ih}:force_original_aspect_ratio=increase,crop=${iw}:${ih},setsar=1,fps=${fps},eq=contrast=1.06:saturation=1.08,trim=end_frame=${N},setpts=PTS-STARTPTS[pic]`);
+  } else {
+    const { z0, z1, fx0, fy0, fx1, fy1 } = move;
+    const W2 = Math.round(iw * 1.6 / 2) * 2, H2 = Math.round(ih * 1.6 / 2) * 2;
+    args.push("-i", image);
+    f.push(`[0:v]scale=${W2}:${H2}:force_original_aspect_ratio=increase,crop=${W2}:${H2},setsar=1,` +
+      `zoompan=z='${z0}+(${z1 - z0})*on/${N}':x='(${fx0}+(${fx1 - fx0})*on/${N})*(iw-iw/zoom)':y='(${fy0}+(${fy1 - fy0})*on/${N})*(ih-ih/zoom)':d=${N}:s=${iw}x${ih}:fps=${fps}[pic]`);
+  }
+  let input = 1;
+  if (studio) {
+    args.push("-loop", "1", "-framerate", String(fps), "-t", dur.toFixed(3), "-i", studio.png);
+    args.push("-f", "concat", "-safe", "0", "-i", studio.host);
+    f.push(`[1:v][pic]overlay=${STUDIO.x}:${STUDIO.y}:shortest=1[st]`);
+    f.push(`[2:v]format=rgba,scale=${STUDIO.hostW}:${STUDIO.hostH},setpts=PTS-STARTPTS[hs]`);
+    f.push(`[st][hs]overlay=${STUDIO.hostX}:${STUDIO.hostY}:eof_action=repeat[v0]`);
+    input = 3;
+  } else f.push(`[pic]null[v0]`);
   overlays.forEach((o, i) => {
+    args.push("-loop", "1", "-framerate", String(fps), "-t", dur.toFixed(3), "-i", o.png);
     const s = Math.max(0, o.start), e = Math.min(dur, o.end);
-    f.push(`[${i + 1}:v]format=rgba,fade=in:st=${s.toFixed(2)}:d=0.4:alpha=1,fade=out:st=${Math.max(s, e - 0.4).toFixed(2)}:d=0.4:alpha=1[o${i}]`);
+    f.push(`[${input + i}:v]format=rgba,fade=in:st=${s.toFixed(2)}:d=0.3:alpha=1,fade=out:st=${Math.max(s, e - 0.4).toFixed(2)}:d=0.4:alpha=1[o${i}]`);
     f.push(`[v${i}][o${i}]overlay=0:0:enable='between(t,${s.toFixed(2)},${e.toFixed(2)})'[v${i + 1}]`);
   });
   f.push(`[v${overlays.length}]format=yuv420p[vout]`);
@@ -218,23 +238,57 @@ export async function padAudio(input, seconds, out) {
   return out;
 }
 
-/** Final mix: video + narration (+ optional quiet background music), loudness-normalised. */
-export async function mux({ video, narration, music, out, cwd }) {
-  const args = ["-i", path.relative(cwd, video), "-i", path.relative(cwd, narration)];
-  let filter = "[1:a]loudnorm=I=-15:TP=-1.5:LRA=11[a]";
+/**
+ * The audio mix, documentary style: narration (loudness-normalised) + sound effects + background music that
+ * automatically dips while the narrator speaks and rises in the pauses (side-chain "ducking").
+ * Returns the FFmpeg filter; inputs are [narration, sfx?, music?] starting at input index `first`.
+ */
+export function audioMix({ first, sfx, music, voiceLoudness = -15 }) {
+  let i = first;
+  const parts = [`[${i++}:a]loudnorm=I=${voiceLoudness}:TP=-1.5:LRA=11,aresample=48000${music ? ",asplit=2[vo][key]" : "[vo]"}`];
+  const mix = ["[vo]"];
+  if (sfx) { parts.push(`[${i++}:a]volume=0.5,aresample=48000[fx]`); mix.push("[fx]"); }
   if (music) {
-    args.push("-stream_loop", "-1", "-i", path.relative(cwd, music));
-    filter = "[1:a]loudnorm=I=-15:TP=-1.5:LRA=11[v];[2:a]volume=0.07,aresample=48000[m];[v][m]amix=inputs=2:duration=first:dropout_transition=0:normalize=0[a]";
+    parts.push(`[${i++}:a]aresample=48000,volume=0.32[mraw]`, `[mraw][key]sidechaincompress=threshold=0.02:ratio=12:attack=15:release=500[mduck]`);
+    mix.push("[mduck]");
   }
-  await ffmpeg([...args, "-filter_complex", filter, "-map", "0:v", "-map", "[a]", "-c:v", "copy", "-c:a", "aac", "-b:a", "192k",
-    "-ar", "48000", "-shortest", "-movflags", "+faststart", path.basename(out)], { cwd });
+  parts.push(mix.length > 1 ? `${mix.join("")}amix=inputs=${mix.length}:duration=first:dropout_transition=0:normalize=0,alimiter=limit=0.97[a]` : `[vo]anull[a]`);
+  return parts.join(";");
+}
+
+/** Final mix of the long video (video stream copied as-is). */
+export async function mux({ video, narration, sfx, music, out, cwd }) {
+  const rel = (f) => path.relative(cwd, f);
+  const args = ["-i", rel(video), "-i", rel(narration)];
+  if (sfx) args.push("-i", rel(sfx));
+  if (music) args.push("-i", rel(music));
+  await ffmpeg([...args, "-filter_complex", audioMix({ first: 1, sfx, music }), "-map", "0:v", "-map", "[a]", "-c:v", "copy",
+    "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-shortest", "-movflags", "+faststart", path.basename(out)], { cwd });
   return out;
 }
 
-/** A random royalty-free track from assets/music/ (optional — add your own). */
-export function pickMusic(root, seed) {
+/** Royalty-free tracks in assets/music/ (add your own, e.g. from YouTube Studio → Audio Library). */
+export function musicTracks(root) {
   const dir = path.join(root, "assets/music");
-  if (!fs.existsSync(dir)) return null;
-  const tracks = fs.readdirSync(dir).filter((f) => /\.(mp3|m4a|wav)$/i.test(f)).sort();
-  return tracks.length ? path.join(dir, tracks[Math.floor(seeded(seed)() * tracks.length)]) : null;
+  return fs.existsSync(dir) ? fs.readdirSync(dir).filter((f) => /\.(mp3|m4a|wav)$/i.test(f)).sort().map((f) => path.join(dir, f)) : [];
+}
+
+/** A background-music bed at least `seconds` long: shuffled tracks, each faded in/out, joined end to end. */
+export async function musicBed(root, seconds, dir, seed) {
+  const tracks = musicTracks(root);
+  if (!tracks.length) return null;
+  const rand = seeded(seed);
+  const order = [...tracks].sort(() => rand() - 0.5);
+  fs.mkdirSync(dir, { recursive: true });
+  const pieces = [];
+  let total = 0;
+  for (let k = 0; total < seconds + 5; k++) {
+    const src = order[k % order.length];
+    const out = path.join(dir, `m${k}.wav`);
+    const len = await mediaDuration(src);
+    if (!fs.existsSync(out)) await ffmpeg(["-i", src, "-af", `afade=t=in:d=1.5,afade=t=out:st=${Math.max(0, len - 2.5).toFixed(2)}:d=2.5,aresample=48000`, "-ac", "2", "-c:a", "pcm_s16le", out]);
+    pieces.push(out);
+    total += len;
+  }
+  return concatCopy(pieces, path.join(dir, "music.wav"), dir);
 }

@@ -1,18 +1,23 @@
-# 🔍 Sach Ki Kahani — a Hindi documentary every day, automatically
+# 🔍 Sach Ki Kahani — an Urdu + English documentary every day, automatically
 
 Every day, for free, with no one at the computer:
 
 1. **Finds a topic**: a mystery, disaster, survival story, piece of history or scam that is trending on Wikipedia
    or has an anniversary today.
 2. **Researches it** from Wikipedia articles and freely licensed Wikimedia Commons photos.
-3. **Writes a 25–30 minute Hindi script** in 7–9 chapters (cold open → story → analysis → conclusion),
-   then **fact-checks every chapter** against the sources.
-4. **Makes the long video** (1920×1080): Hindi narration, AI illustrations, real photos with credits, fact cards,
-   chapter titles, gentle camera moves, a thumbnail and a Hindi subtitle file.
-5. **Makes 3 Shorts** (1080×1920) from the most gripping moments, with Hindi karaoke subtitles, each linking to the full video.
+3. **Writes a 25–30 minute script in Urdu mixed with English** (Claude, via your Claude Pro plan) in 7–9 chapters
+   (cold open → story → analysis → conclusion), plus a word-for-word Roman Urdu version, then **fact-checks every
+   chapter, every on-screen phrase, the title, thumbnail and descriptions** against the sources.
+4. **Makes the long video** (1920×1080) in a modern explainer style:
+   - an **animated host** (original illustrated character, lip-synced) at the intro, every chapter start and the outro
+   - **real stock video clips** (Pexels), **real photos** (credited), **AI illustrations**, **maps**, fact cards
+   - **key words popping up** on screen, a **title card** after the cold open, fast cuts
+   - **whoosh / pop / boom** sound effects and **background music that dips under the voice**
+   - narration by a Pakistani Urdu voice (Asad), a thumbnail with the host's shocked face, Roman Urdu subtitles
+5. **Makes 3 Shorts** (1080×1920) from the most gripping moments, with Roman Urdu karaoke subtitles, linking to the full video.
 6. **Uploads everything to YouTube** as scheduled videos with SEO title, description, chapters, tags, hashtags,
    thumbnail, subtitles and playlists.
-7. **Publishes a website page** for each video with the full script, sources and photo credits.
+7. **Publishes an English website page** for each video with the full story in English, sources and credits.
 
 ```
 00:30 UTC (6:00 AM India)  GitHub Actions starts          ~45–60 min
@@ -88,8 +93,11 @@ Single steps: `npm run script`, `npm run long`, `npm run shorts`, `npm run uploa
 Flags: `--date=2026-10-01`, `--force` (rewrite the script), `--only=2` (one Short).
 
 ## Make it yours
-- **config.js** — channel name, topics/themes, voice (`hi-IN-MadhurNeural` male / `hi-IN-SwaraNeural` female), length, publish times, picture style.
-- **assets/music/** — drop in royalty-free tracks (e.g. from YouTube Studio → *Audio Library*). One is mixed in quietly under each video.
+- **config.js** — channel name, topics/themes, voice (`ur-PK-AsadNeural` male / `ur-PK-UzmaNeural` female), length, pacing, publish times, picture style.
+- **assets/music/** — drop in 5–10 royalty-free tracks (YouTube Studio → *Audio Library* → Genre *Cinematic* / Mood *Dark* or *Dramatic*,
+  "No attribution required"). They are shuffled into a music bed that automatically dips while the narrator speaks.
+- **scripts/lib/host.js** — the animated host's look (colours, glasses, beard…).
+- **PEXELS_API_KEY** secret — free key from https://www.pexels.com/api/ for real video clips (without it, clips are replaced by AI pictures).
 - **site/styles.css** — website look.
 
 ## Please read: YouTube rules

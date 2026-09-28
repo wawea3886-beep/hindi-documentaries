@@ -103,8 +103,12 @@ export async function renderCard({ title, text = "" }, out, { w = 1920, h = 1080
   return save(c, out);
 }
 
-/** Lower-third chapter title (transparent PNG over the video). */
-export function renderChapterOverlay({ number, titleHi, titleEn }, out, { w = 1920, h = 1080 } = {}) {
+/** Lower-third chapter title (transparent PNG over the video). `title` big, `subtitle` small underneath. */
+export function renderChapterOverlay({ number, title, subtitle }, out, opts) {
+  return chapterOverlay({ number, titleHi: title, titleEn: subtitle }, out, opts);
+}
+
+function chapterOverlay({ number, titleHi, titleEn }, out, { w = 1920, h = 1080 } = {}) {
   const c = createCanvas(w, h), ctx = c.getContext("2d");
   const g = ctx.createLinearGradient(0, h - 380, 0, h);
   g.addColorStop(0, "rgba(0,0,0,0)");
@@ -125,6 +129,63 @@ export function renderChapterOverlay({ number, titleHi, titleEn }, out, { w = 19
     ctx.fillStyle = "rgba(255,255,255,0.75)";
     ctx.fillText(titleEn, 132, h - 72);
   }
+  return save(c, out);
+}
+
+/** Key words popping up like a highlighter (transparent PNG), lower centre of the frame. */
+export function renderHighlight(text, out, { w = 1920, h = 1080 } = {}) {
+  const c = createCanvas(w, h), ctx = c.getContext("2d");
+  const t = text.toUpperCase();
+  const f = fit(ctx, t, (px) => headFont(t, px), 92, 50, w - 400, 1);
+  ctx.font = headFont(t, f.px);
+  const tw = ctx.measureText(t).width;
+  const by = h - 330, bh = f.px * 1.35;
+  ctx.save();
+  ctx.translate(w / 2, by + bh / 2);
+  ctx.rotate(-0.02);
+  ctx.fillStyle = "rgba(0,0,0,0.35)";
+  ctx.fillRect(-tw / 2 - 26, -bh / 2 + 10, tw + 68, bh);
+  ctx.fillStyle = YELLOW;
+  ctx.fillRect(-tw / 2 - 34, -bh / 2, tw + 68, bh);
+  ctx.fillStyle = "#111";
+  ctx.textAlign = "center";
+  ctx.textBaseline = "middle";
+  ctx.fillText(t, 0, 4);
+  ctx.restore();
+  return save(c, out);
+}
+
+/** Background for scenes with the host: dark studio, a framed "screen" on the right, chapter label above it. */
+export function renderStudio({ label = "", title = "" }, out, { w = 1920, h = 1080, screen } = {}) {
+  const c = createCanvas(w, h), ctx = c.getContext("2d");
+  const g = ctx.createLinearGradient(0, 0, w, h);
+  g.addColorStop(0, "#0a0f1c");
+  g.addColorStop(1, "#1a2440");
+  ctx.fillStyle = g;
+  ctx.fillRect(0, 0, w, h);
+  ctx.strokeStyle = "rgba(255,255,255,0.04)";
+  for (let x = 0; x < w; x += 60) { ctx.beginPath(); ctx.moveTo(x, 0); ctx.lineTo(x - 300, h); ctx.stroke(); }
+  const glow = ctx.createRadialGradient(420, 620, 50, 420, 620, 620);
+  glow.addColorStop(0, "rgba(229,57,53,0.22)");
+  glow.addColorStop(1, "rgba(229,57,53,0)");
+  ctx.fillStyle = glow;
+  ctx.fillRect(0, 0, w, h);
+  const { x, y, sw, sh } = screen;
+  ctx.fillStyle = "rgba(0,0,0,0.5)";
+  ctx.fillRect(x + 14, y + 18, sw, sh);
+  ctx.strokeStyle = YELLOW;
+  ctx.lineWidth = 6;
+  ctx.strokeRect(x - 3, y - 3, sw + 6, sh + 6);
+  ctx.textBaseline = "alphabetic";
+  if (label) { ctx.font = "38px Anton"; ctx.fillStyle = RED; ctx.fillText(label.toUpperCase(), x, y - (title ? 88 : 22)); }
+  if (title) {
+    const f = fit(ctx, title, (px) => headFont(title, px), 60, 34, sw, 1);
+    ctx.font = headFont(title, f.px);
+    outlined(ctx, f.lines[0], x, y - 18, "#fff", "rgba(0,0,0,0.5)", 5);
+  }
+  ctx.font = "34px Anton";
+  ctx.fillStyle = "rgba(255,212,0,0.85)";
+  ctx.fillText(config.siteName.toUpperCase(), 60, 80);
   return save(c, out);
 }
 
@@ -154,13 +215,23 @@ export async function renderFallback(label, out, { w = 1920, h = 1080 } = {}) {
   return save(c, out);
 }
 
-/** YouTube thumbnail 1280x720: dramatic picture + huge 2-line text. */
-export async function renderThumbnail({ image, text }, out) {
+/** YouTube thumbnail 1280x720: dramatic picture + huge 2-line text (+ the host's shocked face, bottom right). */
+export async function renderThumbnail({ image, text, host = true }, out) {
   const w = 1280, h = 720;
   const c = createCanvas(w, h), ctx = c.getContext("2d");
   ctx.fillStyle = "#111";
   ctx.fillRect(0, 0, w, h);
   if (image && fs.existsSync(image)) cover(ctx, await loadImage(fs.readFileSync(image)), w, h);
+  if (host) {
+    const { drawHost } = await import("./host.js");
+    ctx.save();
+    ctx.shadowColor = "rgba(0,0,0,0.7)";
+    ctx.shadowBlur = 40;
+    ctx.translate(w - 420, h - 470);
+    ctx.scale(0.47, 0.47);
+    drawHost(ctx, { mouth: "o", eyes: "wide" });
+    ctx.restore();
+  }
   const g = ctx.createLinearGradient(0, 0, w * 0.75, 0);
   g.addColorStop(0, "rgba(0,0,0,0.88)");
   g.addColorStop(0.55, "rgba(0,0,0,0.45)");

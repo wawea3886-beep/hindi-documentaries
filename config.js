@@ -11,15 +11,16 @@ const list = (v, d) => (v || d).split(",").map((s) => s.trim()).filter(Boolean);
 
 export default {
   siteName: process.env.SITE_NAME || "Sach Ki Kahani",
-  siteTagline: "रहस्य, हादसे और सच्ची कहानियाँ — हर दिन एक नई डॉक्यूमेंट्री",
-  siteTaglineEn: "Mysteries, disasters & true stories — a new Hindi documentary every day",
+  siteTagline: "Mysteries, disasters & true stories — a new documentary every day",
+  siteTaglineEn: "Mysteries, disasters & true stories — a new documentary every day",
   // Full public URL of the website, no trailing slash (e.g. https://yourname.github.io/sach-ki-kahani)
   siteUrl: (process.env.SITE_URL || "http://localhost:8080").replace(/\/$/, ""),
   youtubeChannelUrl: process.env.YOUTUBE_CHANNEL_URL || "",
 
   // ---- Script ----
-  targetWords: Number(process.env.TARGET_WORDS || 3500), // Hindi narration ≈125 words/min → ~28 min
-  chaptersPerCall: 3, // chapters written per Gemini request (fewer requests = safer on the free tier)
+  targetWords: Number(process.env.TARGET_WORDS || 3900), // Urdu narration ≈147 words/min → ~27 min + host/title scenes
+  wordsPerMinute: 147,
+  chaptersPerCall: 3, // chapters written per AI request
   shortsPerDay: 3,
   // What the channel covers. The AI picks from trending Wikipedia topics that fit these.
   themes: [
@@ -29,8 +30,11 @@ export default {
   ],
 
   // ---- Voice (free Microsoft Edge voices) ----
-  voice: process.env.VOICE || "hi-IN-MadhurNeural", // female: hi-IN-SwaraNeural
-  speechRate: process.env.SPEECH_RATE || "+4%",
+  voice: process.env.VOICE || "ur-PK-AsadNeural", // Pakistani Urdu, male (female: ur-PK-UzmaNeural)
+  speechRate: process.env.SPEECH_RATE || "+0%",
+
+  // ---- Editing style ----
+  shotSeconds: 4.5, // change the camera move / picture about this often (fast, modern documentary pacing)
 
   // ---- Pictures ----
   cloudflareSteps: 4, // Flux-schnell steps: 4 keeps ~140 images/day inside Cloudflare's free allowance
@@ -50,7 +54,8 @@ export default {
     categoryId: "27", // Education (same as the reference documentaries)
     playlistId: process.env.YOUTUBE_PLAYLIST_ID || "",
     shortsPlaylistId: process.env.YOUTUBE_SHORTS_PLAYLIST_ID || "",
-    language: "hi",
+    audioLanguage: "ur", // narration: Urdu + English
+    metadataLanguage: "en", // titles and descriptions are in English
     // Realistic AI pictures of real events must be disclosed to YouTube ("altered or synthetic content").
     containsSyntheticMedia: true,
   },
