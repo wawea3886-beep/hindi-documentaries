@@ -1,0 +1,99 @@
+name: Daily documentary
+
+on:
+  schedule:
+    - cron: "30 0 * * *" # 00:30 UTC = 6:00 AM India. Long video goes public at LONG_PUBLISH_UTC (default 6:30 PM India).
+  workflow_dispatch: # "Run workflow" button — also used to retry a failed day
+    inputs:
+      date:
+        description: "Date to (re)run, YYYY-MM-DD (blank = today)"
+        required: false
+  push:
+    branches: [main]
+    paths: ["site/**", "scripts/build-site.js", "config.js"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-documentary
+  cancel-in-progress: false
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    env:
+      SITE_NAME: ${{ vars.SITE_NAME }}
+      SITE_URL: ${{ vars.SITE_URL }}
+      YOUTUBE_CHANNEL_URL: ${{ vars.YOUTUBE_CHANNEL_URL }}
+      VOICE: ${{ vars.VOICE }}
+      SPEECH_RATE: ${{ vars.SPEECH_RATE }}
+      TARGET_WORDS: ${{ vars.TARGET_WORDS }}
+      LONG_PUBLISH_UTC: ${{ vars.LONG_PUBLISH_UTC }}
+      SHORTS_PUBLISH_UTC: ${{ vars.SHORTS_PUBLISH_UTC }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install
+        run: npm ci --ignore-scripts && npm rebuild ffmpeg-static
+
+      - name: Research, script, videos and YouTube uploads
+        id: daily
+        if: github.event_name != 'push'
+        run: node scripts/daily.js ${{ inputs.date && format('--date={0}', inputs.date) || '' }}
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          POLLINATIONS_API_KEY: ${{ secrets.POLLINATIONS_API_KEY }}
+          YOUTUBE_CLIENT_ID: ${{ secrets.YOUTUBE_CLIENT_ID }}
+          YOUTUBE_CLIENT_SECRET: ${{ secrets.YOUTUBE_CLIENT_SECRET }}
+          YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+          YOUTUBE_PLAYLIST_ID: ${{ secrets.YOUTUBE_PLAYLIST_ID }}
+          YOUTUBE_SHORTS_PLAYLIST_ID: ${{ secrets.YOUTUBE_SHORTS_PLAYLIST_ID }}
+
+      - name: Save today's script and web images to the repo
+        if: always() && github.event_name != 'push'
+        run: |
+          git config user.name "documentary-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add content
+          git diff --cached --quiet || git commit -m "Documentary for $(date -u +%F)"
+          git pull --rebase && git push
+
+      - name: Build website
+        if: always()
+        run: node scripts/build-site.js
+
+      - uses: actions/upload-pages-artifact@v3
+        if: always()
+        with:
+          path: dist
+
+      - uses: actions/deploy-pages@v4
+        id: deploy
+        if: always()
+
+      - name: Keep the videos for 3 days (to check or re-upload by hand)
+        if: always() && github.event_name != 'push'
+        uses: actions/upload-artifact@v4
+        with:
+          name: videos-${{ github.run_id }}
+          path: |
+            work/**/long.mp4
+            work/**/short.mp4
+            work/**/thumbnail.jpg
+            work/**/captions.srt
+          retention-days: 3
+          if-no-files-found: ignore
