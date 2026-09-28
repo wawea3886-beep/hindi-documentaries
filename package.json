@@ -16,6 +16,7 @@
     "build": "node scripts/build-site.js",
     "preview": "node scripts/preview.js",
     "youtube:auth": "node scripts/get-youtube-token.js",
+    "youtube:save": "node scripts/get-youtube-token.js --save",
     "demo": "node scripts/daily.js --mock"
   },
   "dependencies": {

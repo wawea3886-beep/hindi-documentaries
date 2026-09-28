@@ -27,12 +27,37 @@ function clientCredentials() {
   process.exit(1);
 }
 
-/** GitHub repo "owner/name" from the git remote, and the gh CLI path. */
+/** GitHub repo "owner/name" (read from .git/config, so Git itself isn't needed) and the gh CLI path. */
 function github() {
-  const remote = spawnSync("git", ["remote", "get-url", "origin"], { cwd: ROOT, encoding: "utf8" }).stdout?.trim() || "";
-  const repo = remote.match(/github\.com[/:]([^/]+\/[^/.]+)/)?.[1];
+  const cfg = path.join(ROOT, ".git", "config");
+  const remote = fs.existsSync(cfg) ? fs.readFileSync(cfg, "utf8").match(/\[remote "origin"\][^[]*?url\s*=\s*(\S+)/)?.[1] || "" : "";
+  const repo = remote.match(/github\.com[/:]([^/]+\/[^/.\s]+)/)?.[1];
   const gh = ["gh", "C:\\Program Files\\GitHub CLI\\gh.exe"].find((g) => spawnSync(g, ["--version"]).status === 0);
+  if (!repo) console.log("⚠ Could not find the GitHub project address in .git/config");
+  if (!gh) console.log("⚠ GitHub CLI (gh) not found — install it or open a new terminal");
   return { repo, gh };
+}
+
+/** Save the three YouTube values to GitHub Secrets. Returns true on success. */
+function saveAllToGitHub(values) {
+  const { repo, gh } = github();
+  if (!repo || !gh) return false;
+  for (const [k, v] of Object.entries(values)) {
+    if (!saveSecret(gh, repo, k, v)) { console.log(`⚠ GitHub refused ${k} — is gh signed in? (run: gh auth status)`); return false; }
+  }
+  console.log(`✔ Saved YOUTUBE_CLIENT_ID, YOUTUBE_CLIENT_SECRET, YOUTUBE_REFRESH_TOKEN to GitHub Secrets of ${repo}`);
+  return true;
+}
+
+// `npm run youtube:save` — push the values already in .env to GitHub (no new sign-in needed).
+if (process.argv.includes("--save")) {
+  const values = Object.fromEntries(["YOUTUBE_CLIENT_ID", "YOUTUBE_CLIENT_SECRET", "YOUTUBE_REFRESH_TOKEN"].map((k) => [k, process.env[k]?.trim()]));
+  if (Object.values(values).some((v) => !v)) { console.error("✖ .env is missing YouTube values — run: npm run youtube:auth"); process.exit(1); }
+  const a = new google.auth.OAuth2(values.YOUTUBE_CLIENT_ID, values.YOUTUBE_CLIENT_SECRET);
+  a.setCredentials({ refresh_token: values.YOUTUBE_REFRESH_TOKEN });
+  const ch = (await google.youtube({ version: "v3", auth: a }).channels.list({ part: ["snippet"], mine: true })).data.items?.[0];
+  console.log(ch ? `✔ Keys work — channel: "${ch.snippet.title}"` : "⚠ Keys work but no channel found on this account");
+  process.exit(saveAllToGitHub(values) ? 0 : 1);
 }
 
 function saveSecret(gh, repo, name, value) {
@@ -75,12 +100,7 @@ const server = http.createServer(async (req, res) => {
     const values = { YOUTUBE_CLIENT_ID: id, YOUTUBE_CLIENT_SECRET: secret, YOUTUBE_REFRESH_TOKEN: tokens.refresh_token };
     saveToEnv(values);
     console.log("✔ Saved to .env (stays on this PC)");
-    const { repo, gh } = github();
-    if (repo && gh && Object.entries(values).every(([k, v]) => saveSecret(gh, repo, k, v))) {
-      console.log(`✔ Saved YOUTUBE_CLIENT_ID, YOUTUBE_CLIENT_SECRET, YOUTUBE_REFRESH_TOKEN to GitHub Secrets of ${repo}`);
-    } else {
-      console.log("⚠ Could not save to GitHub automatically. Add these three secrets by hand (values are in the .env file).");
-    }
+    if (!saveAllToGitHub(values)) console.log("⚠ Not saved to GitHub yet. Fix the message above, then run: npm run youtube:save");
     res.end(`Connected to "${ch.snippet.title}". You can close this tab and go back to the terminal.`);
   } catch (e) {
     res.end("Error: " + e.message);
