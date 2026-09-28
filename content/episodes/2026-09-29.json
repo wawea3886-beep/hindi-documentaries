@@ -313,36 +313,7 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
     }
   ],
-  "youtube": {
-    "shorts": {
-      "s1": {
-        "videoId": "HI7XSSFgCGQ",
-        "url": "https://www.youtube.com/shorts/HI7XSSFgCGQ",
-        "publishAt": "2026-09-29T14:30:00.000Z",
-        "uploadedAt": "2026-09-28T15:40:37.212Z"
-      },
-      "s2": {
-        "videoId": "3KqTpWSlb5M",
-        "url": "https://www.youtube.com/shorts/3KqTpWSlb5M",
-        "publishAt": "2026-09-30T03:30:00.000Z",
-        "uploadedAt": "2026-09-28T15:40:39.144Z"
-      },
-      "s3": {
-        "videoId": "pFYHslGMimk",
-        "url": "https://www.youtube.com/shorts/pFYHslGMimk",
-        "publishAt": "2026-09-30T07:30:00.000Z",
-        "uploadedAt": "2026-09-28T15:40:40.526Z"
-      }
-    },
-    "long": {
-      "videoId": "KwvI30X3dHc",
-      "url": "https://www.youtube.com/watch?v=KwvI30X3dHc",
-      "publishAt": "2026-09-29T13:00:00.000Z",
-      "uploadedAt": "2026-09-28T15:40:29.992Z",
-      "thumbnail": true,
-      "captions": true
-    }
-  },
+  "youtube": {},
   "meta": {
     "youtubeTitle": "Forty Whacks: Lizzie Borden Axe Murders America Never Solved",
     "slug": "2026-09-29-lizzie-borden-murders",
@@ -2054,10 +2025,7 @@
         "ColdCase",
         "CrimeHistory",
         "UnsolvedMystery"
-      ],
-      "render": {
-        "duration": 42.641
-      }
+      ]
     },
     {
       "id": "s2",
@@ -2078,10 +2046,7 @@
         "MurderMystery",
         "Interrogation",
         "AmericanHistory"
-      ],
-      "render": {
-        "duration": 41.346
-      }
+      ]
     },
     {
       "id": "s3",
@@ -2102,222 +2067,9 @@
         "Mystery",
         "AmericanFolklore",
         "MurderCase"
-      ],
-      "render": {
-        "duration": 38.208
-      }
+      ]
     }
   ],
   "metaChecked": true,
-  "wordCount": 4213,
-  "render": {
-    "duration": 1554.52,
-    "chapters": [
-      {
-        "start": 0,
-        "titleEn": "Cold Open: Father's Dead",
-        "titleRoman": "Cold Open: Father Mar Gaya"
-      },
-      {
-        "start": 88.04,
-        "titleEn": "A Frugal Fortune in Fall River",
-        "titleRoman": "Fall River Ka Kanjoos Khazana"
-      },
-      {
-        "start": 278.68,
-        "titleEn": "Cracks in the House",
-        "titleRoman": "Ghar Mein Dararain"
-      },
-      {
-        "start": 447.5600000000001,
-        "titleEn": "The Morning of August 4",
-        "titleRoman": "4 August Ki Subah"
-      },
-      {
-        "start": 645.0400000000002,
-        "titleEn": "A Very Peculiar Woman",
-        "titleRoman": "Aik Ajeeb Aurat"
-      },
-      {
-        "start": 829.4000000000003,
-        "titleEn": "Inquest, Arrest, and Trial",
-        "titleRoman": "Inquest, Giraftari Aur Adalat"
-      },
-      {
-        "start": 1061.6000000000001,
-        "titleEn": "Who Really Swung the Axe?",
-        "titleRoman": "Kulhari Kisne Chalai?"
-      },
-      {
-        "start": 1301.2800000000004,
-        "titleEn": "Maplecroft and a Quiet End",
-        "titleRoman": "Maplecroft Aur Khamosh Anjaam"
-      },
-      {
-        "start": 1465.0800000000013,
-        "titleEn": "The Legend That Won't Die",
-        "titleRoman": "Wo Kahani Jo Khatam Nahi Hoti"
-      }
-    ],
-    "chapterImages": [
-      {
-        "file": "ch1.jpg",
-        "photo": null,
-        "kind": "map"
-      },
-      {
-        "file": "ch2.jpg",
-        "photo": "p22",
-        "kind": "photo"
-      },
-      {
-        "file": "ch3.jpg",
-        "photo": null,
-        "kind": "ai"
-      },
-      {
-        "file": "ch4.jpg",
-        "photo": null,
-        "kind": "ai"
-      },
-      {
-        "file": "ch5.jpg",
-        "photo": null,
-        "kind": "ai"
-      },
-      {
-        "file": "ch6.jpg",
-        "photo": null,
-        "kind": "ai"
-      },
-      {
-        "file": "ch7.jpg",
-        "photo": null,
-        "kind": "ai"
-      },
-      {
-        "file": "ch8.jpg",
-        "photo": null,
-        "kind": "ai"
-      },
-      {
-        "file": "ch9.jpg",
-        "photo": "p17",
-        "kind": "photo"
-      }
-    ],
-    "pictures": {
-      "ai": 56,
-      "clip": 25,
-      "photo": 11,
-      "map": 7,
-      "card": 37,
-      "host": 11,
-      "reused": 19,
-      "fallback": 0
-    },
-    "renderedAt": "2026-09-28T15:37:28.698Z",
-    "clipCredits": [
-      {
-        "user": "Анатолий",
-        "url": "https://www.pexels.com/video/a-footage-of-a-locked-door-8846989/"
-      },
-      {
-        "user": "Everett Bumstead",
-        "url": "https://www.pexels.com/video/industrial-printing-press-in-operation-with-machinery-29906415/"
-      },
-      {
-        "user": "Burak Bahadır  Büyükkılınç",
-        "url": "https://www.pexels.com/video/rustic-workshop-with-vintage-machinery-35222295/"
-      },
-      {
-        "user": "cottonbro studio",
-        "url": "https://www.pexels.com/video/women-wearing-period-costume-9790404/"
-      },
-      {
-        "user": "Ilya Klimenko",
-        "url": "https://www.pexels.com/video/a-timelapse-video-of-a-moving-clouds-4377446/"
-      },
-      {
-        "user": "cottonbro studio",
-        "url": "https://www.pexels.com/video/medicines-in-small-glass-bottles-8666761/"
-      },
-      {
-        "user": "irenefilms",
-        "url": "https://www.pexels.com/video/horse-in-vienna-12022455/"
-      },
-      {
-        "user": "Oğuzhan Kara",
-        "url": "https://www.pexels.com/video/vintage-interior-with-portrait-on-wall-39610005/"
-      },
-      {
-        "user": "KoolShooters",
-        "url": "https://www.pexels.com/video/reading-with-magnifying-glass-6980539/"
-      },
-      {
-        "user": "cottonbro studio",
-        "url": "https://www.pexels.com/video/women-in-period-costumes-sitting-and-talking-9788789/"
-      },
-      {
-        "user": "Kiwi and Camera",
-        "url": "https://www.pexels.com/video/auckland-historic-fire-station-exterior-view-38957743/"
-      },
-      {
-        "user": "H.Espinosa Films",
-        "url": "https://www.pexels.com/video/stuff-near-a-window-4327245/"
-      },
-      {
-        "user": "Nancy Zjaba",
-        "url": "https://www.pexels.com/video/serene-glowing-oil-lamp-on-dark-background-32540553/"
-      },
-      {
-        "user": "Jonathan Ellis",
-        "url": "https://www.pexels.com/video/vibrant-night-street-celebration-with-crowd-37575113/"
-      },
-      {
-        "user": "Mr Pixel",
-        "url": "https://www.pexels.com/video/newspapers-in-newsagent-12345283/"
-      },
-      {
-        "user": "LayG Traveller",
-        "url": "https://www.pexels.com/video/a-large-building-with-a-large-statue-on-the-front-28454583/"
-      },
-      {
-        "user": "Sora Shimazaki",
-        "url": "https://www.pexels.com/video/balance-scales-and-gavel-placed-on-a-wooden-desk-5636977/"
-      },
-      {
-        "user": "Jim Baker",
-        "url": "https://www.pexels.com/video/an-aerial-view-of-a-city-at-night-15837075/"
-      },
-      {
-        "user": "Everett Bumstead",
-        "url": "https://www.pexels.com/video/industrial-printing-press-machinery-in-operation-29975896/"
-      },
-      {
-        "user": "MART  PRODUCTION",
-        "url": "https://www.pexels.com/video/a-man-handing-books-to-another-man-8869625/"
-      },
-      {
-        "user": "cottonbro studio",
-        "url": "https://www.pexels.com/video/detective-looking-at-pictures-8382395/"
-      },
-      {
-        "user": "Pavel Danilyuk",
-        "url": "https://www.pexels.com/video/lady-justice-statue-8061659/"
-      },
-      {
-        "user": "cottonbro studio",
-        "url": "https://www.pexels.com/video/kids-playing-skipping-rope-9654466/"
-      },
-      {
-        "user": "Pixabay",
-        "url": "https://www.pexels.com/video/mechanism-of-a-projector-856593/"
-      },
-      {
-        "user": "Tech VideoStack",
-        "url": "https://www.pexels.com/video/subscribe-button-on-green-screen-3978049/"
-      }
-    ]
-  }
+  "wordCount": 4213
 }
