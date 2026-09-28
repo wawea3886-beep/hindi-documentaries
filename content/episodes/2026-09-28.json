@@ -1166,7 +1166,10 @@
         "ShipwreckStory",
         "EstoniaFerry",
         "HindiDocumentary"
-      ]
+      ],
+      "render": {
+        "duration": 53.434
+      }
     },
     {
       "id": "s2",
@@ -1186,7 +1189,10 @@
         "SurvivorStory",
         "EstoniaFerry",
         "HindiDocumentary"
-      ]
+      ],
+      "render": {
+        "duration": 57.168
+      }
     },
     {
       "id": "s3",
@@ -1206,8 +1212,107 @@
         "1994Tragedy",
         "EstoniaFerry",
         "HindiDocumentary"
-      ]
+      ],
+      "render": {
+        "duration": 56.534
+      }
     }
   ],
-  "wordCount": 2442
+  "wordCount": 2442,
+  "render": {
+    "duration": 1124.52,
+    "chapters": [
+      {
+        "start": 0,
+        "titleEn": "Cold Open: 90 Minutes to Die",
+        "titleHi": "शुरुआत: मौत के 90 मिनट"
+      },
+      {
+        "start": 110.96000000000001,
+        "titleEn": "Birth of a Ferry: From Norway's Reject to Viking Sally",
+        "titleHi": "एक फेरी का जन्म: नॉर्वे की अस्वीकृति से Viking Sally तक"
+      },
+      {
+        "start": 256.36,
+        "titleEn": "A Ship of Many Names: Silja Star, Wasa King, Estonia",
+        "titleHi": "कई नामों वाला जहाज: Silja Star, Wasa King, Estonia"
+      },
+      {
+        "start": 415.72,
+        "titleEn": "The Last Crossing Begins",
+        "titleHi": "आखिरी यात्रा की शुरुआत"
+      },
+      {
+        "start": 556.6400000000001,
+        "titleEn": "When the Sea Broke In",
+        "titleHi": "जब समंदर अंदर घुस आया"
+      },
+      {
+        "start": 712.24,
+        "titleEn": "137 Survivors: The Rescue",
+        "titleHi": "137 जिंदा बचे: बचाव अभियान"
+      },
+      {
+        "start": 826.52,
+        "titleEn": "The Investigation: What the Report Found",
+        "titleHi": "जांच: रिपोर्ट में क्या निकला"
+      },
+      {
+        "start": 944.3599999999999,
+        "titleEn": "Ghost Ship of the Baltic: Legacy and Safety Changes",
+        "titleHi": "बाल्टिक का भूत जहाज: विरासत और सुरक्षा में बदलाव"
+      },
+      {
+        "start": 1034.12,
+        "titleEn": "Conclusion: The Questions That Remain",
+        "titleHi": "निष्कर्ष: अनसुलझे सवाल"
+      }
+    ],
+    "chapterImages": [
+      {
+        "file": "ch1.jpg",
+        "photo": null
+      },
+      {
+        "file": "ch2.jpg",
+        "photo": null
+      },
+      {
+        "file": "ch3.jpg",
+        "photo": "p2"
+      },
+      {
+        "file": "ch4.jpg",
+        "photo": null
+      },
+      {
+        "file": "ch5.jpg",
+        "photo": null
+      },
+      {
+        "file": "ch6.jpg",
+        "photo": null
+      },
+      {
+        "file": "ch7.jpg",
+        "photo": null
+      },
+      {
+        "file": "ch8.jpg",
+        "photo": null
+      },
+      {
+        "file": "ch9.jpg",
+        "photo": null
+      }
+    ],
+    "pictures": {
+      "ai": 67,
+      "photo": 10,
+      "card": 8,
+      "reused": 0,
+      "fallback": 0
+    },
+    "renderedAt": "2026-09-28T12:44:34.403Z"
+  }
 }
