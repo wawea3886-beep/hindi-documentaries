@@ -63,6 +63,7 @@ if (process.argv.includes("--save")) {
 function saveSecret(gh, repo, name, value) {
   // Value goes through stdin, so it never appears on screen or in the process list.
   const r = spawnSync(gh, ["secret", "set", name, "--repo", repo], { input: value, encoding: "utf8" });
+  if (r.status !== 0) console.log(`  gh said: ${(r.stderr || r.stdout || r.error?.message || "no output").trim().split("\n").slice(0, 4).join(" | ")}`);
   return r.status === 0;
 }
 
