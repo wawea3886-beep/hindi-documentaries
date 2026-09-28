@@ -18,9 +18,10 @@ async function cloudflare(prompt, out) {
     signal: AbortSignal.timeout(120000),
   });
   const body = await res.text();
-  if (res.status === 429 || /4006|daily free allocation/i.test(body))
-    throw Object.assign(new Error(`Cloudflare limit (${res.status}): ${body.slice(0, 200)}`), { quota: true });
-  if (!res.ok) throw new Error(`Cloudflare ${res.status}: ${body.slice(0, 200)}`);
+  if (!res.ok) {
+    const quota = res.status === 429 || /"code":\s*4006|daily free allocation/i.test(body);
+    throw Object.assign(new Error(`Cloudflare ${quota ? "limit " : ""}${res.status}: ${body.slice(0, 200)}`), { quota });
+  }
   const b64 = JSON.parse(body).result?.image;
   if (!b64) throw new Error("Cloudflare returned no image");
   fs.writeFileSync(out, Buffer.from(b64, "base64"));
@@ -57,20 +58,34 @@ export async function aiImage(prompt, out, seed = 1) {
 
 // ---------- Narration ----------
 
+/** Text the voice service can read: it uses XML (SSML), where & < > break the request. */
+export const speakable = (text) => text.replace(/&/g, " और ").replace(/[<>{}]/g, " ").replace(/\s+/g, " ").trim();
+
+// msedge-tts throws some errors from inside WebSocket callbacks, where no caller can catch them.
+// Those requests still fail through our timeout below, so log these instead of letting them kill the whole run.
+process.on("uncaughtException", (e) => {
+  if (/msedge-tts|MsEdgeTTS/.test(e?.stack || "")) { console.warn(`    (voice service: ${e.message.split("\n")[0]})`); return; }
+  console.error(e);
+  process.exit(1);
+});
+
+const withTimeout = (promise, ms, what) =>
+  Promise.race([promise, new Promise((_, rej) => setTimeout(() => rej(new Error(`${what} timed out`)), ms))]);
+
 export class Narrator {
   constructor(voice = config.voice, rate = config.speechRate) { this.voice = voice; this.rate = rate; this.tts = null; }
 
   async #connect(wordBoundaries = true) {
     try { this.tts?.close(); } catch { /* already closed */ }
     this.tts = new MsEdgeTTS();
-    await this.tts.setMetadata(this.voice, OUTPUT_FORMAT.AUDIO_24KHZ_96KBITRATE_MONO_MP3, { wordBoundaryEnabled: wordBoundaries });
+    await withTimeout(this.tts.setMetadata(this.voice, OUTPUT_FORMAT.AUDIO_24KHZ_96KBITRATE_MONO_MP3, { wordBoundaryEnabled: wordBoundaries }), 60000, "voice connection");
   }
 
   async #speak(text, dir) {
     // msedge-tts deletes metadata.json when no word timings arrive, and crashes if the file doesn't exist yet.
     // Creating it first turns that crash into a normal error we can retry.
     fs.writeFileSync(path.join(dir, "metadata.json"), "");
-    const { audioFilePath, metadataFilePath } = await this.tts.toFile(dir, text, { rate: this.rate });
+    const { audioFilePath, metadataFilePath } = await withTimeout(this.tts.toFile(dir, speakable(text), { rate: this.rate }), 120000, "narration");
     let words = [];
     if (metadataFilePath && fs.existsSync(metadataFilePath)) {
       const raw = fs.readFileSync(metadataFilePath, "utf8");
