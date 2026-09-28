@@ -34,7 +34,8 @@ const VISUALS = `Every beat gets exactly one "visual" — mix them so the video 
 - {"type":"photo","photo":"p3"} — only when that real photo matches what is being said. Each photo at most twice.
 - {"type":"map","place":"Baltic Sea","lat":58.9,"lon":21.2,"zoom":"world|continent|region|country|city","label":"short English label"}
   when a location first matters (accurate coordinates), at most 1-2 per chapter.
-- {"type":"card","title":"28 SEPTEMBER 1994","text":"short English line"} for a key date, number or quote, about 1 beat in 8. Title max 28 characters.
+- {"type":"card","title":"28 SEPTEMBER 1994","text":"short English line"} ONLY for the most important date, number or quote —
+  at most 2 per chapter. Title max 28 characters. (Use "highlight" instead for smaller facts.)
 Optional "highlight" on about 1 beat in 4: 1-4 KEY WORDS in English CAPITALS shown on screen while they are spoken
 (e.g. "989 PEOPLE ON BOARD"), max 28 characters, must state a fact from that beat.`;
 
