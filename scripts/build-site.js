@@ -52,7 +52,7 @@ ${body}
 </main>
 <footer class="foot"><div class="wrap">
   <p><strong>${esc(config.siteName)}</strong> — ${esc(config.siteTagline)}</p>
-  <p class="small">Every documentary is researched from the sources listed on its page. Narration voice and illustrations are AI-generated; real photos are credited with their licences.</p>
+  <p class="small">Every documentary is researched from the sources listed on its page. Narration voice and illustrations are AI-generated; real photos are credited with their licences. <a href="${url("/privacy/")}">Privacy policy</a></p>
 </div></footer>
 <script>
 document.querySelectorAll("[data-publish]").forEach(function (el) {
@@ -188,6 +188,24 @@ export function buildSite({ withDemo = process.argv.includes("--with-demo") || p
   write("archive/index.html", layout({
     title: `All Documentaries | ${config.siteName}`, description: `Every Hindi documentary on ${config.siteName}, newest first.`, canonical: url("/archive/"),
     body: `<div class="wrap"><h1>सभी वीडियो</h1>${grid(eps)}</div>`,
+  }));
+  write("privacy/index.html", layout({
+    title: `Privacy Policy | ${config.siteName}`, description: `Privacy policy of ${config.siteName} and its YouTube uploader.`, canonical: url("/privacy/"),
+    body: `<article class="doc wrap">
+<h1>Privacy Policy</h1>
+<p class="meta">Last updated: ${esc(niceDate(new Date().toISOString().slice(0, 10)))}</p>
+<h2>This website</h2>
+<p>${esc(config.siteName)} is a static website. It does not use accounts, forms, cookies, analytics or advertising trackers, and it does not collect personal information from visitors.
+Videos are embedded from YouTube in privacy-enhanced mode (youtube-nocookie.com); when you play one, YouTube's own privacy policy applies.</p>
+<h2>${esc(config.siteName)} Uploader (YouTube API Services)</h2>
+<p>The ${esc(config.siteName)} Uploader is a private tool used only by the owner of the ${esc(config.siteName)} YouTube channel to upload the channel's own original videos, thumbnails, subtitles and playlist entries.
+It uses YouTube API Services. It is not offered to the public and it does not access, collect, store or share data of any other YouTube user.
+The only authorization it holds is the channel owner's own, stored as an encrypted secret, and the owner can revoke it at any time at <a href="https://myaccount.google.com/permissions" rel="noopener">myaccount.google.com/permissions</a>.</p>
+<p>By watching our videos you are also subject to the <a href="https://www.youtube.com/t/terms" rel="noopener">YouTube Terms of Service</a> and the <a href="https://policies.google.com/privacy" rel="noopener">Google Privacy Policy</a>.</p>
+<h2>Contact</h2>
+<p>Questions: leave a comment on our ${config.youtubeChannelUrl ? `<a href="${esc(config.youtubeChannelUrl)}" rel="noopener">YouTube channel</a>` : "YouTube channel"}.</p>
+<p class="small">हिंदी में: यह वेबसाइट कोई निजी जानकारी, कुकी या ट्रैकिंग इस्तेमाल नहीं करती। अपलोडर टूल सिर्फ चैनल के मालिक द्वारा अपने ही वीडियो अपलोड करने के लिए है।</p>
+</article>`,
   }));
   write("404.html", layout({ title: `Page not found | ${config.siteName}`, description: "Page not found", canonical: url("/404.html"),
     body: `<div class="wrap"><section class="hero-empty"><h1>यह पेज एक रहस्य है… जो मिला ही नहीं।</h1><p><a class="btn" href="${url("/")}">होम पर जाइए</a></p></section></div>` }));
