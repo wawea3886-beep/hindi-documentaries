@@ -322,7 +322,36 @@
       "licenseUrl": ""
     }
   ],
-  "youtube": {},
+  "youtube": {
+    "shorts": {
+      "s1": {
+        "videoId": "1xHTFyZlGxo",
+        "url": "https://www.youtube.com/shorts/1xHTFyZlGxo",
+        "publishAt": "2026-09-28T15:00:01.000Z",
+        "uploadedAt": "2026-09-28T14:10:09.222Z"
+      },
+      "s2": {
+        "videoId": "aLJwzvHL-4k",
+        "url": "https://www.youtube.com/shorts/aLJwzvHL-4k",
+        "publishAt": "2026-09-29T03:30:00.000Z",
+        "uploadedAt": "2026-09-28T14:10:10.898Z"
+      },
+      "s3": {
+        "videoId": "4L2baTe940E",
+        "url": "https://www.youtube.com/shorts/4L2baTe940E",
+        "publishAt": "2026-09-29T07:30:00.000Z",
+        "uploadedAt": "2026-09-28T14:10:12.996Z"
+      }
+    },
+    "long": {
+      "videoId": "00XT01ZPY18",
+      "url": "https://www.youtube.com/watch?v=00XT01ZPY18",
+      "publishAt": "2026-09-28T14:30:01.000Z",
+      "uploadedAt": "2026-09-28T14:10:04.690Z",
+      "thumbnail": true,
+      "captions": true
+    }
+  },
   "meta": {
     "youtubeTitle": "Baltic Titanic: The Ferry That Vanished in Under an Hour | MS Estonia Story",
     "titleHi": "बाल्टिक टाइटैनिक: एक रात में 852 लोग कैसे डूब गए – MS Estonia सच",
@@ -1313,7 +1342,7 @@
       "reused": 0,
       "fallback": 0
     },
-    "renderedAt": "2026-09-28T13:11:41.520Z"
+    "renderedAt": "2026-09-28T14:06:16.677Z"
   },
   "metaChecked": true
 }
