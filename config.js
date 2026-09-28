@@ -36,6 +36,9 @@ export default {
   longPublishUTC: process.env.LONG_PUBLISH_UTC || "13:00",
   shortsPublishUTC: list(process.env.SHORTS_PUBLISH_UTC, "14:30,27:30,31:30"),
 
+  // Script writer: Claude is used when CLAUDE_CODE_OAUTH_TOKEN (Claude Pro/Max) or ANTHROPIC_API_KEY is set,
+  // otherwise Gemini. If Claude fails and a Gemini key exists, Gemini takes over.
+  claude: { model: process.env.CLAUDE_MODEL || "sonnet" },
   gemini: { model: process.env.GEMINI_MODEL || "gemini-flash-latest" },
 
   youtube: {

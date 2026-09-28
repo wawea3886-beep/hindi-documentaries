@@ -48,11 +48,18 @@ jobs:
       - name: Install
         run: npm ci --ignore-scripts && npm rebuild ffmpeg-static
 
+      - name: Install Claude Code (script writer, uses your Claude subscription)
+        if: github.event_name != 'push'
+        run: npm install -g @anthropic-ai/claude-code && claude --version
+
       - name: Research, script, videos and YouTube uploads
         id: daily
         if: github.event_name != 'push'
         run: node scripts/daily.js ${{ inputs.date && format('--date={0}', inputs.date) || '' }}
         env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_MODEL: ${{ vars.CLAUDE_MODEL }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}

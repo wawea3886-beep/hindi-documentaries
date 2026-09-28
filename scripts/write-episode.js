@@ -3,7 +3,7 @@
 // Progress is saved after every stage, so a re-run continues where it stopped.
 // Usage: node scripts/write-episode.js [--date=YYYY-MM-DD] [--force] [--mock]
 import config from "../config.js";
-import { geminiJSON } from "./lib/gemini.js";
+import { llmJSON, provider } from "./lib/llm.js";
 import { trendingTopics, fetchArticle, fetchPhotos } from "./lib/research.js";
 import { today, readEpisode, writeEpisode, allEpisodes, slugify, hasFlag, isMain } from "./lib/util.js";
 
@@ -47,7 +47,7 @@ RULES
 Return JSON: {"candidates":[{"name":"short English topic name","category":"one of ${CATEGORIES.join("|")}",
 "wikiTitles":["exact English Wikipedia article title of the main topic","2-4 exact titles of closely related articles that add detail"],
 "angle":"one-line documentary hook","why":"why today"}]}`;
-  const { candidates } = await geminiJSON(prompt, { label: "topic" });
+  const { candidates } = await llmJSON(prompt, { label: "topic" });
 
   for (const c of candidates || []) {
     const articles = [];
@@ -98,7 +98,7 @@ Return JSON:
 "hashtags":["3 hashtags without spaces, starting with #"],
 "metaDescription":"150-160 character English summary for Google",
 "chapters":[{"titleEn":"","titleHi":"","covers":"which facts/events from the sources this chapter covers","words":300}]}`;
-  const o = await geminiJSON(prompt, { label: "outline", temperature: 0.8 });
+  const o = await llmJSON(prompt, { label: "outline", temperature: 0.8 });
   if (!o.youtubeTitle || !Array.isArray(o.chapters) || o.chapters.length < 4) throw new Error("outline incomplete");
   return o;
 }
@@ -141,7 +141,7 @@ Split each chapter into BEATS of 20-35 Hindi words (1-3 sentences). Every beat g
   about 1 beat in 7. Title max 28 characters.
 
 Return JSON: {"chapters":[{"index":<chapter number>,"beats":[{"text":"Hindi narration","visual":{...}}]}]}`;
-  const out = await geminiJSON(prompt, { label: `chapters ${indices.map((i) => i + 1).join(",")}` });
+  const out = await llmJSON(prompt, { label: `chapters ${indices.map((i) => i + 1).join(",")}` });
   for (const c of out.chapters || []) {
     const i = Number(c.index) - 1;
     if (!indices.includes(i)) continue;
@@ -164,7 +164,7 @@ BEATS:
 ${beats.map((b) => `[${b.id}] ${b.text}`).join("\n")}
 
 Return JSON: {"issues":[{"id":"c2b5","problem":"short English explanation","fixedText":"corrected Hindi text"}]} — empty list if everything is correct.`;
-  const { issues = [] } = await geminiJSON(prompt, { label: "fact-check", temperature: 0.2 });
+  const { issues = [] } = await llmJSON(prompt, { label: "fact-check", temperature: 0.2 });
   let fixed = 0;
   for (const is of issues) {
     const b = beats.find((x) => x.id === is.id);
@@ -189,7 +189,7 @@ ${STYLE}
 Return JSON: {"shorts":[{"chapter":<chapter number whose pictures to use>,"titleEn":"English, max 70 characters, curiosity-driven",
 "hookHi":"Hindi on-screen headline, max 30 characters","text":"Hindi narration","descriptionEn":"2 short English lines",
 "tags":["10 tags"]}]}`;
-  const { shorts = [] } = await geminiJSON(prompt, { label: "shorts" });
+  const { shorts = [] } = await llmJSON(prompt, { label: "shorts" });
   if (shorts.length < config.shortsPerDay) throw new Error(`expected ${config.shortsPerDay} shorts, got ${shorts.length}`);
   return shorts.slice(0, config.shortsPerDay).map((s, i) => ({
     id: `s${i + 1}`,
@@ -251,7 +251,7 @@ export async function writeScript(date = today(), { force = hasFlag("force"), mo
   if (force) ep = null;
   if (mock) { ep = await mockEpisode(date); writeEpisode(ep); console.log(`✎ Demo script written: ${ep.meta.youtubeTitle}`); return ep; }
 
-  console.log(`✎ Writing documentary for ${date}...`);
+  console.log(`✎ Writing documentary for ${date} (writer: ${provider()})...`);
   let articles;
   if (!ep) {
     const picked = await pickTopic(date);
