@@ -238,6 +238,44 @@ Return JSON: {"shorts":[{"chapter":<chapter number whose pictures to use>,"title
   }));
 }
 
+/** Fact-check what viewers see first — titles, thumbnail text, descriptions, chapter names, Shorts headlines. */
+async function checkMetadata(ep, sources) {
+  const fields = {
+    youtubeTitle: ep.meta.youtubeTitle, titleHi: ep.meta.titleHi, thumbnailText: ep.meta.thumbnailText,
+    descriptionEn: ep.meta.descriptionEn, descriptionHi: ep.meta.descriptionHi, metaDescription: ep.meta.metaDescription,
+    chapters: ep.chapters.map((c) => ({ titleEn: c.titleEn, titleHi: c.titleHi })),
+    shorts: ep.shorts.map((s) => ({ titleEn: s.titleEn, hookHi: s.hookHi, descriptionEn: s.descriptionEn })),
+  };
+  const prompt = `${sources}
+
+You are a strict fact-checker. Below are the title, thumbnail text, descriptions, chapter names and Shorts headlines of a
+documentary. Check every number, date, duration, name and claim against the SOURCES. Correct anything that is not
+supported (for example a wrong duration or death toll), keeping the same catchy style and language.
+Limits: youtubeTitle max 80 characters; thumbnailText 2-4 English words in CAPITALS; hookHi max 30 characters.
+If something is correct, return it unchanged.
+
+${JSON.stringify(fields, null, 1)}
+
+Return JSON: {"fixed": <the same object with corrections>, "changes": ["short English note per change"]}`;
+  const out = await llmJSON(prompt, { label: "title fact-check", temperature: 0.2 });
+  const f = out.fixed || out;
+  const str = (v, max = 5000) => (typeof v === "string" && v.trim() ? v.trim().slice(0, max) : null);
+  for (const k of ["youtubeTitle", "titleHi", "thumbnailText", "descriptionEn", "descriptionHi", "metaDescription"]) {
+    const v = str(f[k], k === "youtubeTitle" ? 95 : 5000);
+    if (v) ep.meta[k] = v;
+  }
+  (f.chapters || []).forEach((c, i) => { if (ep.chapters[i]) { ep.chapters[i].titleEn = str(c.titleEn) || ep.chapters[i].titleEn; ep.chapters[i].titleHi = str(c.titleHi) || ep.chapters[i].titleHi; } });
+  (f.shorts || []).forEach((s, i) => {
+    const t = ep.shorts[i];
+    if (!t) return;
+    t.titleEn = (str(s.titleEn) || t.titleEn).replace(/#shorts/gi, "").trim().slice(0, 88);
+    t.hookHi = str(s.hookHi) || t.hookHi;
+    t.descriptionEn = str(s.descriptionEn) || t.descriptionEn;
+  });
+  const changes = listFrom(out, "changes").filter((c) => typeof c === "string");
+  console.log(`  ✔ Title/description fact-check: ${changes.length} change(s)${changes.length ? "\n    - " + changes.join("\n    - ") : ""}`);
+}
+
 function cleanTags(tags) {
   const t = [...new Set((tags || []).map((x) => String(x).toLowerCase().replace(/[<>#,]/g, "").trim()).filter(Boolean))];
   while (t.join(",").length > 480) t.pop(); // YouTube: 500 characters max
@@ -283,7 +321,7 @@ async function mockEpisode(date) {
 
 export async function writeScript(date = today(), { force = hasFlag("force"), mock = hasFlag("mock") } = {}) {
   let ep = readEpisode(date);
-  if (ep?.stage === "done" && !force) { console.log(`✔ Script for ${date} already written — "${ep.meta.youtubeTitle}"`); return ep; }
+  if (ep?.stage === "done" && !force && (ep.metaChecked || ep.mock)) { console.log(`✔ Script for ${date} already written — "${ep.meta.youtubeTitle}"`); return ep; }
   if (force) ep = null;
   if (mock) { ep = await mockEpisode(date); writeEpisode(ep); console.log(`✎ Demo script written: ${ep.meta.youtubeTitle}`); return ep; }
 
@@ -343,6 +381,11 @@ export async function writeScript(date = today(), { force = hasFlag("force"), mo
   if (!ep.shorts?.length) {
     ep.shorts = await writeShorts(ep, sources);
     console.log(`  ✔ ${ep.shorts.length} Shorts scripts`);
+  }
+  if (!ep.metaChecked) {
+    await checkMetadata(ep, sources);
+    ep.metaChecked = true;
+    writeEpisode(ep);
   }
   const words = wordCount(ep.chapters.flatMap((c) => c.beats.map((b) => b.text)).join(" "));
   ep.wordCount = words;
