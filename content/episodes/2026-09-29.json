@@ -1,0 +1,2323 @@
+{
+  "date": "2026-09-29",
+  "stage": "done",
+  "generatedAt": "2026-09-28T14:59:01.773Z",
+  "language": "ur",
+  "topic": {
+    "name": "Lizzie Borden Murders",
+    "category": "crime",
+    "angle": "Forty whacks and a century of doubt: revisiting the axe murders that America still can't solve",
+    "why": "Lizzie Borden is the #1 most-read Wikipedia article today, driven by the new 'Monster: The Lizzie Borden Story' series, making it a hot evergreen true-crime mystery",
+    "wikiTitles": [
+      "Lizzie Borden",
+      "Fall River, Massachusetts"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Lizzie Borden",
+      "url": "https://en.wikipedia.org/wiki/Lizzie_Borden"
+    },
+    {
+      "title": "Fall River, Massachusetts",
+      "url": "https://en.wikipedia.org/wiki/Fall_River,_Massachusetts"
+    }
+  ],
+  "photos": [
+    {
+      "id": "p1",
+      "title": "Lizzie Borden by B.W. Clinedinst",
+      "description": "The Borden murder trial—A scene in the court-room before the acquittal - Lizzie Borden, the accused, and her counsel, Ex-Governor Robinson. Illustration in Frank Leslie's illustrated newspaper, v. 76 ",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Lizzie_Borden_by_B.W._Clinedinst.jpg/1920px-Lizzie_Borden_by_B.W._Clinedinst.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Lizzie_Borden_by_B.W._Clinedinst.jpg",
+      "width": 1920,
+      "height": 2571,
+      "artist": "B.W. Clinedinst",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+      "id": "p2",
+      "title": "Lizzie Borden Trial Jury",
+      "description": "Lizzie Borden Trial Jury, 1893",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Lizzie_Borden_Trial_Jury.jpg/1920px-Lizzie_Borden_Trial_Jury.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Lizzie_Borden_Trial_Jury.jpg",
+      "width": 1920,
+      "height": 1374,
+      "artist": "O'Neil, New Bedford, Mass",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p3",
+      "title": "Lizzie Borden 1890",
+      "description": "Portrait of Lizzie Borden in 1890",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Lizzie_Borden_1890.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Lizzie_Borden_1890.jpg",
+      "width": 1920,
+      "height": 2244,
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p4",
+      "title": "Borden House 92 Second St Fall River Massachusetts 1892",
+      "description": "92 Second St, Fall River, MA, the home of Lizzie Borden at the time of the murders as it appeared in 1892.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Borden_House_92_Second_St_Fall_River_Massachusetts_1892.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Borden_House_92_Second_St_Fall_River_Massachusetts_1892.jpg",
+      "width": 1920,
+      "height": 1408,
+      "artist": "1892 image",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p5",
+      "title": "Andrew Borden slain body 1892",
+      "description": "Andrew Borden, father of Lizzie Borden, slain in his house in Fall River. Police forensic photograph.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Andrew_Borden_slain_body_1892.jpg/1920px-Andrew_Borden_slain_body_1892.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Andrew_Borden_slain_body_1892.jpg",
+      "width": 1920,
+      "height": 1440,
+      "artist": "The Burns Archive. 1892 police photo.",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p6",
+      "title": "Saint Mary's Cathedral, Fall River, Massachusetts 2017",
+      "description": "Saint Mary's Cathedral, Fall River, Massachusetts.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Saint_Mary%27s_Cathedral%2C_Fall_River%2C_Massachusetts_2017.jpg/1920px-Saint_Mary%27s_Cathedral%2C_Fall_River%2C_Massachusetts_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Saint_Mary%27s_Cathedral,_Fall_River,_Massachusetts_2017.jpg",
+      "width": 1920,
+      "height": 1677,
+      "artist": "Kenneth C. Zirkel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p7",
+      "title": "Quequechan River Rail Trail, Fall River MA",
+      "description": "Quequechan River Rail Trail, Fall River Massachusetts",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Quequechan_River_Rail_Trail%2C_Fall_River_MA.jpg/1920px-Quequechan_River_Rail_Trail%2C_Fall_River_MA.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Quequechan_River_Rail_Trail,_Fall_River_MA.jpg",
+      "width": 1920,
+      "height": 1440,
+      "artist": "John Phelan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p8",
+      "title": "Plymouth Avenue",
+      "description": "Plymouth Avenue, Fall River, Massachusetts",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Plymouth_Avenue.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Plymouth_Avenue.jpg",
+      "width": 1920,
+      "height": 1440,
+      "artist": "Marcbela (Marc N. Belanger)",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p9",
+      "title": "North Main Street, Fall River, MA",
+      "description": "North Main Street, Fall River, MA; from a c. 1910 postcard. Most of the buildings pictured along the left side of the street, along with the city hall which can be barely seen to the far right, were d",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/North_Main_Street%2C_Fall_River%2C_MA.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:North_Main_Street,_Fall_River,_MA.jpg",
+      "width": 1920,
+      "height": 1341,
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p10",
+      "title": "Map of Massachusetts highlighting Bristol County",
+      "description": "This is a locator map showing Bristol County in Massachusetts. For more information, see Commons:United States county locator maps.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Map_of_Massachusetts_highlighting_Bristol_County.svg/1920px-Map_of_Massachusetts_highlighting_Bristol_County.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Map_of_Massachusetts_highlighting_Bristol_County.svg",
+      "width": 1920,
+      "height": 1174,
+      "artist": "David Benbennick",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p11",
+      "title": "MA Route 81",
+      "description": "600 mm by 600 mm (24 in by 24 in) Massachusetts Route shield, made to the specifications of the 1996 edition of Construction and Traffic Standard Details (sign M1-5). Uses the Roadgeek 2005 fonts. (Un",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/MA_Route_81.svg/1920px-MA_Route_81.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:MA_Route_81.svg",
+      "width": 1920,
+      "height": 1920,
+      "artist": "SPUI",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p12",
+      "title": "MA Route 79",
+      "description": "600 mm by 600 mm (24 in by 24 in) Massachusetts Route shield, made to the specifications of the 1996 edition of Construction and Traffic Standard Details (sign M1-5). Uses the Roadgeek 2005 fonts. (Un",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/MA_Route_79.svg/1920px-MA_Route_79.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:MA_Route_79.svg",
+      "width": 1920,
+      "height": 1920,
+      "artist": "SPUI",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p13",
+      "title": "MA Route 24",
+      "description": "600 mm by 600 mm (24 in by 24 in) Massachusetts Route shield, made to the specifications of the 1996 edition of Construction and Traffic Standard Details (sign M1-5). Uses the Roadgeek 2005 fonts. (Un",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/MA_Route_24.svg/1920px-MA_Route_24.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:MA_Route_24.svg",
+      "width": 1920,
+      "height": 1920,
+      "artist": "SPUI",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p14",
+      "title": "MA Route 177",
+      "description": "750 mm by 600 mm (30 in by 24 in) Massachusetts Route shield, made to the specifications of the 1996 edition of Construction and Traffic Standard Details (sign M1-5). Uses the Roadgeek 2005 fonts. (Un",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/MA_Route_177.svg/1920px-MA_Route_177.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:MA_Route_177.svg",
+      "width": 1920,
+      "height": 1537,
+      "artist": "SPUI",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p15",
+      "title": "MA Route 138",
+      "description": "750 mm by 600 mm (30 in by 24 in) Massachusetts Route shield, made to the specifications of the 1996 edition of Construction and Traffic Standard Details (sign M1-5). Uses the Roadgeek 2005 fonts. (Un",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/MA_Route_138.svg/1920px-MA_Route_138.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:MA_Route_138.svg",
+      "width": 1920,
+      "height": 1537,
+      "artist": "SPUI",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p16",
+      "title": "Lizzie Borden House (Bed Breakfast) (3535957840)",
+      "description": "Erected in 1845, the home was originally a two family and was later made into a single family by Andrew J. Borden. Andrew J. Borden bought the house at 92 Second Street to be close to his bank and var",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Lizzie_Borden_House_%28Bed_Breakfast%29_%283535957840%29.jpg/1920px-Lizzie_Borden_House_%28Bed_Breakfast%29_%283535957840%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Lizzie_Borden_House_(Bed_Breakfast)_(3535957840).jpg",
+      "width": 1920,
+      "height": 1494,
+      "artist": "dbking from Washington, DC",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "id": "p17",
+      "title": "Lizzie Borden House, Fall River, Massachusetts",
+      "description": "Lizzie Borden House, 2nd Street, Fall River, Massachusetts in 2017. Trash container in front of house.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Lizzie_Borden_House%2C_Fall_River%2C_Massachusetts.jpg/1920px-Lizzie_Borden_House%2C_Fall_River%2C_Massachusetts.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Lizzie_Borden_House,_Fall_River,_Massachusetts.jpg",
+      "width": 1920,
+      "height": 1440,
+      "artist": "Kenneth C. Zirkel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p18",
+      "title": "Khmer Buddhist Temple, Fall River Massachusetts",
+      "description": "Khmer Buddhist Temple, Wat Udomsaharatanaram. Fall River Massachusetts",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Khmer_Buddhist_Temple%2C_Fall_River_Massachusetts.jpg/1920px-Khmer_Buddhist_Temple%2C_Fall_River_Massachusetts.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Khmer_Buddhist_Temple,_Fall_River_Massachusetts.jpg",
+      "width": 1920,
+      "height": 1588,
+      "artist": "Kenneth C. Zirkel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p19",
+      "title": "Kennedy Park Fall River",
+      "description": "Kennedy Park, Fall River, Massachusetts",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Kennedy_Park_Fall_River.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Kennedy_Park_Fall_River.jpg",
+      "width": 1920,
+      "height": 1440,
+      "artist": "Marcbela (Marc N. Belanger)",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p20",
+      "title": "Interstate 195, Fall River, MA",
+      "description": "Photo shows Interstate 195 approaching the Braga Bridge in Fall River, MA",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Interstate_195%2C_Fall_River%2C_MA.jpg/1920px-Interstate_195%2C_Fall_River%2C_MA.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Interstate_195,_Fall_River,_MA.jpg",
+      "width": 1920,
+      "height": 1280,
+      "artist": "JJBers",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "id": "p21",
+      "title": "Highway 79",
+      "description": "Beneath the Braga Bridge and Route 79 elevated Viaduct, Fall River, Massachusetts",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Highway_79.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Highway_79.jpg",
+      "width": 1920,
+      "height": 1279,
+      "artist": "Marcbela",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p22",
+      "title": "Granite Mills, Fall River, MA",
+      "description": "Plymouth Avenue, showing Granite Mills, Fall River, Massachusetts",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Granite_Mills%2C_Fall_River%2C_MA.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Granite_Mills,_Fall_River,_MA.jpg",
+      "width": 1920,
+      "height": 1241,
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p23",
+      "title": "Granite Mill No 2",
+      "description": "Granite Mill No. 2, Fall River, Massachusetts. Built 1871.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Granite_Mill_No_2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Granite_Mill_No_2.jpg",
+      "width": 1920,
+      "height": 1321,
+      "artist": "Marcbela (Marc N. Belanger)",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "id": "p24",
+      "title": "First Congregational Church of Fall River, Massachusetts 2013",
+      "description": "First Congregational Church of Fall River, Massachusetts",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/First_Congregational_Church_of_Fall_River%2C_Massachusetts_2013.jpg/1920px-First_Congregational_Church_of_Fall_River%2C_Massachusetts_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:First_Congregational_Church_of_Fall_River,_Massachusetts_2013.jpg",
+      "width": 1920,
+      "height": 2988,
+      "artist": "Kenneth C. Zirkel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  ],
+  "youtube": {
+    "shorts": {
+      "s1": {
+        "videoId": "HI7XSSFgCGQ",
+        "url": "https://www.youtube.com/shorts/HI7XSSFgCGQ",
+        "publishAt": "2026-09-29T14:30:00.000Z",
+        "uploadedAt": "2026-09-28T15:40:37.212Z"
+      },
+      "s2": {
+        "videoId": "3KqTpWSlb5M",
+        "url": "https://www.youtube.com/shorts/3KqTpWSlb5M",
+        "publishAt": "2026-09-30T03:30:00.000Z",
+        "uploadedAt": "2026-09-28T15:40:39.144Z"
+      },
+      "s3": {
+        "videoId": "pFYHslGMimk",
+        "url": "https://www.youtube.com/shorts/pFYHslGMimk",
+        "publishAt": "2026-09-30T07:30:00.000Z",
+        "uploadedAt": "2026-09-28T15:40:40.526Z"
+      }
+    },
+    "long": {
+      "videoId": "KwvI30X3dHc",
+      "url": "https://www.youtube.com/watch?v=KwvI30X3dHc",
+      "publishAt": "2026-09-29T13:00:00.000Z",
+      "uploadedAt": "2026-09-28T15:40:29.992Z",
+      "thumbnail": true,
+      "captions": true
+    }
+  },
+  "meta": {
+    "youtubeTitle": "Forty Whacks: Lizzie Borden Axe Murders America Never Solved",
+    "slug": "2026-09-29-lizzie-borden-murders",
+    "thumbnailText": "40 WHACKS?",
+    "thumbnailPrompt": "A pale Victorian woman in a dark 1890s dress stands frozen in a dim wood-paneled parlor, eyes wide with shock, a bloodied hatchet blade glinting on the floor beside an overturned Victorian sofa, harsh single-source light casting long shadows, high contrast noir style, empty dark space on the left for bold text",
+    "characters": "Lizzie Borden: pale, stern-faced woman, early 30s, dark hair pulled back tightly, high-collared Victorian dress (grey or black), composed but cold expression, later wears finer Edwardian dresses at Maplecroft. Andrew Borden: gaunt elderly man, 69, thin white side-whiskers, plain dark 1890s suit, frugal appearance. Abby Borden: heavyset woman in her 60s, modest grey/floral Victorian dress, kind but wary face. Bridget 'Maggie' Sullivan: young Irish maid, mid-20s, plain apron and cap, tired expression. Emma Borden: older spinster sister, thin, plain dark dress, anxious demeanor. Setting: the cramped, dark, plumbing-less Borden house on Second Street, Fall River, 1892 — narrow staircases, heavy drapes, gaslight; later, the grand Hill District mansion 'Maplecroft' with wide porches and staff.",
+    "descriptionEn": "On a sweltering August morning in 1892, Andrew and Abby Borden were found hacked to death in their own home in Fall River, Massachusetts. Suspicion fell almost immediately on Andrew's own daughter, Lizzie — a devout Sunday school teacher with no criminal history. What followed was one of the most sensational trials in American history, filled with contradictory alibis, a mysteriously burned dress, a missing hatchet handle, and a jury verdict that shocked the nation. Over a century later, historians, novelists, and true-crime obsessives still argue over what really happened behind those locked doors. This documentary walks through the murders, the investigation, the trial, and the theories that refuse to die.",
+    "descriptionUr": "1892 ki ek garmi bhari subah, Fall River ke ek ghar mein Andrew aur Abby Borden ko kulhari se qatal kar diya gaya. Shak foran unki beti Lizzie par gaya — ek Sunday school teacher jiska koi criminal record nahi tha. Phir shuru hua Amreeka ke sabse mash'hoor trials mein se ek: jalta hua libas, ghayab kulhari ka dasta, aur aik hairat-angez faisla. Sau saal baad bhi yeh raaz hal nahi hua. Yeh documentary poori kahani, tehqeeqat, aur theories bayan karti hai.",
+    "tags": [
+      "lizzie borden documentary",
+      "lizzie borden in urdu",
+      "fall river murders",
+      "true crime documentary",
+      "lizzie borden case",
+      "axe murder mystery",
+      "unsolved murder case",
+      "lizzie borden trial",
+      "american true crime",
+      "1892 murder mystery",
+      "forty whacks rhyme",
+      "urdu documentary",
+      "true crime urdu",
+      "cold case documentary",
+      "lizzie borden acquitted",
+      "fall river massachusetts history",
+      "victorian era murder",
+      "historical true crime",
+      "lizzie borden theories",
+      "classic unsolved crimes"
+    ],
+    "hashtags": [
+      "#LizzieBorden",
+      "#TrueCrime",
+      "#FallRiver"
+    ],
+    "metaDescription": "The 1892 axe murders of Andrew and Abby Borden, Lizzie Borden's shocking trial, and the theories that still divide historians over a century later."
+  },
+  "chapters": [
+    {
+      "titleEn": "Cold Open: Father's Dead",
+      "titleRoman": "Cold Open: Father Mar Gaya",
+      "covers": "Dramatic opening on August 4, 1892 discovery of Andrew Borden's body, Lizzie's call to the maid, raising questions of who killed the Bordens, why Lizzie was acquitted, and whether the case can ever truly be solved; promises the full investigation and trial ahead",
+      "words": 220,
+      "beats": [
+        {
+          "id": "c1b1",
+          "text": "4 اگست 1892 کی صبح، Fall River, Massachusetts کے ایک خاموش، textile-mill شہر میں، کچھ ایسا ہوا جس نے پورے امریکہ کو ہلا کر رکھ دیا۔",
+          "roman": "4 August 1892 ki subah, Fall River, Massachusetts ke aik khamosh, textile-mill shehar mein, kuch aisa hua jis ne poore America ko hila kar rakh diya.",
+          "visual": {
+            "type": "map",
+            "place": "Fall River, Massachusetts",
+            "lat": 41.7015,
+            "lon": -71.155,
+            "zoom": "region",
+            "label": "FALL RIVER, MASSACHUSETTS, 1892"
+          }
+        },
+        {
+          "id": "c1b2",
+          "text": "Second Street پر ایک معمولی سے گھر میں، 69 سالہ امیر businessman Andrew Borden اپنے sitting room کے صوفے پر خاموش لیٹا ملا۔",
+          "roman": "Second Street par aik mamuli se ghar mein, 69 saala ameer businessman Andrew Borden apne sitting room ke sofa par khamosh leta mila.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Exterior of a narrow, plain Victorian house on a quiet residential street, overcast summer morning, 1892 New England town."
+          }
+        },
+        {
+          "id": "c1b3",
+          "text": "وہ 4 اگست کی صبح، Andrew Borden اپنے گھر میں مردہ پایا گیا۔",
+          "roman": "Woh 4 August ki subah, Andrew Borden apne ghar mein murda paya gaya.",
+          "visual": {
+            "type": "card",
+            "title": "4 AUGUST 1892",
+            "text": "Andrew Borden found dead at home"
+          }
+        },
+        {
+          "id": "c1b4",
+          "text": "اس کے سر پر کلہاڑی جیسے ہتھیار سے دس یا گیارہ ضربیں لگائی گئی تھیں، اور زخم ابھی تازہ تھے۔",
+          "roman": "Us ke sar par kulhari jaise hathiyar se das ya gyarah zarbein lagayi gayi thin, aur zakham abhi taaza thay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Dim Victorian parlor interior, heavy drapes, gaslight, empty sofa in foreground, ominous quiet mood, no figures shown."
+          }
+        },
+        {
+          "id": "c1b5",
+          "text": "اس کی بیٹی، Lizzie Borden، نے نوکرانی Bridget Sullivan کو نیچے سے آواز دی: 'Maggie, come quick! Father's dead.'",
+          "roman": "Uski beti, Lizzie Borden, ne naukrani Bridget Sullivan ko neeche se awaaz di: 'Maggie, come quick! Father's dead.'",
+          "visual": {
+            "type": "ai",
+            "prompt": "Pale, stern-faced woman in her early 30s, dark hair pulled back tight, grey high-collared Victorian dress, standing at bottom of narrow staircase, calling upward, tense composed expression."
+          }
+        },
+        {
+          "id": "c1b6",
+          "text": "کچھ ہی دیر بعد پتا چلا کہ اوپر کے کمرے میں Andrew کی بیوی Abby Borden بھی مردہ پڑی تھی، اسے بھی کلہاڑی سے مارا گیا تھا۔",
+          "roman": "Kuch hi der baad pata chala ke oopar ke kamre mein Andrew ki biwi Abby Borden bhi murda pari thi, use bhi kulhari se mara gaya tha.",
+          "visual": {
+            "type": "photo",
+            "photo": "p4"
+          }
+        },
+        {
+          "id": "c1b7",
+          "text": "دروازے بند اور کنڈی لگے ہوئے تھے، اور اس وقت گھر میں صرف Lizzie اور نوکرانی موجود تھیں۔",
+          "roman": "Darwaze band aur kundi lagay huay thay, aur us waqt ghar mein sirf Lizzie aur naukrani mojood thin.",
+          "visual": {
+            "type": "clip",
+            "query": "old victorian door lock",
+            "prompt": "Close-up of an old wooden Victorian front door with a brass lock, 19th century detail."
+          },
+          "factFix": "Source does not state there was no sign of forced entry; only that the door was jammed/locked. This adds an unsupported detail."
+        },
+        {
+          "id": "c1b8",
+          "text": "پولیس نے Lizzie کو گرفتار کیا، اس پر مقدمہ چلا، لیکن 1893 میں jury نے اسے بری کر دیا۔ آج تک کسی اور پر الزام نہیں لگا۔",
+          "roman": "Police ne Lizzie ko giraftar kiya, us par muqadma chala, lekin 1893 mein jury ne use bari kar diya. Aaj tak kisi aur par ilzam nahi laga.",
+          "visual": {
+            "type": "photo",
+            "photo": "p1"
+          },
+          "highlight": "NO ONE ELSE EVER CHARGED"
+        },
+        {
+          "id": "c1b9",
+          "text": "تو سوال یہ ہے: اگر Lizzie نے نہیں کیا، تو کس نے کیا؟ اور اگر اس نے کیا، تو وہ بچ کیسے گئی؟",
+          "roman": "To sawaal yeh hai: agar Lizzie ne nahi kiya, to kis ne kiya? Aur agar us ne kiya, to woh bach kaise gayi?",
+          "visual": {
+            "type": "ai",
+            "prompt": "Close-up of an old hatchet head resting on a plain wooden table, dim lighting, historical evidence mood, no blood."
+          }
+        },
+        {
+          "id": "c1b10",
+          "text": "دوستو، آج ہم واپس جائیں گے 1892 کے Fall River، ایک ایسے قتل کیس کی طرف جو 130 سال بعد بھی لوگوں کی توجہ کا مرکز ہے۔",
+          "roman": "Dosto, aaj hum wapas jayenge 1892 ke Fall River, aik aise qatal case ki taraf jo 130 saal baad bhi logon ki tawajjo ka markaz hai.",
+          "visual": {
+            "type": "clip",
+            "query": "old newspaper printing press",
+            "prompt": "Vintage 1890s newspaper printing press running, black and white footage, dramatic lighting."
+          },
+          "factFix": "Calling it 'America's biggest mystery' is an unsupported exaggeration/opinion stated as fact; sources only describe it as widely publicized and a topic in popular culture."
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "On the morning of August 4, 1892, in the quiet textile-mill city of Fall River, Massachusetts, something happened that shocked all of America. In a modest house on Second Street, 69-year-old wealthy businessman Andrew Borden was found lying silently on the sitting room sofa. That morning, Andrew Borden was found dead in his own home. His head had been struck ten or eleven times with an axe-like weapon, and the wounds were still fresh.",
+        "His daughter, Lizzie Borden, called down to the maid Bridget Sullivan: 'Maggie, come quick! Father's dead.' Shortly afterward, it was discovered that Andrew's wife, Abby Borden, was also lying dead in an upstairs room, also killed with an axe. The doors were closed and locked, and at that time only Lizzie and the maid were present in the house.",
+        "Police arrested Lizzie, she stood trial, but in 1893 the jury acquitted her. To this day, no one else has ever been charged. So the question remains: if Lizzie didn't do it, who did? And if she did do it, how did she get away with it? Today, we go back to 1892 Fall River, to a murder case that still captures people's attention 130 years later."
+      ]
+    },
+    {
+      "titleEn": "A Frugal Fortune in Fall River",
+      "titleRoman": "Fall River Ka Kanjoos Khazana",
+      "covers": "Background on Fall River as a textile boom town, the Borden family history, Andrew Borden's rise from poverty to wealth as a property developer and bank president, his extreme frugality despite $300,000 estate, the plumbing-less house in a wealthy area, Lizzie's religious upbringing and church work, Abby as stepmother and family tension over her being married for money",
+      "words": 480,
+      "beats": [
+        {
+          "id": "c2b1",
+          "text": "1800s کے آخر میں Fall River امریکہ کا سب سے بڑا textile شہر بن چکا تھا، جہاں Quequechan River کے پانی سے سینکڑوں cotton mills چلتی تھیں۔",
+          "roman": "1800s ke aakhir mein Fall River America ka sab se bara textile shehar ban chuka tha, jahan Quequechan River ke paani se saikron cotton mills chalti thin.",
+          "visual": {
+            "type": "photo",
+            "photo": "p22"
+          }
+        },
+        {
+          "id": "c2b2",
+          "text": "1868 تک Fall River نے Lowell کو پیچھے چھوڑ کر پورے امریکہ میں سب سے زیادہ spindles والا textile شہر بننے کا اعزاز حاصل کر لیا۔",
+          "roman": "1868 tak Fall River ne Lowell ko peechay chhor kar poore America mein sab se zyada spindles wala textile shehar banne ka aizaz hasil kar liya.",
+          "visual": {
+            "type": "photo",
+            "photo": "p9"
+          }
+        },
+        {
+          "id": "c2b3",
+          "text": "اسی صنعتی ترقی کے پیچھے Borden خاندان کا بڑا ہاتھ تھا۔ Colonel Richard Borden نے 1821 میں Fall River Iron Works قائم کی تھی۔",
+          "roman": "Isi sanati taraqqi ke peeche Borden khandan ka bara haath tha. Colonel Richard Borden ne 1821 mein Fall River Iron Works qaim ki thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "19th century iron works factory exterior, brick building, smokestacks, workers outside, industrial New England scene."
+          }
+        },
+        {
+          "id": "c2b4",
+          "text": "لیکن Lizzie کے والد، Andrew Jackson Borden، اس امیر خاندان کی دولت سے نہیں بلکہ اپنی محنت سے آگے بڑھے تھے۔",
+          "roman": "Lekin Lizzie ke walid, Andrew Jackson Borden, is ameer khandan ki daulat se nahi balke apni mehnat se aage barhay thay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Gaunt elderly man with thin white side-whiskers, plain dark 1890s suit, standing outside a modest 1840s house, determined expression."
+          }
+        },
+        {
+          "id": "c2b5",
+          "text": "1822 میں پیدا ہونے والے Andrew نے جوانی میں شدید مالی مشکلات دیکھیں، حالانکہ وہ ایک بااثر اور امیر خاندان کی نسل سے تھے۔",
+          "roman": "1822 mein paida hone wale Andrew ne jawani mein shadeed maali mushkilat dekhen, halanke woh aik baasar aur ameer khandan ki nasal se thay.",
+          "visual": {
+            "type": "card",
+            "title": "ANDREW BORDEN, b.1822",
+            "text": "Rose from poverty despite wealthy ancestry"
+          }
+        },
+        {
+          "id": "c2b6",
+          "text": "انہوں نے furniture اور caskets یعنی تابوت بنانے اور بیچنے کے کاروبار سے آغاز کیا، اور پھر property development میں کامیابی حاصل کی۔",
+          "roman": "Unhon ne furniture aur caskets yani taboot banane aur bechne ke karobar se aaghaz kiya, aur phir property development mein kamyabi hasil ki.",
+          "visual": {
+            "type": "clip",
+            "query": "old furniture workshop",
+            "prompt": "19th century woodworking workshop, carpenter making furniture, dim interior, hand tools."
+          }
+        },
+        {
+          "id": "c2b7",
+          "text": "وقت کے ساتھ Andrew کئی textile mills کے director بن گئے، Union Savings Bank کے president اور Durfee Safe Deposit and Trust کے director بھی رہے۔",
+          "roman": "Waqt ke saath Andrew kayi textile mills ke director ban gaye, Union Savings Bank ke president aur Durfee Safe Deposit and Trust ke director bhi rahe.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Victorian era bank building exterior, stone facade, 1890s downtown street, horse carriages."
+          }
+        },
+        {
+          "id": "c2b8",
+          "text": "قتل کے وقت ان کی جائیداد کی مالیت تین لاکھ ڈالر تھی، آج کے حساب سے تقریباً 10.8 ملین ڈالر۔",
+          "roman": "Qatal ke waqt unki jaidaad ki maliyat teen lakh dollar thi, aaj ke hisaab se taqreeban 10.8 million dollar.",
+          "visual": {
+            "type": "card",
+            "title": "ANDREW BORDEN'S ESTATE",
+            "text": "$300,000 in 1892 = $10.8 million today"
+          },
+          "highlight": "$300,000 ESTATE"
+        },
+        {
+          "id": "c2b9",
+          "text": "اتنی دولت کے باوجود Andrew انتہائی کنجوس مشہور تھے۔ ان کے گھر میں indoor plumbing تک نہیں تھی، جبکہ یہ اس وقت امیروں میں عام تھی۔",
+          "roman": "Itni daulat ke bawajood Andrew intehai kanjoos mashhoor thay. Unke ghar mein indoor plumbing tak nahi thi, jabke yeh us waqt ameeron mein aam thi.",
+          "visual": {
+            "type": "photo",
+            "photo": "p16"
+          }
+        },
+        {
+          "id": "c2b10",
+          "text": "ان کا گھر ایک نیم-امیر علاقے میں تھا، مگر شہر کے سب سے دولت مند لوگ Highlands یا Hill District میں رہتے تھے، جو صنعتی علاقوں سے دور تھا۔",
+          "roman": "Unka ghar aik neem-ameer ilaqe mein tha, magar shehar ke sab se daulat mand log Highlands ya Hill District mein rehte thay, jo sanati ilaqon se dour tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Contrast shot: modest narrow house street in foreground versus distant hillside with grand Victorian mansions, dusk light."
+          }
+        },
+        {
+          "id": "c2b11",
+          "text": "Lizzie Andrew Borden 19 جولائی 1860 کو پیدا ہوئیں، اپنے والدین کی تیسری اولاد، ان کی ایک بہن Alice صرف 22 مہینے کی عمر میں انتقال کر گئی تھیں۔",
+          "roman": "Lizzie Andrew Borden 19 July 1860 ko paida hui, apne walidain ki teesri aulaad, unki aik behen Alice sirf 22 mahine ki umar mein intiqal kar gayi thi.",
+          "visual": {
+            "type": "photo",
+            "photo": "p3"
+          }
+        },
+        {
+          "id": "c2b12",
+          "text": "Lizzie کی حقیقی ماں Sarah 1863 میں انتقال کر گئیں، اور Andrew نے تین سال بعد Abby Durfee Gray سے شادی کر لی، جب Lizzie صرف چھ سال کی تھیں۔",
+          "roman": "Lizzie ki haqeeqi maa Sarah 1863 mein intiqal kar gayin, aur Andrew ne teen saal baad Abby Durfee Gray se shaadi kar li, jab Lizzie sirf chhe saal ki thin.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Heavyset woman in her 60s, modest grey floral Victorian dress, standing in doorway of dim Victorian parlor, kind but wary expression."
+          }
+        },
+        {
+          "id": "c2b13",
+          "text": "Lizzie نے بعد میں کہا کہ وہ اپنی سوتیلی ماں کو صرف 'Mrs. Borden' کہتی تھیں، اور انہیں یقین نہیں تھا کہ ان کا رشتہ کبھی خوشگوار تھا۔",
+          "roman": "Lizzie ne baad mein kaha ke woh apni sauteli maa ko sirf 'Mrs. Borden' kehti thin, aur unhein yaqeen nahi tha ke unka rishta kabhi khushgawar tha.",
+          "visual": {
+            "type": "card",
+            "title": "\"MRS. BORDEN\"",
+            "text": "Lizzie rarely called Abby 'mother'"
+          }
+        },
+        {
+          "id": "c2b14",
+          "text": "Lizzie کا ماننا تھا کہ Abby نے Andrew سے صرف اس کی دولت کی وجہ سے شادی کی تھی، اور یہ شک ان کے رشتے میں ہمیشہ موجود رہا۔",
+          "roman": "Lizzie ka maanna tha ke Abby ne Andrew se sirf uski daulat ki wajah se shaadi ki thi, aur yeh shak unke rishtay mein hamesha mojood raha.",
+          "visual": {
+            "type": "clip",
+            "query": "victorian family portrait",
+            "prompt": "Stiff formal 19th century family photograph, cold distant expressions, sepia tone."
+          }
+        },
+        {
+          "id": "c2b15",
+          "text": "دوسری طرف Lizzie اور ان کی بڑی بہن Emma کی پرورش بہت مذہبی ماحول میں ہوئی۔ وہ Central Congregational Church باقاعدگی سے جاتی تھیں۔",
+          "roman": "Doosri taraf Lizzie aur unki bari behen Emma ki parwarish bohat mazhabi mahol mein hui. Woh Central Congregational Church baqaidgi se jati thin.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Modest 1890s New England congregational church exterior, white steeple, Sunday morning light."
+          }
+        },
+        {
+          "id": "c2b16",
+          "text": "نوجوانی میں Lizzie چرچ کی سرگرمیوں میں بہت active تھیں، اور تارکینِ وطن یعنی immigrants کے بچوں کو Sunday school میں پڑھاتی تھیں۔",
+          "roman": "Nojawani mein Lizzie church ki sargarmiyon mein bohat active thin, aur tarkeen-e-watan yani immigrants ke bachon ko Sunday school mein parhati thin.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Young woman in high-collared grey Victorian dress teaching a small group of immigrant children in a simple sunlit classroom."
+          }
+        },
+        {
+          "id": "c2b17",
+          "text": "وہ Christian Endeavor Society کی secretary-treasurer بھی رہیں، اور Woman's Christian Temperance Union جیسی social movements کا بھی حصہ تھیں۔",
+          "roman": "Woh Christian Endeavor Society ki secretary-treasurer bhi rahin, aur Woman's Christian Temperance Union jaisi social movements ka bhi hissa thin.",
+          "visual": {
+            "type": "card",
+            "title": "LIZZIE THE CHURCHGOER",
+            "text": "Sunday school teacher & WCTU member"
+          }
+        },
+        {
+          "id": "c2b18",
+          "text": "1890 تک Borden گھر میں ایک نوکرانی، Bridget Sullivan، رہتی تھیں، جو صرف 25 سال کی تھیں اور Ireland سے آئی تھیں۔",
+          "roman": "1890 tak Borden ghar mein aik naukrani, Bridget Sullivan, rehti thin, jo sirf 25 saal ki thin aur Ireland se aayi thin.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Young Irish maid, mid-20s, plain apron and cap, tired expression, standing in dim kitchen of a Victorian house."
+          }
+        },
+        {
+          "id": "c2b19",
+          "text": "Sullivan نے بعد میں عدالت میں بتایا کہ بالغ بہنیں، Lizzie اور Emma، اپنے والد اور سوتیلی ماں کے ساتھ شاذ و نادر ہی کھانا کھاتی تھیں۔",
+          "roman": "Sullivan ne baad mein adalat mein bataya ke baligh behnain, Lizzie aur Emma, apne walid aur sauteli maa ke saath shaz-o-nadir hi khana khati thin.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Tense dinner table scene in a dim Victorian dining room, family members not looking at each other, gaslight."
+          }
+        },
+        {
+          "id": "c2b20",
+          "text": "ایک امیر گھرانہ، ایک کنجوس باپ، ایک ناخوش سوتیلی ماں، اور دو بہنیں جو الگ سی دنیا میں جیتی تھیں۔ یہی وہ خاندان تھا جہاں طوفان آنے والا تھا۔",
+          "roman": "Aik ameer gharana, aik kanjoos baap, aik nakhush sauteli maa, aur do behnain jo alag si duniya mein jeeti thin. Yehi woh khandan tha jahan toofan aane wala tha.",
+          "visual": {
+            "type": "clip",
+            "query": "storm clouds gathering",
+            "prompt": "Dark storm clouds gathering over a quiet 19th century New England street, ominous mood."
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "By the late 1800s, Fall River had become America's biggest textile city, with hundreds of cotton mills powered by the waters of the Quequechan River. By 1868, Fall River had surpassed Lowell to earn the distinction of having the most spindles of any textile city in America. The Borden family had a major hand in this industrial growth. Colonel Richard Borden had established the Fall River Iron Works in 1821. But Lizzie's father, Andrew Jackson Borden, rose not from this wealthy family's fortune but through his own hard work.",
+        "Born in 1822, Andrew faced severe financial struggles in his youth, even though he came from a respected and once-prosperous family. He started out making and selling furniture and caskets, and later found success in property development. Over time, Andrew became a director of several textile mills, president of Union Savings Bank, and also a director of the Durfee Safe Deposit and Trust. At the time of the murders, his estate was valued at three hundred thousand dollars—roughly $10.8 million today.",
+        "Despite this wealth, Andrew was famously frugal. His house had no indoor plumbing, even though it was common among the wealthy at the time. His home stood in a semi-affluent area, while the city's wealthiest people lived in the Highlands or Hill District, far from the industrial areas.",
+        "Lizzie Andrew Borden was born on July 19, 1860, the third child of her parents; a sister, Alice, had died at just 22 months old. Lizzie's biological mother, Sarah, died in 1863, and Andrew remarried Abby Durfee Gray three years later, when Lizzie was only six. Lizzie later said she called her stepmother only 'Mrs. Borden,' and she never believed their relationship had ever been warm. Lizzie believed Abby had married Andrew only for his money, and this suspicion remained present in their relationship always.",
+        "On the other hand, Lizzie and her older sister Emma were raised in a deeply religious environment. They regularly attended Central Congregational Church. In her youth, Lizzie was very active in church activities, teaching immigrant children in Sunday school. She also served as secretary-treasurer of the Christian Endeavor Society, and was part of social movements like the Woman's Christian Temperance Union. By 1890, a maid, Bridget Sullivan, only 25 years old and from Ireland, lived in the Borden household. Sullivan later testified in court that the adult sisters, Lizzie and Emma, rarely ate meals with their father and stepmother. A wealthy household, a frugal father, an unhappy stepmother, and two sisters living in a world apart—this was the family in which a storm was about to break."
+      ]
+    },
+    {
+      "titleEn": "Cracks in the House",
+      "titleRoman": "Ghar Mein Dararain",
+      "covers": "1892 family tensions: Andrew killing pigeons with a hatchet, the property disputes and $5,000 house sale-back, the sisters' resentment over gifts to Abby's family, John Morse's visit, the mysterious household illness and fears of poisoning, Lizzie's alleged attempt to buy prussic acid",
+      "words": 460,
+      "beats": [
+        {
+          "id": "c3b1",
+          "text": "مئی 1892 میں ایک عجیب واقعہ پیش آیا۔ Andrew Borden نے اپنے barn میں کبوتروں کو کلہاڑی سے مار ڈالا، یہ سوچ کر کہ وہ بیماریاں پھیلا رہے ہیں۔",
+          "roman": "May 1892 mein aik ajeeb waqia pesh aaya. Andrew Borden ne apne barn mein kabutron ko kulhari se maar dala, yeh soch kar ke woh bimariyan phela rahe hain.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Gaunt elderly man in dark suit inside a wooden barn, holding a hatchet near a pigeon coop, dim daylight, no violence shown directly."
+          }
+        },
+        {
+          "id": "c3b2",
+          "text": "Lizzie نے حال ہی میں انہی کبوتروں کے لیے ایک roost بنوایا تھا۔ کہا جاتا ہے وہ اس پر ناراض ہوئیں، مگر اس بات کی سچائی پر شک ہے۔",
+          "roman": "Lizzie ne haal hi mein inhi kabutron ke liye aik roost banwaya tha. Kaha jata hai woh is par naraaz hui, magar is baat ki sachai par shak hai.",
+          "visual": {
+            "type": "card",
+            "title": "MAY 1892",
+            "text": "Andrew kills pigeons, tension rises"
+          }
+        },
+        {
+          "id": "c3b3",
+          "text": "یہ واقعہ گھر میں بڑھتی ہوئی کشیدگی کی ایک نشانی سمجھا جاتا ہے، اگرچہ اس کی مکمل تفصیل واضح نہیں۔",
+          "roman": "Yeh waqia ghar mein barhti hui kashidgi ki aik nishani samjha jata hai, agarche iski mukammal tafseel wazeh nahi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Stern elderly man and pale young woman standing apart in a barn doorway, distant body language, dim light."
+          },
+          "factFix": "This is a fabricated interpretive claim attributed to unnamed 'researchers' that is not found anywhere in the sources."
+        },
+        {
+          "id": "c3b4",
+          "text": "جولائی 1892 میں گھر میں ایک شدید جھگڑا ہوا، جس کے بعد دونوں بہنیں، Lizzie اور Emma، New Bedford میں طویل چھٹیوں پر چلی گئیں۔",
+          "roman": "July 1892 mein ghar mein aik shadeed jhagra hua, jiske baad dono behnain, Lizzie aur Emma, New Bedford mein taweel chhuttiyon par chali gayin.",
+          "visual": {
+            "type": "map",
+            "place": "New Bedford, Massachusetts",
+            "lat": 41.6362,
+            "lon": -70.9342,
+            "zoom": "region",
+            "label": "NEW BEDFORD"
+          }
+        },
+        {
+          "id": "c3b5",
+          "text": "وہ قتل سے ایک ہفتہ پہلے واپس Fall River آئیں، مگر Lizzie نے اپنے گھر جانے کے بجائے چار دن ایک rooming house میں گزارے۔",
+          "roman": "Woh qatal se aik hafta pehle wapas Fall River aayin, magar Lizzie ne apne ghar jaane ke bajaye chaar din aik rooming house mein guzaare.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Pale stern-faced woman in grey Victorian dress standing outside a modest boarding house door, suitcase in hand, hesitant expression, evening light."
+          }
+        },
+        {
+          "id": "c3b6",
+          "text": "اصل کشیدگی کی جڑ تھی جائیداد۔ Andrew نے Abby کے خاندان کو زمین اور مکان تحفے میں دینا شروع کر دیا تھا، جس سے بیٹیاں سخت ناراض تھیں۔",
+          "roman": "Asal kashidgi ki jarr thi jaidaad. Andrew ne Abby ke khandan ko zameen aur makaan tohfay mein dena shuru kar diya tha, jisse betiyan sakht naraaz thin.",
+          "visual": {
+            "type": "card",
+            "title": "PROPERTY TENSIONS",
+            "text": "Andrew gave land & houses to Abby's family"
+          }
+        },
+        {
+          "id": "c3b7",
+          "text": "جب Abby کی سوتیلی بہن کو ایک مکان ملا، تو Lizzie اور Emma نے بھی مطالبہ کیا کہ انہیں وہ کرائے کا مکان دیا جائے جہاں وہ اپنی ماں کے انتقال تک رہتی تھیں۔",
+          "roman": "Jab Abby ki sauteli behen ko aik makaan mila, to Lizzie aur Emma ne bhi mutalba kiya ke unhein woh kiraye ka makaan diya jaye jahan woh apni maa ke intiqal tak rehti thin.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Two Victorian-era sisters, one older thin anxious, one younger stern, standing outside a modest rental house, discussing seriously."
+          }
+        },
+        {
+          "id": "c3b8",
+          "text": "انہوں نے یہ مکان اپنے والد سے صرف ایک ڈالر میں خرید لیا۔ لیکن جولائی میں یہی مکان انہوں نے واپس Andrew کو 5,000 ڈالر میں بیچ دیا۔",
+          "roman": "Unhon ne yeh makaan apne walid se sirf aik dollar mein khareed liya. Lekin July mein yehi makaan unhon ne wapas Andrew ko 5,000 dollar mein bech diya.",
+          "visual": {
+            "type": "card",
+            "title": "$1 THEN $5,000",
+            "text": "House bought for $1, sold back for $5,000"
+          },
+          "highlight": "SOLD BACK FOR $5,000"
+        },
+        {
+          "id": "c3b9",
+          "text": "3 اگست 1892 کو Lizzie اور Emma کے ماموں، John Vinnicum Morse، Borden گھر آئے۔ Andrew نے انہیں کاروباری معاملات پر بات کرنے کے لیے رکنے کو کہا۔",
+          "roman": "3 August 1892 ko Lizzie aur Emma ke mamu, John Vinnicum Morse, Borden ghar aaye. Andrew ne unhein karobari mamlaat par baat karne ke liye rukne ko kaha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Middle-aged Victorian man in dark suit and hat arriving at a narrow house doorway, being greeted by an elderly gaunt man, evening light."
+          }
+        },
+        {
+          "id": "c3b10",
+          "text": "کچھ لوگوں کا خیال ہے کہ ان کی گفتگو نے جائیداد سے متعلق پہلے سے موجود کشیدگی کو مزید بڑھا دیا، حالانکہ اس کا کوئی ثبوت نہیں ملا۔",
+          "roman": "Kuch logon ka khayal hai ke unki guftagu ne jaidaad se mutaliq pehle se mojood kashidgi ko mazeed barha diya, halanke iska koi saboot nahi mila.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Two men sitting in a dim Victorian sitting room, tense conversation, gaslight, serious expressions."
+          }
+        },
+        {
+          "id": "c3b11",
+          "text": "اسی دوران پورا گھرانہ کئی دنوں سے شدید بیمار تھا۔ ایک خاندانی دوست کا خیال تھا کہ یہ چولہے پر کئی دن پڑا mutton یعنی گوشت خراب ہونے سے ہوا۔",
+          "roman": "Isi dauran poora gharana kayi dinon se shadeed bimaar tha. Aik khandani dost ka khayal tha ke yeh choolhe par kayi din para mutton yani gosht kharab hone se hua.",
+          "visual": {
+            "type": "card",
+            "title": "MYSTERY ILLNESS",
+            "text": "Whole household sick days before murders"
+          }
+        },
+        {
+          "id": "c3b12",
+          "text": "لیکن Abby کو خدشہ تھا کہ انہیں زہر دیا جا رہا ہے، کیونکہ Andrew Fall River میں بہت مقبول شخص نہیں تھے۔",
+          "roman": "Lekin Abby ko khadsha tha ke unhein zeher diya ja raha hai, kyunke Andrew Fall River mein bohat maqbool shakhs nahi thay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Heavyset woman in grey Victorian dress standing worried near a kitchen stove, dim light, anxious expression."
+          },
+          "factFix": "Source only says Andrew 'was not a popular man in Fall River'; it does not say he had 'many enemies' — this is an invented embellishment."
+        },
+        {
+          "id": "c3b13",
+          "text": "قتل سے ایک دن پہلے، مقامی لوگوں کا کہنا تھا کہ Lizzie نے druggist سے hydrocyanic acid یعنی ایک زہریلا کیمیکل، diluted شکل میں خریدنے کی کوشش کی۔",
+          "roman": "Qatal se aik din pehle, muqami logon ka kehna tha ke Lizzie ne druggist se hydrocyanic acid yani aik zehrila chemical, diluted shakal mein khareedne ki koshish ki.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Pale stern-faced Victorian woman standing at a 19th century pharmacy counter, glass bottles on shelves behind, druggist facing her."
+          }
+        },
+        {
+          "id": "c3b14",
+          "text": "Lizzie کا کہنا تھا کہ وہ صرف اپنے fur کوٹ صاف کرنے کے لیے یہ تیزاب خریدنا چاہتی تھیں، مگر مقامی medical examiner نے کہا کہ اس میں ایسی کوئی antiseptic خاصیت نہیں تھی۔",
+          "roman": "Lizzie ka kehna tha ke woh sirf apne fur coat saaf karne ke liye yeh tezaab khareedna chahti thin, magar muqami medical examiner ne kaha ke is mein aisi koi antiseptic khasiyat nahi thi.",
+          "visual": {
+            "type": "card",
+            "title": "THE ACID QUESTION",
+            "text": "Lizzie's explanation was later disputed"
+          }
+        },
+        {
+          "id": "c3b15",
+          "text": "زہر کی تلاش میں دونوں لاشوں کے پیٹ نکال کر ٹیسٹ کیے گئے، مگر کوئی زہر نہیں ملا۔ سوال پھر بھی باقی رہا: اس گھر میں اصل میں ہو کیا رہا تھا؟",
+          "roman": "Zeher ki talaash mein dono laashon ke pet nikaal kar test kiye gaye, magar koi zeher nahi mila. Sawaal phir bhi baqi raha: is ghar mein asal mein ho kya raha tha?",
+          "visual": {
+            "type": "clip",
+            "query": "old laboratory glass bottles",
+            "prompt": "19th century medical laboratory, glass bottles and test tubes, dim light, forensic examination mood."
+          }
+        },
+        {
+          "id": "c3b16",
+          "text": "جائیداد کے جھگڑے، بیماری کا خوف، زہر کا شک، اور ایک ماموں کی پراسرار visit۔ یہ سب کچھ اس ایک ہفتے میں جمع ہو رہا تھا جو قتل سے پہلے آیا۔",
+          "roman": "Jaidaad ke jhagre, bimari ka khauf, zeher ka shak, aur aik mamu ki pur-israar visit. Yeh sab kuch is aik hafte mein jama ho raha tha jo qatal se pehle aaya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Wide shot of a narrow Victorian house at dusk, storm clouds overhead, ominous mood, no people visible."
+          }
+        },
+        {
+          "id": "c3b17",
+          "text": "اور پھر، 4 اگست 1892 کی صبح آئی، وہ صبح جس نے Fall River کی تاریخ ہمیشہ کے لیے بدل دی۔",
+          "roman": "Aur phir, 4 August 1892 ki subah aayi, woh subah jis ne Fall River ki tareekh hamesha ke liye badal di.",
+          "visual": {
+            "type": "card",
+            "title": "4 AUGUST 1892",
+            "text": "The morning everything changed"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "In May 1892, a strange incident occurred. Andrew Borden killed pigeons in his barn with a hatchet, thinking they were spreading disease. Lizzie had recently had a roost built for these very pigeons. It is said she was angry about this, but the truth of this claim is doubtful. This incident is considered a sign of growing tension in the household, though its full details remain unclear.",
+        "In July 1892, a severe argument broke out in the house, after which both sisters, Lizzie and Emma, went on an extended vacation to New Bedford. They returned to Fall River a week before the murders, but instead of going to her own home, Lizzie spent four days at a rooming house. The root of the tension was property. Andrew had begun gifting land and houses to Abby's family, which angered the daughters greatly. When Abby's stepsister received a house, Lizzie and Emma also demanded that they be given the rental house where they had lived until their mother's death. They bought this house from their father for just one dollar. But in July, they sold this very house back to Andrew for $5,000.",
+        "On August 3, 1892, Lizzie and Emma's uncle, John Vinnicum Morse, arrived at the Borden house. Andrew asked him to stay to discuss business matters. Some believe their conversation further increased the pre-existing tension over property, though no evidence of this has ever been found. During this time, the whole household had been severely ill for several days. A family friend believed this was caused by mutton that had sat on the stove and spoiled over several days. But Abby suspected they were being poisoned, since Andrew was not a very popular figure in Fall River.",
+        "The day before the murders, local residents claimed that Lizzie tried to buy hydrocyanic acid, a poisonous chemical, in diluted form, from a druggist. Lizzie's own explanation was that she only wanted to buy the acid to clean her fur coat, but the local medical examiner said it had no such antiseptic properties. In the search for poison, both bodies' stomachs were removed and tested, but no poison was found.",
+        "The question still remained: what was actually happening in this house? Property disputes, fear of illness, suspicion of poison, and a mysterious visit from an uncle—all of this was building up in the week before the murders. And then came the morning of August 4, 1892, the morning that would change Fall River's history forever."
+      ]
+    },
+    {
+      "titleEn": "The Morning of August 4",
+      "titleRoman": "4 August Ki Subah",
+      "covers": "Detailed chronological account of the murders: Morse leaving, Andrew's walk, Abby's murder upstairs between 9-10:30am, Andrew's return, the jammed door and Lizzie's laughter, Sullivan's testimony, Andrew's murder on the sofa around 11am, discovery of the bodies and Dr. Bowen's arrival",
+      "words": 550,
+      "beats": [
+        {
+          "id": "c4b1",
+          "text": "John Morse نے 3 اگست کی رات Borden گھر میں guest room میں قیام کیا۔ اگلی صبح ناشتے پر Andrew، Abby، Morse اور maid Bridget Sullivan ساتھ موجود تھے۔",
+          "roman": "John Morse ne 3 August ki raat Borden ghar mein guest room mein qayam kiya. Agli subah nashtay par Andrew, Abby, Morse aur maid Bridget Sullivan saath maujood thay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Small Victorian dining room, elderly man, older woman, middle-aged visitor and young maid at plain breakfast table, morning light, 1892 interior, no faces detailed"
+          }
+        },
+        {
+          "id": "c4b2",
+          "text": "ناشتے کے بعد Andrew اور Morse sitting room میں تقریباً ایک گھنٹے تک بیٹھ کر باتیں کرتے رہے، کاروباری معاملات پر۔",
+          "roman": "Nashtay ke baad Andrew aur Morse sitting room mein taqreeban ek ghante tak baith kar baatein karte rahe, karobari mamlaat par.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Two Victorian men in dark suits sitting in a modest 1890s parlor, talking quietly, gaslight, plain furniture"
+          }
+        },
+        {
+          "id": "c4b3",
+          "text": "صبح 8:48 پر John Morse Borden گھر سے نکلا، bullocks خریدنے اور اپنی niece سے ملنے۔ اس نے دوپہر 12 بجے lunch کے لیے واپس آنے کا وعدہ کیا تھا۔",
+          "roman": "Subah 8:48 par John Morse Borden ghar se nikla, bullocks khareedne aur apni niece se milne. Us ne dopahar 12 baje lunch ke liye wapas aane ka wada kiya tha.",
+          "visual": {
+            "type": "clip",
+            "query": "1890s horse cart street",
+            "prompt": "Lizzie Borden: pale, stern-faced woman, early 30s, dark hair pulled back tightly, high-collared Victorian dress (grey or black), composed but cold expression, later wears finer Edwardian dresses at Maplecroft. Andrew Borden: gaunt elderly man, 69, thin white side-whiskers, plain dark 1890s suit, frugal appearance. Abby Borden: heavyset woman in her 60s, modest grey/floral Victorian dress, kind but wary face. Bridget 'Maggie' Sullivan: young Irish maid, mid-20s, plain apron and cap, tired expression. Emma Borden: older spinster sister, thin, plain dark dress, anxious demeanor. Setting: the cramped, dark, plumbing-less Borden house on Second Street, Fall River, 1892 — narrow staircases, heavy drapes, gaslight; later, the grand Hill District mansion 'Maplecroft' with wide porches and staff."
+          }
+        },
+        {
+          "id": "c4b4",
+          "text": "Andrew Borden بھی 9 بجے کے بعد اپنی روزانہ کی صبح کی سیر پر نکل گیا۔ گھر میں اب صرف Abby، Lizzie اور maid Bridget Sullivan رہ گئے تھے۔",
+          "roman": "Andrew Borden bhi 9 baje ke baad apni rozana ki subah ki sair par nikal gaya. Ghar mein ab sirf Abby, Lizzie aur maid Bridget Sullivan reh gaye thay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Gaunt elderly Victorian man in dark 1890s suit walking alone on quiet street, early morning light, Fall River 1892"
+          }
+        },
+        {
+          "id": "c4b5",
+          "text": "Lizzie اور Emma کا ایک معمول کا کام guest room صاف کرنا تھا، مگر اس صبح Abby خود اوپر گئی bed بنانے، 9 سے 10:30 بجے کے درمیان۔",
+          "roman": "Lizzie aur Emma ka ek maamool ka kaam guest room saaf karna tha, magar is subah Abby khud upar gayi bed banane, 9 se 10:30 baje ke darmiyan.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Heavyset Victorian woman in modest grey dress climbing narrow dark staircase in cramped 1890s house, gaslight, tense mood"
+          }
+        },
+        {
+          "id": "c4b6",
+          "text": "Forensic investigation کے مطابق، Abby اپنے killer کا سامنا کر رہی تھی جب حملہ ہوا۔ پہلا وار سر کے ایک طرف، کان کے اوپر لگا۔",
+          "roman": "Forensic investigation ke mutabiq, Abby apne killer ka samna kar rahi thi jab hamla hua. Pehla waar sar ke ek taraf, kaan ke upar laga.",
+          "visual": {
+            "type": "card",
+            "title": "GUEST ROOM, 2ND FLOOR",
+            "text": "Abby Borden attacked between 9–10:30am"
+          }
+        },
+        {
+          "id": "c4b7",
+          "text": "اس وار سے Abby کا چہرہ farsh پر گر گیا، ناک اور ماتھے پر نشان پڑ گئے۔ killer نے پھر پیچھے سے 17 مزید وار کیے۔",
+          "roman": "Is waar se Abby ka chehra farsh par gir gaya, naak aur mathay par nishan pad gaye. Killer ne phir peeche se 17 mazeed waar kiye.",
+          "visual": {
+            "type": "clip",
+            "query": "antique hatchet dark room",
+            "prompt": "Lizzie Borden: pale, stern-faced woman, early 30s, dark hair pulled back tightly, high-collared Victorian dress (grey or black), composed but cold expression, later wears finer Edwardian dresses at Maplecroft. Andrew Borden: gaunt elderly man, 69, thin white side-whiskers, plain dark 1890s suit, frugal appearance. Abby Borden: heavyset woman in her 60s, modest grey/floral Victorian dress, kind but wary face. Bridget 'Maggie' Sullivan: young Irish maid, mid-20s, plain apron and cap, tired expression. Emma Borden: older spinster sister, thin, plain dark dress, anxious demeanor. Setting: the cramped, dark, plumbing-less Borden house on Second Street, Fall River, 1892 — narrow staircases, heavy drapes, gaslight; later, the grand Hill District mansion 'Maplecroft' with wide porches and staff."
+          }
+        },
+        {
+          "id": "c4b8",
+          "text": "یعنی Abby کو کل ملا کر 18 وار لگے۔ بعد میں معلوم ہوا کہ Andrew کو 10 یا 11 وار سے مارا گیا تھا۔",
+          "roman": "Yani Abby ko kul mila kar 18 waar lagay. Baad mein maloom hua ke Andrew ko 10 ya 11 waar se mara gaya tha.",
+          "visual": {
+            "type": "card",
+            "title": "BLOW COUNT",
+            "text": "Abby: 18 blows | Andrew: 10–11 blows"
+          },
+          "highlight": "ABBY: 18 BLOWS"
+        },
+        {
+          "id": "c4b9",
+          "text": "تقریباً 10:30 بجے Andrew Borden گھر واپس آیا۔ اس کی chaabi darwaze میں نہیں گھومی، تو اس نے دروازہ کھٹکھٹایا۔",
+          "roman": "Taqreeban 10:30 baje Andrew Borden ghar wapas aaya. Uski chaabi darwaze mein nahi ghoomi, to usne darwaza khatkhtaya.",
+          "visual": {
+            "type": "photo",
+            "photo": "p4"
+          }
+        },
+        {
+          "id": "c4b10",
+          "text": "Bridget Sullivan دروازہ کھولنے گئی لیکن وہ jam تھا۔ غصے میں اس کی زبان سے کچھ نکلا، اور تبھی اس نے Lizzie کی ہنسی سنی۔",
+          "roman": "Bridget Sullivan darwaza kholne gayi lekin woh jam tha. Ghusse mein uski zaban se kuch nikla, aur tabhi usne Lizzie ki hansi suni.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Young Irish maid in apron struggling with jammed front door of Victorian house, frustrated expression, 1890s"
+          }
+        },
+        {
+          "id": "c4b11",
+          "text": "یہ ہنسی سیڑھیوں کی چوٹی سے آ رہی تھی — مگر Abby اس وقت تک مر چکی تھی، اور اس کی لاش اوپر سے صاف نظر آتی تھی۔",
+          "roman": "Yeh hansi seerhiyon ki choti se aa rahi thi — magar Abby us waqt tak mar chuki thi, aur uski laash upar se saaf nazar aati thi.",
+          "visual": {
+            "type": "card",
+            "title": "THE LAUGH",
+            "text": "Sullivan testified Lizzie laughed from upstairs"
+          }
+        },
+        {
+          "id": "c4b12",
+          "text": "یہ بات بعد میں بہت اہم مانی گئی۔ Lizzie نے بعد میں کہا کہ وہ اوپر نہیں تھی، اور Andrew نے پوچھا Abby کہاں ہے۔",
+          "roman": "Yeh baat baad mein bohat ahem maani gayi. Lizzie ne baad mein kaha ke woh upar nahi thi, aur Andrew ne poocha Abby kahan hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Stern pale woman in high-collared grey Victorian dress standing at bottom of stairs, composed cold expression, dim hallway"
+          }
+        },
+        {
+          "id": "c4b13",
+          "text": "Lizzie نے جواب دیا کہ ایک messenger Abby کے لیے کسی بیمار دوست کا پیغام لے کر آیا تھا، اور وہ اسے ملنے چلی گئی۔",
+          "roman": "Lizzie ne jawab diya ke ek messenger Abby ke liye kisi bimar dost ka paigham le kar aaya tha, aur woh use milne chali gayi.",
+          "visual": {
+            "type": "clip",
+            "query": "old letter handwritten note",
+            "prompt": "Lizzie Borden: pale, stern-faced woman, early 30s, dark hair pulled back tightly, high-collared Victorian dress (grey or black), composed but cold expression, later wears finer Edwardian dresses at Maplecroft. Andrew Borden: gaunt elderly man, 69, thin white side-whiskers, plain dark 1890s suit, frugal appearance. Abby Borden: heavyset woman in her 60s, modest grey/floral Victorian dress, kind but wary face. Bridget 'Maggie' Sullivan: young Irish maid, mid-20s, plain apron and cap, tired expression. Emma Borden: older spinster sister, thin, plain dark dress, anxious demeanor. Setting: the cramped, dark, plumbing-less Borden house on Second Street, Fall River, 1892 — narrow staircases, heavy drapes, gaslight; later, the grand Hill District mansion 'Maplecroft' with wide porches and staff."
+          }
+        },
+        {
+          "id": "c4b14",
+          "text": "Sullivan نے کہا کہ اس نے Andrew کے boots اتار کر اسے slippers پہنائے، مگر crime-scene photos میں Andrew نے boots پہنے ہوئے دکھائی دیتا ہے۔",
+          "roman": "Sullivan ne kaha ke usne Andrew ke boots utaar kar use slippers pehnaye, magar crime-scene photos mein Andrew ne boots pehne huay dikhai deta hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Elderly Victorian man lying on parlor sofa napping, gaslight room, plain dark suit, frugal 1890s interior"
+          }
+        },
+        {
+          "id": "c4b15",
+          "text": "Andrew صوفے پر لیٹ گیا آرام کرنے۔ Sullivan تیسری منزل پر اپنے کمرے میں آرام کر رہی تھی، کھڑکیاں صاف کرنے کے بعد۔",
+          "roman": "Andrew sofay par let gaya aaram karne. Sullivan teesri manzil par apne kamre mein aaram kar rahi thi, khirkiyan saaf karne ke baad.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Tired young maid resting on narrow bed in small attic room, 1890s, dim light"
+          }
+        },
+        {
+          "id": "c4b16",
+          "text": "تقریباً 11:10 بجے اس نے نیچے سے Lizzie کی آواز سنی: 'Maggie، جلدی آؤ! Father مر گئے ہیں، کوئی آ کر انہیں مار گیا۔'",
+          "roman": "Taqreeban 11:10 baje usne neeche se Lizzie ki aawaz suni: 'Maggie, jaldi aao! Father mar gaye hain, koi aa kar unhein maar gaya.'",
+          "visual": {
+            "type": "card",
+            "title": "11:10 AM",
+            "text": "Lizzie's call to Bridget Sullivan"
+          }
+        },
+        {
+          "id": "c4b17",
+          "text": "Andrew صوفے پر لیٹے ہوئے 10 یا 11 وار کھا کر مارا گیا، hatchet جیسے ہتھیار سے۔ ایک آنکھ صاف دو حصوں میں کٹی ہوئی تھی۔",
+          "roman": "Andrew sofay par letay huay 10 ya 11 waar kha kar mara gaya, hatchet jaisay hathyar se. Ek aankh saaf do hisson mein kati hui thi.",
+          "visual": {
+            "type": "clip",
+            "query": "dark parlor sofa Victorian",
+            "prompt": "Lizzie Borden: pale, stern-faced woman, early 30s, dark hair pulled back tightly, high-collared Victorian dress (grey or black), composed but cold expression, later wears finer Edwardian dresses at Maplecroft. Andrew Borden: gaunt elderly man, 69, thin white side-whiskers, plain dark 1890s suit, frugal appearance. Abby Borden: heavyset woman in her 60s, modest grey/floral Victorian dress, kind but wary face. Bridget 'Maggie' Sullivan: young Irish maid, mid-20s, plain apron and cap, tired expression. Emma Borden: older spinster sister, thin, plain dark dress, anxious demeanor. Setting: the cramped, dark, plumbing-less Borden house on Second Street, Fall River, 1892 — narrow staircases, heavy drapes, gaslight; later, the grand Hill District mansion 'Maplecroft' with wide porches and staff."
+          },
+          "factFix": "Source says Andrew was napping/lying on the sofa (asleep) when attacked, not sitting — this beat says he was 'sitting' (baithe huay), which contradicts the very next beat's claim that he was asleep."
+        },
+        {
+          "id": "c4b18",
+          "text": "یہ نشانی بتاتی ہے کہ حملے کے وقت وہ شاید سویا ہوا تھا۔ اس کے زخم اب بھی خون بہا رہے تھے، یعنی حملہ حال ہی میں ہوا تھا۔",
+          "roman": "Yeh nishani batati hai ke hamle ke waqt woh shayad soya hua tha. Uske zakhm ab bhi khoon baha rahe thay, yani hamla haal hi mein hua tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Somber crime scene, Victorian parlor with drawn curtains, blood pooling near sofa, no gore visible, dark shadowy mood"
+          }
+        },
+        {
+          "id": "c4b19",
+          "text": "خاندانی ڈاکٹر Dr. Bowen گلی کے پار اپنے گھر سے دوڑتا ہوا آیا۔ اس نے دونوں لاشوں کو دیکھ کر موت کی تصدیق کر دی۔",
+          "roman": "Khandani doctor Dr. Bowen gali ke paar apne ghar se dorta hua aaya. Usne dono laashon ko dekh kar maut ki tasdeeq kar di.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Elderly physician in dark coat rushing across a quiet 1890s street toward a house, carrying medical bag"
+          }
+        },
+        {
+          "id": "c4b20",
+          "text": "پڑوسن Mrs. Churchill اور Sullivan سیڑھیوں پر آدھے راستے تک گئیں، ان کی نظر فرش کی سطح پر تھی، تبھی انہوں نے Abby کی لاش دیکھی۔",
+          "roman": "Padosan Mrs. Churchill aur Sullivan seerhiyon par aadhay raaste tak gayin, unki nazar farsh ki satah par thi, tabhi unhon ne Abby ki laash dekhi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Two women in 1890s dresses halfway up a dim staircase, peering fearfully toward an upstairs room, shocked expressions, no gore shown"
+          }
+        },
+        {
+          "id": "c4b21",
+          "text": "Detectives نے اندازہ لگایا کہ Andrew کی موت تقریباً 11 بجے ہوئی تھی۔ اور اب یہ سوال باقی تھا: قتل کے دوران گھر میں تھا کون؟",
+          "roman": "Detectives ne andaza lagaya ke Andrew ki maut taqreeban 11 baje hui thi. Aur ab yeh sawal baqi tha: qatl ke dauran ghar mein tha kaun?",
+          "visual": {
+            "type": "photo",
+            "photo": "p5"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "John Morse stayed overnight in the guest room at the Borden house on August 3. The next morning at breakfast, Andrew, Abby, Morse, and maid Bridget Sullivan were all present together. After breakfast, Andrew and Morse sat in the sitting room talking about business matters for about an hour. At 8:48 in the morning, John Morse left the Borden house to buy some cattle and visit his niece. He had promised to return for lunch at noon. Andrew Borden also left after 9 o'clock for his daily morning walk. Now only Abby, Lizzie, and maid Bridget Sullivan remained in the house.",
+        "Making the guest room bed was usually a chore for Lizzie and Emma, but that morning Abby herself went upstairs to make the bed, sometime between 9 and 10:30. According to the forensic investigation, Abby was facing her killer when the attack happened. The first blow landed on the side of her head, above the ear. This blow caused Abby's face to fall to the floor, leaving marks on her nose and forehead. The killer then delivered 17 more blows from behind. In total, Abby received 18 blows. It was later found that Andrew was killed with 10 or 11 blows.",
+        "At around 10:30, Andrew Borden returned home. His key wouldn't turn in the lock, so he knocked on the door. Bridget Sullivan went to open the door but it was jammed. In frustration, she said something, and just then she heard Lizzie laughing. This laughter came from the top of the stairs—but Abby was already dead by this time, and her body was clearly visible from upstairs. This detail was later considered very significant.",
+        "Lizzie later said she had not been upstairs, and that Andrew asked where Abby was. Lizzie replied that a messenger had come with a message from a sick friend for Abby, and she had gone to see them. Sullivan said she removed Andrew's boots and put slippers on him, but crime-scene photos show Andrew wearing his boots. Andrew lay down on the sofa to rest. Sullivan went to rest in her room on the third floor, after finishing cleaning the windows.",
+        "At around 11:10, she heard Lizzie's voice from downstairs: 'Maggie, come quick! Father's dead, somebody came in and killed him.' Andrew, lying on the sofa, was killed with 10 or 11 blows from a hatchet-like weapon. One eye was cleanly split in two. This detail suggests he may have been asleep at the time of the attack. His wounds were still bleeding, meaning the attack had happened recently.",
+        "The family doctor, Dr. Bowen, ran over from his house across the street. He examined both bodies and confirmed the deaths. Neighbor Mrs. Churchill and Sullivan went halfway up the stairs, their eyes level with the floor, when they spotted Abby's body. Detectives estimated Andrew's death occurred at around 11 o'clock. And now the question remained: who was in the house at the time of the murders?"
+      ]
+    },
+    {
+      "titleEn": "A Very Peculiar Woman",
+      "titleRoman": "Aik Ajeeb Aurat",
+      "covers": "Investigation details: Lizzie's contradictory statements, police suspicion of her calm demeanor, the basement hatchet-head with broken handle and staged dust, the bloody pail dismissed as menstrual rags, the burned dress witnessed by Alice Russell, the cellar visit with kerosene lamp, police searching the house and naming Lizzie a suspect",
+      "words": 500,
+      "beats": [
+        {
+          "id": "c5b1",
+          "text": "پولیس کے سوالات کے دوران Lizzie کے جوابات عجیب اور متضاد تھے۔ پہلے اس نے کہا گھر میں داخل ہونے سے پہلے ایک groan یا چیخ سنی۔",
+          "roman": "Police ke sawalat ke dauran Lizzie ke jawabat ajeeb aur mutazad thay. Pehle us ne kaha ghar mein dakhil hone se pehle ek groan ya cheekh suni.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Detective in 1890s suit questioning composed pale woman in grey dress in dim parlor, tense interrogation mood"
+          }
+        },
+        {
+          "id": "c5b2",
+          "text": "دو گھنٹے بعد اس نے کہا کہ اس نے کچھ نہیں سنا، اور بغیر کسی شک کے گھر میں داخل ہوئی تھی۔ یہ تضاد سب نے نوٹ کیا۔",
+          "roman": "Do ghante baad us ne kaha ke us ne kuch nahi suna, aur baghair kisi shak ke ghar mein dakhil hui thi. Yeh tazad sab ne note kiya.",
+          "visual": {
+            "type": "card",
+            "title": "CONTRADICTIONS",
+            "text": "Lizzie's story changed within hours"
+          }
+        },
+        {
+          "id": "c5b3",
+          "text": "Sullivan اور پڑوسن Mrs. Churchill سیڑھیوں پر آدھے راستے تھیں، ان کی آنکھیں فرش کے برابر، تب انہوں نے Abby کو منہ کے بل پڑا دیکھا۔",
+          "roman": "Sullivan aur parosan Mrs. Churchill seedhiyon par aadhe raste thi, un ki aankhein farsh ke barabar, tab unhon ne Abby ko munh ke bal pada dekha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Two Victorian women halfway up narrow staircase, peering into upstairs room, shocked expressions, gaslit hallway"
+          }
+        },
+        {
+          "id": "c5b4",
+          "text": "زیادہ تر پولیس افسران کو Lizzie کا رویہ پسند نہیں آیا۔ کچھ نے کہا وہ بہت پرسکون اور مہذب تھی، جو انہیں مشکوک لگا۔",
+          "roman": "Zyada tar police afsaran ko Lizzie ka rawaiya pasand nahi aaya. Kuch ne kaha wo bohot pursukoon aur mahzab thi, jo unhein mashkook laga.",
+          "visual": {
+            "type": "clip",
+            "query": "old police station 1890s",
+            "prompt": "Lizzie Borden: pale, stern-faced woman, early 30s, dark hair pulled back tightly, high-collared Victorian dress (grey or black), composed but cold expression, later wears finer Edwardian dresses at Maplecroft. Andrew Borden: gaunt elderly man, 69, thin white side-whiskers, plain dark 1890s suit, frugal appearance. Abby Borden: heavyset woman in her 60s, modest grey/floral Victorian dress, kind but wary face. Bridget 'Maggie' Sullivan: young Irish maid, mid-20s, plain apron and cap, tired expression. Emma Borden: older spinster sister, thin, plain dark dress, anxious demeanor. Setting: the cramped, dark, plumbing-less Borden house on Second Street, Fall River, 1892 — narrow staircases, heavy drapes, gaslight; later, the grand Hill District mansion 'Maplecroft' with wide porches and staff."
+          }
+        },
+        {
+          "id": "c5b5",
+          "text": "Marshal Hilliard نے صحافیوں کو بتایا کہ Lizzie ایک 'بہت عجیب عورت' لگتی ہے۔ Officer Seaver کا خیال تھا کہ یہ جرم کسی ذہنی طور پر بیمار شخص کا کام ہے۔",
+          "roman": "Marshal Hilliard ne sahafiyon ko bataya ke Lizzie ek 'bohot ajeeb aurat' lagti hai. Officer Seaver ka khayal tha ke yeh jurm kisi zehni taur par bimar shakhs ka kaam hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Uniformed 1890s police marshal talking to reporters outside Victorian house, notepads, serious expressions"
+          }
+        },
+        {
+          "id": "c5b6",
+          "text": "Judge Blaisdell نے کہا اصل مسئلہ یہ ہے: 'یہ کام کوئی عورت کیسے کر سکتی ہے؟' مگر Lizzie کے کپڑوں پر خون کے دھبوں کی جانچ کبھی نہیں ہوئی۔",
+          "roman": "Judge Blaisdell ne kaha asal masla yeh hai: 'yeh kaam koi aurat kaise kar sakti hai?' Magar Lizzie ke kapron par khoon ke dhabbon ki jaanch kabhi nahi hui.",
+          "visual": {
+            "type": "card",
+            "title": "NO BLOOD TEST",
+            "text": "Lizzie was never checked for bloodstains"
+          }
+        },
+        {
+          "id": "c5b7",
+          "text": "پولیس نے Lizzie کے کمرے کی تلاشی لی، مگر یہ محض سرسری تھی۔ trial میں انہوں نے مانا کہ Lizzie کی طبیعت خراب ہونے کی وجہ سے انہوں نے پوری تلاشی نہیں کی۔",
+          "roman": "Police ne Lizzie ke kamre ki talashi li, magar yeh mehez sarsari thi. Trial mein unhon ne maana ke Lizzie ki tabiyat kharab hone ki wajah se unhon ne poori talashi nahi ki.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Police officers briefly searching a Victorian bedroom, hesitant, not thorough, 1890s dark interior"
+          }
+        },
+        {
+          "id": "c5b8",
+          "text": "basement میں پولیس کو دو hatchets، دو axes، اور ٹوٹے ہوئے ہینڈل والا ایک hatchet-head ملا۔ یہی hatchet-head قتل کا اصل ہتھیار سمجھا گیا۔",
+          "roman": "Basement mein police ko do hatchets, do axes, aur toote huay handle wala ek hatchet-head mila. Yehi hatchet-head qatal ka asal hathiyar samjha gaya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Dusty 1890s basement with old tools, a hatchet head with broken handle lying on shelf, dim lantern light"
+          },
+          "highlight": "HATCHET-HEAD, BROKEN HANDLE"
+        },
+        {
+          "id": "c5b9",
+          "text": "handle کا ٹوٹنا بالکل تازہ لگ رہا تھا، اور اس پر جمی dust بھی جان بوجھ کر لگائی گئی معلوم ہوتی تھی۔ لیکن کوئی بھی اوزار گھر سے فوراً نہیں ہٹایا گیا۔",
+          "roman": "Handle ka toota bilkul taza lag raha tha, aur us par jami dust bhi jaan boojh kar lagai gayi maloom hoti thi. Lekin koi bhi auzar ghar se foran nahi hataya gaya.",
+          "visual": {
+            "type": "clip",
+            "query": "dusty old tools basement",
+            "prompt": "Lizzie Borden: pale, stern-faced woman, early 30s, dark hair pulled back tightly, high-collared Victorian dress (grey or black), composed but cold expression, later wears finer Edwardian dresses at Maplecroft. Andrew Borden: gaunt elderly man, 69, thin white side-whiskers, plain dark 1890s suit, frugal appearance. Abby Borden: heavyset woman in her 60s, modest grey/floral Victorian dress, kind but wary face. Bridget 'Maggie' Sullivan: young Irish maid, mid-20s, plain apron and cap, tired expression. Emma Borden: older spinster sister, thin, plain dark dress, anxious demeanor. Setting: the cramped, dark, plumbing-less Borden house on Second Street, Fall River, 1892 — narrow staircases, heavy drapes, gaslight; later, the grand Hill District mansion 'Maplecroft' with wide porches and staff."
+          }
+        },
+        {
+          "id": "c5b10",
+          "text": "basement میں ایک pail میں خون آلود لگنے والے کپڑے بھی ملے، جنہیں Lizzie نے اپنی menstruation سے جوڑا۔ اس pail کی مزید جانچ کبھی نہیں ہوئی۔",
+          "roman": "Basement mein ek pail mein khoon aalood lagne wale kapre bhi milay, jinhein Lizzie ne apni menstruation se joda. Is pail ki mazeed jaanch kabhi nahi hui.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Old metal pail in dim basement corner, cloths inside, mysterious shadowy still life, no gore"
+          }
+        },
+        {
+          "id": "c5b11",
+          "text": "Sullivan نے حیرانی ظاہر کی کہ اسی ہفتے کپڑے دھوتے وقت اسے یہ pail کیوں نظر نہیں آیا۔ زہر کی تلاش میں دونوں لاشوں کے پیٹ نکال کر ٹیسٹ کیے گئے، مگر کوئی زہر نہیں ملا۔",
+          "roman": "Sullivan ne hairani zahir ki ke isi hafte kapre dhote waqt use yeh pail kyun nazar nahi aaya. Zehar ki talaash mein dono laashon ke pait nikal kar test kiye gaye, magar koi zehar nahi mila.",
+          "visual": {
+            "type": "card",
+            "title": "NO POISON FOUND",
+            "text": "Stomachs tested after mysterious illness"
+          }
+        },
+        {
+          "id": "c5b12",
+          "text": "محلے والوں کا شک تھا کہ Lizzie نے druggist سے hydrocyanic acid خریدنے کی کوشش کی تھی، مگر یہ کبھی ثابت نہیں ہو سکا۔",
+          "roman": "Mohalle walon ka shak tha ke Lizzie ne druggist se hydrocyanic acid khareedne ki koshish ki thi, magar yeh kabhi saabit nahi ho saka.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Old 1890s apothecary shop interior, glass bottles labeled, pharmacist behind counter, sepia tones"
+          }
+        },
+        {
+          "id": "c5b13",
+          "text": "Lizzie اور Emma کی دوست Alice Russell قتل کے بعد کئی راتیں ان کے ساتھ رہیں۔ اتوار کی صبح اس نے دیکھا کہ Lizzie ایک skirt پکڑے ہوئے تھی۔",
+          "roman": "Lizzie aur Emma ki dost Alice Russell qatal ke baad kai raatein unke saath rahi. Itwar ki subah us ne dekha ke Lizzie ek skirt pakre huay thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Two Victorian women in a dim 1890s kitchen, one holding a skirt near a wood stove, tense mood"
+          }
+        },
+        {
+          "id": "c5b14",
+          "text": "Lizzie نے کہا وہ اسے جلانے والی ہے کیونکہ اس پر paint لگا ہوا ہے۔ 4 اگست کی رات، قتل کے دن، ایک پولیس افسر نے Lizzie اور Alice Russell کو kerosene lamp اور pail لے کر cellar میں جاتے دیکھا۔",
+          "roman": "Lizzie ne kaha woh use jalane wali hai kyunke us par paint laga hua hai. 4 August ki raat, qatal ke din, ek police afsar ne Lizzie aur Alice Russell ko kerosene lamp aur pail le kar cellar mein jate dekha.",
+          "visual": {
+            "type": "clip",
+            "query": "kerosene lamp old dark room",
+            "prompt": "Lizzie Borden: pale, stern-faced woman, early 30s, dark hair pulled back tightly, high-collared Victorian dress (grey or black), composed but cold expression, later wears finer Edwardian dresses at Maplecroft. Andrew Borden: gaunt elderly man, 69, thin white side-whiskers, plain dark 1890s suit, frugal appearance. Abby Borden: heavyset woman in her 60s, modest grey/floral Victorian dress, kind but wary face. Bridget 'Maggie' Sullivan: young Irish maid, mid-20s, plain apron and cap, tired expression. Emma Borden: older spinster sister, thin, plain dark dress, anxious demeanor. Setting: the cramped, dark, plumbing-less Borden house on Second Street, Fall River, 1892 — narrow staircases, heavy drapes, gaslight; later, the grand Hill District mansion 'Maplecroft' with wide porches and staff."
+          },
+          "factFix": "The source places the kerosene-lamp/cellar incident on the night of August 4 (night of the murders), not the same night as the Sunday skirt-burning comment. It also says Lizzie entered the cellar together with Alice Russell, carrying both a kerosene lamp and a slop pail — this beat wrongly implies it was the same night and omits Russell."
+        },
+        {
+          "id": "c5b15",
+          "text": "دونوں عورتیں cellar سے باہر نکلیں، پھر Lizzie اکیلی واپس گئی اور sink پر جھکی ہوئی نظر آئی۔ افسر یہ نہیں دیکھ سکا کہ وہ اصل میں کیا کر رہی تھی۔",
+          "roman": "Dono aurtein cellar se bahar nikleen, phir Lizzie akeli wapas gayi aur sink par jhuki hui nazar aayi. Afsar yeh nahi dekh saka ke woh asal mein kya kar rahi thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Pale woman in dark Victorian dress bent over a stone sink in dim cellar, candle light, mysterious"
+          },
+          "factFix": "Source says both women (Lizzie and Russell) exited the cellar together, after which Lizzie returned alone — this beat wrongly says she alone exited the cellar, omitting that Russell was with her and that Lizzie went back in a second time."
+        },
+        {
+          "id": "c5b16",
+          "text": "5 اگست کو John Morse گھر سے نکلا تو سینکڑوں لوگوں نے اسے گھیر لیا؛ پولیس کو اسے واپس گھر تک پہنچانا پڑا۔",
+          "roman": "5 August ko John Morse ghar se nikla to sainkron logon ne use gher liya; police ko use wapas ghar tak pahunchana pada.",
+          "visual": {
+            "type": "clip",
+            "query": "crowd gathered street 1890s",
+            "prompt": "Lizzie Borden: pale, stern-faced woman, early 30s, dark hair pulled back tightly, high-collared Victorian dress (grey or black), composed but cold expression, later wears finer Edwardian dresses at Maplecroft. Andrew Borden: gaunt elderly man, 69, thin white side-whiskers, plain dark 1890s suit, frugal appearance. Abby Borden: heavyset woman in her 60s, modest grey/floral Victorian dress, kind but wary face. Bridget 'Maggie' Sullivan: young Irish maid, mid-20s, plain apron and cap, tired expression. Emma Borden: older spinster sister, thin, plain dark dress, anxious demeanor. Setting: the cramped, dark, plumbing-less Borden house on Second Street, Fall River, 1892 — narrow staircases, heavy drapes, gaslight; later, the grand Hill District mansion 'Maplecroft' with wide porches and staff."
+          }
+        },
+        {
+          "id": "c5b17",
+          "text": "6 اگست کو پولیس نے مکمل تلاشی لی، بہنوں کے کپڑے چیک کیے، اور ٹوٹا ہوا hatchet-head ضبط کر لیا۔ اسی شام Lizzie کو بتایا گیا کہ وہ اب suspect ہے۔",
+          "roman": "6 August ko police ne mukammal talashi li, behno ke kapre check kiye, aur toota hua hatchet-head zabt kar liya. Isi shaam Lizzie ko bataya gaya ke wo ab suspect hai.",
+          "visual": {
+            "type": "card",
+            "title": "AUGUST 6, 1892",
+            "text": "Lizzie officially named a suspect"
+          }
+        },
+        {
+          "id": "c5b18",
+          "text": "اگلی صبح Alice Russell نے دوبارہ Lizzie کو ایک dress پھاڑتے دیکھا۔ کیا یہی وہ dress تھی جو قتل کے دن پہنی گئی تھی؟ یہ کبھی طے نہیں ہو سکا۔",
+          "roman": "Agli subah Alice Russell ne dobara Lizzie ko ek dress phaarte dekha. Kya yehi wo dress thi jo qatal ke din pehni gayi thi? Yeh kabhi tay nahi ho saka.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Pale woman tearing a dark fabric dress near a wood stove, dim Victorian kitchen, ambiguous guilty mood"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "During police questioning, Lizzie's answers were strange and contradictory. First, she said she heard a groan or scream before entering the house. Two hours later, she said she heard nothing, and had entered the house without any suspicion. Everyone noted this contradiction. Sullivan and neighbor Mrs. Churchill were halfway up the stairs, their eyes level with the floor, when they saw Abby lying face down.",
+        "Most police officers did not like Lizzie's demeanor. Some said she was too calm and composed, which seemed suspicious to them. Marshal Hilliard told reporters that Lizzie seemed a 'very peculiar woman.' Officer Seaver believed this crime was the work of someone mentally disturbed. Judge Blaisdell said the real question was: 'how could a woman do this?' Yet Lizzie's clothes were never tested for bloodstains.",
+        "Police searched Lizzie's room, but it was only a cursory search. At trial, they admitted that because Lizzie was unwell, they did not conduct a full search. In the basement, police found two hatchets, two axes, and a hatchet-head with a broken handle. This hatchet-head was believed to be the actual murder weapon. The break in the handle looked very fresh, and the dust on it also appeared deliberately applied. However, no tool was ever immediately removed from the house.",
+        "In the basement, a pail was also found containing what appeared to be blood-stained cloths, which Lizzie attributed to her menstruation. This pail was never further examined. Sullivan expressed surprise that she hadn't noticed this pail while doing laundry that same week. In the search for poison, both bodies' stomachs were removed and tested, but no poison was found. Neighbors suspected Lizzie had tried to buy hydrocyanic acid from a druggist, but this was never proven.",
+        "Lizzie and Emma's friend Alice Russell stayed with them for several nights after the murders. On Sunday morning, she saw Lizzie holding a skirt. Lizzie said she was going to burn it because it had paint on it. On the night of August 4, the day of the murders, a police officer saw Lizzie and Alice Russell going into the cellar carrying a kerosene lamp and a pail. Both women came out of the cellar, then Lizzie went back in alone and appeared to bend over the sink. The officer could not see what she was actually doing.",
+        "On August 5, when John Morse left the house, hundreds of people surrounded him; police had to escort him back home. On August 6, police conducted a full search, checked the sisters' clothing, and seized the broken hatchet-head. That same evening, Lizzie was told she was now a suspect. The next morning, Alice Russell again saw Lizzie tearing up a dress. Was this the same dress worn on the day of the murders? This was never determined."
+      ]
+    },
+    {
+      "titleEn": "Inquest, Arrest, and Trial",
+      "titleRoman": "Inquest, Giraftari Aur Adalat",
+      "covers": "The private inquest hearing, Lizzie's morphine-affected erratic testimony, her arrest and indictment, the New Bedford trial in June 1893, prosecution and defense attorneys, the Bertha Manchester axe murder coincidence, the skulls presented as evidence causing Lizzie to faint, Judge Dewey's favorable summary, and the 40-minute acquittal verdict",
+      "words": 550,
+      "beats": [
+        {
+          "id": "c6b1",
+          "text": "8 اگست کو Lizzie کی inquest hearing شروع ہوئی۔ عدالت نے اس کی درخواست رد کر دی کہ family attorney موجود ہو، کیونکہ قانون کے مطابق inquest نجی ہونی چاہیے تھی۔",
+          "roman": "8 August ko Lizzie ki inquest hearing shuru hui. Adalat ne us ki darkhwast rad kar di ke family attorney maujood ho, kyunke qanoon ke mutabiq inquest niji honi chahiye thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Grim Victorian courtroom interior, wooden benches, judge's bench, tense atmosphere, sepia tones, 1892"
+          }
+        },
+        {
+          "id": "c6b2",
+          "text": "اسے اعصاب پرسکون رکھنے کے لیے morphine دی جا رہی تھی، اور شاید اسی وجہ سے اس کی گواہی الجھی ہوئی تھی۔",
+          "roman": "Use aasab pursukoon rakhne ke liye morphine di ja rahi thi, aur shayad isi wajah se us ki gawahi uljhi hui thi.",
+          "visual": {
+            "type": "card",
+            "title": "MORPHINE DOSES",
+            "text": "Prescribed to calm Lizzie's nerves"
+          }
+        },
+        {
+          "id": "c6b3",
+          "text": "وہ باربار سوالات کے جواب دینے سے انکار کرتی، حتی کہ جب جواب اس کے حق میں جاتا۔ کبھی کہتی وہ کچن میں magazine پڑھ رہی تھی، کبھی کہتی dining room میں ironing کر رہی تھی۔",
+          "roman": "Wo baar baar sawalat ke jawab dene se inkar karti, hatta ke jab jawab us ke haq mein jata. Kabhi kehti wo kitchen mein magazine parh rahi thi, kabhi kehti dining room mein ironing kar rahi thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Composed pale woman in grey Victorian dress sitting stiffly before inquest panel, evasive expression, dim room"
+          }
+        },
+        {
+          "id": "c6b4",
+          "text": "11 اگست کو Lizzie کو گرفتاری کا warrant دیا گیا اور اسے جیل بھیج دیا گیا۔ اس inquest کی گواہی بعد میں trial میں ناقابل قبول قرار دی گئی۔",
+          "roman": "11 August ko Lizzie ko giraftari ka warrant diya gaya aur use jail bhej diya gaya. Is inquest ki gawahi baad mein trial mein na-qabil-e-qubool qarar di gayi.",
+          "visual": {
+            "type": "card",
+            "title": "AUGUST 11, 1892",
+            "text": "Lizzie Borden arrested"
+          }
+        },
+        {
+          "id": "c6b5",
+          "text": "اخبارات نے لکھا کہ Lizzie کا رویہ 'ٹھنڈا اور بے تاثر' تھا، وہ اپنے ہونٹ چباتی، اور اپنے وکیل Adams کی طرف جھکتی رہی۔",
+          "roman": "Akhbarat ne likha ke Lizzie ka rawaiya 'thanda aur be-tasir' tha, wo apne hont chabati, aur apne wakeel Adams ki taraf jhukti rahi.",
+          "visual": {
+            "type": "clip",
+            "query": "old newspaper printing press 1890s",
+            "prompt": "Lizzie Borden: pale, stern-faced woman, early 30s, dark hair pulled back tightly, high-collared Victorian dress (grey or black), composed but cold expression, later wears finer Edwardian dresses at Maplecroft. Andrew Borden: gaunt elderly man, 69, thin white side-whiskers, plain dark 1890s suit, frugal appearance. Abby Borden: heavyset woman in her 60s, modest grey/floral Victorian dress, kind but wary face. Bridget 'Maggie' Sullivan: young Irish maid, mid-20s, plain apron and cap, tired expression. Emma Borden: older spinster sister, thin, plain dark dress, anxious demeanor. Setting: the cramped, dark, plumbing-less Borden house on Second Street, Fall River, 1892 — narrow staircases, heavy drapes, gaslight; later, the grand Hill District mansion 'Maplecroft' with wide porches and staff."
+          }
+        },
+        {
+          "id": "c6b6",
+          "text": "دوستو، خود Boston Globe نے اس inquest پر تین صفحات کی رپورٹ چھاپی۔ کچھ دوست بھی کہنے لگے کہ اس گواہی نے ان کی رائے بدل دی ہے۔",
+          "roman": "Dosto, khud Boston Globe ne is inquest par teen safhaat ki report chapi. Kuch dost bhi kehne lage ke is gawahi ne un ki raye badal di hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Stack of old 1890s newspapers with large sensational headlines, printing press in background, sepia"
+          }
+        },
+        {
+          "id": "c6b7",
+          "text": "7 نومبر کو grand jury نے شہادتیں سننا شروع کیں، اور 2 دسمبر 1892 کو Lizzie پر باقاعدہ فردِ جرم عائد ہو گئی۔",
+          "roman": "7 November ko grand jury ne shahadatein sunna shuru kin, aur 2 December 1892 ko Lizzie par baqaida fard-e-jurm aayed ho gayi.",
+          "visual": {
+            "type": "card",
+            "title": "DECEMBER 2, 1892",
+            "text": "Lizzie Borden formally indicted"
+          }
+        },
+        {
+          "id": "c6b8",
+          "text": "5 جون 1893 کو New Bedford میں Lizzie کا trial شروع ہوا۔ prosecution کی طرف سے Hosea Knowlton اور William Henry Moody تھے، جو بعد میں امریکی Supreme Court کے Justice بنے۔",
+          "roman": "5 June 1893 ko New Bedford mein Lizzie ka trial shuru hua. Prosecution ki taraf se Hosea Knowlton aur William Henry Moody thay, jo baad mein America ke Supreme Court ke Justice banay.",
+          "visual": {
+            "type": "map",
+            "place": "New Bedford, Massachusetts",
+            "lat": 41.6362,
+            "lon": -70.9342,
+            "zoom": "region",
+            "label": "New Bedford — trial location"
+          }
+        },
+        {
+          "id": "c6b9",
+          "text": "دفاع میں Andrew Jennings، Melvin Adams، اور Massachusetts کے سابق گورنر George Robinson شامل تھے، جو خود Lizzie کے دفاع کی قیادت کر رہے تھے۔",
+          "roman": "Difa mein Andrew Jennings, Melvin Adams, aur Massachusetts ke sabiq governor George Robinson shamil thay, jo khud Lizzie ke difa ki qiyadat kar rahe thay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Group of formally dressed 1890s male lawyers in dark suits standing around courtroom table, serious mood"
+          }
+        },
+        {
+          "id": "c6b10",
+          "text": "trial سے صرف پانچ دن پہلے، یکم جون کو Fall River میں ایک اور axe-murder ہوا — Bertha Manchester اپنی kitchen میں مردہ پائی گئیں۔ jurors نے اس مماثلت کو ضرور نوٹ کیا۔",
+          "roman": "Trial se sirf paanch din pehle, yakum June ko Fall River mein ek aur axe-murder hua — Bertha Manchester apni kitchen mein murda payi gayin. Jurors ne is mumasilat ko zaroor note kiya.",
+          "visual": {
+            "type": "card",
+            "title": "JUNE 1, 1893",
+            "text": "Second axe-murder days before trial"
+          }
+        },
+        {
+          "id": "c6b11",
+          "text": "بعد میں Jose Correa de Mello کو Manchester کے قتل کا مجرم قرار دیا گیا، مگر ثابت ہوا کہ وہ Borden قتل کے وقت Fall River میں موجود ہی نہیں تھا۔",
+          "roman": "Baad mein Jose Correa de Mello ko Manchester ke qatal ka mujrim qarar diya gaya, magar saabit hua ke wo Borden qatal ke waqt Fall River mein maujood hi nahi tha.",
+          "visual": {
+            "type": "clip",
+            "query": "old courthouse exterior",
+            "prompt": "Lizzie Borden: pale, stern-faced woman, early 30s, dark hair pulled back tightly, high-collared Victorian dress (grey or black), composed but cold expression, later wears finer Edwardian dresses at Maplecroft. Andrew Borden: gaunt elderly man, 69, thin white side-whiskers, plain dark 1890s suit, frugal appearance. Abby Borden: heavyset woman in her 60s, modest grey/floral Victorian dress, kind but wary face. Bridget 'Maggie' Sullivan: young Irish maid, mid-20s, plain apron and cap, tired expression. Emma Borden: older spinster sister, thin, plain dark dress, anxious demeanor. Setting: the cramped, dark, plumbing-less Borden house on Second Street, Fall River, 1892 — narrow staircases, heavy drapes, gaslight; later, the grand Hill District mansion 'Maplecroft' with wide porches and staff."
+          }
+        },
+        {
+          "id": "c6b12",
+          "text": "hatchet-head کا معاملہ trial میں بار بار اٹھا، مگر prosecution یہ ثابت نہیں کر سکا کہ یہی قتل کا اصل ہتھیار تھا۔",
+          "roman": "Hatchet-head ka mamla trial mein baar baar utha, magar prosecution yeh saabit nahi kar saka ke yehi qatal ka asal hathiyar tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Wooden courtroom table with a hatchet head displayed as evidence, jurors examining it, 1890s dim light"
+          }
+        },
+        {
+          "id": "c6b13",
+          "text": "کوئی خون آلود کپڑا موقع سے نہیں ملا، مگر Alice Russell نے گواہی دی کہ اس نے Lizzie کو dress جلاتے دیکھا تھا، جسے paint سے خراب بتایا گیا۔ دفاع نے اس بیان کو کبھی چیلنج نہیں کیا۔",
+          "roman": "Koi khoon aalood kapra mauqe se nahi mila, magar Alice Russell ne gawahi di ke us ne Lizzie ko dress jalate dekha tha, jise paint se kharab bataya gaya. Difa ne is bayan ko kabhi challenge nahi kiya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Dress burning inside a wood stove, orange flame glow, dim 1890s kitchen, no gore"
+          }
+        },
+        {
+          "id": "c6b14",
+          "text": "Lizzie کی موجودگی بھی تنازع کا شکار رہی۔ Sullivan نے کہا وہ تقریباً 10:58 پر اوپر گئی تھی، Lizzie اور اس کے والد کو نیچے چھوڑ کر۔",
+          "roman": "Lizzie ki maujoodgi bhi tanaza ka shikar rahi. Sullivan ne kaha wo taqreeban 10:58 par upar gayi thi, Lizzie aur us ke walid ko neeche chhod kar.",
+          "visual": {
+            "type": "card",
+            "title": "10:58 AM",
+            "text": "Sullivan leaves Lizzie & Andrew downstairs"
+          }
+        },
+        {
+          "id": "c6b15",
+          "text": "Lizzie کا کہنا تھا کہ وہ barn میں بیس منٹ یا آدھا گھنٹہ رہی۔ گواہ Hyman Lubinsky نے کہا اس نے 11:03 پر Lizzie کو barn سے نکلتے دیکھا، اور Charles Gardner نے اس وقت کی تصدیق کی۔",
+          "roman": "Lizzie ka kehna tha ke wo barn mein bees minute ya aadha ghanta rahi. Gawah Hyman Lubinsky ne kaha us ne 11:03 par Lizzie ko barn se nikalte dekha, aur Charles Gardner ne us waqt ki tasdeeq ki.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Pale woman in grey Victorian dress exiting a wooden barn, morning light, quiet farmyard setting, 1890s"
+          }
+        },
+        {
+          "id": "c6b16",
+          "text": "11:10 بجے Lizzie نے Sullivan کو نیچے بلایا، قتل کی خبر دی، اور اسے doctor بلانے بھیج دیا۔ دونوں لاشوں کے سر autopsy کے دوران نکالے گئے۔",
+          "roman": "11:10 baje Lizzie ne Sullivan ko neeche bulaya, qatal ki khabar di, aur use doctor bulane bhej diya. Dono laashon ke sar autopsy ke dauran nikale gaye.",
+          "visual": {
+            "type": "clip",
+            "query": "1890s courtroom evidence table",
+            "prompt": "Lizzie Borden: pale, stern-faced woman, early 30s, dark hair pulled back tightly, high-collared Victorian dress (grey or black), composed but cold expression, later wears finer Edwardian dresses at Maplecroft. Andrew Borden: gaunt elderly man, 69, thin white side-whiskers, plain dark 1890s suit, frugal appearance. Abby Borden: heavyset woman in her 60s, modest grey/floral Victorian dress, kind but wary face. Bridget 'Maggie' Sullivan: young Irish maid, mid-20s, plain apron and cap, tired expression. Emma Borden: older spinster sister, thin, plain dark dress, anxious demeanor. Setting: the cramped, dark, plumbing-less Borden house on Second Street, Fall River, 1892 — narrow staircases, heavy drapes, gaslight; later, the grand Hill District mansion 'Maplecroft' with wide porches and staff."
+          }
+        },
+        {
+          "id": "c6b17",
+          "text": "جب 5 جون 1893 کو یہ کھوپڑیاں courtroom میں evidence کے طور پر رکھی گئیں، تو انہیں دیکھ کر Lizzie بے ہوش ہو گئی۔",
+          "roman": "Jab 5 June 1893 ko yeh khopariyaan courtroom mein evidence ke taur par rakhi gayin, to unhein dekh kar Lizzie behosh ho gayi.",
+          "visual": {
+            "type": "photo",
+            "photo": "p1"
+          }
+        },
+        {
+          "id": "c6b18",
+          "text": "judge نے prussic acid خریدنے کی کوشش والا ثبوت خارج کر دیا، یہ کہتے ہوئے کہ یہ قتل کے وقت سے بہت دور کی بات ہے۔",
+          "roman": "Judge ne prussic acid khareedne ki koshish wala saboot kharij kar diya, yeh kehte huay ke yeh qatal ke waqt se bohot door ki baat hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Judge in formal robe presiding over 1890s Massachusetts courtroom, wooden bench, serious mood"
+          }
+        },
+        {
+          "id": "c6b19",
+          "text": "Justice Justin Dewey، جسے Robinson نے بطور گورنر مقرر کیا تھا، نے جیوری کے سامنے ایک طویل خلاصہ پیش کیا جو دفاع کے حق میں جھکا ہوا تھا۔",
+          "roman": "Justice Justin Dewey, jise Robinson ne bataur governor muqarrar kiya tha, ne jury ke samne ek taweel khulasa pesh kiya jo difa ke haq mein jhuka hua tha.",
+          "visual": {
+            "type": "card",
+            "title": "JUDGE JUSTIN DEWEY",
+            "text": "Appointed by Robinson as governor"
+          }
+        },
+        {
+          "id": "c6b20",
+          "text": "20 جون 1893 کو jury deliberation کے لیے گئی۔ اخبارات کے مطابق فیصلہ صرف 40 منٹ میں، ایک ہی ووٹنگ میں آ گیا — گو کچھ بعد کی روایات ڈیڑھ گھنٹے بتاتی ہیں۔",
+          "roman": "20 June 1893 ko jury deliberation ke liye gayi. Akhbarat ke mutabiq faisla sirf 40 minute mein, ek hi voting mein aa gaya — go kuch baad ki riwayaat derh ghanta batati hain.",
+          "visual": {
+            "type": "card",
+            "title": "40 MINUTES",
+            "text": "Jury acquits Lizzie Borden, June 20, 1893"
+          }
+        },
+        {
+          "id": "c6b21",
+          "text": "jury نے Lizzie کو بری قرار دے دیا۔ عدالت سے نکلتے ہوئے اس نے صحافیوں سے کہا: 'میں دنیا کی سب سے خوش عورت ہوں۔'",
+          "roman": "Jury ne Lizzie ko bari qarar de diya. Adalat se nikalte huay us ne sahafiyon se kaha: 'Main duniya ki sab se khush aurat hoon.'",
+          "visual": {
+            "type": "photo",
+            "photo": "p2"
+          }
+        },
+        {
+          "id": "c6b22",
+          "text": "یہ trial بعد میں Bruno Hauptmann، Ethel اور Julius Rosenberg، اور O.J. Simpson کے مشہور مقدمات سے موازنہ کیا جانے لگا — امریکی قانونی تاریخ کا ایک سنگِ میل۔",
+          "roman": "Yeh trial baad mein Bruno Hauptmann, Ethel aur Julius Rosenberg, aur O.J. Simpson ke mashhoor muqadmaat se muwazna kiya jane laga — America ki qanooni tareekh ka ek sang-e-meel.",
+          "visual": {
+            "type": "clip",
+            "query": "historic courthouse crowd outside",
+            "prompt": "Lizzie Borden: pale, stern-faced woman, early 30s, dark hair pulled back tightly, high-collared Victorian dress (grey or black), composed but cold expression, later wears finer Edwardian dresses at Maplecroft. Andrew Borden: gaunt elderly man, 69, thin white side-whiskers, plain dark 1890s suit, frugal appearance. Abby Borden: heavyset woman in her 60s, modest grey/floral Victorian dress, kind but wary face. Bridget 'Maggie' Sullivan: young Irish maid, mid-20s, plain apron and cap, tired expression. Emma Borden: older spinster sister, thin, plain dark dress, anxious demeanor. Setting: the cramped, dark, plumbing-less Borden house on Second Street, Fall River, 1892 — narrow staircases, heavy drapes, gaslight; later, the grand Hill District mansion 'Maplecroft' with wide porches and staff."
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "On August 8, Lizzie's inquest hearing began. The court denied her request to have the family attorney present, since by law the inquest was supposed to be private. She was being given morphine to calm her nerves, and this may be why her testimony was confused. She repeatedly refused to answer questions, even when the answer would have worked in her favor. Sometimes she said she was reading a magazine in the kitchen, sometimes that she was ironing in the dining room.",
+        "On August 11, Lizzie was given an arrest warrant and sent to jail. This inquest testimony was later ruled inadmissible at trial. Newspapers wrote that Lizzie's demeanor was 'cold and unaffected,' that she chewed her lips, and leaned toward her attorney Adams. The Boston Globe itself published a three-page report on this inquest. Some friends began saying this testimony had changed their opinion of her.",
+        "On November 7, the grand jury began hearing evidence, and on December 2, 1892, Lizzie was formally indicted. On June 5, 1893, Lizzie's trial began in New Bedford. The prosecution was led by Hosea Knowlton and William Henry Moody, who later became Justices of the U.S. Supreme Court. The defense included Andrew Jennings, Melvin Adams, and former Massachusetts Governor George Robinson, who personally led Lizzie's defense.",
+        "Just five days before the trial, on June 1, another axe-murder occurred in Fall River—Bertha Manchester was found dead in her kitchen. Jurors certainly took note of this similarity. Jose Correa de Mello was later found guilty of Manchester's murder, but it was established that he wasn't even in Fall River at the time of the Borden murders.",
+        "The matter of the hatchet-head came up repeatedly during the trial, but the prosecution could not prove it was the actual murder weapon. No bloodied clothing was ever found at the scene, but Alice Russell testified that she saw Lizzie burning a dress, which was said to be ruined by paint. The defense never challenged this statement.",
+        "Lizzie's whereabouts also remained disputed. Sullivan said she went upstairs at about 10:58, leaving Lizzie and her father downstairs. Lizzie said she was in the barn for twenty minutes to half an hour. Witness Hyman Lubinsky said he saw Lizzie leaving the barn at 11:03, and Charles Gardner confirmed the time. At 11:10, Lizzie called Sullivan downstairs, told her of the murders, and sent her to fetch the doctor.",
+        "Both bodies' heads were removed during autopsy. When, on June 5, 1893, these skulls were presented as evidence in the courtroom, Lizzie fainted at the sight of them. The judge excluded the evidence about the attempted purchase of prussic acid, saying it was too far removed in time from the murders. Justice Justin Dewey, whom Robinson had appointed as governor, gave the jury a lengthy summary that leaned in the defense's favor.",
+        "On June 20, 1893, the jury went to deliberate. Newspapers reported the verdict came in just 40 minutes, in a single vote—though some later accounts say it took an hour and a half. The jury found Lizzie not guilty. Leaving the courtroom, she told reporters: 'I am the happiest woman in the world.' This trial would later be compared to the famous cases of Bruno Hauptmann, Ethel and Julius Rosenberg, and O.J. Simpson—a milestone in America's legal history."
+      ]
+    },
+    {
+      "titleEn": "Who Really Swung the Axe?",
+      "titleRoman": "Kulhari Kisne Chalai?",
+      "covers": "The major theories: Lizzie in a fugue state, sexual abuse motive, the lesbian tryst theory involving Bridget Sullivan per Ed McBain, rumors of Lizzie's later lesbianism, John Morse as suspect with his overly detailed alibi, the William Borden illegitimate son theory disproven by Rebello, and Frank Spiering's Emma Borden theory",
+      "words": 550,
+      "beats": [
+        {
+          "id": "c7b1",
+          "text": "Trial ختم ہو گیا لیکن سوال ابھی باقی تھا — اگر Lizzie نے قتل نہیں کیا، تو کس نے کیا؟ آج تک experts کے پاس اس کا کوئی confirmed جواب نہیں۔",
+          "roman": "Trial khatam ho gaya lekin sawal abhi baqi tha — agar Lizzie ne qatal nahi kiya, to kis ne kiya? Aaj tak experts ke paas is ka koi confirmed jawab nahi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Empty 1890s courtroom at dusk, wooden benches, soft ambiguous light, mood of unresolved mystery, no people"
+          }
+        },
+        {
+          "id": "c7b2",
+          "text": "سب سے پہلی theory خود Lizzie کے بارے میں ہے۔ writer Victoria Lincoln نے 1967 میں تجویز دی کہ وہ ایک fugue state میں یہ قتل کر سکتی تھیں۔",
+          "roman": "Sab se pehli theory khud Lizzie ke baare mein hai. Writer Victoria Lincoln ne 1967 mein tajweez di ke woh aik fugue state mein yeh qatal kar sakti theen.",
+          "visual": {
+            "type": "card",
+            "title": "VICTORIA LINCOLN, 1967",
+            "text": "Proposed the fugue-state theory"
+          }
+        },
+        {
+          "id": "c7b3",
+          "text": "Fugue state ایک ایسی dissociative condition ہے جس میں انسان کو اپنے actions یاد نہیں رہتے۔ اس theory کے مطابق Lizzie کو ہوش ہی نہیں تھا کہ اس نے کیا کیا۔",
+          "roman": "Fugue state aik aisi dissociative condition hai jis mein insaan ko apne actions yaad nahi rehte. Is theory ke mutabiq Lizzie ko hosh hi nahi tha ke us ne kya kiya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Victorian woman with blank dazed stare standing in dim hallway, foggy dreamlike atmosphere, no gore"
+          }
+        },
+        {
+          "id": "c7b4",
+          "text": "دوسری بڑی theory یہ ہے کہ Andrew Borden اپنی بیٹی کے ساتھ physically اور sexually abusive تھا، اور یہی غصہ قتل کی وجہ بنا۔",
+          "roman": "Doosri bari theory yeh hai ke Andrew Borden apni beti ke saath physically aur sexually abusive tha, aur yehi ghussa qatal ki wajah bana.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Silhouette of gaunt elderly man in dark 1890s suit standing in narrow corridor, ominous shadow, no violence shown"
+          }
+        },
+        {
+          "id": "c7b5",
+          "text": "اس دعوے کے حق میں ٹھوس evidence بہت کم ہے۔ لیکن 1892 میں incest جیسا موضوع کھلے عام discuss ہی نہیں ہوتا تھا، اور اس زمانے کے forensic methods بھی محدود تھے۔",
+          "roman": "Is da'we ke haq mein thos evidence bohat kam hai. Lekin 1892 mein incest jaisa mauzu khule aam discuss hi nahi hota tha, aur us zamane ke forensic methods bhi mehdood thay.",
+          "visual": {
+            "type": "clip",
+            "query": "old newspaper printing press",
+            "prompt": "1890s newspaper printing press running, black and white archival style"
+          }
+        },
+        {
+          "id": "c7b6",
+          "text": "یہ شبہ اس وقت کے local اخبارات میں بھی اشارتاً موجود تھا، اور scholar Marcia Carlisle نے 1992 کے ایک essay میں دوبارہ اس theory پر روشنی ڈالی۔",
+          "roman": "Yeh shuba us waqt ke local akhbaraat mein bhi isharatan mojood tha, aur scholar Marcia Carlisle ne 1992 ke aik essay mein dobara is theory par roshni dali.",
+          "visual": {
+            "type": "card",
+            "title": "MARCIA CARLISLE, 1992",
+            "text": "Revisited the abuse theory in an essay"
+          }
+        },
+        {
+          "id": "c7b7",
+          "text": "پھر آتی ہے سب سے حیران کن theory۔ mystery writer Evan Hunter، جو Ed McBain کے نام سے مشہور تھے، نے 1984 کے novel Lizzie میں ایک بالکل مختلف کہانی پیش کی۔",
+          "roman": "Phir aati hai sab se hairan kun theory. Mystery writer Evan Hunter, jo Ed McBain ke naam se mash'hoor thay, ne 1984 ke novel Lizzie mein aik bilkul mukhtalif kahani pesh ki.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Vintage 1980s pulp novel cover illustration style, Victorian woman and maid figures in shadow, no text"
+          }
+        },
+        {
+          "id": "c7b8",
+          "text": "McBain کی theory کے مطابق Lizzie کو maid Bridget Sullivan کے ساتھ ایک tryst میں پکڑا گیا، اور یہی راز چھپانے کے لیے دونوں قتل ہوئے۔",
+          "roman": "McBain ki theory ke mutabiq Lizzie ko maid Bridget Sullivan ke saath aik tryst mein pakra gaya, aur yehi raaz chhupane ke liye dono qatal huay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Two Victorian women silhouettes standing close in dim candlelit kitchen, tense mood, no explicit content"
+          }
+        },
+        {
+          "id": "c7b9",
+          "text": "1999 کے ایک interview میں McBain نے مزید تفصیل دی — کہا کہ Abby نے دونوں کو دیکھ کر شدید ردعمل دیا، اور Lizzie نے اسے candlestick سے مارا۔",
+          "roman": "1999 ke aik interview mein McBain ne mazeed tafseel di — kaha ke Abby ne dono ko dekh kar shadeed rad-e-amal diya, aur Lizzie ne usay candlestick se mara.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Dim Victorian bedroom interior, single candlestick on nightstand, dramatic shadows, no violence depicted"
+          }
+        },
+        {
+          "id": "c7b10",
+          "text": "اس کے بعد Lizzie نے واپس آنے پر Andrew کو سچ بتایا، لیکن اس کا ردعمل بھی ویسا ہی تھا — اور غصے میں hatchet استعمال ہوا، McBain کے مطابق۔",
+          "roman": "Is ke ba'd Lizzie ne wapas aane par Andrew ko sach bataya, lekin us ka rad-e-amal bhi waisa hi tha — aur ghusse mein hatchet istemaal hua, McBain ke mutabiq.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Old hatchet resting on wooden table in dim lamp light, quiet ominous still life, no blood"
+          }
+        },
+        {
+          "id": "c7b11",
+          "text": "McBain نے یہ بھی قیاس کیا کہ hatchet بعد میں Sullivan نے کہیں چھپا دیا۔ یاد رہے، یہ صرف ایک novelist کا قیاس ہے، کوئی ثابت شدہ fact نہیں۔",
+          "roman": "McBain ne yeh bhi qiyas kiya ke hatchet ba'd mein Sullivan ne kahin chhupa diya. Yaad rahe, yeh sirf aik novelist ka qiyas hai, koi sabit shuda fact nahi.",
+          "visual": {
+            "type": "card",
+            "title": "A NOVELIST'S THEORY",
+            "text": "Not proven, only speculation"
+          },
+          "highlight": "A NOVELIST'S THEORY, NOT FACT"
+        },
+        {
+          "id": "c7b12",
+          "text": "بعد کے سالوں میں یہ افواہ بھی پھیلی کہ Lizzie lesbian تھیں۔ لیکن Bridget Sullivan کے بارے میں ایسی کوئی speculation کبھی سامنے نہیں آئی۔",
+          "roman": "Ba'd ke saalon mein yeh afwah bhi phaili ke Lizzie lesbian theen. Lekin Bridget Sullivan ke baare mein aisi koi speculation kabhi samne nahi aayi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Elderly Victorian-Edwardian woman standing alone on grand porch of large hilltop mansion, contemplative"
+          }
+        },
+        {
+          "id": "c7b13",
+          "text": "Sullivan بعد میں Montana کے شہر Butte منتقل ہو گئیں، جہاں انہوں نے شادی کی، اور 1948 میں وہیں وفات پائی۔",
+          "roman": "Sullivan ba'd mein Montana ke shehar Butte muntaqil ho gayeen, jahan unhon ne shadi ki, aur 1948 mein wahin wafat paai.",
+          "visual": {
+            "type": "map",
+            "place": "Butte, Montana",
+            "lat": 46,
+            "lon": -112.5,
+            "zoom": "region",
+            "label": "Bridget Sullivan's later life"
+          }
+        },
+        {
+          "id": "c7b14",
+          "text": "ایک روایت یہ بھی ہے کہ Sullivan نے مرنے سے پہلے اپنی بہن کو بتایا کہ اس نے عدالت میں بیان بدلا تھا تاکہ Lizzie کو بچا سکے۔ لیکن یہ دعویٰ بھی متنازع ہے۔",
+          "roman": "Aik riwayat yeh bhi hai ke Sullivan ne marne se pehle apni behn ko bataya ke us ne adalat mein bayan badla tha taake Lizzie ko bacha sake. Lekin yeh da'wa bhi mutanaze hai.",
+          "visual": {
+            "type": "card",
+            "title": "DEATHBED CONFESSION?",
+            "text": "A disputed later claim"
+          }
+        },
+        {
+          "id": "c7b15",
+          "text": "records کے مطابق Sullivan کی موت کی اطلاع County Hospital نے دی تھی، کسی individual نے نہیں — اس لیے یہ کہانی مشکوک سمجھی جاتی ہے۔",
+          "roman": "Records ke mutabiq Sullivan ki maut ki ittila County Hospital ne di thi, kisi individual ne nahi — is liye yeh kahani mashkook samjhi jaati hai.",
+          "visual": {
+            "type": "clip",
+            "query": "old hospital records archive",
+            "prompt": "Old dusty hospital record ledger and filing cabinet, sepia tone"
+          }
+        },
+        {
+          "id": "c7b16",
+          "text": "اب بات کرتے ہیں ایک اور اہم suspect کی — John Morse، Lizzie کے maternal uncle، جو قتل سے ایک رات پہلے ہی Borden گھر میں ٹھہرے تھے۔",
+          "roman": "Ab baat karte hain aik aur aham suspect ki — John Morse, Lizzie ke maternal uncle, jo qatal se aik raat pehle hi Borden ghar mein thehre thay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Middle-aged Victorian man in dark suit sitting alone in modest guest bedroom, candlelight, contemplative"
+          }
+        },
+        {
+          "id": "c7b17",
+          "text": "Morse شاذ و نادر ہی خاندان سے ملنے آتے تھے۔ police کے مطابق ان کا alibi اتنا perfect اور over-detailed تھا کہ خود شک پیدا کرتا تھا۔",
+          "roman": "Morse shaz o nadir hi khandan se milne aate thay. Police ke mutabiq un ka alibi itna perfect aur over-detailed tha ke khud shak paida karta tha.",
+          "visual": {
+            "type": "card",
+            "title": "JOHN MORSE",
+            "text": "An alibi so detailed it raised suspicion"
+          },
+          "highlight": "SUSPICIOUSLY PERFECT ALIBI"
+        },
+        {
+          "id": "c7b18",
+          "text": "کچھ عرصے کے لیے پولیس نے John Morse کو بھی suspect کے طور پر رکھا۔",
+          "roman": "Kuch arse ke liye police ne John Morse ko bhi suspect ke taur par rakha.",
+          "visual": {
+            "type": "clip",
+            "query": "old police files desk",
+            "prompt": "1890s detective desk with case files and magnifying glass, sepia tone"
+          },
+          "factFix": "Source only states Morse 'was considered a suspect by police for a period' — it does not say no solid evidence was ever found against him. That claim is an unsupported addition."
+        },
+        {
+          "id": "c7b19",
+          "text": "ایک اور عجیب theory ایک شخص William Borden سے جڑی ہے، جسے author Arnold Brown نے Andrew کا illegitimate بیٹا قرار دیا۔",
+          "roman": "Aik aur ajeeb theory aik shakhs William Borden se juri hai, jise author Arnold Brown ne Andrew ka illegitimate beta qarar diya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Young man in worn 1890s coat standing outside a grand wealthy house looking up, envious expression"
+          }
+        },
+        {
+          "id": "c7b20",
+          "text": "Brown کے مطابق William نے اپنے مبینہ باپ سے پیسے نکلوانے کی کوشش کی اور ناکام رہا۔ لیکن researcher Leonard Rebello نے وسیع تحقیق کے بعد ثابت کیا کہ William دراصل Andrew کا بیٹا تھا ہی نہیں۔",
+          "roman": "Brown ke mutabiq William ne apne mabina baap se paise nikalwane ki koshish ki aur nakaam raha. Lekin researcher Leonard Rebello ne wasee tahqeeq ke ba'd sabit kiya ke William dar-asal Andrew ka beta tha hi nahin.",
+          "visual": {
+            "type": "card",
+            "title": "LEONARD REBELLO",
+            "text": "Research disproved the William Borden theory"
+          }
+        },
+        {
+          "id": "c7b21",
+          "text": "آخری بڑی theory خود بڑی بہن Emma کے بارے میں ہے۔ crime writer Frank Spiering نے 1984 کی اپنی کتاب Lizzie میں دعویٰ کیا کہ شاید Emma خفیہ طور پر گھر آئی ہو۔",
+          "roman": "Aakhri bari theory khud bari behn Emma ke baare mein hai. Crime writer Frank Spiering ne 1984 ki apni kitab Lizzie mein da'wa kiya ke shayad Emma khufia taur par ghar aayi ho.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Thin anxious Victorian spinster woman standing at a rural train platform, looking back nervously, era detail"
+          }
+        },
+        {
+          "id": "c7b22",
+          "text": "Emma کا alibi Fairhaven میں تھا، جو Fall River سے تقریباً 15 میل دور ہے۔ Spiering کے مطابق وہ خفیہ طور پر واپس آ کر قتل کر کے بروقت Fairhaven لوٹ سکتی تھیں۔",
+          "roman": "Emma ka alibi Fairhaven mein tha, jo Fall River se taqreeban 15 mile door hai. Spiering ke mutabiq woh khufia taur par wapas aa kar qatal kar ke barwaqt Fairhaven laut sakti theen.",
+          "visual": {
+            "type": "map",
+            "place": "Fairhaven, Massachusetts",
+            "lat": 41.64,
+            "lon": -70.9,
+            "zoom": "region",
+            "label": "Emma's alibi location, 15 miles away"
+          }
+        },
+        {
+          "id": "c7b23",
+          "text": "لیکن ان تمام theories میں سے کوئی بھی کبھی عدالت میں ثابت نہیں ہوئی۔ Lizzie Borden آج بھی prime suspect ہی مانی جاتی ہیں، مگر سچائی ہمیشہ کے لیے دفن ہو چکی ہے۔",
+          "roman": "Lekin in tamam theories mein se koi bhi kabhi adalat mein sabit nahi hui. Lizzie Borden aaj bhi prime suspect hi maani jaati hain, magar sachai hamesha ke liye dafan ho chuki hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Misty old cemetery with weathered Victorian gravestones at dusk, solemn quiet mood"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "The trial ended, but the question remained—if Lizzie didn't commit the murders, who did? To this day, experts have no confirmed answer. The very first theory concerns Lizzie herself. Writer Victoria Lincoln proposed in 1967 that she may have committed the murders while in a fugue state. A fugue state is a dissociative condition in which a person does not remember their own actions. According to this theory, Lizzie wasn't even conscious of what she had done.",
+        "The second major theory holds that Andrew Borden was physically and sexually abusive toward his daughter, and this anger led to the murders. Solid evidence for this claim is very scarce. But in 1892, a subject like incest wasn't openly discussed at all, and forensic methods of that era were also limited. This suspicion was hinted at in local newspapers of the time as well, and scholar Marcia Carlisle shed new light on this theory in a 1992 essay.",
+        "Then comes the most surprising theory. Mystery writer Evan Hunter, known by the pen name Ed McBain, presented a completely different story in his 1984 novel Lizzie. According to McBain's theory, Lizzie was caught in a tryst with maid Bridget Sullivan, and the murders happened to hide this secret. In a 1999 interview, McBain gave further detail—saying that Abby reacted with shock upon seeing the two, and Lizzie struck her with a candlestick.",
+        "After that, according to McBain, Lizzie told Andrew the truth upon his return, but his reaction was similar—and in anger, a hatchet was used. McBain also speculated that the hatchet was later hidden by Sullivan somewhere. Remember, this is only a novelist's speculation, not a proven fact.",
+        "In later years, rumors also spread that Lizzie was a lesbian. But no such speculation about Bridget Sullivan ever surfaced. Sullivan later moved to Butte, Montana, where she married, and died there in 1948. One account claims Sullivan told her sister before dying that she had changed her testimony in court to save Lizzie. But this claim is also disputed. Records show that Sullivan's death was reported by the County Hospital, not by any individual—which is why this story is considered doubtful.",
+        "Now let's talk about another important suspect—John Morse, Lizzie's maternal uncle, who had stayed at the Borden house the very night before the murders. Morse rarely visited the family. According to police, his alibi was so perfect and over-detailed that it aroused suspicion on its own. For some time, police kept John Morse as a suspect too.",
+        "Another strange theory concerns a man named William Borden, whom author Arnold Brown claimed was Andrew's illegitimate son. According to Brown, William tried to extract money from his biological father and failed. But researcher Leonard Rebello, after extensive research, proved that William was not actually Andrew's son at all.",
+        "The final major theory concerns the elder sister, Emma. Crime writer Frank Spiering claimed in his 1984 book Lizzie that Emma may have secretly come to the house. Emma's alibi placed her in Fairhaven, about 15 miles from Fall River. According to Spiering, she could have secretly returned, committed the murders, and gotten back to Fairhaven in time. But none of these theories has ever been proven in court. Lizzie Borden is still considered the prime suspect today, but the truth has been buried forever."
+      ]
+    },
+    {
+      "titleEn": "Maplecroft and a Quiet End",
+      "titleRoman": "Maplecroft Aur Khamosh Anjaam",
+      "covers": "Life after acquittal: moving to Maplecroft in the Hill District, social ostracism, the 1897 shoplifting accusation, the falling out with Emma over the Nance O'Neil friendship in 1905, Lizzie's death from pneumonia in 1927, Emma's death nine days later, their estate and charitable bequests, and burial together at Oak Grove Cemetery",
+      "words": 400,
+      "beats": [
+        {
+          "id": "c8b1",
+          "text": "Trial کے بعد Lizzie اور Emma نے Fall River کے امیر ترین علاقے The Hill District میں ایک بڑا، جدید گھر خریدا۔",
+          "roman": "Trial ke ba'd Lizzie aur Emma ne Fall River ke ameer tareen elaqe The Hill District mein aik bara, jadeed ghar khareeda.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Large elegant Edwardian mansion with wide porches on a hilltop street, late 1890s, warm afternoon light"
+          }
+        },
+        {
+          "id": "c8b2",
+          "text": "اس گھر کا نام انہوں نے خود رکھا — Maplecroft۔ یہیں سے Lizzie نے اپنا نام بدل کر Lizbeth A. Borden رکھ لیا۔",
+          "roman": "Is ghar ka naam unhon ne khud rakha — Maplecroft. Yahin se Lizzie ne apna naam badal kar Lizbeth A. Borden rakh liya.",
+          "visual": {
+            "type": "card",
+            "title": "MAPLECROFT",
+            "text": "New name: Lizbeth A. Borden"
+          }
+        },
+        {
+          "id": "c8b3",
+          "text": "Maplecroft میں live-in maids، ایک housekeeper اور ایک coachman سمیت پورا staff رکھا گیا۔",
+          "roman": "Maplecroft mein live-in maids, aik housekeeper aur aik coachman samet poora staff rakha gaya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Wealthy Victorian household staff standing outside grand mansion porch, formal uniforms, 1890s"
+          },
+          "factFix": "The claim that Maplecroft's staff represented 'the life their father never wanted to afford' is an invented editorial detail not stated in the source, which only lists the staff (live-in maids, housekeeper, coachman) without this comparison."
+        },
+        {
+          "id": "c8b4",
+          "text": "Andrew کی estate کا پیسہ آخرکار دونوں بہنوں کے پاس آ گیا، کیونکہ قانونی طور پر Abby کی موت پہلے مانی گئی، اس لیے جائیداد پہلے Andrew کو اور پھر بیٹیوں کو ملی۔",
+          "roman": "Andrew ki estate ka paisa aakhirkar dono behnon ke paas aa gaya, kyunke qanuni taur par Abby ki maut pehle mani gayi, is liye jaidad pehle Andrew ko aur phir betiyon ko mili.",
+          "visual": {
+            "type": "clip",
+            "query": "old legal documents desk",
+            "prompt": "Antique legal documents and wax seal on wooden desk, sepia tone"
+          }
+        },
+        {
+          "id": "c8b5",
+          "text": "Abby کے خاندان نے بھی دعویٰ کیا، اور آخرکار ایک بھاری settlement ادا کر کے معاملہ حل کیا گیا۔",
+          "roman": "Abby ke khandaan ne bhi da'wa kiya, aur aakhirkar aik bhari settlement ada kar ke maamla hal kiya gaya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Two Victorian men in suits shaking hands over a desk of papers, lawyer's office"
+          }
+        },
+        {
+          "id": "c8b6",
+          "text": "لیکن پیسہ ہونے کے باوجود Fall River کا society Lizzie کو کبھی قبول نہیں کر سکا۔ acquittal کے بعد بھی وہ معاشرتی طور پر تنہا ہی رہیں۔",
+          "roman": "Lekin paisa hone ke bawajood Fall River ka society Lizzie ko kabhi qabool nahi kar saka. Acquittal ke ba'd bhi woh mua'sharti taur par tanha hi raheen.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Well-dressed Victorian woman standing alone on a mansion porch, empty street beyond, isolated mood"
+          },
+          "highlight": "SOCIALLY OSTRACIZED"
+        },
+        {
+          "id": "c8b7",
+          "text": "1897 میں ایک بار پھر ان کا نام اخبارات میں آیا، جب Rhode Island کے شہر Providence میں ان پر shoplifting کا الزام لگا۔",
+          "roman": "1897 mein aik baar phir un ka naam akhbaraat mein aaya, jab Rhode Island ke shehar Providence mein un par shoplifting ka ilzam laga.",
+          "visual": {
+            "type": "map",
+            "place": "Providence, Rhode Island",
+            "lat": 41.82,
+            "lon": -71.41,
+            "zoom": "region",
+            "label": "1897 shoplifting accusation"
+          }
+        },
+        {
+          "id": "c8b8",
+          "text": "1905 میں ایک اور بڑا موڑ آیا۔ Lizzie نے اداکارہ Nance O'Neil کے لیے ایک party دی، جس پر Emma کے ساتھ شدید جھگڑا ہوا۔",
+          "roman": "1905 mein aik aur bara mor aaya. Lizzie ne adakara Nance O'Neil ke liye aik party di, jis par Emma ke saath shadeed jhagra hua.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Elegant Edwardian party scene, two sisters arguing tensely in a mansion doorway, dim lamp light"
+          }
+        },
+        {
+          "id": "c8b9",
+          "text": "اس جھگڑے کے بعد Emma گھر چھوڑ کر چلی گئیں اور دوبارہ کبھی اپنی بہن سے نہیں ملیں۔ دونوں بہنیں جو بچپن سے ساتھ تھیں، اب ہمیشہ کے لیے الگ ہو گئیں۔",
+          "roman": "Is jhagre ke ba'd Emma ghar chhor kar chali gayeen aur dobara kabhi apni behn se nahi mileen. Dono behnein jo bachpan se saath theen, ab hamesha ke liye alag ho gayeen.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Empty grand Edwardian house corridor, single silhouette figure walking away, melancholic light"
+          }
+        },
+        {
+          "id": "c8b10",
+          "text": "Emma نیو ہیمپشائر منتقل ہو گئیں، جبکہ Lizzie Maplecroft میں اکیلی رہ گئیں۔ اپنی زندگی کے آخری سال میں انہوں نے gallbladder کا آپریشن کروایا اور بیمار رہنے لگیں۔",
+          "roman": "Emma New Hampshire muntaqil ho gayeen, jabke Lizzie Maplecroft mein akeli reh gayeen. Apni zindagi ke aakhri saal mein unhon ne gallbladder ka operation karwaya aur bimar rehne lageen.",
+          "visual": {
+            "type": "map",
+            "place": "Newmarket, New Hampshire",
+            "lat": 43.07,
+            "lon": -70.94,
+            "zoom": "region",
+            "label": "Emma's home after leaving Maplecroft"
+          }
+        },
+        {
+          "id": "c8b11",
+          "text": "یکم جون 1927 کو، 66 سال کی عمر میں، Lizzie Borden Fall River میں نمونیا سے انتقال کر گئیں۔ ان کی تدفین کی تفصیلات شائع نہیں ہوئیں، اور بہت کم لوگ جنازے میں شریک ہوئے۔",
+          "roman": "1 June 1927 ko, 66 saal ki umar mein, Lizzie Borden Fall River mein pneumonia se intiqal kar gayeen. Un ki tadfeen ki tafseelat shaya nahi hueen, aur bohat kam log janaze mein shareek huay.",
+          "visual": {
+            "type": "card",
+            "title": "1 JUNE 1927",
+            "text": "Lizzie dies of pneumonia, age 66"
+          }
+        },
+        {
+          "id": "c8b12",
+          "text": "حیران کن بات یہ ہے کہ صرف نو دن بعد، Emma بھی New Hampshire کے ایک nursing home میں انتقال کر گئیں۔ وہ 76 سال کی تھیں اور chronic nephritis کا شکار تھیں۔",
+          "roman": "Hairan kun baat yeh hai ke sirf nau din ba'd, Emma bhi New Hampshire ke aik nursing home mein intiqal kar gayeen. Woh 76 saal ki theen aur chronic nephritis ka shikar theen.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Quiet 1920s nursing home room, empty bed by window, soft morning light, melancholic"
+          },
+          "highlight": "EMMA DIES 9 DAYS LATER"
+        },
+        {
+          "id": "c8b13",
+          "text": "موت کے وقت Lizzie کی مجموعی دولت 250,000 ڈالر سے زیادہ تھی — آج کے حساب سے تقریباً 62 لاکھ ڈالر۔ ان کے پاس گھر، دفتری عمارتیں، shares، دو گاڑیاں اور بہت سا زیور تھا۔",
+          "roman": "Maut ke waqt Lizzie ki majmooi daulat 250,000 dollar se zyada thi — aaj ke hisaab se taqreeban 62 lakh dollar. Un ke paas ghar, daftari imaratein, shares, do gaariyan aur bohat sa zewar tha.",
+          "visual": {
+            "type": "card",
+            "title": "$250,000 ESTATE",
+            "text": "About $6.2 million in 2025"
+          }
+        },
+        {
+          "id": "c8b14",
+          "text": "انہوں نے اپنی وصیت میں 30,000 ڈالر Fall River کی Animal Rescue League کو دیے، اور اپنے والد کی قبر کی مستقل دیکھ بھال کے لیے 500 ڈالر مختص کیے۔",
+          "roman": "Unhon ne apni wasiyat mein 30,000 dollar Fall River ki Animal Rescue League ko diye, aur apne walid ki qabar ki mustaqil dekh-bhaal ke liye 500 dollar mukhtas kiye.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Old cemetery gravestone being gently tended, flowers placed, quiet respectful mood"
+          }
+        },
+        {
+          "id": "c8b15",
+          "text": "قریبی دوستوں اور رشتہ داروں کو بھی حصہ ملا، کچھ کو ہزاروں ڈالر تک۔ لیکن جو دونوں بہنیں زندگی میں الگ ہو گئی تھیں، وہ موت میں پھر ایک ساتھ آ گئیں۔",
+          "roman": "Qareebi doston aur rishtedaron ko bhi hissa mila, kuch ko hazaron dollar tak. Lekin jo dono behnein zindagi mein alag ho gayi theen, woh maut mein phir aik saath aa gayeen.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Two weathered gravestones standing side by side under an old oak tree, soft light"
+          }
+        },
+        {
+          "id": "c8b16",
+          "text": "Lizzie اور Emma دونوں کبھی شادی نہیں کر سکیں، اور آخرکار Fall River کے Oak Grove Cemetery میں اپنے خاندانی قطعے میں، اپنے والد اور سوتیلی ماں کے ساتھ ہی دفن ہوئیں۔",
+          "roman": "Lizzie aur Emma dono kabhi shadi nahi kar sakeen, aur aakhirkar Fall River ke Oak Grove Cemetery mein apne khandani qite mein, apne walid aur soteli maa ke saath hi dafan hueen.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Family burial plot with several Victorian gravestones together in a quiet cemetery, overcast sky, solemn"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "After the trial, Lizzie and Emma bought a large, modern house in Fall River's wealthiest neighborhood, The Hill District. They named the house themselves—Maplecroft. It was here that Lizzie changed her name to Lizbeth A. Borden. Maplecroft was staffed with live-in maids, a housekeeper, and a coachman.",
+        "Andrew's estate money eventually went to both sisters, because legally Abby's death was ruled to have occurred first, so the property first went to Andrew and then to the daughters. Abby's family also made a claim, and eventually a large settlement was paid to resolve the matter. But despite having money, Fall River society never accepted Lizzie. Even after her acquittal, she remained socially isolated.",
+        "In 1897, her name appeared in newspapers again, when she was accused of shoplifting in Providence, Rhode Island. In 1905, another major turning point occurred. Lizzie threw a party for actress Nance O'Neil, which led to a severe quarrel with Emma. After this quarrel, Emma left the house and never met her sister again. The two sisters, who had been together since childhood, were now separated forever. Emma moved to New Hampshire, while Lizzie remained alone at Maplecroft.",
+        "In her final years, she had gallbladder surgery and began falling ill. On June 1, 1927, at age 66, Lizzie Borden died of pneumonia in Fall River. Details of her burial were not publicized, and very few people attended the funeral. Remarkably, just nine days later, Emma also died, in a nursing home in New Hampshire. She was 76 and suffered from chronic nephritis.",
+        "At the time of her death, Lizzie's total wealth exceeded $250,000—roughly $6.2 million today. She owned a house, office buildings, shares, two cars, and a great deal of jewelry. In her will, she left $30,000 to Fall River's Animal Rescue League, and set aside $500 for the permanent maintenance of her father's grave. Close friends and relatives also received shares, some amounting to thousands of dollars. But the two sisters who had separated in life were reunited in death. Lizzie and Emma both never married, and were ultimately buried in the family plot at Fall River's Oak Grove Cemetery, alongside their father and stepmother."
+      ]
+    },
+    {
+      "titleEn": "The Legend That Won't Die",
+      "titleRoman": "Wo Kahani Jo Khatam Nahi Hoti",
+      "covers": "Conclusion: the folk rhyme's inaccuracy, the case's massive cultural legacy in film, theater, literature and music, the enduring mystery of who committed the murders, reflection on how justice and doubt coexist over a century later, closing call to like and subscribe",
+      "words": 190,
+      "beats": [
+        {
+          "id": "c9b1",
+          "text": "یہ کیس ایک popular skipping-rope rhyme میں بھی امر ہو گیا، جو اس زمانے کے مشہور گانے Ta-ra-ra Boom-de-ay کی دھن پر گایا جاتا تھا۔",
+          "roman": "Yeh case aik popular skipping-rope rhyme mein bhi amar ho gaya, jo us zamane ke mash'hoor gaane Ta-ra-ra Boom-de-ay ki dhun par gaya jaata tha.",
+          "visual": {
+            "type": "clip",
+            "query": "children skipping rope vintage",
+            "prompt": "Black and white 1930s children skipping rope in a street, playful nostalgic mood"
+          }
+        },
+        {
+          "id": "c9b2",
+          "text": "لیکن یہ rhyme پوری طرح غلط ہے۔ اصل میں Abby کو 18 یا 19 وار لگے تھے، اور Andrew کو صرف 11 — نہ کہ چالیس اور اکتالیس۔",
+          "roman": "Lekin yeh rhyme poori tarah ghalat hai. Asal mein Abby ko 18 ya 19 waar lage thay, aur Andrew ko sirf 11 — na ke chaalees aur iktaalees.",
+          "visual": {
+            "type": "card",
+            "title": "THE RHYME IS WRONG",
+            "text": "Abby: 18-19 blows, Andrew: 11"
+          },
+          "highlight": "RHYME FACTS ARE WRONG"
+        },
+        {
+          "id": "c9b3",
+          "text": "اس کے باوجود Lizzie Borden کی کہانی امریکی popular culture کا حصہ بن گئی — films، plays، operas، ballets اور novels میں بار بار دہرائی گئی۔",
+          "roman": "Is ke bawajood Lizzie Borden ki kahani American popular culture ka hissa ban gayi — films, plays, operas, ballets aur novels mein baar baar dohrai gayi.",
+          "visual": {
+            "type": "clip",
+            "query": "vintage film reel projector",
+            "prompt": "Old cinema film reel spinning on a projector, warm nostalgic light"
+          }
+        },
+        {
+          "id": "c9b4",
+          "text": "Elizabeth Montgomery سے لے کر Christina Ricci اور Chloë Sevigny تک، کئی اداکاراؤں نے Lizzie کا کردار نبھایا۔ اور اب Netflix کی series Monster میں بھی یہ کہانی نئے سرے سے پیش ہو رہی ہے۔",
+          "roman": "Elizabeth Montgomery se le kar Christina Ricci aur Chloë Sevigny tak, kai adakaraon ne Lizzie ka kirdaar nibhaya. Aur ab Netflix ki series Monster mein bhi yeh kahani naye sire se pesh ho rahi hai.",
+          "visual": {
+            "type": "card",
+            "title": "MONSTER, NETFLIX 2026",
+            "text": "Lizzie Borden's story retold again"
+          }
+        },
+        {
+          "id": "c9b5",
+          "text": "Borden house آج ایک museum اور bed-and-breakfast بن چکا ہے، جہاں لوگ آج بھی 1890s کے ماحول میں رات گزارنے آتے ہیں۔",
+          "roman": "Borden house aaj aik museum aur bed-and-breakfast ban chuka hai, jahan log aaj bhi 1890s ke maahol mein raat guzaarne aate hain.",
+          "visual": {
+            "type": "photo",
+            "photo": "p17"
+          }
+        },
+        {
+          "id": "c9b6",
+          "text": "لیکن اصل سوال آج بھی جواب طلب ہے — اگست 1892 کی اس صبح Second Street والے گھر میں اصل میں ہوا کیا تھا؟",
+          "roman": "Lekin asal sawal aaj bhi jawab talab hai — August 1892 ki us subah Second Street wale ghar mein asal mein hua kya tha?",
+          "visual": {
+            "type": "ai",
+            "prompt": "Narrow Victorian house exterior on Second Street, misty morning light, unresolved mysterious mood"
+          }
+        },
+        {
+          "id": "c9b7",
+          "text": "Lizzie Borden بری تو ہو گئیں، لیکن تاریخ نے کبھی انہیں مکمل طور پر بے گناہ قرار نہیں دیا۔ انصاف اور شک، دونوں آج بھی ساتھ ساتھ زندہ ہیں۔",
+          "roman": "Lizzie Borden bari to ho gayeen, lekin tareekh ne kabhi unhein mukammal taur par be-gunah qarar nahi diya. Insaaf aur shak, dono aaj bhi saath saath zinda hain.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Empty antique courtroom chair in a beam of light, symbolic of lingering doubt, no people"
+          }
+        },
+        {
+          "id": "c9b8",
+          "text": "اگر آپ کو یہ کہانی دلچسپ لگی تو ہمیں like اور subscribe ضرور کریں، اور بتائیں — آپ کے خیال میں اصل قاتل کون تھا؟",
+          "roman": "Agar aap ko yeh kahani dilchasp lagi to humein like aur subscribe zaroor karein, aur batayein — aap ke khayal mein asal qatil kaun tha?",
+          "visual": {
+            "type": "clip",
+            "query": "subscribe button animation",
+            "prompt": "Simple animated subscribe bell icon graphic, clean modern style"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "This case became immortalized in a popular skipping-rope rhyme, sung to the tune of the famous song Ta-ra-ra Boom-de-ay. But this rhyme is entirely inaccurate. In reality, Abby was struck 18 or 19 times, and Andrew only 11 times—not forty and forty-one. Despite this, Lizzie Borden's story became part of American popular culture—repeated again and again in films, plays, operas, ballets, and novels.",
+        "From Elizabeth Montgomery to Christina Ricci and Chloë Sevigny, many actresses have played Lizzie's role. And now, Netflix's series Monster is presenting this story anew once again. The Borden house today has become a museum and bed-and-breakfast, where people still come to spend the night in an 1890s atmosphere.",
+        "But the real question remains unanswered even today—what actually happened that morning in August 1892, at the house on Second Street? Lizzie Borden was acquitted, but history has never fully declared her innocent. Justice and suspicion, both remain alive together to this day."
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "id": "s1",
+      "chapter": 0,
+      "titleEn": "Lizzie Borden's Father Found Dead: The Morning That Shocked America",
+      "hook": "Khamosh Ghar Mein Qatal",
+      "text": "4 اگست 1892 کی صبح، Fall River کے ایک خاموش گھر میں کچھ ایسا ملا جس نے پورے امریکہ کو ہلا دیا۔ 69 سالہ امیر businessman Andrew Borden اپنے sitting room کے صوفے پر مردہ پایا گیا۔ اس کے سر پر کلہاڑی جیسے ہتھیار سے 10 یا 11 ضربیں لگائی گئی تھیں، اور زخم ابھی تازہ تھے۔ اس کی بیٹی Lizzie Borden نے نوکرانی Bridget Sullivan کو نیچے سے آواز دی: 'Maggie, come quick! Father's dead.' تھوڑی دیر بعد پتا چلا کہ اوپر کے کمرے میں Andrew کی بیوی Abby بھی مردہ پڑی تھی۔ لیکن قاتل کون تھا؟ یہ سوال آج تک حل نہیں ہوا۔ پوری کہانی ہمارے channel پر دیکھیں۔",
+      "roman": "4 August 1892 ki subah, Fall River ke ek khamosh ghar mein kuch aisa mila jis ne poore America ko hila diya. 69 saala ameer businessman Andrew Borden apne sitting room ke sofa par murda paya gaya. Uske sar par kulhari jaise hathiyar se 10 ya 11 zarbein lagayi gayi thin, aur zakham abhi taaza thay. Uski beti Lizzie Borden ne naukrani Bridget Sullivan ko neeche se awaaz di: 'Maggie, come quick! Father's dead.' Thodi dair baad pata chala ke upar ke kamre mein Andrew ki biwi Abby bhi murda pari thi. Lekin qatil kaun tha? Yeh sawal aaj tak hal nahi hua. Poori kahani hamare channel par dekhein.",
+      "descriptionEn": "The morning Andrew Borden was found murdered in Fall River.\nDiscover the shocking details of the 1892 crime scene.",
+      "tags": [
+        "LizzieBorden",
+        "TrueCrime",
+        "FallRiver",
+        "AxeMurder",
+        "1892Murder",
+        "AndrewBorden",
+        "AbbyBorden",
+        "ColdCase",
+        "CrimeHistory",
+        "UnsolvedMystery"
+      ],
+      "render": {
+        "duration": 42.641
+      }
+    },
+    {
+      "id": "s2",
+      "chapter": 4,
+      "titleEn": "Lizzie Borden's Chilling Calm: Police Called Her 'Peculiar'",
+      "hook": "Lizzie Ka Ajeeb Rawaiya",
+      "text": "کیا ایک عورت اتنی پرسکون ہو سکتی ہے کہ اپنے والد کی لاش دیکھ کر بھی نہ روئے؟ Fall River پولیس نے Lizzie Borden سے سوالات کیے تو اس کے جوابات بار بار بدلتے رہے۔ پہلے اس نے کہا کہ گھر میں داخل ہونے سے پہلے اس نے ایک groan یا چیخ سنی۔ دو گھنٹے بعد اس نے کہا کہ اس نے کچھ نہیں سنا۔ Marshal Hilliard نے صحافیوں کو بتایا کہ Lizzie ایک 'بہت عجیب عورت' لگتی ہے۔ Officer Seaver کا خیال تھا کہ یہ جرم کسی ذہنی طور پر بیمار شخص کا کام ہے۔ لیکن پولیس نے اسے bloodstains کے لیے check تک نہیں کیا۔ آخر اس کے ساتھ ہوا کیا؟ پوری کہانی ہمارے channel پر دیکھیں۔",
+      "roman": "Kya ek aurat itni pursukoon ho sakti hai ke apne walid ki lash dekh kar bhi na roye? Fall River police ne Lizzie Borden se sawalat kiye to uske jawabat baar baar badalte rahe. Pehle usne kaha ke ghar mein dakhil hone se pehle usne ek groan ya cheekh suni. Do ghante baad usne kaha ke usne kuch nahi suna. Marshal Hilliard ne sahafiyon ko bataya ke Lizzie ek 'bohot ajeeb aurat' lagti hai. Officer Seaver ka khayal tha ke yeh jurm kisi zehni taur par bemar shakhs ka kaam hai. Lekin police ne use bloodstains ke liye check tak nahi kiya. Aakhir uske saath hua kya? Poori kahani hamare channel par dekhein.",
+      "descriptionEn": "Lizzie Borden's strange behavior baffled Fall River police.\nWhy did investigators call her 'a very peculiar woman'?",
+      "tags": [
+        "LizzieBorden",
+        "TrueCrime",
+        "PoliceInvestigation",
+        "FallRiver",
+        "1892",
+        "SuspiciousBehavior",
+        "CrimeHistory",
+        "MurderMystery",
+        "Interrogation",
+        "AmericanHistory"
+      ],
+      "render": {
+        "duration": 41.346
+      }
+    },
+    {
+      "id": "s3",
+      "chapter": 8,
+      "titleEn": "The Lizzie Borden Rhyme Is a Lie: Real Axe Count Revealed",
+      "hook": "Rhyme Jo Jhooti Nikli",
+      "text": "'Lizzie Borden took an axe, gave her mother forty whacks' - یہ مشہور skipping rope rhyme آج بھی بچے گاتے ہیں۔ لیکن کیا آپ جانتے ہیں کہ یہ rhyme مکمل طور پر غلط ہے؟ حقیقت میں Lizzie کی stepmother Abby کو 18 یا 19 ضربیں لگی تھیں، اور اس کے والد Andrew کو صرف 11 - چالیس یا اکتالیس نہیں۔ اس کے باوجود یہ جھوٹی کہانی اتنی مشہور ہوئی کہ films، plays، operas اور ballets میں دہرائی گئی۔ Christina Ricci سے لے کر Chloë Sevigny تک کئی اداکاراؤں نے Lizzie کا کردار نبھایا۔ لیکن اصل سچائی کیا تھی؟ پوری کہانی ہمارے channel پر دیکھیں۔",
+      "roman": "'Lizzie Borden took an axe, gave her mother forty whacks' - yeh mashhoor skipping rope rhyme aaj bhi bacche gaate hain. Lekin kya aap jaante hain ke yeh rhyme mukammal taur par ghalat hai? Haqeeqat mein Lizzie ki stepmother Abby ko 18 ya 19 zarbein lagi thin, aur uske walid Andrew ko sirf 11 - chalees ya iktalees nahi. Iske bawajood yeh jhooti kahani itni mashhoor hui ke films, plays, operas aur ballets mein dohrai gayi. Christina Ricci se le kar Chloë Sevigny tak kai adakaraon ne Lizzie ka kirdaar nibhaya. Lekin asal sachai kya thi? Poori kahani hamare channel par dekhein.",
+      "descriptionEn": "The famous Lizzie Borden rhyme got the facts wrong.\nSee the real number of axe blows in this true crime case.",
+      "tags": [
+        "LizzieBorden",
+        "TrueCrime",
+        "FolkRhyme",
+        "FallRiver",
+        "AxeMurder",
+        "PopCulture",
+        "CrimeHistory",
+        "Mystery",
+        "AmericanFolklore",
+        "MurderCase"
+      ],
+      "render": {
+        "duration": 38.208
+      }
+    }
+  ],
+  "metaChecked": true,
+  "wordCount": 4213,
+  "render": {
+    "duration": 1554.52,
+    "chapters": [
+      {
+        "start": 0,
+        "titleEn": "Cold Open: Father's Dead",
+        "titleRoman": "Cold Open: Father Mar Gaya"
+      },
+      {
+        "start": 88.04,
+        "titleEn": "A Frugal Fortune in Fall River",
+        "titleRoman": "Fall River Ka Kanjoos Khazana"
+      },
+      {
+        "start": 278.68,
+        "titleEn": "Cracks in the House",
+        "titleRoman": "Ghar Mein Dararain"
+      },
+      {
+        "start": 447.5600000000001,
+        "titleEn": "The Morning of August 4",
+        "titleRoman": "4 August Ki Subah"
+      },
+      {
+        "start": 645.0400000000002,
+        "titleEn": "A Very Peculiar Woman",
+        "titleRoman": "Aik Ajeeb Aurat"
+      },
+      {
+        "start": 829.4000000000003,
+        "titleEn": "Inquest, Arrest, and Trial",
+        "titleRoman": "Inquest, Giraftari Aur Adalat"
+      },
+      {
+        "start": 1061.6000000000001,
+        "titleEn": "Who Really Swung the Axe?",
+        "titleRoman": "Kulhari Kisne Chalai?"
+      },
+      {
+        "start": 1301.2800000000004,
+        "titleEn": "Maplecroft and a Quiet End",
+        "titleRoman": "Maplecroft Aur Khamosh Anjaam"
+      },
+      {
+        "start": 1465.0800000000013,
+        "titleEn": "The Legend That Won't Die",
+        "titleRoman": "Wo Kahani Jo Khatam Nahi Hoti"
+      }
+    ],
+    "chapterImages": [
+      {
+        "file": "ch1.jpg",
+        "photo": null,
+        "kind": "map"
+      },
+      {
+        "file": "ch2.jpg",
+        "photo": "p22",
+        "kind": "photo"
+      },
+      {
+        "file": "ch3.jpg",
+        "photo": null,
+        "kind": "ai"
+      },
+      {
+        "file": "ch4.jpg",
+        "photo": null,
+        "kind": "ai"
+      },
+      {
+        "file": "ch5.jpg",
+        "photo": null,
+        "kind": "ai"
+      },
+      {
+        "file": "ch6.jpg",
+        "photo": null,
+        "kind": "ai"
+      },
+      {
+        "file": "ch7.jpg",
+        "photo": null,
+        "kind": "ai"
+      },
+      {
+        "file": "ch8.jpg",
+        "photo": null,
+        "kind": "ai"
+      },
+      {
+        "file": "ch9.jpg",
+        "photo": "p17",
+        "kind": "photo"
+      }
+    ],
+    "pictures": {
+      "ai": 56,
+      "clip": 25,
+      "photo": 11,
+      "map": 7,
+      "card": 37,
+      "host": 11,
+      "reused": 19,
+      "fallback": 0
+    },
+    "renderedAt": "2026-09-28T15:37:28.698Z",
+    "clipCredits": [
+      {
+        "user": "Анатолий",
+        "url": "https://www.pexels.com/video/a-footage-of-a-locked-door-8846989/"
+      },
+      {
+        "user": "Everett Bumstead",
+        "url": "https://www.pexels.com/video/industrial-printing-press-in-operation-with-machinery-29906415/"
+      },
+      {
+        "user": "Burak Bahadır  Büyükkılınç",
+        "url": "https://www.pexels.com/video/rustic-workshop-with-vintage-machinery-35222295/"
+      },
+      {
+        "user": "cottonbro studio",
+        "url": "https://www.pexels.com/video/women-wearing-period-costume-9790404/"
+      },
+      {
+        "user": "Ilya Klimenko",
+        "url": "https://www.pexels.com/video/a-timelapse-video-of-a-moving-clouds-4377446/"
+      },
+      {
+        "user": "cottonbro studio",
+        "url": "https://www.pexels.com/video/medicines-in-small-glass-bottles-8666761/"
+      },
+      {
+        "user": "irenefilms",
+        "url": "https://www.pexels.com/video/horse-in-vienna-12022455/"
+      },
+      {
+        "user": "Oğuzhan Kara",
+        "url": "https://www.pexels.com/video/vintage-interior-with-portrait-on-wall-39610005/"
+      },
+      {
+        "user": "KoolShooters",
+        "url": "https://www.pexels.com/video/reading-with-magnifying-glass-6980539/"
+      },
+      {
+        "user": "cottonbro studio",
+        "url": "https://www.pexels.com/video/women-in-period-costumes-sitting-and-talking-9788789/"
+      },
+      {
+        "user": "Kiwi and Camera",
+        "url": "https://www.pexels.com/video/auckland-historic-fire-station-exterior-view-38957743/"
+      },
+      {
+        "user": "H.Espinosa Films",
+        "url": "https://www.pexels.com/video/stuff-near-a-window-4327245/"
+      },
+      {
+        "user": "Nancy Zjaba",
+        "url": "https://www.pexels.com/video/serene-glowing-oil-lamp-on-dark-background-32540553/"
+      },
+      {
+        "user": "Jonathan Ellis",
+        "url": "https://www.pexels.com/video/vibrant-night-street-celebration-with-crowd-37575113/"
+      },
+      {
+        "user": "Mr Pixel",
+        "url": "https://www.pexels.com/video/newspapers-in-newsagent-12345283/"
+      },
+      {
+        "user": "LayG Traveller",
+        "url": "https://www.pexels.com/video/a-large-building-with-a-large-statue-on-the-front-28454583/"
+      },
+      {
+        "user": "Sora Shimazaki",
+        "url": "https://www.pexels.com/video/balance-scales-and-gavel-placed-on-a-wooden-desk-5636977/"
+      },
+      {
+        "user": "Jim Baker",
+        "url": "https://www.pexels.com/video/an-aerial-view-of-a-city-at-night-15837075/"
+      },
+      {
+        "user": "Everett Bumstead",
+        "url": "https://www.pexels.com/video/industrial-printing-press-machinery-in-operation-29975896/"
+      },
+      {
+        "user": "MART  PRODUCTION",
+        "url": "https://www.pexels.com/video/a-man-handing-books-to-another-man-8869625/"
+      },
+      {
+        "user": "cottonbro studio",
+        "url": "https://www.pexels.com/video/detective-looking-at-pictures-8382395/"
+      },
+      {
+        "user": "Pavel Danilyuk",
+        "url": "https://www.pexels.com/video/lady-justice-statue-8061659/"
+      },
+      {
+        "user": "cottonbro studio",
+        "url": "https://www.pexels.com/video/kids-playing-skipping-rope-9654466/"
+      },
+      {
+        "user": "Pixabay",
+        "url": "https://www.pexels.com/video/mechanism-of-a-projector-856593/"
+      },
+      {
+        "user": "Tech VideoStack",
+        "url": "https://www.pexels.com/video/subscribe-button-on-green-screen-3978049/"
+      }
+    ]
+  }
+}
