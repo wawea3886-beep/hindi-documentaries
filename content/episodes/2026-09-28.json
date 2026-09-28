@@ -1,0 +1,1213 @@
+{
+  "date": "2026-09-28",
+  "stage": "done",
+  "generatedAt": "2026-09-28T12:10:48.480Z",
+  "topic": {
+    "name": "MS Estonia Sinking",
+    "category": "disaster",
+    "angle": "Baltic Titanic: kaise ek raat mein 852 log doob gaye aur kya sach chhupaya gaya",
+    "why": "32nd anniversary today (28 Sept) of one of the deadliest peacetime maritime disasters in Europe, rich Wikipedia coverage, strong mystery angle around cause of sinking",
+    "wikiTitles": [
+      "MS Estonia",
+      "List of shipwrecks in 1994",
+      "Baltic Sea",
+      "Roll-on/roll-off"
+    ]
+  },
+  "sources": [
+    {
+      "title": "MS Estonia",
+      "url": "https://en.wikipedia.org/wiki/MS_Estonia"
+    },
+    {
+      "title": "List of shipwrecks in 1994",
+      "url": "https://en.wikipedia.org/wiki/List_of_shipwrecks_in_1994"
+    },
+    {
+      "title": "Baltic Sea",
+      "url": "https://en.wikipedia.org/wiki/Baltic_Sea"
+    },
+    {
+      "title": "Roll-on/roll-off",
+      "url": "https://en.wikipedia.org/wiki/Roll-on/roll-off"
+    }
+  ],
+  "photos": [
+    {
+      "id": "p1",
+      "title": "Viking Sally 002",
+      "description": "Cruiseferry MS Viking Sally of Viking Line (Rederi Ab Sally) in Stockholm. It was sold in 1989 to EFFOA, Finland, who later sold it to Nordström &amp; Thulin (Estline) in 1993 and was renamed Estonia.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Viking_Sally_002.jpg/1920px-Viking_Sally_002.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Viking_Sally_002.jpg",
+      "width": 1920,
+      "height": 1267,
+      "artist": "Mark Markefelt (1918–2009)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p2",
+      "title": "Silja Line - Silja Star (49966312012) (cropped)",
+      "description": "Found a second shot of the infamous Silja Star. This ship later was named Estonia and sunk in 1994 taking 852 souls with it. &lt;a href=\"https://en.wikipedia.org/wiki/MS_Estonia#Sinking\" rel=\"noreferr",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Silja_Line_-_Silja_Star_%2849966312012%29_%28cropped%29.jpg/1920px-Silja_Line_-_Silja_Star_%2849966312012%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Silja_Line_-_Silja_Star_(49966312012)_(cropped).jpg",
+      "width": 1920,
+      "height": 1080,
+      "artist": "Janne Ranta",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "id": "p3",
+      "title": "MS Estonia",
+      "description": "MS Estonia",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/MS_Estonia.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:MS_Estonia.png",
+      "width": 1920,
+      "height": 1110,
+      "artist": "Blahaaaaaaaa69420",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "p4",
+      "title": "Estonias bogvisir på Muskö",
+      "description": "Estonias bogvisir, placerat på Muskö Örlogsbas.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Estonias_bogvisir_p%C3%A5_Musk%C3%B6.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Estonias_bogvisir_p%C3%A5_Musk%C3%B6.jpg",
+      "width": 1920,
+      "height": 1270,
+      "artist": "Anneli Karlsson",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "id": "p5",
+      "title": "Estonia ferry2",
+      "description": "Liferaft from MS Estonia",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Estonia_ferry2.jpg/1920px-Estonia_ferry2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Estonia_ferry2.jpg",
+      "width": 1920,
+      "height": 1273,
+      "artist": "Accident Investigation Board Finland.",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p6",
+      "title": "DE estonia comparison",
+      "description": "Größenvergleich mit der M/S Estonia",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/DE_estonia_comparison.png/1920px-DE_estonia_comparison.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:DE_estonia_comparison.png",
+      "width": 1920,
+      "height": 606,
+      "artist": "original Yzmo",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "p7",
+      "title": "Murmansk cruiser shipwreck",
+      "description": "The Murmansk wrecked cruiser before being dismantled and salvaged.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Murmansk_cruiser_shipwreck.jpg/1920px-Murmansk_cruiser_shipwreck.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Murmansk_cruiser_shipwreck.jpg",
+      "width": 1920,
+      "height": 1440,
+      "artist": "FL3JM",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "p8",
+      "title": "MV \"Pallas Athena\" - Perama Bay, 1994",
+      "description": "The cruise ship Pallas Athena laid up in Perama Bay in 1994 after its fire.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/MV_%22Pallas_Athena%22_-_Perama_Bay%2C_1994.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:MV_%22Pallas_Athena%22_-_Perama_Bay,_1994.jpg",
+      "width": 1920,
+      "height": 1274,
+      "artist": "Jürgen Saupe",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "p9",
+      "title": "John H Amos, Chatham - geograph.org.uk - 749373",
+      "description": "John H Amos, Chatham Paddle tug with a severe case of rising damp. Currently subject to serious (last ditch?) efforts to preserve her, including Lottery funding.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/John_H_Amos%2C_Chatham_-_geograph.org.uk_-_749373.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:John_H_Amos,_Chatham_-_geograph.org.uk_-_749373.jpg",
+      "width": 1920,
+      "height": 1320,
+      "artist": "Chris Allen",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    {
+      "id": "p10",
+      "title": "BOS 400 2006-02-05",
+      "description": "BOS 400 shipwreck, ran aground 1994, Duikerpoint, South Africa",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/BOS_400_2006-02-05.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:BOS_400_2006-02-05.JPG",
+      "width": 1920,
+      "height": 1440,
+      "artist": "Timothy Haig-Smith",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+    },
+    {
+      "id": "p11",
+      "title": "Anchor winch on the Pietermaritzburg P6116581",
+      "description": "Anchor winch on the foredeck of the wreck of the SAS Pietermaritzburg, a recent wreck in the Miller's Point area on the False Bay coast of the Cape Peninsula, South Africa.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Anchor_winch_on_the_Pietermaritzburg_P6116581.JPG/1920px-Anchor_winch_on_the_Pietermaritzburg_P6116581.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Anchor_winch_on_the_Pietermaritzburg_P6116581.JPG",
+      "width": 1920,
+      "height": 1440,
+      "artist": "Peter Southwood",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "p12",
+      "title": "8 - AmStar 7",
+      "description": "The wreckage of the American Star (SS America) seen from land side, Fuerteventura, Canary Islands.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Shipwreck_of_the_SS_American_Star_on_the_shore_of_Fuerteventura.jpg/1920px-Shipwreck_of_the_SS_American_Star_on_the_shore_of_Fuerteventura.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Shipwreck_of_the_SS_American_Star_on_the_shore_of_Fuerteventura.jpg",
+      "width": 1920,
+      "height": 1440,
+      "artist": "Wollex",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "id": "p13",
+      "title": "Shipwreck of the SS American Star on the shore of Fuerteventura",
+      "description": "The wreckage of the American Star (SS America) seen from land side, Fuerteventura, Canary Islands.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Shipwreck_of_the_SS_American_Star_on_the_shore_of_Fuerteventura.jpg/1920px-Shipwreck_of_the_SS_American_Star_on_the_shore_of_Fuerteventura.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Shipwreck_of_the_SS_American_Star_on_the_shore_of_Fuerteventura.jpg",
+      "width": 1920,
+      "height": 1440,
+      "artist": "Wollex",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "id": "p14",
+      "title": "Таллин. - panoramio",
+      "description": "Таллин.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD._-_panoramio.jpg/1920px-%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD._-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:%D0%A2%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD._-_panoramio.jpg",
+      "width": 1920,
+      "height": 1440,
+      "artist": "Natalia Semenova",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+      "id": "p15",
+      "title": "Пляж в Светлогорске - panoramio",
+      "description": "Пляж в Светлогорске",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/%D0%9F%D0%BB%D1%8F%D0%B6_%D0%B2_%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B5_-_panoramio.jpg/1920px-%D0%9F%D0%BB%D1%8F%D0%B6_%D0%B2_%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B5_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BB%D1%8F%D0%B6_%D0%B2_%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%BE%D0%B3%D0%BE%D1%80%D1%81%D0%BA%D0%B5_-_panoramio.jpg",
+      "width": 1920,
+      "height": 1440,
+      "artist": "Andrey Chijov",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    },
+    {
+      "id": "p16",
+      "title": "Waves in pacifica 1",
+      "description": "Sea Storm in Pacifica, w:California",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Waves_in_pacifica_1.jpg/1920px-Waves_in_pacifica_1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Waves_in_pacifica_1.jpg",
+      "width": 1920,
+      "height": 1304,
+      "artist": "Brocken Inaglory",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p17",
+      "title": "View from Nida Lighthouse, Nida, Lithuania, 09-09-2023 05",
+      "description": "View from Nida Lighthouse, Nida, Lithuania",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/View_from_Nida_Lighthouse%2C_Nida%2C_Lithuania%2C_09-09-2023_05.jpg/1920px-View_from_Nida_Lighthouse%2C_Nida%2C_Lithuania%2C_09-09-2023_05.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:View_from_Nida_Lighthouse,_Nida,_Lithuania,_09-09-2023_05.jpg",
+      "width": 1920,
+      "height": 864,
+      "artist": "Jcornelius",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p18",
+      "title": "The Baltic Sea",
+      "description": "A map of the Baltic Sea Region with Political Borders, Rivers, Lakes, Cities, Another Seas, Referencial Map, Compass and Detailed.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/The_Baltic_Sea.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Baltic_Sea.png",
+      "width": 1920,
+      "height": 2880,
+      "artist": "Gabriel Ziegler",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p19",
+      "title": "Terra",
+      "description": "",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Terra.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Terra.png",
+      "width": 1920,
+      "height": 1920,
+      "artist": "Unknown",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p20",
+      "title": "Suomi jaakauden jalkeen",
+      "description": "The coastline of Finland after the last ice age, circa 11,000 years ago.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Suomi_jaakauden_jalkeen.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Suomi_jaakauden_jalkeen.png",
+      "width": 1920,
+      "height": 3691,
+      "artist": "User Oakokko at fi.wikipedia",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5"
+    },
+    {
+      "id": "p21",
+      "title": "Sunny day on the coast on Baltic sea",
+      "description": "Sunny day on the coast on Baltic Sea near Karklė.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Sunny_day_on_the_coast_on_Baltic_sea.jpg/1920px-Sunny_day_on_the_coast_on_Baltic_sea.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Sunny_day_on_the_coast_on_Baltic_sea.jpg",
+      "width": 1920,
+      "height": 1114,
+      "artist": "Mantas Volungevicius",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "id": "p22",
+      "title": "Stockholm 8721-B (9870833193)",
+      "description": "View from Stadshustornet Stockholm September 2013",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Stockholm_8721-B_%289870833193%29.jpg/1920px-Stockholm_8721-B_%289870833193%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Stockholm_8721-B_(9870833193).jpg",
+      "width": 1920,
+      "height": 1267,
+      "artist": "Bengt Nyman from Vaxholm, Sweden",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "id": "p23",
+      "title": "Skiing on the ice in Haukilahti",
+      "description": "People skiing on the ice of the frozen Baltic Sea in Haukilahti, Espoo, Finland.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Skiing_on_the_ice_in_Haukilahti.jpg/1920px-Skiing_on_the_ice_in_Haukilahti.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Skiing_on_the_ice_in_Haukilahti.jpg",
+      "width": 1920,
+      "height": 1440,
+      "artist": "JIP",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p24",
+      "title": "Skerries which are part of the Åland Islands",
+      "description": "Skerries which are part of the Åland Islands, Finland.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Skerries_which_are_part_of_the_%C3%85land_Islands.jpg/1920px-Skerries_which_are_part_of_the_%C3%85land_Islands.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Skerries_which_are_part_of_the_%C3%85land_Islands.jpg",
+      "width": 1920,
+      "height": 584,
+      "artist": "Wilson44691",
+      "license": "Public domain",
+      "licenseUrl": ""
+    }
+  ],
+  "youtube": {},
+  "meta": {
+    "youtubeTitle": "Baltic Titanic: The Ferry That Vanished in 90 Minutes | MS Estonia Story",
+    "titleHi": "बाल्टिक टाइटैनिक: एक रात में 852 लोग कैसे डूब गए – MS Estonia सच",
+    "slug": "2026-09-28-ms-estonia-sinking",
+    "thumbnailText": "852 DIED IN 90 MIN",
+    "thumbnailPrompt": "A massive white-and-blue car ferry capsizing in a pitch-black stormy sea at night, giant waves crashing over its tilted deck, a single dim distress light flickering, silhouettes of people clinging to the railing, dramatic high-contrast lighting evoking terror and helplessness",
+    "characters": "MS Estonia: a large 1980s white car-passenger ferry, blue Estline hull stripe, multiple decks, bow visor at front, seen in calm Baltic daylight and in stormy night scenes. Captain and crew: Estonian and Swedish officers in navy-blue merchant marine uniforms, on the bridge, late 1994. Passengers: mixed Swedish/Estonian/Finnish travelers in 1990s casual clothing, families, business travelers, aboard for an overnight Tallinn–Stockholm crossing. Setting: dark stormy Baltic Sea between Estonia, Finland and Sweden, September night, heavy waves, rain, cold northern European ferry-deck and cabin interiors.",
+    "descriptionEn": "On a stormy September night in 1994, a giant car ferry carrying 989 people vanished into the Baltic Sea in under an hour. Only 137 survived. This documentary reconstructs the final voyage of MS Estonia — from its origins as a Finnish ferry built in 1980, through its rebirth as Estonia's flagship after independence, to the catastrophic night its bow door failed in the darkness. We examine the official investigation, the crew's fatal delay, and a shocking 2023 discovery that reopened old wounds. Was it just bad engineering — or was something covered up? Watch to find out why this remains one of Europe's deadliest peacetime disasters.",
+    "descriptionHi": "सितंबर 1994 की एक तूफानी रात, बाल्टिक सागर में 989 यात्रियों वाला एक विशाल फेरी सिर्फ एक घंटे में डूब गया। केवल 137 लोग बचे। यह डॉक्यूमेंट्री MS Estonia की आखिरी यात्रा को फिर से जीवंत करती है — इसके निर्माण से लेकर उस रात तक जब बो डोर टूटा। क्या यह सिर्फ इंजीनियरिंग की गलती थी या कुछ छुपाया गया? जानिए पूरी सच्चाई।",
+    "tags": [
+      "ms estonia disaster",
+      "baltic sea shipwreck",
+      "estonia ferry sinking hindi",
+      "1994 ship disaster",
+      "baltic titanic",
+      "ferry accident hindi documentary",
+      "ms estonia sinking in hindi",
+      "maritime disaster hindi",
+      "bow visor failure",
+      "estline tallinn stockholm",
+      "roro ferry disaster",
+      "biggest peacetime shipwrecks",
+      "estonia ship tragedy hindi",
+      "real disaster stories hindi",
+      "titanic jaisi ghatna",
+      "samudri hadsa hindi",
+      "ship capsize story hindi",
+      "1994 baltic sea tragedy",
+      "estonia ferry survivors"
+    ],
+    "hashtags": [
+      "#MSEstonia",
+      "#BalticSeaDisaster",
+      "#ShipwreckHistory"
+    ],
+    "metaDescription": "MS Estonia: how a 1980s car ferry carrying 989 people sank in under an hour in the Baltic Sea, killing 852 — the untold story, investigation and 2023 twist."
+  },
+  "chapters": [
+    {
+      "titleEn": "Cold Open: 90 Minutes to Die",
+      "titleHi": "शुरुआत: मौत के 90 मिनट",
+      "covers": "Dramatic cold open set around 00:50–01:50 on 28 Sept 1994 as Estonia crosses the Baltic from Tallinn to Stockholm; ship lists, bow visor fails, power fails; raises questions — why did the bow door fail, why was the alarm delayed 90 minutes, was something covered up; promises viewer will learn the ship's history, the night's timeline, the investigation and the 2023 revelations.",
+      "words": 220,
+      "beats": [
+        {
+          "id": "c1b1",
+          "text": "28 सितंबर 1994 की रात। बाल्टिक सागर में एक बड़ा फेरी जहाज़ तूफ़ानी लहरों को चीरते हुए आगे बढ़ रहा है। एस्टोनिया, फिनलैंड और स्वीडन के बीच यह एक नियमित फेरी रूट था।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Large white 1980s car-passenger ferry with blue hull stripe crossing a dark, stormy Baltic Sea at night, heavy rain and waves, distant lights of the ship glowing, wide cinematic shot from sea level"
+          },
+          "factFix": "Claim that the route was traveled 'thousands of times' is not supported by the sources; invented detail/exaggeration."
+        },
+        {
+          "id": "c1b2",
+          "text": "जहाज़ का नाम है MS Estonia। टालिन से स्टॉकहोम जा रहे इस जहाज़ पर 989 लोग सवार हैं। ज़्यादातर सो रहे हैं, बेख़बर कि अगले कुछ घंटे उनकी ज़िंदगी का आख़िरी सफर बन जाएंगे।",
+          "visual": {
+            "type": "card",
+            "title": "989 लोग सवार थे",
+            "text": "टालिन से स्टॉकहोम की रात की यात्रा"
+          }
+        },
+        {
+          "id": "c1b3",
+          "text": "रात करीब 12:50 बजे, कुछ गड़बड़ होना शुरू होता है। जहाज़ के आगे लगा भारी बो वाइज़र, जो लहरों से बचाता है, कमज़ोर पड़ने लगता है। जहाज़ हल्का सा झुकने लगता है।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Close-up night view of a large ferry's front bow visor straining under heavy storm waves crashing against it, water spraying, tense dramatic lighting, cold northern European sea"
+          }
+        },
+        {
+          "id": "c1b4",
+          "text": "कुछ ही मिनटों में झुकाव तेज़ी से बढ़ता है। कार डेक में समंदर का पानी घुसने लगता है। जहाज़ की बिजली अचानक चली जाती है, अंदर पूरा अंधेरा छा जाता है।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Dark interior of a ferry car deck flooding with seawater, cars and vehicles tilting, emergency lights flickering then going out, chaos and panic implied without showing injury"
+          }
+        },
+        {
+          "id": "c1b5",
+          "text": "करीब एक घंटे के भीतर, यह विशाल जहाज़ बाल्टिक सागर में डूब जाता है। पूरी आपात स्थिति घोषित करने में क्रू को 90 मिनट लग गए। सिर्फ 137 लोग ज़िंदा बच पाते हैं। बाकी 852 लोगों की जान चली जाती है।",
+          "visual": {
+            "type": "card",
+            "title": "852 लोगों की मौत",
+            "text": "20वीं सदी की सबसे भीषण समुद्री दुर्घटनाओं में से एक"
+          },
+          "factFix": "Source states the ship sank between about 00:50 and 01:50 (roughly one hour), while the 90-minute figure refers to the delay in declaring a full-scale emergency, not the sinking duration. The beat wrongly conflates these two facts."
+        },
+        {
+          "id": "c1b6",
+          "text": "सवाल यह है — जहाज़ के आगे के बो वाइज़र के ताले (locks) आखिर क्यों नाकाम हुए? क्रू ने अलार्म बजाने और आपात स्थिति घोषित करने में 90 मिनट क्यों लगाए?",
+          "visual": {
+            "type": "ai",
+            "prompt": "Silhouette of ship officers on a dimly lit bridge at night, worried expressions, storm visible through windows, sense of confusion and urgency"
+          },
+          "factFix": "The question 'क्या कुछ छुपाया गया था?' implies a cover-up theory that is not supported anywhere in the sources."
+        },
+        {
+          "id": "c1b7",
+          "text": "दोस्तों, इस डॉक्यूमेंट्री में हम जानेंगे इस जहाज़ का पूरा इतिहास, उस रात की एक-एक घड़ी, जांच में क्या निकला, और 2023 में सामने आए नए खुलासे भी।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Wide establishing shot of MS Estonia ferry sailing calmly in daylight on the Baltic Sea, contrasted tone hinting at the story about to unfold, cinematic documentary style"
+          }
+        }
+      ],
+      "checked": true
+    },
+    {
+      "titleEn": "Birth of a Ferry: From Norway's Reject to Viking Sally",
+      "titleHi": "एक फेरी का जन्म: नॉर्वे की अस्वीकृति से Viking Sally तक",
+      "covers": "Built 1980 by Meyer Werft, Papenburg for a Norwegian order that fell through; contract went to Rederi Ab Sally; originally sister ship to Diana II but lengthened from 137m to 155m with redesigned superstructure and same upward-opening bow visor design; entered Viking Line service as Viking Sally on Turku–Mariehamn–Stockholm route in 1980; early mishaps (grounding 1984, propeller issues 1985, two onboard murders 1986-87); Sally's financial troubles and 1987 sale to Effoa/Johnson.",
+      "words": 420,
+      "beats": [
+        {
+          "id": "c2b1",
+          "text": "यह कहानी शुरू होती है 1980 में, जर्मनी के पापेनबुर्ग शहर में। Meyer Werft नाम की शिपयार्ड एक नया जहाज़ बना रही थी, लेकिन शुरुआत में यह जहाज़ किसी और के लिए बनना था।",
+          "visual": {
+            "type": "ai",
+            "prompt": "1970s German shipyard at Papenburg, large ferry hull under construction in dry dock, workers and cranes, overcast daylight, documentary archival style"
+          }
+        },
+        {
+          "id": "c2b2",
+          "text": "नॉर्वे की एक शिपिंग कंपनी ने यह जहाज़ नॉर्वे और जर्मनी के बीच चलाने के लिए ऑर्डर किया था। लेकिन आखिरी वक़्त पर उन्होंने अपना ऑर्डर वापस ले लिया।",
+          "visual": {
+            "type": "ai",
+            "prompt": "1970s shipping company office scene, businessmen in suits reviewing ship blueprints, phone call being made, muted vintage color tones"
+          }
+        },
+        {
+          "id": "c2b3",
+          "text": "यह कॉन्ट्रैक्ट फिर फिनलैंड की कंपनी Rederi Ab Sally को मिला। Sally, Viking Line समूह की सहयोगी कंपनी थी। इस तरह एक अस्वीकृत जहाज़ को नया घर मिल गया।",
+          "visual": {
+            "type": "ai",
+            "prompt": "1970s Finnish shipping company executives shaking hands over a ship contract, harbor visible through office window, warm vintage lighting"
+          }
+        },
+        {
+          "id": "c2b4",
+          "text": "शुरुआत में यह जहाज़ Diana II का सिस्टर शिप बनने वाला था, जो 1979 में बनी थी। लेकिन Sally ने इसे लंबा करवाया — 137 मीटर से बढ़ाकर लगभग 155 मीटर।",
+          "visual": {
+            "type": "card",
+            "title": "137m से 155m",
+            "text": "जहाज़ की लंबाई बढ़ाई गई"
+          }
+        },
+        {
+          "id": "c2b5",
+          "text": "जहाज़ के सुपरस्ट्रक्चर को भी पूरी तरह नए सिरे से डिज़ाइन किया गया। लेकिन एक चीज़ नहीं बदली — जहाज़ के आगे लगा ऊपर की तरफ खुलने वाला बो वाइज़र, वही डिज़ाइन जो Diana II में भी था।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Technical cutaway diagram-style illustration of a 1980 ferry's bow with an upward-opening visor and internal loading ramp, engineering blueprint aesthetic"
+          }
+        },
+        {
+          "id": "c2b6",
+          "text": "29 जून 1980 को यह जहाज़ Rederi Ab Sally को सौंपा गया। नाम रखा गया Viking Sally। यह Turku, Mariehamn और Stockholm के बीच चलने लगा।",
+          "visual": {
+            "type": "photo",
+            "photo": "p1"
+          }
+        },
+        {
+          "id": "c2b7",
+          "text": "उस समय यह इस रूट पर चलने वाला सबसे बड़ा जहाज़ था। लेकिन सफर आसान नहीं रहा। 1984 में यह Åland द्वीपसमूह में फंस गया, और 1985 में इसके प्रोपेलर में दिक्कत आई।",
+          "visual": {
+            "type": "ai",
+            "prompt": "1980s large white ferry ship run aground near rocky Scandinavian archipelago islands, daytime, calm sea, salvage tugboats nearby"
+          }
+        },
+        {
+          "id": "c2b8",
+          "text": "1986 में जहाज़ पर एक यात्री की हत्या हुई। 1987 में एक और हत्या और एक हत्या की कोशिश हुई। दूसरा मामला आज तक अनसुलझा है।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Somber dim corridor aboard a 1980s ferry ship at night, empty passenger deck, muted lighting, no people visible, eerie quiet mood"
+          }
+        },
+        {
+          "id": "c2b9",
+          "text": "पूरे 1980 के दशक में Rederi Ab Sally आर्थिक तंगी से जूझती रही। 1987 के आखिर में, Silja Line की मालिक कंपनियों Effoa और Johnson Line ने Sally को खरीद लिया।",
+          "visual": {
+            "type": "ai",
+            "prompt": "1980s corporate boardroom meeting, executives signing shipping company acquisition documents, Finnish maritime company insignia on wall, formal atmosphere"
+          }
+        },
+        {
+          "id": "c2b10",
+          "text": "इसके बाद Viking Line की बाकी साझेदार कंपनियों ने Sally को समूह से बाहर निकाल दिया। Viking Sally को अगले तीन साल के लिए Rederi AB Slite को किराए पर दे दिया गया।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Ferry ship at a Nordic harbor dock, cloudy day, cargo and passenger loading ramp visible, quiet transitional mood suggesting change of ownership"
+          }
+        }
+      ],
+      "checked": true
+    },
+    {
+      "titleEn": "A Ship of Many Names: Silja Star, Wasa King, Estonia",
+      "titleHi": "कई नामों वाला जहाज: Silja Star, Wasa King, Estonia",
+      "covers": "1990 renamed Silja Star for Turku–Mariehamn–Stockholm during Wellamo's transfer; 1990 EffJohn merger of Effoa, Johnson Line, Sally; 1991 renamed Wasa King on Vaasa–Umeå–Sundsvall routes, noted for good behaviour in rough weather; Jan 1993 sold to Nordström & Thulin, renamed Estonia for Estline's Tallinn–Stockholm route; complex ownership via Cyprus/Estonia; symbolism as largest Estonian-owned ship representing post-Soviet independence; description of the ship's 11 decks and facilities.",
+      "words": 380,
+      "beats": [
+        {
+          "id": "c3b1",
+          "text": "1990 में जहाज़ की किस्मत ने फिर करवट ली। Silja Line ने इसे अपने रंगों में रंगा और नया नाम दिया — Silja Star। यह वापस उसी पुराने रूट पर चलने लगा।",
+          "visual": {
+            "type": "photo",
+            "photo": "p2"
+          }
+        },
+        {
+          "id": "c3b2",
+          "text": "वजह थी Silja की एक नई जहाज़ की देरी। जब तक नया जहाज़ नवंबर 1990 में तैयार नहीं हुआ, तब तक Silja Star ने उसकी जगह भरी। इसी साल Effoa, Johnson Line और Sally मिलकर EffJohn कंपनी बन गईं।",
+          "visual": {
+            "type": "ai",
+            "prompt": "1990 Finnish harbor scene, ferry ship being repainted with new company colors on the hull, workers on scaffolding, overcast Nordic daylight"
+          }
+        },
+        {
+          "id": "c3b3",
+          "text": "अगले साल, यानी 1991 में, जहाज़ का नाम फिर बदला। अब यह बना Wasa King। इसने वासा से उमेओ और सुंड्सवाल के बीच स्वीडन के रूट पर सेवा शुरू की।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Large white ferry ship sailing between Finland and Sweden coastal route, rough grey sea, overcast sky, 1991 setting"
+          }
+        },
+        {
+          "id": "c3b4",
+          "text": "कहा जाता है कि Wasa King को वासा से चलने वाले जहाज़ों में सबसे अच्छा माना जाता था, खासकर तूफ़ानी मौसम में इसके संतुलन के लिए।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Ferry ship steadily navigating through moderately rough sea waves, bridge crew calmly monitoring instruments, confident atmosphere, daytime storm"
+          }
+        },
+        {
+          "id": "c3b5",
+          "text": "जनवरी 1993 में EffJohn ने Wasa Line का कारोबार Silja Line में मिला दिया। उसी समय Wasa King को कंपनी Nordström & Thulin ने खरीद लिया।",
+          "visual": {
+            "type": "ai",
+            "prompt": "1993 business meeting scene, shipping executives reviewing sale documents for a ferry, Swedish and Estonian flags subtly visible in background, formal office"
+          },
+          "factFix": "The source does not state that Nordström & Thulin was a Swedish company; this nationality detail is an unsupported addition."
+        },
+        {
+          "id": "c3b6",
+          "text": "जहाज़ का नया नाम रखा गया — Estonia। यह अब Estline कंपनी के टालिन-स्टॉकहोम रूट पर चलने वाला था। इसकी मालिकाना संरचना बहुत जटिल थी।",
+          "visual": {
+            "type": "card",
+            "title": "जनवरी 1993",
+            "text": "नाम बदलकर रखा गया Estonia"
+          }
+        },
+        {
+          "id": "c3b7",
+          "text": "जहाज़ साइप्रस की कंपनी Estline Marine के नाम पर रजिस्टर था, जो इसे टालिन की E.Liini कंपनी को किराए पर देती थी, और वह आगे Estline AB को। जहाज़ साइप्रस और एस्टोनिया दोनों जगह दर्ज था।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Stack of maritime registration documents and company logos from Cyprus and Estonia, close-up desk shot, formal bureaucratic mood, 1990s office"
+          }
+        },
+        {
+          "id": "c3b8",
+          "text": "उस दौर में एस्टोनिया सोवियत संघ के टूटने के बाद हाल ही में आज़ाद हुआ देश था। सबसे बड़ा एस्टोनियाई-मालिकाना जहाज़ होने के नाते, MS Estonia उस आज़ादी का प्रतीक बन गया।",
+          "visual": {
+            "type": "photo",
+            "photo": "p14"
+          },
+          "factFix": "Source only says the ship 'symbolized' the regained independence; it does not say Estonia was 'celebrating' at that time — an embellished detail not supported by the source."
+        },
+        {
+          "id": "c3b9",
+          "text": "जहाज़ में कुल 11 डेक थे, सबसे नीचे डेक 0 से लेकर सबसे ऊपर डेक 10 तक। डेक 6, 5, 4 और 1 पर यात्रियों की सुविधाएं थीं, और डेक 8-7 पर क्रू रहता था।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Cutaway architectural diagram of an 11-deck 1980s car-passenger ferry, showing passenger cabins, crew decks, and cargo decks labeled by level, technical illustration style"
+          }
+        },
+        {
+          "id": "c3b10",
+          "text": "डेक 2 और 3 सिर्फ कार्गो के लिए थे। डेक 1 पर सस्ते केबिन थे, जबकि 4 से 6 डेक पर डाइनिंग और मनोरंजन की जगहें थीं, जैसे Pub Admiral और Baltic Bar।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Interior of a 1990s ferry passenger lounge with a small bar and dining tables, warm cozy lighting, passengers in 1990s casual clothing relaxing, evening atmosphere"
+          }
+        },
+        {
+          "id": "c3b11",
+          "text": "डेक 0 पर सौना और स्विमिंग पूल था। यह एक बड़ा, आरामदायक जहाज़ था — हर सुविधा से लैस। लेकिन कुछ ही महीनों बाद, यही जहाज़ इतिहास की सबसे बड़ी समुद्री त्रासदियों में गिना जाने वाला था।",
+          "visual": {
+            "type": "photo",
+            "photo": "p3"
+          }
+        }
+      ],
+      "checked": true
+    },
+    {
+      "titleEn": "The Last Crossing Begins",
+      "titleHi": "आखिरी यात्रा की शुरुआत",
+      "covers": "28 Sept 1994 departure from Tallinn bound for Stockholm with 989 people aboard; Baltic Sea geography and autumn storm season context (winter storms arriving from October, numerous historical shipwrecks); cargo distribution issue causing poor stability; setting the scene of a normal ferry night turning deadly; RORO design context — open vehicle decks, bow visor and ramp construction, general vulnerability of car ferries (roll-on/roll-over reputation) foreshadowing danger.",
+      "words": 420,
+      "beats": [
+        {
+          "id": "c4b1",
+          "text": "27 सितंबर 1994 की शाम, तालिन बंदरगाह में MS Estonia रोज़ की तरह तैयार खड़ा था। स्टॉकहोम के लिए यह उसकी आखिरी यात्रा साबित होने वाली थी।",
+          "visual": {
+            "type": "ai",
+            "prompt": "1980s white car-passenger ferry MS Estonia with blue Estline hull stripe docked at Tallinn port at evening, cars and trucks boarding via bow ramp, September 1994, wide harbor shot"
+          },
+          "factFix": "Wrong date: Estonia was an overnight ferry that departed Tallinn on the evening of 27 September, with the sinking occurring between 00:50–01:50 on 28 September (per S1). The beat wrongly places departure on the evening of 28 September."
+        },
+        {
+          "id": "c4b2",
+          "text": "जहाज़ पर कुल 989 लोग सवार थे — यात्री और क्रू मिलाकर। सब स्टॉकहोम की रात की यात्रा के लिए तैयार थे।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Mixed Swedish, Estonian and Finnish passengers in 1990s casual clothing boarding a cruiseferry, families with luggage, evening light, warm mood"
+          },
+          "factFix": "Invented detail: sources give only the total count (989) on board; specific passenger nationalities/mix (Estonian, Swedish, Finnish families, business travelers) are not mentioned in any source."
+        },
+        {
+          "id": "c4b3",
+          "text": "989 लोग सवार थे।",
+          "visual": {
+            "type": "card",
+            "title": "989 यात्री और क्रू",
+            "text": "MS Estonia पर सवार"
+          }
+        },
+        {
+          "id": "c4b4",
+          "text": "जहाज़ की कमान अनुभवी क्रू के हाथ में थी। ब्रिज पर कैप्टन और उनकी टीम रात की ड्यूटी पर तैनात थे, बिलकुल रोज़ जैसी एक रात।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Estonian and Swedish merchant marine officers in navy-blue uniforms on the bridge of a ferry at night, instruments glowing, calm routine atmosphere, late 1994"
+          },
+          "factFix": "Invented detail: sources do not specify the nationality of the captain or bridge crew as Estonian and Swedish."
+        },
+        {
+          "id": "c4b5",
+          "text": "MS Estonia स्वीडन, फिनलैंड और एस्टोनिया के बीच बाल्टिक सागर में डूबा था। अक्टूबर से यहां सर्दियों के तूफान शुरू होते हैं, और सदियों से इसी समंदर में कई जहाज़ डूबे हैं।",
+          "visual": {
+            "type": "photo",
+            "photo": "p18"
+          },
+          "factFix": "Slight misstatement: sources describe the sinking location as being in the Baltic Sea between Sweden, Finland and Estonia (S1), not that the entire Baltic Sea is confined to lying between only these three countries (S3 lists nine bordering countries). The beat conflates sinking location with full sea geography."
+        },
+        {
+          "id": "c4b6",
+          "text": "उस रात समंदर में तूफानी हालात थे। तेज़ हवाएं चल रही थीं, लहरें ऊंची उठ रही थीं। बाल्टिक में ऐसा मौसम कोई असामान्य बात नहीं थी।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Dark stormy Baltic Sea at night, heavy waves, rain, distant ferry lights on the horizon, moody cinematic shot"
+          },
+          "factFix": "Invented specific detail: sources mention rough weather contributing to rescue difficulties but do not specifically state it was raining that night."
+        },
+        {
+          "id": "c4b7",
+          "text": "लेकिन जहाज़ के अंदर एक छुपी हुई समस्या थी। कार डेक पर कार्गो का वज़न सही तरीके से बंटा नहीं था, जिससे जहाज़ पहले से हल्का सा झुका हुआ था।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Interior of a ferry vehicle deck filled with cars and trucks loosely parked, dim lighting, 1990s vehicles, no visible restraints, slightly ominous"
+          },
+          "factFix": "Invented/incorrect detail: sources state the ship was listing due to poor cargo distribution, not that vehicles/trucks were improperly tied down."
+        },
+        {
+          "id": "c4b8",
+          "text": "MS Estonia एक RORO जहाज़ था — यानी गाड़ियां अपने पहियों पर सीधे अंदर-बाहर जातीं। आगे एक बड़ा बो विज़र था, जो खुलकर कार रैंप को ढकता था।",
+          "visual": {
+            "type": "photo",
+            "photo": "p4"
+          }
+        },
+        {
+          "id": "c4b9",
+          "text": "ऐसे जहाज़ों के कार डेक में अंदर दीवारें नहीं होतीं, ताकि गाड़ियां आसानी से चल सकें। लेकिन यही खुलापन इन जहाज़ों को समंदर में कमज़ोर भी बनाता था।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Wide open ferry vehicle deck with no internal walls, rows of cars, low ceiling, industrial lighting, engineering diagram feel"
+          }
+        },
+        {
+          "id": "c4b10",
+          "text": "समुद्री जानकार ऐसे जहाज़ों को मज़ाक में 'roll on, roll over' कहते थे — यानी चढ़ने वाला जहाज़, पलटने वाला जहाज़। किसी को अंदाज़ा नहीं था कि यह मज़ाक उस रात हकीकत बनेगा।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Silhouette of large ferry sailing into a dark stormy horizon at night, ominous foreboding mood, distant lightning"
+          }
+        },
+        {
+          "id": "c4b11",
+          "text": "जहाज़ तालिन से निकल चुका था। पब में संगीत बज रहा था, रेस्टोरेंट में लोग खाना खा रहे थे। सब कुछ बिलकुल सामान्य लग रहा था।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Passengers relaxing in a 1990s ferry pub and restaurant, warm lighting, families and travelers eating and talking, cozy interior contrast to dark windows"
+          },
+          "factFix": "Invented specific detail: no source gives a departure time (9 PM) for the ferry from Tallinn."
+        },
+        {
+          "id": "c4b12",
+          "text": "किसी को अंदाज़ा नहीं था कि अगले कुछ घंटों में यही सामान्य रात, समंदर के इतिहास की सबसे भयानक रातों में से एक बन जाएगी।",
+          "visual": {
+            "type": "ai",
+            "prompt": "MS Estonia ferry sailing through dark stormy Baltic Sea at night, waves crashing against hull, tense cinematic wide shot, foreboding"
+          }
+        }
+      ],
+      "checked": true
+    },
+    {
+      "titleEn": "When the Sea Broke In",
+      "titleHi": "जब समंदर अंदर घुस आया",
+      "covers": "Detailed sinking sequence: bow door separates from vessel pulling ramp ajar; ship already listing due to poor cargo distribution; list increases rapidly via free surface effect flooding car deck and cabins; power failure inhibits search and rescue; comparison to Herald of Free Enterprise and TEV Wahine free-surface-effect capsizes; the physical chaos aboard as the ship capsizes in the dark stormy Baltic between Sweden, Finland and Estonia.",
+      "words": 480,
+      "beats": [
+        {
+          "id": "c5b1",
+          "text": "रात करीब 12:50 बजे, कुछ अजीब आवाज़ें आने लगीं। धातु के टकराने जैसी तेज़ आवाज़, जैसे कुछ टूट रहा हो। यही वो पल था जब सब कुछ बदलना शुरू हुआ।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Dark stormy night, bow of large ferry hit by huge waves, metallic stress visible on structure, dramatic low-angle shot, rain and spray"
+          }
+        },
+        {
+          "id": "c5b2",
+          "text": "बाद की जांच में पता चला — बो विज़र के लॉक टूट गए थे। तूफानी लहरों की ताकत के आगे विज़र धीरे-धीरे जहाज़ से अलग होने लगा।",
+          "visual": {
+            "type": "photo",
+            "photo": "p4"
+          }
+        },
+        {
+          "id": "c5b3",
+          "text": "बो विज़र के लॉक फेल हुए।",
+          "visual": {
+            "type": "card",
+            "title": "बो विज़र फेल",
+            "text": "लॉक टूटने से हादसा शुरू"
+          }
+        },
+        {
+          "id": "c5b4",
+          "text": "विज़र ने अपने साथ कार रैंप को भी खींच लिया, और रैंप थोड़ा खुल गया। अब समंदर का ठंडा पानी सीधे कार डेक के अंदर घुसने लगा।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Seawater rushing through a partly open ferry ramp into a vehicle deck at night, dark and dramatic, waves pouring in, no people visible"
+          }
+        },
+        {
+          "id": "c5b5",
+          "text": "जहाज़ पहले से ही एक तरफ थोड़ा झुका हुआ था, क्योंकि कार्गो का वज़न ठीक से बंटा नहीं था। पानी घुसने से यह झुकाव अब और तेज़ी से बढ़ने लगा।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Large ferry visibly tilting to one side in stormy dark sea at night, waves washing over lower deck, dramatic wide shot"
+          }
+        },
+        {
+          "id": "c5b6",
+          "text": "इसे 'free surface effect' कहते हैं — जब पानी किसी खुले डेक पर इधर-उधर बहता है, तो जहाज़ की स्थिरता बिगड़ जाती है। एस्टोनिया के कार डेक पर बिलकुल यही हो रहा था।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Water sloshing violently across a large open vehicle deck between rows of cars, dim emergency lighting, sense of instability"
+          }
+        },
+        {
+          "id": "c5b7",
+          "text": "कुछ ही मिनटों में झुकाव इतना बढ़ गया कि पानी नीचे के केबिनों में भी घुसने लगा। सोए हुए यात्री अचानक जाग उठे, कुछ समझ नहीं पा रहे थे क्या हो रहा है।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Passengers waking startled in a tilted, dim cabin interior on a ferry at night, sense of confusion and alarm, respectful non-graphic depiction"
+          }
+        },
+        {
+          "id": "c5b8",
+          "text": "जहाज़ की बिजली गुल होने लगी। लाइटें बुझने लगीं, इंजन रुकने लगे। इससे रेस्क्यू और मुश्किल हो गया — न रोशनी बची, न संचार आसान रहा।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Dark ship corridor with flickering emergency lights, tilted floor, sense of power failure and chaos, dramatic shadows"
+          }
+        },
+        {
+          "id": "c5b9",
+          "text": "यह पहली बार नहीं था जब ऐसे डिज़ाइन ने जानें ली हों। 1987 में Herald of Free Enterprise नाम का जहाज़ भी ऐसे ही खुले दरवाज़े की वजह से डूब गया था।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Generic 1980s cross-channel car ferry listing in rough sea at night, historical archival documentary style, non-graphic"
+          }
+        },
+        {
+          "id": "c5b10",
+          "text": "1968 में न्यूज़ीलैंड के पास TEV Wahine भी free surface effect की वजह से पलट गया था। एस्टोनिया की जांच में भी यही मुख्य वजह मानी गई।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Historic-style large passenger ferry tilted heavily in rough ocean waves, dark stormy sky, archival documentary feel"
+          }
+        },
+        {
+          "id": "c5b11",
+          "text": "जहाज़ के अंदर अफरा-तफरी मच गई। लोग सीढ़ियों की तरफ भागने लगे, सामान और फर्नीचर इधर-उधर फिसलने लगा, क्योंकि झुकाव लगातार बढ़ता जा रहा था।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Chaotic tilted ferry interior at night, people moving toward stairways, furniture sliding, dim emergency lighting, respectful non-graphic depiction"
+          }
+        },
+        {
+          "id": "c5b12",
+          "text": "बाहर, स्वीडन, फिनलैंड और एस्टोनिया के बीच का अंधेरा समंदर तूफान से उबल रहा था। तेज़ हवा, ऊंची लहरें, बर्फीली ठंड — हालात बेहद खतरनाक थे।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Wide aerial-style view of dark stormy Baltic Sea at night between Sweden, Finland and Estonia, massive waves, rain, isolated ferry lights"
+          }
+        },
+        {
+          "id": "c5b13",
+          "text": "कुछ ही देर में MS Estonia पूरी तरह करवट लेने लगा। जो जहाज़ कुछ घंटे पहले शांति से समंदर पार कर रहा था, अब अंधेरे में डूबने लगा था।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Large white ferry with blue hull stripe capsizing at night in a violent storm, dramatic wide cinematic shot, dark sea, respectful non-graphic"
+          }
+        }
+      ],
+      "checked": true
+    },
+    {
+      "titleEn": "137 Survivors: The Rescue",
+      "titleHi": "137 जिंदा बचे: बचाव अभियान",
+      "covers": "Full-scale emergency not declared for 90 minutes; of 989 aboard only 137 rescued, 852 lost; passive attitude of crew — failing to notice water entering vehicle deck, delayed alarm, minimal bridge guidance; harsh conditions of Baltic storm hampering rescue; ranks the disaster as one of deadliest peacetime sinkings of a European ship after Titanic and Empress of Ireland, and the deadliest peacetime shipwreck in European waters.",
+      "words": 420,
+      "beats": [
+        {
+          "id": "c6b1",
+          "text": "जहाज़ में पानी घुसने और झुकाव शुरू होने के बावजूद, पूरा इमरजेंसी अलार्म बजाने में 90 मिनट लग गए। यह देरी बाद में जांच का सबसे बड़ा सवाल बनी।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Bridge of ferry at night, officers looking tense and uncertain, alarm panel glowing red, dramatic tension"
+          }
+        },
+        {
+          "id": "c6b2",
+          "text": "90 मिनट की देरी।",
+          "visual": {
+            "type": "card",
+            "title": "90 मिनट की देरी",
+            "text": "पूरा अलार्म बजने में"
+          }
+        },
+        {
+          "id": "c6b3",
+          "text": "रिपोर्ट के मुताबिक क्रू का रवैया शुरू से ढीला रहा। कार डेक में पानी घुसने का पता समय पर नहीं चला, और चेतावनी देने में देरी हुई।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Crew members in navy uniforms on ferry bridge at night, confused expressions, monitoring flickering instruments, storm visible through windows"
+          }
+        },
+        {
+          "id": "c6b4",
+          "text": "ब्रिज से यात्रियों को सही दिशा-निर्देश भी नहीं मिले। न कोई साफ अनाउंसमेंट, न कोई तय रास्ता — अंधेरे और झुकते जहाज़ में लोग खुद ही रास्ता ढूंढ रहे थे।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Passengers moving confused through a dark tilted ferry corridor at night, no clear guidance, dim emergency lighting, respectful depiction"
+          }
+        },
+        {
+          "id": "c6b5",
+          "text": "जब तक मदद के लिए कॉल गया, तब तक जहाज़ बहुत ज़्यादा झुक चुका था। बाहर निकलना लगभग नामुमकिन हो गया था।",
+          "visual": {
+            "type": "ai",
+            "prompt": "People struggling to climb toward an exit on a severely tilted ferry deck at night, dramatic angle, respectful non-graphic"
+          }
+        },
+        {
+          "id": "c6b6",
+          "text": "तूफानी समंदर में रेस्क्यू टीमों के लिए पहुंचना आसान नहीं था। ऊंची लहरें, तेज़ हवा और बर्फीला पानी — हर तरफ मुश्किलें ही मुश्किलें थीं।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Rescue helicopter searchlight scanning a violent dark stormy sea at night, waves crashing, dramatic wide shot"
+          }
+        },
+        {
+          "id": "c6b7",
+          "text": "तूफानी समंदर में रेस्क्यू टीमों के लिए बचे हुए लोगों तक पहुंचना बेहद मुश्किल था। ठंडे पानी और ऊंची लहरों के बीच रेस्क्यू ऑपरेशन में लंबा समय लगा।",
+          "visual": {
+            "type": "photo",
+            "photo": "p5"
+          },
+          "factFix": "Invented details: sources do not specify that rescue ships and helicopters were sent specifically from Finland, Sweden and Estonia, nor describe survivors on life rafts for hours."
+        },
+        {
+          "id": "c6b8",
+          "text": "989 लोगों में से सिर्फ 137 को ज़िंदा बचाया जा सका। 852 लोगों की जान चली गई। यह आंकड़ा आज भी सुनने में सिहरन पैदा करता है।",
+          "visual": {
+            "type": "card",
+            "title": "852 मौतें, 137 बचे",
+            "text": "989 सवार यात्रियों में से"
+          }
+        },
+        {
+          "id": "c6b9",
+          "text": "यह हादसा यूरोपीय समुद्र में हुई अब तक की सबसे भयानक शांतिकाल की जहाज़ दुर्घटना मानी जाती है। इससे पहले सिर्फ Titanic और Empress of Ireland में ज़्यादा जानें गई थीं।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Somber memorial-style wide shot of calm Baltic Sea at dawn, respectful and quiet mood, no ship visible, gentle waves"
+          }
+        },
+        {
+          "id": "c6b10",
+          "text": "एक शांत रात की सामान्य यात्रा, कुछ ही घंटों में 20वीं सदी की सबसे बड़ी समुद्री त्रासदियों में गिनी जाने लगी। सवाल अब भी बाकी था — आखिर गलती किसकी थी?",
+          "visual": {
+            "type": "ai",
+            "prompt": "Dawn light over quiet Baltic Sea, empty horizon, reflective and somber documentary mood, respectful tone"
+          }
+        }
+      ],
+      "checked": true
+    },
+    {
+      "titleEn": "The Investigation: What the Report Found",
+      "titleHi": "जांच: रिपोर्ट में क्या निकला",
+      "covers": "Official inquiry conclusions — bow visor lock failure allowed flooding, crew inaction criticized; seaworthiness certificate found incorrect since no bow-part inspection was done per regulations; bow visor was under-designed, not treated as safety-critical during manufacturing/approval; 2023 investigation revealing additional construction flaws in the bow visor, reopening questions about whether the true cause was fully disclosed originally.",
+      "words": 450,
+      "beats": [
+        {
+          "id": "c7b1",
+          "text": "सवाल अब भी बाकी था — आखिर गलती किसकी थी? दोस्तों, जांचकर्ताओं ने महीनों तक मलबे, दस्तावेज़ों और गवाहों की गहराई से तफ्तीश की।",
+          "visual": {
+            "type": "ai",
+            "prompt": "1990s maritime investigators studying photographs, documents and a scale model of a car ferry on a table, dim office lighting, serious mood, no text visible"
+          }
+        },
+        {
+          "id": "c7b2",
+          "text": "आधिकारिक जांच रिपोर्ट में साफ लिखा गया — बो विज़र के लॉक्स फेल हो गए थे। इसी वजह से पानी कार डेक में घुसा और जहाज़ तेज़ी से पलट गया।",
+          "visual": {
+            "type": "ai",
+            "prompt": "technical close-up illustration of a ferry's bow visor locking mechanism failing under stress, stormy dark sea in background, dramatic engineering diagram style, no text"
+          }
+        },
+        {
+          "id": "c7b3",
+          "text": "रिपोर्ट के मुताबिक, बो डोर जहाज़ से पूरी तरह अलग हो गया था। इससे रैंप ढीला होकर खुल गया और समंदर का पानी सीधे कार डेक में भरने लगा।",
+          "visual": {
+            "type": "ai",
+            "prompt": "dramatic illustration of a large white 1980s car ferry's bow door detaching in a stormy dark Baltic Sea at night, huge waves crashing against the hull, blue Estline hull stripe visible"
+          }
+        },
+        {
+          "id": "c7b4",
+          "text": "जांच में क्रू के रवैये पर भी सवाल उठे। रिपोर्ट ने कहा कि क्रू ने पानी घुसने का समय पर पता नहीं लगाया, अलार्म देर से बजाया और ब्रिज से मार्गदर्शन बहुत कम मिला।",
+          "visual": {
+            "type": "ai",
+            "prompt": "Estonian and Swedish officers in navy-blue merchant marine uniforms on a dimly lit ship bridge at night, worried expressions, control panels and windows showing stormy sea outside"
+          }
+        },
+        {
+          "id": "c7b5",
+          "text": "एक और चौंकाने वाली बात सामने आई। जहाज़ का सीवर्दीनेस सर्टिफिकेट, यानी समुद्र में चलने की योग्यता का प्रमाणपत्र, गलत निकला। नियमों के मुताबिक बो के हिस्सों की जांच होनी चाहिए थी, पर वह हुई ही नहीं।",
+          "visual": {
+            "type": "ai",
+            "prompt": "close-up of an old 1990s ship inspection certificate document with official stamps and signatures on a wooden desk, dramatic lighting, no readable text"
+          }
+        },
+        {
+          "id": "c7b6",
+          "text": "अगर यह जांच सही तरीके से होती, तो शायद विज़र की खामियां पहले ही पकड़ में आ जातीं। लेकिन ऐसा नहीं हुआ, और यह चूक बाद में जानलेवा साबित हुई।",
+          "visual": {
+            "type": "ai",
+            "prompt": "1980 Meyer Werft shipyard workers in Papenburg inspecting the large bow visor construction of a ferry hull, industrial setting, overcast daylight"
+          }
+        },
+        {
+          "id": "c7b7",
+          "text": "रिपोर्ट में यह भी कहा गया कि बो विज़र की डिज़ाइन शुरू से ही कमज़ोर थी। जहाज़ बनाते और मंज़ूर करते वक्त विज़र और उसके जोड़ों को सुरक्षा के लिहाज़ से 'क्रिटिकल' नहीं माना गया था।",
+          "visual": {
+            "type": "ai",
+            "prompt": "engineers in a 1980s shipyard office reviewing large blueprint technical drawings of a ferry bow visor design, drafting table, overhead lamp, focused expressions"
+          }
+        },
+        {
+          "id": "c7b8",
+          "text": "करीब तीन दशक बाद, साल 2023 में हुई एक नई जांच ने कुछ और तथ्य उजागर किए। इसमें बो विज़र में और भी निर्माण संबंधी खामियां पाई गईं।",
+          "visual": {
+            "type": "ai",
+            "prompt": "modern 2023 researchers examining underwater sonar and scan images of a shipwreck's bow visor on computer screens in a lab, focused and serious mood"
+          }
+        },
+        {
+          "id": "c7b9",
+          "text": "इस नई खोज ने पुराने सवालों को फिर से ज़िंदा कर दिया। क्या शुरू में पूरी सच्चाई सामने रखी गई थी? यह सवाल आज भी अनसुलझा है।",
+          "visual": {
+            "type": "ai",
+            "prompt": "conceptual split illustration, one side showing old 1994 paper investigation documents, other side showing modern 2023 digital scan of a shipwreck bow, reflective somber mood, no text"
+          }
+        }
+      ],
+      "checked": true
+    },
+    {
+      "titleEn": "Ghost Ship of the Baltic: Legacy and Safety Changes",
+      "titleHi": "बाल्टिक का भूत जहाज: विरासत और सुरक्षा में बदलाव",
+      "covers": "Memorials for the disaster in Tallinn and Stockholm; the wreck's place among history's worst maritime disasters alongside Wilhelm Gustloff and Titanic; broader RORO ferry safety reputation ('roll on/roll over') and how disasters like Estonia, Herald of Free Enterprise shaped scrutiny of bow-door and free-surface-effect risks in ferry design; brief note on Baltic Sea's ongoing importance as a maritime/ferry route today.",
+      "words": 380,
+      "beats": [
+        {
+          "id": "c8b1",
+          "text": "एस्टोनिया हादसे ने पूरी दुनिया को झकझोर दिया। तालिन और स्टॉकहोम, दोनों शहरों में इस हादसे में मारे गए लोगों की याद में मेमोरियल बनाए गए हैं।",
+          "visual": {
+            "type": "ai",
+            "prompt": "a quiet memorial monument by the sea in a European coastal city, a few people standing silently with flowers, overcast autumn day, respectful somber mood"
+          }
+        },
+        {
+          "id": "c8b2",
+          "text": "दोस्तों, एस्टोनिया हादसे की याद में तालिन और स्टॉकहोम, दोनों शहरों में मेमोरियल बनाए गए हैं, जो इस त्रासदी की गवाही देते हैं।",
+          "visual": {
+            "type": "photo",
+            "photo": "p4"
+          },
+          "factFix": "Fabricated detail not found in any source — no source states that Estonia's bow visor is preserved at Muskö naval base in Sweden"
+        },
+        {
+          "id": "c8b3",
+          "text": "यह हादसा 20वीं सदी की सबसे भयानक शांतिकाल समुद्री त्रासदियों में गिना जाता है। यूरोपीय जल में यह Titanic और Empress of Ireland के बाद सबसे घातक शांतिकाल जहाज़ हादसा है।",
+          "visual": {
+            "type": "ai",
+            "prompt": "conceptual historical montage silhouette of three different ships from different eras in stormy dark seas, memorial candles floating on water, solemn tribute mood, no text"
+          },
+          "factFix": "Source compares Estonia's death toll to Titanic and Empress of Ireland (peacetime sinkings), not Wilhelm Gustloff, which was a wartime disaster and a different category"
+        },
+        {
+          "id": "c8b4",
+          "text": "दोस्तों, इस हादसे ने RORO यानी रोल-ऑन रोल-ऑफ फेरी डिज़ाइन पर भी बड़े सवाल खड़े किए। ऐसे जहाज़ों को कभी-कभी मज़ाक में 'रोल ऑन, रोल ओवर' भी कहा जाता है।",
+          "visual": {
+            "type": "ai",
+            "prompt": "cutaway technical diagram-style illustration of a roll-on roll-off ferry showing an open vehicle deck full of cars and a large bow door, 1990s ferry design, clean side view"
+          }
+        },
+        {
+          "id": "c8b5",
+          "text": "1987 में Herald of Free Enterprise हादसे में भी लोडिंग डोर ठीक से बंद न होने से पानी अंदर घुस गया था। एस्टोनिया हादसे ने ऐसे ही खतरों को फिर उजागर किया।",
+          "visual": {
+            "type": "ai",
+            "prompt": "archival-style illustration of a 1980s roro ferry partially capsized near a harbor in daylight, rescue boats nearby, dramatic but respectful mood, no graphic detail"
+          }
+        },
+        {
+          "id": "c8b6",
+          "text": "फ्री सरफेस इफेक्ट, यानी डेक पर जमा पानी का हिलना-डुलना, दोनों हादसों की बड़ी वजह बना। इसके बाद दुनिया भर में बो-डोर और फेरी डिज़ाइन की सुरक्षा जांच सख्त कर दी गई।",
+          "visual": {
+            "type": "ai",
+            "prompt": "technical diagram illustration showing water sloshing on a ship's car deck causing the vessel to tilt dangerously, arrows showing water movement, clean instructional style"
+          }
+        },
+        {
+          "id": "c8b7",
+          "text": "आज भी बाल्टिक सागर में तालिन, स्टॉकहोम जैसे शहरों के बीच कई फेरी कंपनियां नियमित रूप से यात्री सेवाएं चलाती हैं।",
+          "visual": {
+            "type": "photo",
+            "photo": "p22"
+          },
+          "factFix": "Unsupported specific claim — sources do not state 'thousands of passengers every day' between Tallinn, Stockholm and Helsinki"
+        }
+      ],
+      "checked": true
+    },
+    {
+      "titleEn": "Conclusion: The Questions That Remain",
+      "titleHi": "निष्कर्ष: अनसुलझे सवाल",
+      "covers": "Summary of lessons — engineering oversight, crew training, and inspection failures; open questions raised by the 2023 findings about construction flaws not caught originally; reflection on why MS Estonia remains one of the 20th century's deadliest peacetime disasters; closing call to action asking viewers to like, comment their thoughts, and subscribe for more true disaster stories.",
+      "words": 330,
+      "beats": [
+        {
+          "id": "c9b1",
+          "text": "एस्टोनिया हादसे ने हमें कई सबक सिखाए। इंजीनियरिंग की खामी, क्रू की ट्रेनिंग की कमी, और सही इंस्पेक्शन का न होना — ये तीनों मिलकर इतनी बड़ी त्रासदी बन गए।",
+          "visual": {
+            "type": "ai",
+            "prompt": "somber illustration of a large white ferry silhouette at sea with faint overlay of engineering blueprint lines, dark stormy sky, reflective memorial mood, no text"
+          }
+        },
+        {
+          "id": "c9b2",
+          "text": "2023 की जांच ने यह भी दिखाया कि बो विज़र में निर्माण के दौरान ही खामियां रह गई थीं। सवाल उठता है — क्या ये खामियां पहले पकड़ी जा सकती थीं?",
+          "visual": {
+            "type": "ai",
+            "prompt": "researcher in a modern lab looking thoughtfully at an underwater scan image of a shipwreck bow visor on a large screen, focused contemplative mood"
+          }
+        },
+        {
+          "id": "c9b3",
+          "text": "यह सवाल आज भी पूरी तरह अनसुलझा है। यही वजह है कि एस्टोनिया 20वीं सदी की सबसे भयानक शांतिकाल समुद्री त्रासदियों में गिनी जाती है।",
+          "visual": {
+            "type": "ai",
+            "prompt": "dramatic wide shot of a ferry silhouette on a stormy dark Baltic Sea at night, memorial candles and flowers floating gently on the water nearby, solemn tribute mood"
+          }
+        },
+        {
+          "id": "c9b4",
+          "text": "989 लोग एक आम रात में तालिन से स्टॉकहोम की यात्रा पर निकले थे। सिर्फ 137 लोग वापस लौट पाए। बाकी 852 की कहानी हमेशा के लिए बाल्टिक सागर में दफन हो गई।",
+          "visual": {
+            "type": "ai",
+            "prompt": "emotional wide shot of empty ferry deck chairs at calm dawn light, quiet sea in background, somber tribute mood, no people, respectful"
+          }
+        },
+        {
+          "id": "c9b5",
+          "text": "अगर आपको एस्टोनिया की यह कहानी जानकर कुछ नया सीखने को मिला, तो हमें कमेंट में ज़रूर बताइए। आपके विचार हमारे लिए मायने रखते हैं।",
+          "visual": {
+            "type": "ai",
+            "prompt": "generic YouTube-style call-to-action graphic with like and subscribe icons overlaid softly on a background image of a ferry silhouette at sea, clean modern design, no readable text"
+          }
+        },
+        {
+          "id": "c9b6",
+          "text": "ऐसी ही सच्ची और हैरान करने वाली दुर्घटनाओं की कहानियां जानने के लिए चैनल को सब्सक्राइब करना न भूलें। मिलते हैं अगली कहानी में।",
+          "visual": {
+            "type": "ai",
+            "prompt": "closing wide shot of the large white 1980s car ferry sailing calmly across the Baltic Sea at sunset before the disaster, warm golden light, peaceful reflective mood"
+          }
+        }
+      ],
+      "checked": true
+    }
+  ],
+  "shorts": [
+    {
+      "id": "s1",
+      "chapter": 4,
+      "titleEn": "The 90 Seconds That Doomed MS Estonia's Bow Visor",
+      "hookHi": "रात 12:50 का राज़",
+      "text": "रात करीब 12:50 बजे, MS Estonia में अचानक धातु टकराने जैसी तेज़ आवाज़ें आईं। अगले कुछ मिनट कितने खतरनाक होने वाले थे, किसी को अंदाज़ा नहीं था। बाद की जांच में पता चला कि जहाज़ के बो विज़र के लॉक्स फेल हो गए थे। तूफानी लहरों के आगे विज़र अलग होने लगा, और साथ में कार रैंप को भी खींच लिया। रैंप थोड़ा खुल गया, और ठंडा बाल्टिक समंदर सीधे कार डेक में घुसने लगा। जहाज़ पहले से कार्गो के गलत बंटवारे की वजह से थोड़ा झुका हुआ था। पानी घुसते ही झुकाव और तेज़ हो गया। 989 लोग सवार थे इस जहाज़ पर, ज़्यादातर सो रहे थे। क्या क्रू को समय पर पता चल पाया? पूरी कहानी हमारे चैनल पर देखिए।",
+      "descriptionEn": "How a failed bow visor lock let the Baltic Sea into MS Estonia's car deck.\nThe hidden moment that started the disaster of September 1994.",
+      "tags": [
+        "MSEstonia",
+        "BalticSea",
+        "ShipDisaster",
+        "BowVisor",
+        "MaritimeHistory",
+        "FreeSurfaceEffect",
+        "1994Tragedy",
+        "ShipwreckStory",
+        "EstoniaFerry",
+        "HindiDocumentary"
+      ]
+    },
+    {
+      "id": "s2",
+      "chapter": 5,
+      "titleEn": "90 Minutes of Silence: MS Estonia's Delayed Alarm",
+      "hookHi": "90 मिनट की देरी",
+      "text": "जहाज़ डूब रहा था, लेकिन अलार्म बजाने में पूरे 90 मिनट लग गए। सोचिए, इतने बड़े हादसे में ये देरी कितनी भारी पड़ी होगी। MS Estonia का कार डेक पानी से भर रहा था, जहाज़ तेज़ी से झुक रहा था। लेकिन रिपोर्ट के मुताबिक क्रू का रवैया शुरू से ढीला रहा। पानी घुसने का समय पर पता नहीं चला, और चेतावनी देने में देर हो गई। ब्रिज से यात्रियों को सही दिशा-निर्देश भी नहीं मिले। अंधेरे में, झुकते जहाज़ में, लोग खुद रास्ता ढूंढ रहे थे। बाहर तूफानी समंदर था — ऊंची लहरें, तेज़ हवा, बर्फीला पानी। रेस्क्यू टीमों के लिए पहुंचना आसान नहीं था। 989 लोगों में से सिर्फ 137 ज़िंदा बच पाए। बाकियों का क्या हुआ? पूरी कहानी हमारे चैनल पर देखिए।",
+      "descriptionEn": "Why did it take 90 minutes to sound the alarm on a sinking ship?\nInside the delayed rescue that cost hundreds of lives.",
+      "tags": [
+        "MSEstonia",
+        "RescueOperation",
+        "BalticSea",
+        "ShipwreckStory",
+        "MaritimeDisaster",
+        "90MinuteDelay",
+        "1994Tragedy",
+        "SurvivorStory",
+        "EstoniaFerry",
+        "HindiDocumentary"
+      ]
+    },
+    {
+      "id": "s3",
+      "chapter": 1,
+      "titleEn": "The Ship Norway Rejected Became MS Estonia",
+      "hookHi": "नॉर्वे का ठुकराया जहाज़",
+      "text": "क्या आपको पता है, MS Estonia पहले किसी और देश के लिए बनाया जा रहा था? यह कहानी शुरू होती है 1980 में, जर्मनी के पापेनबुर्ग शहर में, Meyer Werft शिपयार्ड में। नॉर्वे की एक कंपनी ने यह जहाज़ ऑर्डर किया था, लेकिन आखिरी वक़्त पर ऑर्डर वापस ले लिया। यह कॉन्ट्रैक्ट फिनलैंड की कंपनी Rederi Ab Sally को मिला। शुरुआत में यह जहाज़ Diana II का सिस्टर शिप बनने वाला था। लेकिन Sally ने इसे लंबा करवाया — 137 मीटर से बढ़ाकर करीब 155 मीटर, और सुपरस्ट्रक्चर भी नए सिरे से बनाया गया। इस अस्वीकृत जहाज़ ने कई नाम बदले — Viking Sally, Silja Star, Wasa King, और आखिर में Estonia। क्या यही बदलाव हादसे की वजह बने? पूरी कहानी हमारे चैनल पर देखिए।",
+      "descriptionEn": "MS Estonia was first ordered by a Norwegian company that walked away.\nHow a rejected order and a redesign shaped the ship's fate.",
+      "tags": [
+        "MSEstonia",
+        "MeyerWerft",
+        "VikingLine",
+        "ShipHistory",
+        "BalticSea",
+        "RederiAbSally",
+        "ShipwreckStory",
+        "1994Tragedy",
+        "EstoniaFerry",
+        "HindiDocumentary"
+      ]
+    }
+  ],
+  "wordCount": 2442
+}
