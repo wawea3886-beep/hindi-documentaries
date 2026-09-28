@@ -130,7 +130,10 @@ ${outline}
 VISUAL CHARACTERS (use in every illustration prompt): ${ep.meta.characters}
 
 ${prev ? `The previous chapter ended with: "${prev}"\nContinue naturally from there.\n` : ""}
-Write chapters ${indices.map((i) => i + 1).join(", ")} now, each close to its target word count.
+Write chapters ${indices.map((i) => i + 1).join(", ")} now. LENGTH IS CRITICAL — this is a long-form documentary, so each chapter
+must reach AT LEAST its word count (Hindi words separated by spaces). Add depth instead of padding: background, context,
+timeline details, numbers, what investigators found, different viewpoints — all from the sources.
+${indices.map((i) => `- Chapter ${i + 1}: at least ${ep.chapters[i].words} words`).join("\n")}
 
 ${STYLE}
 
@@ -150,6 +153,38 @@ Return JSON: {"chapters":[{"index":<chapter number>,"beats":[{"text":"Hindi narr
   });
   const missing = indices.filter((i) => !ep.chapters[i].beats?.length);
   if (missing.length) throw new Error(`chapters ${missing.map((i) => i + 1)} were not written`);
+}
+
+const chapterWords = (c) => wordCount(c.beats.map((b) => b.text).join(" "));
+
+/** Rewrite chapters that came out much shorter than planned (AI models tend to under-write long Hindi text). */
+async function expandShortChapters(ep, sources, indices) {
+  const short = indices.filter((i) => chapterWords(ep.chapters[i]) < ep.chapters[i].words * 0.85);
+  if (!short.length) return;
+  const prompt = `${sources}
+
+AVAILABLE REAL PHOTOS:
+${photoList(ep.photos)}
+
+These chapters of the Hindi documentary "${ep.meta.youtubeTitle}" are TOO SHORT. Rewrite each one completely, keeping
+everything that is already there and its style, but adding more depth from the SOURCES (context, timeline, numbers,
+eyewitness accounts from the sources, investigation findings) until it reaches the required length.
+
+${short.map((i) => `CHAPTER ${i + 1}: ${ep.chapters[i].titleEn} — now ${chapterWords(ep.chapters[i])} words, needs AT LEAST ${ep.chapters[i].words} words.
+Covers: ${ep.chapters[i].covers}
+Current beats:
+${ep.chapters[i].beats.map((b) => `- ${b.text} [visual: ${JSON.stringify(b.visual)}]`).join("\n")}`).join("\n\n")}
+
+${STYLE}
+
+Keep the same beat format (20-35 Hindi words each, one visual per beat: ai / photo / card as before).
+Return JSON: {"chapters":[{"index":<chapter number>,"beats":[{"text":"Hindi narration","visual":{...}}]}]}`;
+  const out = await llmJSON(prompt, { label: `expand chapters ${short.map((i) => i + 1).join(",")}` });
+  listFrom(out, "chapters").forEach((c, pos) => {
+    const i = short.includes(Number(c.index) - 1) ? Number(c.index) - 1 : short[pos];
+    const beats = i === undefined ? [] : normalizeBeats(i, listFrom(c, "beats"), ep.photos, ep.meta.characters);
+    if (beats.length && wordCount(beats.map((b) => b.text).join(" ")) > chapterWords(ep.chapters[i])) ep.chapters[i].beats = beats;
+  });
 }
 
 async function factCheck(ep, sources, indices) {
@@ -281,6 +316,9 @@ export async function writeScript(date = today(), { force = hasFlag("force"), mo
       hashtags: (o.hashtags || []).map((h) => "#" + String(h).replace(/[#\s]/g, "")).slice(0, 3), metaDescription: o.metaDescription,
     };
     ep.chapters = o.chapters.slice(0, 10).map((c) => ({ titleEn: c.titleEn, titleHi: c.titleHi, covers: c.covers, words: Number(c.words) || 350 }));
+    // Scale the per-chapter targets so they add up to the configured length.
+    const planned = ep.chapters.reduce((n, c) => n + c.words, 0);
+    ep.chapters.forEach((c) => (c.words = Math.round((c.words * config.targetWords) / planned / 10) * 10));
     ep.stage = "outlined";
     writeEpisode(ep);
     console.log(`  ✔ Outline: "${ep.meta.youtubeTitle}" — ${ep.chapters.length} chapters`);
@@ -291,8 +329,11 @@ export async function writeScript(date = today(), { force = hasFlag("force"), mo
     if (idx.every((k) => ep.chapters[k].beats?.length && ep.chapters[k].checked)) continue;
     if (!idx.every((k) => ep.chapters[k].beats?.length)) {
       await writeChapters(ep, sources, idx);
+      const counts = () => idx.map((k) => `${chapterWords(ep.chapters[k])}/${ep.chapters[k].words}`).join(" · ");
+      console.log(`  ✔ Wrote chapters ${idx.map((k) => k + 1).join(",")}: ${counts()} words`);
+      await expandShortChapters(ep, sources, idx).catch((e) => console.warn(`  expand failed (keeping shorter text): ${e.message}`));
       writeEpisode(ep);
-      console.log(`  ✔ Wrote chapters ${idx.map((k) => k + 1).join(",")}: ${idx.map((k) => wordCount(ep.chapters[k].beats.map((b) => b.text).join(" "))).join(" / ")} words`);
+      console.log(`    after expanding: ${counts()} words`);
     }
     await factCheck(ep, sources, idx);
     idx.forEach((k) => (ep.chapters[k].checked = true));

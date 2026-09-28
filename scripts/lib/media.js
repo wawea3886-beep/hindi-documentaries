@@ -18,7 +18,8 @@ async function cloudflare(prompt, out) {
     signal: AbortSignal.timeout(120000),
   });
   const body = await res.text();
-  if (res.status === 429 || /4006|daily free allocation|neurons/i.test(body)) throw Object.assign(new Error("Cloudflare daily limit reached"), { quota: true });
+  if (res.status === 429 || /4006|daily free allocation/i.test(body))
+    throw Object.assign(new Error(`Cloudflare limit (${res.status}): ${body.slice(0, 200)}`), { quota: true });
   if (!res.ok) throw new Error(`Cloudflare ${res.status}: ${body.slice(0, 200)}`);
   const b64 = JSON.parse(body).result?.image;
   if (!b64) throw new Error("Cloudflare returned no image");
@@ -48,8 +49,7 @@ export async function aiImage(prompt, out, seed = 1) {
       }, { tries: 2, delayMs: 4000, label: `${name} image` });
       return name;
     } catch (e) {
-      if (!disabled.has(name)) console.warn(`    ${name}: ${e.message.split("\n")[0]}`);
-      else console.warn(`    ${name}: daily limit reached — using other sources for the rest of today`);
+      console.warn(`    ${name}: ${e.message.split("\n")[0]}${disabled.has(name) ? " — using other sources for the rest of today" : ""}`);
     }
   }
   return null;
@@ -60,10 +60,26 @@ export async function aiImage(prompt, out, seed = 1) {
 export class Narrator {
   constructor(voice = config.voice, rate = config.speechRate) { this.voice = voice; this.rate = rate; this.tts = null; }
 
-  async #connect() {
-    this.tts?.close();
+  async #connect(wordBoundaries = true) {
+    try { this.tts?.close(); } catch { /* already closed */ }
     this.tts = new MsEdgeTTS();
-    await this.tts.setMetadata(this.voice, OUTPUT_FORMAT.AUDIO_24KHZ_96KBITRATE_MONO_MP3, { wordBoundaryEnabled: true });
+    await this.tts.setMetadata(this.voice, OUTPUT_FORMAT.AUDIO_24KHZ_96KBITRATE_MONO_MP3, { wordBoundaryEnabled: wordBoundaries });
+  }
+
+  async #speak(text, dir) {
+    // msedge-tts deletes metadata.json when no word timings arrive, and crashes if the file doesn't exist yet.
+    // Creating it first turns that crash into a normal error we can retry.
+    fs.writeFileSync(path.join(dir, "metadata.json"), "");
+    const { audioFilePath, metadataFilePath } = await this.tts.toFile(dir, text, { rate: this.rate });
+    let words = [];
+    if (metadataFilePath && fs.existsSync(metadataFilePath)) {
+      const raw = fs.readFileSync(metadataFilePath, "utf8");
+      if (raw.trim()) words = JSON.parse(raw).Metadata.filter((m) => m.Type === "WordBoundary")
+        .map((m) => ({ word: m.Data.text.Text, start: m.Data.Offset / 1e7, end: (m.Data.Offset + m.Data.Duration) / 1e7 }));
+    }
+    const duration = await mediaDuration(audioFilePath);
+    if (!(duration > 0.3)) throw new Error("empty audio");
+    return { audio: audioFilePath, words, duration };
   }
 
   /** Speak `text` into `dir`/audio.mp3; returns word timings (seconds) and duration. Cached on disk. */
@@ -71,21 +87,19 @@ export class Narrator {
     const cache = path.join(dir, "words.json");
     if (fs.existsSync(cache)) return JSON.parse(fs.readFileSync(cache, "utf8"));
     fs.mkdirSync(dir, { recursive: true });
-    const result = await retry(async () => {
-      if (!this.tts) await this.#connect();
-      try {
-        const { audioFilePath, metadataFilePath } = await this.tts.toFile(dir, text, { rate: this.rate });
-        const meta = metadataFilePath && fs.existsSync(metadataFilePath) ? JSON.parse(fs.readFileSync(metadataFilePath, "utf8")) : { Metadata: [] };
-        const words = meta.Metadata.filter((m) => m.Type === "WordBoundary")
-          .map((m) => ({ word: m.Data.text.Text, start: m.Data.Offset / 1e7, end: (m.Data.Offset + m.Data.Duration) / 1e7 }));
-        const duration = await mediaDuration(audioFilePath);
-        if (!(duration > 0.3)) throw new Error("empty audio");
-        return { audio: audioFilePath, words, duration };
-      } catch (e) {
-        this.tts = null; // reconnect on the next attempt
-        throw e;
-      }
-    }, { tries: 4, delayMs: 3000, label: "narration" });
+    let result;
+    try {
+      result = await retry(async () => {
+        if (!this.tts) await this.#connect();
+        try { return await this.#speak(text, dir); } catch (e) { this.tts = null; throw e; } // reconnect next time
+      }, { tries: 4, delayMs: 3000, label: "narration" });
+    } catch (e) {
+      // Last resort: record without word timings (only this beat loses its subtitle timing).
+      console.warn(`    narration without word timings (${e.message.split("\n")[0]})`);
+      await this.#connect(false);
+      result = await this.#speak(text, dir);
+      this.tts = null;
+    }
     fs.writeFileSync(cache, JSON.stringify(result));
     return result;
   }
