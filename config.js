@@ -2,6 +2,11 @@
 import dotenv from "dotenv";
 dotenv.config({ quiet: true });
 
+// Keys pasted into GitHub Secrets often carry a stray space or newline — remove it.
+for (const k of Object.keys(process.env)) {
+  if (/KEY|TOKEN|SECRET|ACCOUNT_ID|CLIENT_ID/.test(k) && process.env[k]) process.env[k] = process.env[k].trim();
+}
+
 const list = (v, d) => (v || d).split(",").map((s) => s.trim()).filter(Boolean);
 
 export default {

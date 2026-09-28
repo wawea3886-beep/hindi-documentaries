@@ -3,7 +3,7 @@
 // Progress is saved after every stage, so a re-run continues where it stopped.
 // Usage: node scripts/write-episode.js [--date=YYYY-MM-DD] [--force] [--mock]
 import config from "../config.js";
-import { llmJSON, provider } from "./lib/llm.js";
+import { llmJSON, provider, listFrom } from "./lib/llm.js";
 import { trendingTopics, fetchArticle, fetchPhotos } from "./lib/research.js";
 import { today, readEpisode, writeEpisode, allEpisodes, slugify, hasFlag, isMain } from "./lib/util.js";
 
@@ -47,9 +47,10 @@ RULES
 Return JSON: {"candidates":[{"name":"short English topic name","category":"one of ${CATEGORIES.join("|")}",
 "wikiTitles":["exact English Wikipedia article title of the main topic","2-4 exact titles of closely related articles that add detail"],
 "angle":"one-line documentary hook","why":"why today"}]}`;
-  const { candidates } = await llmJSON(prompt, { label: "topic" });
+  const candidates = listFrom(await llmJSON(prompt, { label: "topic" }), "candidates");
+  console.log(`  AI suggested ${candidates.length} topics: ${candidates.map((c) => c.name).join(" | ")}`);
 
-  for (const c of candidates || []) {
+  for (const c of candidates) {
     const articles = [];
     for (const t of (c.wikiTitles || []).slice(0, 5)) {
       const a = await fetchArticle(t).catch(() => null);
@@ -142,11 +143,11 @@ Split each chapter into BEATS of 20-35 Hindi words (1-3 sentences). Every beat g
 
 Return JSON: {"chapters":[{"index":<chapter number>,"beats":[{"text":"Hindi narration","visual":{...}}]}]}`;
   const out = await llmJSON(prompt, { label: `chapters ${indices.map((i) => i + 1).join(",")}` });
-  for (const c of out.chapters || []) {
-    const i = Number(c.index) - 1;
-    if (!indices.includes(i)) continue;
-    ep.chapters[i].beats = normalizeBeats(i, c.beats, ep.photos, ep.meta.characters);
-  }
+  listFrom(out, "chapters").forEach((c, pos) => {
+    const i = indices.includes(Number(c.index) - 1) ? Number(c.index) - 1 : indices[pos]; // index missing → use order
+    if (i === undefined) return;
+    ep.chapters[i].beats = normalizeBeats(i, listFrom(c, "beats"), ep.photos, ep.meta.characters);
+  });
   const missing = indices.filter((i) => !ep.chapters[i].beats?.length);
   if (missing.length) throw new Error(`chapters ${missing.map((i) => i + 1)} were not written`);
 }
@@ -164,7 +165,7 @@ BEATS:
 ${beats.map((b) => `[${b.id}] ${b.text}`).join("\n")}
 
 Return JSON: {"issues":[{"id":"c2b5","problem":"short English explanation","fixedText":"corrected Hindi text"}]} — empty list if everything is correct.`;
-  const { issues = [] } = await llmJSON(prompt, { label: "fact-check", temperature: 0.2 });
+  const issues = listFrom(await llmJSON(prompt, { label: "fact-check", temperature: 0.2 }), "issues");
   let fixed = 0;
   for (const is of issues) {
     const b = beats.find((x) => x.id === is.id);
@@ -189,7 +190,7 @@ ${STYLE}
 Return JSON: {"shorts":[{"chapter":<chapter number whose pictures to use>,"titleEn":"English, max 70 characters, curiosity-driven",
 "hookHi":"Hindi on-screen headline, max 30 characters","text":"Hindi narration","descriptionEn":"2 short English lines",
 "tags":["10 tags"]}]}`;
-  const { shorts = [] } = await llmJSON(prompt, { label: "shorts" });
+  const shorts = listFrom(await llmJSON(prompt, { label: "shorts" }), "shorts");
   if (shorts.length < config.shortsPerDay) throw new Error(`expected ${config.shortsPerDay} shorts, got ${shorts.length}`);
   return shorts.slice(0, config.shortsPerDay).map((s, i) => ({
     id: `s${i + 1}`,

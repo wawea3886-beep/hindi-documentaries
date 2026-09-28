@@ -12,8 +12,10 @@ function runClaude(prompt) {
   return new Promise((resolve, reject) => {
     const win = process.platform === "win32";
     // No tools, one turn: Claude only reads the prompt and answers.
+    const system = "You are a research writer that answers with data only. Always reply with exactly one valid JSON object that matches the shape requested in the prompt. Never use tools, never add markdown fences or commentary.";
     const args = ["-p", "--output-format", "json", "--model", config.claude.model, "--max-turns", "1",
-      "--disallowedTools", "*", "--strict-mcp-config", "--no-session-persistence"];
+      "--disallowedTools", "*", "--strict-mcp-config", "--no-session-persistence",
+      "--system-prompt", win ? `"${system}"` : system];
     // GitHub passes missing secrets as empty strings; drop them so they don't override the real login.
     const env = Object.fromEntries(Object.entries(process.env).filter(([k, v]) => v !== "" || !/^(ANTHROPIC|CLAUDE)_/.test(k)));
     const p = spawn(win ? "claude.cmd" : "claude", args, { shell: win, windowsHide: true, env });
@@ -36,12 +38,23 @@ function runClaude(prompt) {
   });
 }
 
-function parseJSON(text) {
-  const t = text.replace(/^\s*```(?:json)?|```\s*$/g, "").trim();
-  try { return JSON.parse(t); } catch { /* fall through */ }
-  const start = t.indexOf("{"), end = t.lastIndexOf("}");
-  if (start >= 0 && end > start) return JSON.parse(t.slice(start, end + 1));
-  throw new Error("reply is not JSON");
+/** Find the JSON in a reply, even if it is wrapped in ```json fences or surrounded by a sentence. */
+export function parseJSON(text) {
+  const tries = [text.trim()];
+  for (const m of text.matchAll(/```(?:json)?\s*([\s\S]*?)```/g)) tries.push(m[1].trim());
+  for (const [a, b] of [["{", "}"], ["[", "]"]]) {
+    const s = text.indexOf(a), e = text.lastIndexOf(b);
+    if (s >= 0 && e > s) tries.push(text.slice(s, e + 1));
+  }
+  for (const t of tries) { try { return JSON.parse(t); } catch { /* next */ } }
+  throw Object.assign(new Error(`reply is not JSON: "${text.slice(0, 160).replace(/\s+/g, " ")}…"`), { retryable: true });
+}
+
+/** The list the prompt asked for, whether the reply is {"key":[...]}, a bare [...], or uses another key name. */
+export function listFrom(res, key) {
+  if (Array.isArray(res)) return res;
+  if (Array.isArray(res?.[key])) return res[key];
+  return Object.values(res || {}).find(Array.isArray) || [];
 }
 
 async function claudeJSON(prompt, { label }) {
