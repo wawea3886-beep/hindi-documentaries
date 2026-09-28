@@ -324,10 +324,10 @@
   ],
   "youtube": {},
   "meta": {
-    "youtubeTitle": "Baltic Titanic: The Ferry That Vanished in 90 Minutes | MS Estonia Story",
+    "youtubeTitle": "Baltic Titanic: The Ferry That Vanished in Under an Hour | MS Estonia Story",
     "titleHi": "बाल्टिक टाइटैनिक: एक रात में 852 लोग कैसे डूब गए – MS Estonia सच",
     "slug": "2026-09-28-ms-estonia-sinking",
-    "thumbnailText": "852 DIED IN 90 MIN",
+    "thumbnailText": "852 LIVES LOST",
     "thumbnailPrompt": "A massive white-and-blue car ferry capsizing in a pitch-black stormy sea at night, giant waves crashing over its tilted deck, a single dim distress light flickering, silhouettes of people clinging to the railing, dramatic high-contrast lighting evoking terror and helplessness",
     "characters": "MS Estonia: a large 1980s white car-passenger ferry, blue Estline hull stripe, multiple decks, bow visor at front, seen in calm Baltic daylight and in stormy night scenes. Captain and crew: Estonian and Swedish officers in navy-blue merchant marine uniforms, on the bridge, late 1994. Passengers: mixed Swedish/Estonian/Finnish travelers in 1990s casual clothing, families, business travelers, aboard for an overnight Tallinn–Stockholm crossing. Setting: dark stormy Baltic Sea between Estonia, Finland and Sweden, September night, heavy waves, rain, cold northern European ferry-deck and cabin interiors.",
     "descriptionEn": "On a stormy September night in 1994, a giant car ferry carrying 989 people vanished into the Baltic Sea in under an hour. Only 137 survived. This documentary reconstructs the final voyage of MS Estonia — from its origins as a Finnish ferry built in 1980, through its rebirth as Estonia's flagship after independence, to the catastrophic night its bow door failed in the darkness. We examine the official investigation, the crew's fatal delay, and a shocking 2023 discovery that reopened old wounds. Was it just bad engineering — or was something covered up? Watch to find out why this remains one of Europe's deadliest peacetime disasters.",
@@ -362,8 +362,8 @@
   },
   "chapters": [
     {
-      "titleEn": "Cold Open: 90 Minutes to Die",
-      "titleHi": "शुरुआत: मौत के 90 मिनट",
+      "titleEn": "Cold Open: 60 Minutes to Die",
+      "titleHi": "शुरुआत: मौत के 60 मिनट",
       "covers": "Dramatic cold open set around 00:50–01:50 on 28 Sept 1994 as Estonia crosses the Baltic from Tallinn to Stockholm; ship lists, bow visor fails, power fails; raises questions — why did the bow door fail, why was the alarm delayed 90 minutes, was something covered up; promises viewer will learn the ship's history, the night's timeline, the investigation and the 2023 revelations.",
       "words": 220,
       "beats": [
@@ -1151,7 +1151,7 @@
     {
       "id": "s1",
       "chapter": 4,
-      "titleEn": "The 90 Seconds That Doomed MS Estonia's Bow Visor",
+      "titleEn": "The Failed Bow Visor That Doomed MS Estonia",
       "hookHi": "रात 12:50 का राज़",
       "text": "रात करीब 12:50 बजे, MS Estonia में अचानक धातु टकराने जैसी तेज़ आवाज़ें आईं। अगले कुछ मिनट कितने खतरनाक होने वाले थे, किसी को अंदाज़ा नहीं था। बाद की जांच में पता चला कि जहाज़ के बो विज़र के लॉक्स फेल हो गए थे। तूफानी लहरों के आगे विज़र अलग होने लगा, और साथ में कार रैंप को भी खींच लिया। रैंप थोड़ा खुल गया, और ठंडा बाल्टिक समंदर सीधे कार डेक में घुसने लगा। जहाज़ पहले से कार्गो के गलत बंटवारे की वजह से थोड़ा झुका हुआ था। पानी घुसते ही झुकाव और तेज़ हो गया। 989 लोग सवार थे इस जहाज़ पर, ज़्यादातर सो रहे थे। क्या क्रू को समय पर पता चल पाया? पूरी कहानी हमारे चैनल पर देखिए।",
       "descriptionEn": "How a failed bow visor lock let the Baltic Sea into MS Estonia's car deck.\nThe hidden moment that started the disaster of September 1994.",
@@ -1224,8 +1224,8 @@
     "chapters": [
       {
         "start": 0,
-        "titleEn": "Cold Open: 90 Minutes to Die",
-        "titleHi": "शुरुआत: मौत के 90 मिनट"
+        "titleEn": "Cold Open: 60 Minutes to Die",
+        "titleHi": "शुरुआत: मौत के 60 मिनट"
       },
       {
         "start": 110.96000000000001,
@@ -1313,6 +1313,7 @@
       "reused": 0,
       "fallback": 0
     },
-    "renderedAt": "2026-09-28T12:44:34.403Z"
-  }
+    "renderedAt": "2026-09-28T13:11:41.520Z"
+  },
+  "metaChecked": true
 }
