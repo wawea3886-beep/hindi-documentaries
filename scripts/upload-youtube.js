@@ -27,7 +27,7 @@ function longDescription(ep) {
     chapters ? `⏱️ Chapters\n${chapters}\n` : "",
     `📝 Full story in English, sources & photo credits: ${pageUrl(ep)}`,
     `📚 Research: ${ep.sources.slice(0, 4).map((s) => s.url).join(" , ")}`,
-    clips.length ? `🎥 Stock footage: Pexels (${[...new Set(clips.map((c) => c.user))].slice(0, 8).join(", ")})` : "",
+    clips.length ? `🎥 Stock footage & photos: Pexels (${[...new Set(clips.map((c) => c.user))].slice(0, 8).join(", ")})` : "",
     "",
     ep.presenter && Object.keys(ep.presenter).length
       ? "ℹ️ The narration voice, the presenter's lip-synced video and the illustrations are AI-generated. The presenter's likeness is used with their permission. All facts are based on the sources listed above; real photos are credited on screen and on the page above."

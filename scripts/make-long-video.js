@@ -12,7 +12,7 @@ import { aiImage, Narrator, seeded, randomMove, renderShot, framePhoto, concatCo
 import { renderCard, renderCredit, renderFallback, renderThumbnail, renderHighlight, renderStudio, renderChapterOverlay } from "./lib/graphics.js";
 import { downloadPhoto } from "./lib/research.js";
 import { renderMap } from "./lib/maps.js";
-import { stockClip } from "./lib/stock.js";
+import { stockClip, stockPhoto, searchWords } from "./lib/stock.js";
 import { hostTrack } from "./lib/host.js";
 import { presenterClips, presenterMode, presenterStill } from "./lib/presenter.js";
 import { sfxTrack } from "./lib/sfx.js";
@@ -73,7 +73,7 @@ export async function makeLongVideo(date = today()) {
   const thumbOk = await aiImage(ep.meta.thumbnailPrompt, thumbSrc, 7);
 
   const narrator = new Narrator();
-  const stats = { ai: 0, clip: 0, photo: 0, map: 0, card: 0, reused: 0, fallback: 0 };
+  const stats = { ai: 0, stock: 0, clip: 0, photo: 0, map: 0, card: 0, reused: 0, fallback: 0 };
   const lastImages = [], aiImages = [];
   const visuals = {}; // beatId → { image } | { clip } (the Shorts reuse these)
   const scenes = [], audio = [], subtitleWords = [], chapterStarts = [], chapterPads = [], sfx = [], clipCredits = [];
@@ -124,12 +124,17 @@ export async function makeLongVideo(date = today()) {
         if (kind === "card") still = await renderCard(v, path.join(dir, "cards", `${beat.id}.png`), { bgImage: lastImages.at(-1) });
         if (kind === "ai") {
           const out = path.join(dir, "img", `${beat.id}.jpg`);
+          let stock;
           if (await aiImage(v.prompt || ep.meta.characters, out, Math.floor(rand() * 1e6))) { still = out; aiImages.push(out); }
-          // Out of image budget: reuse an earlier illustration (never a real photo — it could show the wrong thing).
+          // No AI pictures today: a real stock photo matching the scene (free, Pexels).
+          else if ((stock = await stockPhoto(v.query || searchWords(v.prompt), path.join(dir, "img", `${beat.id}-stock.jpg`)))) {
+            still = stock.path; kind = "stock"; clipCredits.push(stock.credit); aiImages.push(still);
+          }
+          // Last resort: reuse an earlier picture (never a Wikipedia photo — it could show the wrong thing).
           else if (aiImages.length) { still = aiImages[Math.floor(rand() * aiImages.length)]; kind = "reused"; }
           else { still = await renderFallback(ch.titleEn, path.join(dir, "cards", `${beat.id}-fb.png`)); kind = "fallback"; }
         }
-        if (still && ["ai", "photo", "map"].includes(kind)) lastImages.push(still);
+        if (still && ["ai", "stock", "photo", "map"].includes(kind)) lastImages.push(still);
         stats[kind] = (stats[kind] || 0) + 1;
         visuals[beat.id] = clip ? { clip } : { image: still };
 

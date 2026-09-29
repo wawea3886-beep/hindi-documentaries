@@ -143,7 +143,7 @@ ${paragraphs(c)}
 ${shorts.length ? `<section><h2>Shorts</h2><div class="shorts">${shorts.map(({ s, y }) => `<div class="short" data-publish="${esc(y.publishAt)}" data-video="${esc(y.videoId)}" data-title="${esc(s.titleEn)}"><p>${esc(s.titleEn)}<br><small>Premieres: <span class="when"></span></small></p></div>`).join("")}</div></section>` : ""}
 <section class="sources"><h2>Sources</h2><ol>${ep.sources.map((s) => `<li><a href="${esc(s.url)}" rel="noopener">${esc(s.title)}</a> — Wikipedia (CC BY-SA 4.0)</li>`).join("")}</ol>
 ${photos.length ? `<h3>Photo credits</h3><ul>${photos.map((p) => `<li><a href="${esc(p.page)}" rel="noopener">${esc(p.title)}</a> — ${esc(p.artist)}, ${p.licenseUrl ? `<a href="${esc(p.licenseUrl)}" rel="noopener">${esc(p.license)}</a>` : esc(p.license)}</li>`).join("")}</ul>` : ""}
-${clips.length ? `<h3>Stock footage</h3><ul>${clips.map((c) => `<li><a href="${esc(c.url)}" rel="noopener">Video by ${esc(c.user)}</a> on Pexels</li>`).join("")}</ul>` : ""}
+${clips.length ? `<h3>Stock footage &amp; photos</h3><ul>${clips.map((c) => `<li><a href="${esc(c.url)}" rel="noopener">By ${esc(c.user)}</a> on Pexels</li>`).join("")}</ul>` : ""}
 <p class="small">This documentary is based on the sources above and was fact-checked before publishing. The narration voice, animated host and illustrations are AI-generated. Spotted a mistake? Tell us in the YouTube comments.</p></section>
 </article>`;
   return layout({ title: `${ep.meta.youtubeTitle} | ${config.siteName}`, description: ep.meta.metaDescription, canonical: url(canonical), image: url(thumb(ep)), jsonld, type: "article", body });
