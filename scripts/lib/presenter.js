@@ -19,11 +19,23 @@ export function presenterPhoto() {
 /** A HeyGen Photo Avatar made in the HeyGen dashboard (keeps the photo off the public GitHub project). */
 const avatarId = () => (process.env.HEYGEN_AVATAR_ID || "").trim();
 
-/** "full" | "scenes" | "off" — what the presenter does today, after the cost cap. */
+/**
+ * "heygen" = real lip-sync (paid, needs HEYGEN_API_KEY) · "card" = free narrator card: the photo with gentle motion
+ * and a voice waveform (made locally). Default: HeyGen when a key is set, otherwise the free card.
+ */
+export function presenterEngine() {
+  const e = config.presenter.engine;
+  if (e === "card" || e === "heygen") return e;
+  return key() ? "heygen" : "card";
+}
+
+/** "full" | "scenes" | "off" — what the presenter does today (after the HeyGen cost cap). */
 export function presenterMode(narrationMinutes) {
-  if (config.presenter.mode === "off" || (!presenterPhoto() && !avatarId())) return "off";
-  if (!key() && !process.argv.includes("--fake-presenter")) return "off";
-  if (config.presenter.mode === "full" && narrationMinutes > config.presenter.maxMinutesPerDay) {
+  if (config.presenter.mode === "off") return "off";
+  const engine = presenterEngine();
+  if (engine === "card" && !presenterPhoto()) return "off"; // the free card needs a photo in assets/presenter/
+  if (engine === "heygen" && (!key() || (!presenterPhoto() && !avatarId()))) return "off";
+  if (engine === "heygen" && config.presenter.mode === "full" && narrationMinutes > config.presenter.maxMinutesPerDay) {
     console.log(`  presenter: ${narrationMinutes.toFixed(1)} min is over the daily cap of ${config.presenter.maxMinutesPerDay} min → presenter only in key scenes today`);
     return "scenes";
   }
@@ -57,11 +69,13 @@ async function download(url, out) {
   fs.writeFileSync(out, Buffer.from(await r.arrayBuffer()));
 }
 
-/** For layout tests without HeyGen: the photo with a slow zoom (no lip-sync). */
-async function fakeClip(photo, audio, out) {
+/** Free narrator card: the photo "breathing" with a slow zoom and drift, as long as the audio (the waveform is added per shot). */
+async function cardClip(photo, audio, out) {
   const d = await mediaDuration(audio);
-  await ffmpeg(["-loop", "1", "-i", photo, "-t", d.toFixed(2), "-vf",
-    "scale=1080:-2,zoompan=z='1+0.00015*on':d=1:s=1080x1350:fps=25,format=yuv420p", "-r", "25", "-an", out]);
+  await ffmpeg(["-loop", "1", "-framerate", "25", "-t", d.toFixed(2), "-i", photo, "-vf",
+    "scale=1400:1400:force_original_aspect_ratio=increase,crop=1400:1400,setsar=1," +
+    "zoompan=z='1.05+0.02*sin(on/90)':x='iw/2-(iw/zoom/2)+18*sin(on/140)':y='ih/2-(ih/zoom/2)+10*sin(on/110)':d=1:s=1080x1080:fps=25,format=yuv420p",
+    "-r", "25", "-c:v", "libx264", "-preset", "veryfast", "-crf", "21", "-an", out]);
 }
 
 /** A still of the presenter for the thumbnail: the local photo, or the HeyGen avatar's preview image. */
@@ -89,13 +103,13 @@ export async function presenterStill(dir) {
 export async function presenterClips(ep, segments, dir) {
   fs.mkdirSync(dir, { recursive: true });
   const photo = presenterPhoto();
-  const fake = process.argv.includes("--fake-presenter") && !key();
   const out = Object.fromEntries(segments.map((s) => [s.name, path.join(dir, `${s.name}.mp4`)]));
   const todo = segments.filter((s) => !fs.existsSync(out[s.name]));
   if (!todo.length) return out;
 
-  if (fake) {
-    for (const s of todo) await fakeClip(photo, s.audio, out[s.name]);
+  if (presenterEngine() === "card") {
+    console.log(`  presenter: free narrator card, ${todo.length} clip(s)`);
+    for (const s of todo) await cardClip(photo, s.audio, out[s.name]);
     return out;
   }
 

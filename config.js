@@ -36,14 +36,16 @@ export default {
   // ---- Editing style ----
   shotSeconds: 4.5, // change the camera move / picture about this often (fast, modern documentary pacing)
 
-  // ---- Real presenter (HeyGen lip-syncs the photo in assets/presenter/ to the narration) ----
+  // ---- Presenter: photo in assets/presenter/ → free "narrator card" (photo + voice waveform),
+  //      or real lip-sync with HeyGen when HEYGEN_API_KEY is set ----
   presenter: {
+    engine: process.env.PRESENTER_ENGINE || "auto", // auto | card | heygen
     // full = on screen the whole video · scenes = intro, chapter starts and outro only · off = animated host
     mode: process.env.PRESENTER_MODE || "full",
     maxMinutesPerDay: Number(process.env.PRESENTER_MAX_MINUTES || 32), // cost cap; above it → "scenes" for that day
     pricePerMinute: 2.31, // HeyGen Avatar IV photo avatar, USD (for the cost estimate in the log)
     maxWaitMinutes: 150, // give up waiting for HeyGen after this and use the animated host instead
-    faceY: Number(process.env.PRESENTER_FACE_Y || 0.3), // where the face is in the photo (0 = top, 1 = bottom), for the small boxes
+    faceY: Number(process.env.PRESENTER_FACE_Y || 0.38), // where the face is in the photo (0 = top, 1 = bottom), for the small boxes
     motionPrompt: "calm, confident documentary presenter talking to the camera, natural small head movements and occasional hand gestures",
   },
 

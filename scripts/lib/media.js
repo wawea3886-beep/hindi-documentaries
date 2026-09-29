@@ -212,7 +212,7 @@ export async function renderShot({ image, clip, out, frames, fps, w, h, move, ov
   }
   let input = 1;
   if (presenter?.layout === "full") {
-    f.push(`[pic]null[v0]`);
+    f.push(`[pic]null[vb]`);
   } else if (studio) {
     args.push("-loop", "1", "-framerate", String(fps), "-t", dur.toFixed(3), "-i", studio.png);
     f.push(`[1:v][pic]overlay=${STUDIO.x}:${STUDIO.y}:shortest=1[st]`);
@@ -220,20 +220,31 @@ export async function renderShot({ image, clip, out, frames, fps, w, h, move, ov
       const p = STUDIO.panel;
       args.push("-ss", presenter.offset.toFixed(3), "-i", presenter.file);
       f.push(`[2:v]${presenterFit(p.w, p.h, fps, N)}[hs]`);
-      f.push(`[st][hs]overlay=${p.x}:${p.y}:eof_action=repeat[v0]`);
+      f.push(`[st][hs]overlay=${p.x}:${p.y}:eof_action=repeat[vb]`);
     } else {
       args.push("-f", "concat", "-safe", "0", "-i", studio.host);
       f.push(`[2:v]format=rgba,scale=${STUDIO.hostW}:${STUDIO.hostH},setpts=PTS-STARTPTS[hs]`);
-      f.push(`[st][hs]overlay=${STUDIO.hostX}:${STUDIO.hostY}:eof_action=repeat[v0]`);
+      f.push(`[st][hs]overlay=${STUDIO.hostX}:${STUDIO.hostY}:eof_action=repeat[vb]`);
     }
     input = 3;
   } else if (presenter?.layout === "pip") {
     const p = PIP;
     args.push("-ss", presenter.offset.toFixed(3), "-i", presenter.file);
     f.push(`[1:v]${presenterFit(p.w, p.h, fps, N)},pad=${p.w + 2 * p.border}:${p.h + 2 * p.border}:${p.border}:${p.border}:color=0xFFD400[pp]`);
-    f.push(`[pic][pp]overlay=${p.x - p.border}:${p.y - p.border}:eof_action=repeat[v0]`);
+    f.push(`[pic][pp]overlay=${p.x - p.border}:${p.y - p.border}:eof_action=repeat[vb]`);
     input = 2;
-  } else f.push(`[pic]null[v0]`);
+  } else f.push(`[pic]null[vb]`);
+
+  // Narrator card: a yellow waveform of the narration under the presenter, moving with his voice.
+  const wave = presenter?.audio && { full: { x: 460, y: 940, w: 1000, h: 100 }, studio: { x: STUDIO.panel.x, y: STUDIO.panel.y + STUDIO.panel.h - 90, w: STUDIO.panel.w, h: 84 }, pip: { x: PIP.x, y: PIP.y + PIP.h - 52, w: PIP.w, h: 48 } }[presenter.layout];
+  if (wave) {
+    args.push("-ss", presenter.offset.toFixed(3), "-i", presenter.audio);
+    f.push(`[${input}:a]aformat=channel_layouts=mono,showwaves=s=${wave.w}x${wave.h}:mode=cline:rate=${fps}:colors=0xFFD400:scale=sqrt:draw=full,` +
+      `format=rgba,colorkey=0x000000:0.25:0.1,trim=end_frame=${N},setpts=PTS-STARTPTS[wv]`);
+    f.push(`[vb]drawbox=x=${wave.x}:y=${wave.y}:w=${wave.w}:h=${wave.h}:color=black@0.35:t=fill[vbx]`);
+    f.push(`[vbx][wv]overlay=${wave.x}:${wave.y}:eof_action=pass[v0]`);
+    input++;
+  } else f.push(`[vb]null[v0]`);
   overlays.forEach((o, i) => {
     args.push("-loop", "1", "-framerate", String(fps), "-t", dur.toFixed(3), "-i", o.png);
     const s = Math.max(0, o.start), e = Math.min(dur, o.end);

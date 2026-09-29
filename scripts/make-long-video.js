@@ -14,7 +14,7 @@ import { downloadPhoto } from "./lib/research.js";
 import { renderMap } from "./lib/maps.js";
 import { stockClip, stockPhoto, searchWords } from "./lib/stock.js";
 import { hostTrack } from "./lib/host.js";
-import { presenterClips, presenterMode, presenterStill } from "./lib/presenter.js";
+import { presenterClips, presenterMode, presenterStill, presenterEngine } from "./lib/presenter.js";
 import { sfxTrack } from "./lib/sfx.js";
 
 const FPS = 25, W = 1920, H = 1080;
@@ -188,6 +188,7 @@ export async function makeLongVideo(date = today()) {
   } else if (mode === "scenes") {
     segments = beatScenes.filter((s) => s.isHost).map((s) => ({ name: s.beat.id, start: s.t0, audio: path.join(s.bdir, "pad.wav") }));
   }
+  const engine = presenterEngine();
   const clips = segments.length ? await presenterClips(ep, segments, path.join(dir, "presenter")) : {};
   const segmentOf = (sc) => mode === "full" ? segments[sc.ci] : segments.find((g) => g.name === sc.beat.id);
   // Which layout each scene uses.
@@ -207,7 +208,8 @@ export async function makeLongVideo(date = today()) {
     let layout = layoutOf(sc);
     if (["full", "studio", "pip"].includes(layout) && !file) layout = sc.isHost ? "cartoon" : "none"; // HeyGen clip missing
     layouts[layout] = (layouts[layout] || 0) + 1;
-    const presenterAt = (offset) => ({ file, offset: sc.t0 - seg.start + offset, layout });
+    // The free narrator card also gets the narration audio, to draw the voice waveform.
+    const presenterAt = (offset) => ({ file, offset: sc.t0 - seg.start + offset, layout, audio: engine === "card" ? seg.audio : undefined });
     const base = { fps: FPS, w: W, h: H, image: sc.still, clip: sc.clip };
     const id = sc.beat.id;
 
@@ -279,6 +281,7 @@ export async function makeLongVideo(date = today()) {
   ep.render = {
     duration, chapters: chapterStarts, chapterImages, pictures: stats, renderedAt: new Date().toISOString(),
     clipCredits: clipCredits.filter((c) => !seen.has(c.url) && seen.add(c.url)),
+    presenter: { mode, engine: mode === "off" ? "cartoon" : engine },
   };
   writeEpisode(ep);
   console.log(`✔ Long video: ${clock(duration)} in ${Math.round((Date.now() - started) / 60000)} min → ${path.relative(ROOT, final)}`);

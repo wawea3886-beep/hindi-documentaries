@@ -29,9 +29,11 @@ function longDescription(ep) {
     `📚 Research: ${ep.sources.slice(0, 4).map((s) => s.url).join(" , ")}`,
     clips.length ? `🎥 Stock footage & photos: Pexels (${[...new Set(clips.map((c) => c.user))].slice(0, 8).join(", ")})` : "",
     "",
-    ep.presenter && Object.keys(ep.presenter).length
-      ? "ℹ️ The narration voice, the presenter's lip-synced video and the illustrations are AI-generated. The presenter's likeness is used with their permission. All facts are based on the sources listed above; real photos are credited on screen and on the page above."
-      : "ℹ️ The narration voice, the animated host and the illustrations are AI-generated / computer-made; the host is a fictional character. All facts are based on the sources listed above; real photos are credited on screen and on the page above.",
+    {
+      heygen: "ℹ️ The narration voice, the presenter's lip-synced video and the illustrations are AI-generated. All facts are based on the sources listed above; real photos are credited on screen and on the page above.",
+      card: "ℹ️ The narration voice, the presenter (a fictional AI-generated person) and the illustrations are AI-generated. All facts are based on the sources listed above; real photos are credited on screen and on the page above.",
+    }[ep.render?.presenter?.engine] ||
+      "ℹ️ The narration voice, the animated host and the illustrations are AI-generated / computer-made; the host is a fictional character. All facts are based on the sources listed above; real photos are credited on screen and on the page above.",
     "",
     ep.meta.hashtags.join(" "),
   ].filter((l, i, a) => l !== "" || a[i - 1] !== "");
