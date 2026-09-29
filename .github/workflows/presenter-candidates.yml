@@ -1,0 +1,31 @@
+name: Presenter candidates
+
+# Run by hand: makes portraits of FICTIONAL presenters (people who don't exist) to choose from.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  portraits:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci --ignore-scripts && npm rebuild ffmpeg-static
+      - run: node scripts/make-presenter-candidates.js
+        env:
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          POLLINATIONS_API_KEY: ${{ secrets.POLLINATIONS_API_KEY }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: presenter-candidates
+          path: work/presenter-candidates/
+          retention-days: 7
