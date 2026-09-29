@@ -45,7 +45,7 @@ export default {
     maxMinutesPerDay: Number(process.env.PRESENTER_MAX_MINUTES || 32), // cost cap; above it → "scenes" for that day
     pricePerMinute: 2.31, // HeyGen Avatar IV photo avatar, USD (for the cost estimate in the log)
     maxWaitMinutes: 150, // give up waiting for HeyGen after this and use the animated host instead
-    faceY: Number(process.env.PRESENTER_FACE_Y || 0.38), // where the face is in the photo (0 = top, 1 = bottom), for the small boxes
+    faceY: Number(process.env.PRESENTER_FACE_Y || 0.40), // where the face is in the photo (0 = top, 1 = bottom), for the small boxes
     motionPrompt: "calm, confident documentary presenter talking to the camera, natural small head movements and occasional hand gestures",
   },
 

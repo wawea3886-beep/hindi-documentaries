@@ -4,6 +4,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import config from "../../config.js";
+import { loadImage } from "@napi-rs/canvas";
 import { ROOT, ffmpeg, mediaDuration, sleep, writeEpisode } from "./util.js";
 
 const API = "https://api.heygen.com";
@@ -69,12 +70,15 @@ async function download(url, out) {
   fs.writeFileSync(out, Buffer.from(await r.arrayBuffer()));
 }
 
-/** Free narrator card: the photo "breathing" with a slow zoom and drift, as long as the audio (the waveform is added per shot). */
+/** Free narrator card: the photo (its own shape) "breathing" with a slow zoom and drift, as long as the audio. */
 async function cardClip(photo, audio, out) {
   const d = await mediaDuration(audio);
+  const img = await loadImage(fs.readFileSync(photo));
+  const W = 1080, H = Math.round((W * img.height) / img.width / 2) * 2;
+  const W2 = Math.round(W * 1.25 / 2) * 2, H2 = Math.round(H * 1.25 / 2) * 2;
   await ffmpeg(["-loop", "1", "-framerate", "25", "-t", d.toFixed(2), "-i", photo, "-vf",
-    "scale=1400:1400:force_original_aspect_ratio=increase,crop=1400:1400,setsar=1," +
-    "zoompan=z='1.05+0.02*sin(on/90)':x='iw/2-(iw/zoom/2)+18*sin(on/140)':y='ih/2-(ih/zoom/2)+10*sin(on/110)':d=1:s=1080x1080:fps=25,format=yuv420p",
+    `scale=${W2}:${H2},setsar=1,` +
+    `zoompan=z='1.05+0.02*sin(on/90)':x='iw/2-(iw/zoom/2)+14*sin(on/140)':y='ih/2-(ih/zoom/2)+8*sin(on/110)':d=1:s=${W}x${H}:fps=25,format=yuv420p`,
     "-r", "25", "-c:v", "libx264", "-preset", "veryfast", "-crf", "21", "-an", out]);
 }
 
