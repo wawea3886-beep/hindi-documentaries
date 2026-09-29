@@ -9,11 +9,12 @@ import path from "node:path";
 import config from "../config.js";
 import { today, readEpisode, writeEpisode, isMain, workDir, ffmpeg, mediaDuration, clock, ROOT, IMAGES_DIR } from "./lib/util.js";
 import { aiImage, Narrator, seeded, randomMove, renderShot, framePhoto, concatCopy, padAudio, mux, musicBed, STUDIO } from "./lib/media.js";
-import { renderCard, renderCredit, renderFallback, renderThumbnail, renderHighlight, renderStudio } from "./lib/graphics.js";
+import { renderCard, renderCredit, renderFallback, renderThumbnail, renderHighlight, renderStudio, renderChapterOverlay } from "./lib/graphics.js";
 import { downloadPhoto } from "./lib/research.js";
 import { renderMap } from "./lib/maps.js";
 import { stockClip } from "./lib/stock.js";
 import { hostTrack } from "./lib/host.js";
+import { presenterClips, presenterMode, presenterStill } from "./lib/presenter.js";
 import { sfxTrack } from "./lib/sfx.js";
 
 const FPS = 25, W = 1920, H = 1080;
@@ -72,32 +73,35 @@ export async function makeLongVideo(date = today()) {
   const thumbOk = await aiImage(ep.meta.thumbnailPrompt, thumbSrc, 7);
 
   const narrator = new Narrator();
-  const stats = { ai: 0, clip: 0, photo: 0, map: 0, card: 0, host: 0, reused: 0, fallback: 0 };
+  const stats = { ai: 0, clip: 0, photo: 0, map: 0, card: 0, reused: 0, fallback: 0 };
   const lastImages = [], aiImages = [];
   const visuals = {}; // beatId → { image } | { clip } (the Shorts reuse these)
-  const shots = [], audio = [], subtitleWords = [], chapterStarts = [], sfx = [], clipCredits = [];
+  const scenes = [], audio = [], subtitleWords = [], chapterStarts = [], chapterPads = [], sfx = [], clipCredits = [];
   const lastCh = ep.chapters.length - 1;
   let t = 0;
 
   const addSilentScene = async (name, still, seconds, move) => {
     const frames = Math.round(seconds * FPS);
-    shots.push({ image: still, out: path.join(dir, "shots", `${name}.mp4`), frames, fps: FPS, w: W, h: H, move });
+    scenes.push({ silent: true, name, still, frames, move });
     audio.push(await padAudio(null, frames / FPS, path.join(dir, "beats", `${name}-silence-${frames}.wav`)));
     t += frames / FPS;
   };
 
+  // --- Phase A: pictures, narration and timing for every scene.
   try {
     for (const [ci, ch] of ep.chapters.entries()) {
       chapterStarts.push({ start: t, titleEn: ch.titleEn, titleRoman: ch.titleRoman });
-      const studioPng = renderStudio({ label: ci === 0 ? "" : ci === lastCh ? "FINAL CHAPTER" : `CHAPTER ${ci + 1}`, title: ci === 0 ? "" : ch.titleEn },
-        path.join(dir, "cards", `studio-c${ci + 1}.png`), { screen: STUDIO });
+      chapterPads.push([]);
+      const label = ci === 0 ? "" : ci === lastCh ? "FINAL CHAPTER" : `CHAPTER ${ci + 1}`, title = ci === 0 ? "" : ch.titleEn;
+      const studioPng = renderStudio({ label, title }, path.join(dir, "cards", `studio-c${ci + 1}.png`), { screen: STUDIO });
+      const studioPngReal = renderStudio({ label, title }, path.join(dir, "cards", `studio-real-c${ci + 1}.png`), { screen: STUDIO, panel: STUDIO.panel });
       if (ci > 0) sfx.push({ t, name: "boom" });
 
       for (const [bi, beat] of ch.beats.entries()) {
         const v = beat.visual;
         const rand = seeded(beat.id + date);
         const isHost = bi === 0 || (ci === lastCh && bi >= ch.beats.length - 2);
-        let still = null, clip = null, kind = v.type;
+        let still = null, clip = null, kind = v.type, credit = null;
         const overlays = [];
 
         if (kind === "clip") {
@@ -110,7 +114,7 @@ export async function makeLongVideo(date = today()) {
             const raw = path.join(dir, "photos", `${p.id}.img`);
             await downloadPhoto(p, raw);
             still = await framePhoto(raw, path.join(dir, "photos", `${p.id}-framed.jpg`));
-            if (!isHost) overlays.push({ png: renderCredit(`Photo: ${p.artist} · ${p.license} · Wikimedia Commons`, path.join(dir, "photos", `${p.id}-credit.png`)), start: 0, end: 999 });
+            credit = { png: renderCredit(`Photo: ${p.artist} · ${p.license} · Wikimedia Commons`, path.join(dir, "photos", `${p.id}-credit.png`)), start: 0, end: 999 };
           } catch (e) {
             console.warn(`    photo ${p?.id} failed (${e.message.split("\n")[0]}) — using an illustration`);
             kind = "ai";
@@ -135,7 +139,9 @@ export async function makeLongVideo(date = today()) {
         const frames = Math.round((n.duration + pause) * FPS);
         const secs = frames / FPS;
         romanTimed(beat.roman, n.words, n.duration).forEach((w) => subtitleWords.push({ ...w, start: w.start + t, end: w.end + t }));
-        audio.push(await padAudio(n.audio, secs, path.join(bdir, "pad.wav")));
+        const pad = await padAudio(n.audio, secs, path.join(bdir, "pad.wav"));
+        audio.push(pad);
+        chapterPads[ci].push(pad);
         if (!(ci > 0 && bi === 0) && t > 0) sfx.push({ t, name: "whoosh" });
 
         if (beat.highlight) {
@@ -144,26 +150,7 @@ export async function makeLongVideo(date = today()) {
           overlays.push({ png, start: s, end: Math.min(s + 3.2, secs - 0.2) });
           sfx.push({ t: t + s, name: "pop" });
         }
-
-        const base = { fps: FPS, w: W, h: H, image: still, clip };
-        if (isHost) {
-          stats.host++;
-          const host = await hostTrack(n.audio, secs, bdir, [...beat.id].reduce((a, c) => a + c.charCodeAt(0), 7));
-          shots.push({ ...base, out: path.join(dir, "shots", `${beat.id}-host.mp4`), frames, move: randomMove(rand, 0.5), overlays, studio: { png: studioPng, host } });
-        } else if (clip || kind === "card" || kind === "map") {
-          shots.push({ ...base, out: path.join(dir, "shots", `${beat.id}-0.mp4`), frames, move: randomMove(rand, kind === "map" ? 0.6 : 0.3), overlays });
-        } else {
-          // Long beats get several camera moves on the same picture (a "cut" every few seconds).
-          const nShots = Math.max(1, Math.round(secs / config.shotSeconds));
-          let used = 0;
-          for (let s = 0; s < nShots; s++) {
-            const f = s === nShots - 1 ? frames - used : Math.round(frames / nShots);
-            const offset = used / FPS;
-            const shotOverlays = overlays.map((o) => ({ ...o, start: o.start - offset, end: o.end - offset })).filter((o) => o.end > 0.3 && o.start < f / FPS);
-            shots.push({ ...base, out: path.join(dir, "shots", `${beat.id}-${s}.mp4`), frames: f, move: randomMove(rand, kind === "photo" ? 0.6 : 1.1), overlays: shotOverlays });
-            used += f;
-          }
-        }
+        scenes.push({ beat, ci, bi, isHost, kind, still, clip, credit, overlays, frames, secs, t0: t, rand, bdir, voice: n.audio, studioPng, studioPngReal });
         t += secs;
       }
 
@@ -186,6 +173,70 @@ export async function makeLongVideo(date = today()) {
   await addSilentScene("zz-end", endCard, 12, randomMove(seeded("end"), 0.2));
   console.log(`  scenes: ${Object.entries(stats).filter(([, v]) => v).map(([k, v]) => `${v} ${k}`).join(", ")}`);
 
+  // --- Phase B: the real presenter (HeyGen), lip-synced to the narration — one clip per chapter, or per key scene.
+  const beatScenes = scenes.filter((s) => !s.silent);
+  const mode = presenterMode(beatScenes.reduce((n, s) => n + s.secs, 0) / 60);
+  let segments = [];
+  if (mode === "full") {
+    segments = await Promise.all(ep.chapters.map(async (_, ci) => ({ name: `ch${ci + 1}`, start: chapterStarts[ci].start,
+      audio: await concatCopy(chapterPads[ci], path.join(dir, `chapter${ci + 1}.wav`), dir) })));
+  } else if (mode === "scenes") {
+    segments = beatScenes.filter((s) => s.isHost).map((s) => ({ name: s.beat.id, start: s.t0, audio: path.join(s.bdir, "pad.wav") }));
+  }
+  const clips = segments.length ? await presenterClips(ep, segments, path.join(dir, "presenter")) : {};
+  const segmentOf = (sc) => mode === "full" ? segments[sc.ci] : segments.find((g) => g.name === sc.beat.id);
+  // Which layout each scene uses.
+  const layoutOf = (sc) => {
+    if (mode === "full") return sc.bi === 0 ? "full" : sc.isHost || sc.bi % 4 === 2 ? "studio" : "pip";
+    if (mode === "scenes") return sc.isHost ? "studio" : "none";
+    return sc.isHost ? "cartoon" : "none";
+  };
+
+  // --- Phase C: turn scenes into shots.
+  const shots = [];
+  const layouts = {};
+  for (const sc of scenes) {
+    if (sc.silent) { shots.push({ image: sc.still, out: path.join(dir, "shots", `${sc.name}.mp4`), frames: sc.frames, fps: FPS, w: W, h: H, move: sc.move }); continue; }
+    const seg = segmentOf(sc);
+    const file = seg && clips[seg.name];
+    let layout = layoutOf(sc);
+    if (["full", "studio", "pip"].includes(layout) && !file) layout = sc.isHost ? "cartoon" : "none"; // HeyGen clip missing
+    layouts[layout] = (layouts[layout] || 0) + 1;
+    const presenterAt = (offset) => ({ file, offset: sc.t0 - seg.start + offset, layout });
+    const base = { fps: FPS, w: W, h: H, image: sc.still, clip: sc.clip };
+    const id = sc.beat.id;
+
+    if (layout === "full") {
+      const ch = ep.chapters[sc.ci];
+      const banner = sc.ci > 0 && sc.bi === 0
+        ? [{ png: renderChapterOverlay({ number: sc.ci + 1, title: ch.titleEn, subtitle: ch.titleRoman }, path.join(dir, "cards", `chapter${sc.ci + 1}.png`)), start: 0.4, end: Math.min(5, sc.secs - 0.3) }]
+        : [];
+      shots.push({ ...base, out: path.join(dir, "shots", `${id}-full.mp4`), frames: sc.frames, overlays: [...banner, ...sc.overlays], presenter: presenterAt(0) });
+    } else if (layout === "studio") {
+      shots.push({ ...base, out: path.join(dir, "shots", `${id}-studio.mp4`), frames: sc.frames, move: randomMove(sc.rand, 0.5), overlays: sc.overlays,
+        studio: { png: sc.studioPngReal }, presenter: presenterAt(0) });
+    } else if (layout === "cartoon") {
+      const host = await hostTrack(sc.voice, sc.secs, sc.bdir, [...id].reduce((a, c) => a + c.charCodeAt(0), 7));
+      shots.push({ ...base, out: path.join(dir, "shots", `${id}-host.mp4`), frames: sc.frames, move: randomMove(sc.rand, 0.5), overlays: sc.overlays, studio: { png: sc.studioPng, host } });
+    } else {
+      // Full-screen picture/clip (+ presenter box when layout is "pip"). Long still beats get several camera moves.
+      const overlays = sc.credit ? [sc.credit, ...sc.overlays] : sc.overlays;
+      const single = sc.clip || sc.kind === "card" || sc.kind === "map";
+      const nShots = single ? 1 : Math.max(1, Math.round(sc.secs / config.shotSeconds));
+      let used = 0;
+      for (let s = 0; s < nShots; s++) {
+        const f = s === nShots - 1 ? sc.frames - used : Math.round(sc.frames / nShots);
+        const offset = used / FPS;
+        const shotOverlays = overlays.map((o) => ({ ...o, start: o.start - offset, end: o.end - offset })).filter((o) => o.end > 0.3 && o.start < f / FPS);
+        const strength = sc.kind === "map" ? 0.6 : single ? 0.3 : sc.kind === "photo" ? 0.6 : 1.1;
+        shots.push({ ...base, out: path.join(dir, "shots", `${id}-${s}.mp4`), frames: f, move: randomMove(sc.rand, strength), overlays: shotOverlays,
+          presenter: layout === "pip" ? presenterAt(offset) : undefined });
+        used += f;
+      }
+    }
+  }
+  console.log(`  presenter mode: ${mode} · layouts: ${Object.entries(layouts).map(([k, v]) => `${v} ${k}`).join(", ")}`);
+
   let done = 0;
   await pool(shots, PARALLEL, async (s) => {
     await renderShot(s);
@@ -201,7 +252,9 @@ export async function makeLongVideo(date = today()) {
   fs.writeFileSync(path.join(dir, "captions.srt"), srt(toCues(subtitleWords)));
   fs.writeFileSync(path.join(dir, "visuals.json"), JSON.stringify(visuals));
 
-  await renderThumbnail({ image: thumbOk ? thumbSrc : lastImages[0], text: ep.meta.thumbnailText }, path.join(dir, "thumbnail.jpg"));
+  const still = mode !== "off" ? await presenterStill(dir) : null;
+  await renderThumbnail({ image: thumbOk ? thumbSrc : lastImages[0], text: ep.meta.thumbnailText, photo: still, host: mode === "off" },
+    path.join(dir, "thumbnail.jpg"));
 
   // Small copies for the website.
   const webDir = path.join(IMAGES_DIR, date);

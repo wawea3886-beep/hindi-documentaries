@@ -165,23 +165,42 @@ export function randomMove(rand, strength = 1) {
   return { z0: zin ? 1 : z, z1: zin ? z : 1, fx0: f(), fy0: f(), fx1: f(), fy1: f() };
 }
 
-/** Where the host and the "screen" sit in a host scene (1920x1080). */
-export const STUDIO = { x: 860, y: 250, sw: 1000, sh: 562, hostX: 20, hostY: 190, hostW: 800, hostH: 890 };
+/** Where the host and the "screen" sit in a host scene (1920x1080). panel = the real presenter's box. */
+export const STUDIO = { x: 860, y: 250, sw: 1000, sh: 562, hostX: 20, hostY: 190, hostW: 800, hostH: 890, panel: { x: 60, y: 250, w: 740, h: 562 } };
+/** Picture-in-picture box for the real presenter (top right, clear of credits and key-word pop-ups). */
+export const PIP = { x: 1920 - 40 - 480, y: 40, w: 480, h: 270, border: 5 };
+
+/** Crop the presenter clip into a w×h box around the face (config.presenter.faceY = face height in the photo, 0 top … 1 bottom). */
+const presenterFit = (w, h, fps, N) => {
+  const F = config.presenter.faceY;
+  return `fps=${fps},scale=${w}:${h}:force_original_aspect_ratio=increase,crop=${w}:${h}:(iw-${w})/2:'max(0,min(ih-${h},ih*${F}-${h}/2))',setsar=1,trim=end_frame=${N},setpts=PTS-STARTPTS`;
+};
+
+/** Full-screen presenter: the whole picture, centred on a blurred copy of itself (no extreme zoom on portrait photos). */
+const presenterFull = (w, h, fps, N) =>
+  `fps=${fps},setsar=1,trim=end_frame=${N},setpts=PTS-STARTPTS,split=2[pa][pb];` +
+  `[pa]scale=${w}:${h}:force_original_aspect_ratio=increase,crop=${w}:${h},gblur=sigma=30,eq=brightness=-0.25[pbg];` +
+  `[pb]scale=${w}:${h}:force_original_aspect_ratio=decrease[pfg];[pbg][pfg]overlay=(W-w)/2:(H-h)/2`;
 
 /**
  * Render one shot (video only), exactly `frames` long.
  * - image: a still with a slow camera move · clip: a real video clip (looped if short)
  * - studio: { png, host } → the picture plays on a framed screen with the lip-synced host on the left
+ * - presenter: { file, offset, layout } → real presenter clip: layout "full" (talking head), "studio" (left box), "pip"
  * - overlays: [{ png, start, end }] transparent PNGs faded in/out over the whole frame
  */
-export async function renderShot({ image, clip, out, frames, fps, w, h, move, overlays = [], studio }) {
+export async function renderShot({ image, clip, out, frames, fps, w, h, move, overlays = [], studio, presenter }) {
   if (fs.existsSync(out)) return out;
   const N = frames;
   const dur = N / fps;
   const [iw, ih] = studio ? [STUDIO.sw, STUDIO.sh] : [w, h];
   const args = [];
   const f = [];
-  if (clip) {
+  if (presenter?.layout === "full") {
+    // The presenter fills the frame; the scene's picture isn't shown.
+    args.push("-ss", presenter.offset.toFixed(3), "-i", presenter.file);
+    f.push(`[0:v]${presenterFull(w, h, fps, N)}[pic]`);
+  } else if (clip) {
     args.push("-stream_loop", "-1", "-i", clip);
     f.push(`[0:v]scale=${iw}:${ih}:force_original_aspect_ratio=increase,crop=${iw}:${ih},setsar=1,fps=${fps},eq=contrast=1.06:saturation=1.08,trim=end_frame=${N},setpts=PTS-STARTPTS[pic]`);
   } else {
@@ -192,13 +211,28 @@ export async function renderShot({ image, clip, out, frames, fps, w, h, move, ov
       `zoompan=z='${z0}+(${z1 - z0})*on/${N}':x='(${fx0}+(${fx1 - fx0})*on/${N})*(iw-iw/zoom)':y='(${fy0}+(${fy1 - fy0})*on/${N})*(ih-ih/zoom)':d=${N}:s=${iw}x${ih}:fps=${fps}[pic]`);
   }
   let input = 1;
-  if (studio) {
+  if (presenter?.layout === "full") {
+    f.push(`[pic]null[v0]`);
+  } else if (studio) {
     args.push("-loop", "1", "-framerate", String(fps), "-t", dur.toFixed(3), "-i", studio.png);
-    args.push("-f", "concat", "-safe", "0", "-i", studio.host);
     f.push(`[1:v][pic]overlay=${STUDIO.x}:${STUDIO.y}:shortest=1[st]`);
-    f.push(`[2:v]format=rgba,scale=${STUDIO.hostW}:${STUDIO.hostH},setpts=PTS-STARTPTS[hs]`);
-    f.push(`[st][hs]overlay=${STUDIO.hostX}:${STUDIO.hostY}:eof_action=repeat[v0]`);
+    if (presenter?.layout === "studio") {
+      const p = STUDIO.panel;
+      args.push("-ss", presenter.offset.toFixed(3), "-i", presenter.file);
+      f.push(`[2:v]${presenterFit(p.w, p.h, fps, N)}[hs]`);
+      f.push(`[st][hs]overlay=${p.x}:${p.y}:eof_action=repeat[v0]`);
+    } else {
+      args.push("-f", "concat", "-safe", "0", "-i", studio.host);
+      f.push(`[2:v]format=rgba,scale=${STUDIO.hostW}:${STUDIO.hostH},setpts=PTS-STARTPTS[hs]`);
+      f.push(`[st][hs]overlay=${STUDIO.hostX}:${STUDIO.hostY}:eof_action=repeat[v0]`);
+    }
     input = 3;
+  } else if (presenter?.layout === "pip") {
+    const p = PIP;
+    args.push("-ss", presenter.offset.toFixed(3), "-i", presenter.file);
+    f.push(`[1:v]${presenterFit(p.w, p.h, fps, N)},pad=${p.w + 2 * p.border}:${p.h + 2 * p.border}:${p.border}:${p.border}:color=0xFFD400[pp]`);
+    f.push(`[pic][pp]overlay=${p.x - p.border}:${p.y - p.border}:eof_action=repeat[v0]`);
+    input = 2;
   } else f.push(`[pic]null[v0]`);
   overlays.forEach((o, i) => {
     args.push("-loop", "1", "-framerate", String(fps), "-t", dur.toFixed(3), "-i", o.png);

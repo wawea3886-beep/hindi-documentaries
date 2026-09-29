@@ -36,6 +36,17 @@ export default {
   // ---- Editing style ----
   shotSeconds: 4.5, // change the camera move / picture about this often (fast, modern documentary pacing)
 
+  // ---- Real presenter (HeyGen lip-syncs the photo in assets/presenter/ to the narration) ----
+  presenter: {
+    // full = on screen the whole video · scenes = intro, chapter starts and outro only · off = animated host
+    mode: process.env.PRESENTER_MODE || "full",
+    maxMinutesPerDay: Number(process.env.PRESENTER_MAX_MINUTES || 32), // cost cap; above it → "scenes" for that day
+    pricePerMinute: 2.31, // HeyGen Avatar IV photo avatar, USD (for the cost estimate in the log)
+    maxWaitMinutes: 150, // give up waiting for HeyGen after this and use the animated host instead
+    faceY: Number(process.env.PRESENTER_FACE_Y || 0.3), // where the face is in the photo (0 = top, 1 = bottom), for the small boxes
+    motionPrompt: "calm, confident documentary presenter talking to the camera, natural small head movements and occasional hand gestures",
+  },
+
   // ---- Pictures ----
   cloudflareSteps: 4, // Flux-schnell steps: 4 keeps ~140 images/day inside Cloudflare's free allowance
   imageStyle: "cinematic documentary illustration, realistic digital painting, dramatic moody lighting, film still, wide 16:9 composition, highly detailed, no text, no words, no logos, no watermark, no gore",

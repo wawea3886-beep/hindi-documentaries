@@ -156,7 +156,7 @@ export function renderHighlight(text, out, { w = 1920, h = 1080 } = {}) {
 }
 
 /** Background for scenes with the host: dark studio, a framed "screen" on the right, chapter label above it. */
-export function renderStudio({ label = "", title = "" }, out, { w = 1920, h = 1080, screen } = {}) {
+export function renderStudio({ label = "", title = "" }, out, { w = 1920, h = 1080, screen, panel } = {}) {
   const c = createCanvas(w, h), ctx = c.getContext("2d");
   const g = ctx.createLinearGradient(0, 0, w, h);
   g.addColorStop(0, "#0a0f1c");
@@ -171,11 +171,15 @@ export function renderStudio({ label = "", title = "" }, out, { w = 1920, h = 10
   ctx.fillStyle = glow;
   ctx.fillRect(0, 0, w, h);
   const { x, y, sw, sh } = screen;
-  ctx.fillStyle = "rgba(0,0,0,0.5)";
-  ctx.fillRect(x + 14, y + 18, sw, sh);
-  ctx.strokeStyle = YELLOW;
-  ctx.lineWidth = 6;
-  ctx.strokeRect(x - 3, y - 3, sw + 6, sh + 6);
+  const boxes = [[x, y, sw, sh]];
+  if (panel) boxes.push([panel.x, panel.y, panel.w, panel.h]); // frame for the real presenter
+  for (const [bx, byy, bw, bh] of boxes) {
+    ctx.fillStyle = "rgba(0,0,0,0.5)";
+    ctx.fillRect(bx + 14, byy + 18, bw, bh);
+    ctx.strokeStyle = YELLOW;
+    ctx.lineWidth = 6;
+    ctx.strokeRect(bx - 3, byy - 3, bw + 6, bh + 6);
+  }
   ctx.textBaseline = "alphabetic";
   if (label) { ctx.font = "38px Anton"; ctx.fillStyle = RED; ctx.fillText(label.toUpperCase(), x, y - (title ? 88 : 22)); }
   if (title) {
@@ -215,14 +219,28 @@ export async function renderFallback(label, out, { w = 1920, h = 1080 } = {}) {
   return save(c, out);
 }
 
-/** YouTube thumbnail 1280x720: dramatic picture + huge 2-line text (+ the host's shocked face, bottom right). */
-export async function renderThumbnail({ image, text, host = true }, out) {
+/** YouTube thumbnail 1280x720: dramatic picture + huge 2-line text + the presenter (photo) or the animated host. */
+export async function renderThumbnail({ image, text, host = true, photo = null }, out) {
   const w = 1280, h = 720;
   const c = createCanvas(w, h), ctx = c.getContext("2d");
   ctx.fillStyle = "#111";
   ctx.fillRect(0, 0, w, h);
   if (image && fs.existsSync(image)) cover(ctx, await loadImage(fs.readFileSync(image)), w, h);
-  if (host) {
+  if (photo && fs.existsSync(photo)) {
+    // The real presenter on the right, fading into the picture on its left edge.
+    const img = await loadImage(fs.readFileSync(photo));
+    const pw = 470, ph = h;
+    const pc = createCanvas(pw, ph), p = pc.getContext("2d");
+    const s = Math.max(pw / img.width, ph / img.height);
+    p.drawImage(img, (pw - img.width * s) / 2, (ph - img.height * s) * 0.15, img.width * s, img.height * s);
+    const fade = p.createLinearGradient(0, 0, 90, 0);
+    fade.addColorStop(0, "rgba(0,0,0,1)");
+    fade.addColorStop(1, "rgba(0,0,0,0)");
+    p.globalCompositeOperation = "destination-out";
+    p.fillStyle = fade;
+    p.fillRect(0, 0, 90, ph);
+    ctx.drawImage(pc, w - pw, 0);
+  } else if (host) {
     const { drawHost } = await import("./host.js");
     ctx.save();
     ctx.shadowColor = "rgba(0,0,0,0.7)";
