@@ -14,7 +14,10 @@ export const FONTS_DIR = path.join(ROOT, "assets/fonts");
 /** Date in UTC as YYYY-MM-DD. `--date=2026-09-28` on the command line overrides "today". */
 export function today() {
   const arg = process.argv.find((a) => a.startsWith("--date="));
-  return arg ? arg.slice(7) : new Date().toISOString().slice(0, 10);
+  if (arg) return arg.slice(7);
+  // --tomorrow: the evening run prepares the next day's video (leaves many hours of buffer before publishing).
+  const offset = process.argv.includes("--tomorrow") ? 86400000 : 0;
+  return new Date(Date.now() + offset).toISOString().slice(0, 10);
 }
 
 export const hasFlag = (name) => process.argv.includes(`--${name}`);

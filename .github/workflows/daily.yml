@@ -2,7 +2,9 @@ name: Daily documentary
 
 on:
   schedule:
-    - cron: "30 0 * * *" # 00:30 UTC = 6:00 AM India. Long video goes public at LONG_PUBLISH_UTC (default 6:30 PM India).
+    # 20:00 UTC = 1:00 AM Pakistan / 1:30 AM India: prepares the NEXT day's video, which goes public at
+    # LONG_PUBLISH_UTC (default 13:00 UTC = 6:00 PM Pakistan / 6:30 PM India). Leaves ~17 h for GitHub delays or re-runs.
+    - cron: "0 20 * * *"
   workflow_dispatch: # "Run workflow" button — also used to retry a failed day
     inputs:
       date:
@@ -58,7 +60,7 @@ jobs:
       - name: Research, script, videos and YouTube uploads
         id: daily
         if: github.event_name != 'push'
-        run: node scripts/daily.js ${{ inputs.date && format('--date={0}', inputs.date) || '' }}
+        run: node scripts/daily.js ${{ inputs.date && format('--date={0}', inputs.date) || (github.event_name == 'schedule' && '--tomorrow' || '') }}
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
