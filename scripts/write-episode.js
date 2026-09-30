@@ -168,9 +168,9 @@ VISUAL CHARACTERS (use in every illustration prompt): ${ep.meta.characters}
 
 ${prev ? `The previous chapter ended with: "${prev}"\nContinue naturally from there.\n` : ""}
 Write chapters ${indices.map((i) => i + 1).join(", ")} now. LENGTH IS CRITICAL — this is a long-form documentary, so each chapter
-must reach AT LEAST its word count (words of "text", separated by spaces). Add depth instead of padding: background,
+must land within its word range (words of "text", separated by spaces) — not shorter, and not much longer. Add depth instead of padding: background,
 context, timeline details, numbers, what investigators found, different viewpoints — all from the sources.
-${indices.map((i) => `- Chapter ${i + 1}: at least ${ep.chapters[i].words} words`).join("\n")}
+${indices.map((i) => `- Chapter ${i + 1}: ${ep.chapters[i].words}–${Math.round(ep.chapters[i].words * 1.12)} words`).join("\n")}
 
 ${STYLE}
 

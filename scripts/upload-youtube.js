@@ -45,10 +45,29 @@ function shortDescription(ep, short, longId) {
     `#Shorts ${ep.meta.hashtags.slice(0, 2).join(" ")}`].join("\n"), 4900);
 }
 
+/**
+ * Tags YouTube accepts: max 500 characters in total, where a tag containing a space counts WITH quotation marks
+ * and tags are separated by commas. We keep a safety margin (450) and drop odd characters and very long tags.
+ */
+export function youtubeTags(tags, limit = 450) {
+  const out = [], seen = new Set();
+  let used = 0;
+  for (const raw of tags || []) {
+    const t = String(raw).replace(/[<>"',#]/g, " ").replace(/\s+/g, " ").trim().slice(0, 60);
+    if (!t || seen.has(t.toLowerCase())) continue;
+    const cost = t.length + (t.includes(" ") ? 2 : 0) + (out.length ? 1 : 0);
+    if (used + cost > limit) continue;
+    out.push(t);
+    seen.add(t.toLowerCase());
+    used += cost;
+  }
+  return out;
+}
+
 function body({ title, description, tags, publishAt }) {
   return {
     snippet: {
-      title: clean(title, 100), description, tags,
+      title: clean(title, 100), description, tags: youtubeTags(tags),
       categoryId: config.youtube.categoryId, defaultLanguage: config.youtube.metadataLanguage, defaultAudioLanguage: config.youtube.audioLanguage,
     },
     status: {
@@ -70,6 +89,18 @@ async function addToPlaylist(yt, playlistId, videoId) {
 
 const reason = (e) => e.errors?.[0]?.reason || e.response?.data?.error?.errors?.[0]?.reason || "";
 
+/** Upload a video; if YouTube rejects the tags, try once more without tags instead of losing the day's upload. */
+async function insertVideo(yt, requestBody, file) {
+  const send = (rb) => yt.videos.insert({ part: ["snippet", "status"], requestBody: rb, media: { body: fs.createReadStream(file) } });
+  try {
+    return await send(requestBody);
+  } catch (e) {
+    if (!/keyword|tag/i.test(`${e.message} ${reason(e)}`)) throw e;
+    console.warn(`  ⚠ YouTube rejected the tags (${e.message}) — uploading without tags`);
+    return send({ ...requestBody, snippet: { ...requestBody.snippet, tags: [] } });
+  }
+}
+
 export async function uploadAll(date = today(), { dryRun = hasFlag("dry-run") } = {}) {
   const ep = readEpisode(date);
   if (!ep?.render) throw new Error(`Long video for ${date} has not been rendered.`);
@@ -86,7 +117,7 @@ export async function uploadAll(date = today(), { dryRun = hasFlag("dry-run") } 
     console.log(`  • LONG "${ep.meta.youtubeTitle}" → public ${longAt}\n${longDescription(ep).split("\n").map((l) => "      " + l).join("\n")}`);
   } else if (!ep.youtube.long?.videoId) {
     try {
-      const res = await yt.videos.insert({ part: ["snippet", "status"], requestBody: body({ title: ep.meta.youtubeTitle, description: longDescription(ep), tags, publishAt: longAt }), media: { body: fs.createReadStream(longFile) } });
+      const res = await insertVideo(yt, body({ title: ep.meta.youtubeTitle, description: longDescription(ep), tags, publishAt: longAt }), longFile);
       ep.youtube.long = { videoId: res.data.id, url: `https://www.youtube.com/watch?v=${res.data.id}`, publishAt: longAt, uploadedAt: new Date().toISOString() };
       writeEpisode(ep);
       console.log(`  ✔ Long video → ${ep.youtube.long.url} (public ${longAt})`);
@@ -132,9 +163,8 @@ export async function uploadAll(date = today(), { dryRun = hasFlag("dry-run") } 
     const title = `${s.titleEn} #Shorts`;
     if (dryRun) { console.log(`  • SHORT "${title}" → public ${at}`); continue; }
     try {
-      const res = await yt.videos.insert({ part: ["snippet", "status"],
-        requestBody: body({ title, description: shortDescription(ep, s, L?.videoId), tags: [...new Set([...s.tags.map((t) => t.toLowerCase()), ...tags.slice(0, 8)])].slice(0, 25), publishAt: at }),
-        media: { body: fs.createReadStream(file) } });
+      const res = await insertVideo(yt,
+        body({ title, description: shortDescription(ep, s, L?.videoId), tags: [...s.tags.map((t) => t.toLowerCase()), ...tags.slice(0, 8)], publishAt: at }), file);
       ep.youtube.shorts[s.id] = { videoId: res.data.id, url: `https://www.youtube.com/shorts/${res.data.id}`, publishAt: at, uploadedAt: new Date().toISOString() };
       writeEpisode(ep);
       console.log(`  ✔ Short ${s.id} → ${ep.youtube.shorts[s.id].url} (public ${at})`);
