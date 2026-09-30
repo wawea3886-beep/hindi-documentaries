@@ -110,6 +110,14 @@
         "publishAt": "2026-10-01T07:30:00.000Z",
         "uploadedAt": "2026-09-30T00:18:22.988Z"
       }
+    },
+    "long": {
+      "videoId": "Ji7OAF54hng",
+      "url": "https://www.youtube.com/watch?v=Ji7OAF54hng",
+      "publishAt": "2026-09-30T16:46:20.000Z",
+      "uploadedAt": "2026-09-30T16:26:27.886Z",
+      "thumbnail": true,
+      "captions": true
     }
   },
   "meta": {
@@ -2038,7 +2046,7 @@
         "documentary"
       ],
       "render": {
-        "duration": 47.925
+        "duration": 47.913
       }
     },
     {
@@ -2062,7 +2070,7 @@
         "documentary"
       ],
       "render": {
-        "duration": 48.11
+        "duration": 48.102
       }
     },
     {
@@ -2086,7 +2094,7 @@
         "documentary"
       ],
       "render": {
-        "duration": 49.557
+        "duration": 49.543
       }
     }
   ],
@@ -2189,8 +2197,8 @@
       }
     ],
     "pictures": {
-      "ai": 95,
-      "stock": 7,
+      "ai": 0,
+      "stock": 102,
       "clip": 43,
       "photo": 5,
       "map": 5,
@@ -2198,63 +2206,167 @@
       "reused": 0,
       "fallback": 0
     },
-    "renderedAt": "2026-09-30T00:14:35.327Z",
+    "renderedAt": "2026-09-30T16:22:54.848Z",
     "clipCredits": [
       {
         "user": "Md Amir Umar",
         "url": "https://www.pexels.com/video/machinery-industrial-machinery-heavy-industry-heavy-machine-3968565/"
       },
       {
+        "user": "Mak_ jp",
+        "url": "https://www.pexels.com/photo/silhouettes-of-workers-walking-along-building-33159644/"
+      },
+      {
+        "user": "Jose Manuel Gonzalez  Lupiañez Photography",
+        "url": "https://www.pexels.com/photo/lightning-bolt-over-trees-in-a-dark-blue-sky-28103644/"
+      },
+      {
+        "user": "cottonbro studio",
+        "url": "https://www.pexels.com/photo/a-woman-pouring-a-liquid-from-a-glass-container-7493820/"
+      },
+      {
+        "user": "Pavel Danilyuk",
+        "url": "https://www.pexels.com/photo/elderly-woman-in-brown-blazer-holding-a-notebook-8424876/"
+      },
+      {
         "user": "Messiedo Xadinho",
         "url": "https://www.pexels.com/video/scenic-japanese-canal-with-mountain-backdrop-37319606/"
+      },
+      {
+        "user": "Engin Akyurt",
+        "url": "https://www.pexels.com/photo/stainless-steel-ice-bucket-filled-with-ice-9036537/"
       },
       {
         "user": "Tima Miroshnichenko",
         "url": "https://www.pexels.com/video/a-female-doctor-with-her-young-cancer-patient-6011518/"
       },
       {
+        "user": "Julien",
+        "url": "https://www.pexels.com/photo/stunning-night-view-of-osaka-cityscape-38685677/"
+      },
+      {
         "user": "Toàn BDS",
         "url": "https://www.pexels.com/video/aerial-view-of-container-ship-at-port-29903737/"
+      },
+      {
+        "user": "Marek Piwnicki",
+        "url": "https://www.pexels.com/photo/dramatic-coastal-sunrise-by-japanese-shore-38362260/"
       },
       {
         "user": "Yeşim Çolak",
         "url": "https://www.pexels.com/video/moody-nighttime-cityscape-with-power-lines-35946782/"
       },
       {
+        "user": "Tom Fisk",
+        "url": "https://www.pexels.com/photo/aerial-photography-of-buildings-and-vehicles-2398965/"
+      },
+      {
         "user": "Sergei Starostin",
         "url": "https://www.pexels.com/video/industrial-machinery-and-piping-inside-factory-30243446/"
+      },
+      {
+        "user": "Arndt-Peter Bergfeld",
+        "url": "https://www.pexels.com/photo/vineyards-and-village-in-nordheim-am-main-bavaria-38492492/"
+      },
+      {
+        "user": "DeeVisuals",
+        "url": "https://www.pexels.com/photo/stylish-group-poses-outdoors-in-urban-setting-34016792/"
       },
       {
         "user": "FD Visualzz",
         "url": "https://www.pexels.com/video/large-cargo-ship-navigating-the-ocean-waves-37186126/"
       },
       {
+        "user": "Change C.C",
+        "url": "https://www.pexels.com/photo/shelf-life-indicator-with-bilingual-text-30919068/"
+      },
+      {
+        "user": "Paolo Rossa",
+        "url": "https://www.pexels.com/photo/industrial-factory-with-emissions-under-blue-sky-37125625/"
+      },
+      {
+        "user": "Francis Desjardins",
+        "url": "https://www.pexels.com/photo/brown-concrete-building-7482724/"
+      },
+      {
         "user": "Andrey Kirievskiy",
         "url": "https://www.pexels.com/video/close-up-footage-of-medical-equipment-used-in-hospitals-3197670/"
+      },
+      {
+        "user": "cottonbro studio",
+        "url": "https://www.pexels.com/photo/a-man-in-gray-suit-jacket-sitting-at-table-8369199/"
       },
       {
         "user": "pickarick",
         "url": "https://www.pexels.com/video/judge-using-a-gavel-6699964/"
       },
       {
+        "user": "Pixabay",
+        "url": "https://www.pexels.com/photo/black-2-drawer-of-dresser-close-up-photography-159495/"
+      },
+      {
+        "user": "Tom Fisk",
+        "url": "https://www.pexels.com/photo/black-metal-fence-near-brown-concrete-wall-5123351/"
+      },
+      {
         "user": "Yan Krukau",
         "url": "https://www.pexels.com/video/a-video-footage-of-drum-set-9005825/"
+      },
+      {
+        "user": "Mikael Blomkvist",
+        "url": "https://www.pexels.com/photo/a-man-and-a-woman-wearing-ppe-s-at-a-construction-site-8961034/"
+      },
+      {
+        "user": "Rasa Kasparaviciene",
+        "url": "https://www.pexels.com/photo/black-kettle-grill-8704464/"
       },
       {
         "user": "Videas Cl",
         "url": "https://www.pexels.com/video/a-close-up-of-red-buttons-on-a-machine-16943466/"
       },
       {
+        "user": "Abasiakan",
+        "url": "https://www.pexels.com/photo/men-wearing-hard-hats-and-coveralls-12555018/"
+      },
+      {
         "user": "Horst Dreisbach",
         "url": "https://www.pexels.com/video/close-up-of-modern-wall-clock-with-moving-hands-39488468/"
+      },
+      {
+        "user": "Lukas Hartmann",
+        "url": "https://www.pexels.com/photo/abandoned-garages-in-sunlight-3612341/"
+      },
+      {
+        "user": "女子 正真",
+        "url": "https://www.pexels.com/photo/weathered-building-exterior-with-metal-door-33095569/"
+      },
+      {
+        "user": "Faruk Tokluoğlu",
+        "url": "https://www.pexels.com/photo/japanese-train-station-with-security-guard-33116233/"
       },
       {
         "user": "Olavi Anttila",
         "url": "https://www.pexels.com/video/anemometer-moving-on-wind-13930910/"
       },
       {
+        "user": "Tom Fisk",
+        "url": "https://www.pexels.com/photo/view-of-destroyed-building-with-fallen-roof-4592431/"
+      },
+      {
+        "user": "RDNE Stock project",
+        "url": "https://www.pexels.com/photo/an-employee-showing-a-graph-7845362/"
+      },
+      {
         "user": "Ron Lach",
         "url": "https://www.pexels.com/video/people-working-at-an-office-8691678/"
+      },
+      {
+        "user": "Callan Wang",
+        "url": "https://www.pexels.com/photo/urban-scene-with-bus-stop-and-ambulance-in-motion-36937590/"
+      },
+      {
+        "user": "Luanda Bauma primo",
+        "url": "https://www.pexels.com/photo/rural-african-scene-with-donkey-cart-35154093/"
       },
       {
         "user": "Werner Pfennig",
@@ -2262,99 +2374,375 @@
       },
       {
         "user": "K",
+        "url": "https://www.pexels.com/photo/rusty-padlock-on-metal-gate-3119921/"
+      },
+      {
+        "user": "Towfiqu barbhuiya",
+        "url": "https://www.pexels.com/photo/a-pile-of-brown-crumpled-papers-9852063/"
+      },
+      {
+        "user": "Robert So",
+        "url": "https://www.pexels.com/photo/industrial-structure-and-fuel-tankers-parked-11003992/"
+      },
+      {
+        "user": "K",
         "url": "https://www.pexels.com/video/footage-of-power-plant-beside-a-river-6498501/"
+      },
+      {
+        "user": "Mathias Reding",
+        "url": "https://www.pexels.com/photo/industrial-factory-and-warehouse-12069468/"
+      },
+      {
+        "user": "RDNE Stock project",
+        "url": "https://www.pexels.com/photo/a-woman-in-white-shirt-sitting-on-a-chair-while-talking-on-the-phone-6170567/"
       },
       {
         "user": "Artem Podrez",
         "url": "https://www.pexels.com/video/man-checking-inventory-5044422/"
       },
       {
+        "user": "Mark Stebnicki",
+        "url": "https://www.pexels.com/photo/low-angle-shot-of-a-stainless-steel-machine-2760286/"
+      },
+      {
+        "user": "Jan van der Wolf",
+        "url": "https://www.pexels.com/photo/industrial-chimneys-against-blue-sky-36772529/"
+      },
+      {
         "user": "Ron Lach",
         "url": "https://www.pexels.com/video/close-up-of-a-person-developing-film-in-a-darkroom-10273767/"
+      },
+      {
+        "user": "Tara Winstead",
+        "url": "https://www.pexels.com/photo/motivational-phrases-for-mental-health-8378739/"
+      },
+      {
+        "user": "Matvey Star",
+        "url": "https://www.pexels.com/photo/grayscale-photo-of-an-abandoned-building-9965692/"
       },
       {
         "user": "Paul Cruz",
         "url": "https://www.pexels.com/video/men-having-a-meeting-in-the-warehouse-4477607/"
       },
       {
+        "user": "Jakub Zerdzicki",
+        "url": "https://www.pexels.com/photo/digital-checklist-on-tablet-with-stylus-33349191/"
+      },
+      {
+        "user": "Andrei Ciubotariu",
+        "url": "https://www.pexels.com/photo/close-up-of-black-envelopes-with-wax-stamps-17262454/"
+      },
+      {
+        "user": "Mikhail Nilov",
+        "url": "https://www.pexels.com/photo/man-in-black-tank-top-beside-woman-in-black-tank-top-wearing-clear-goggles-9242826/"
+      },
+      {
+        "user": "ELEVATE",
+        "url": "https://www.pexels.com/photo/blue-plastic-pail-1267361/"
+      },
+      {
         "user": "Stepan SK",
         "url": "https://www.pexels.com/video/person-holding-a-manual-7584759/"
+      },
+      {
+        "user": "RDNE Stock project",
+        "url": "https://www.pexels.com/photo/a-group-of-people-standing-in-the-office-7845355/"
+      },
+      {
+        "user": "Joachim Schnürle",
+        "url": "https://www.pexels.com/photo/close-up-of-a-binder-with-documents-in-sepia-tone-32201000/"
+      },
+      {
+        "user": "Long Canon",
+        "url": "https://www.pexels.com/photo/modern-sport-motorcycle-parked-on-urban-street-37780176/"
       },
       {
         "user": "EqualStock IN",
         "url": "https://www.pexels.com/video/efficient-textile-folding-in-industrial-setting-31358517/"
       },
       {
+        "user": "EqualStock IN",
+        "url": "https://www.pexels.com/photo/textile-factory-worker-at-desk-in-industrial-setting-31335986/"
+      },
+      {
+        "user": "Altaf Shah",
+        "url": "https://www.pexels.com/photo/aerial-shot-of-trees-on-grass-field-9142449/"
+      },
+      {
+        "user": "Iban Lopez Luna",
+        "url": "https://www.pexels.com/photo/traditional-kimono-walk-in-tokyo-s-garden-37252660/"
+      },
+      {
+        "user": "Kenneth Surillo",
+        "url": "https://www.pexels.com/photo/portrait-of-woman-at-night-19461255/"
+      },
+      {
+        "user": "Mikhail Nilov",
+        "url": "https://www.pexels.com/photo/a-man-wearing-test-tubes-with-green-liquid-9243381/"
+      },
+      {
         "user": "KoolShooters",
         "url": "https://www.pexels.com/video/a-person-holding-a-stainless-basin-while-pouring-liquid-clay-on-a-pail-9736285/"
+      },
+      {
+        "user": "Clem Onojeghuo",
+        "url": "https://www.pexels.com/photo/gray-steel-flower-and-garden-bucket-175751/"
+      },
+      {
+        "user": "IP Creative",
+        "url": "https://www.pexels.com/photo/green-podium-16036148/"
+      },
+      {
+        "user": "Michelangelo Buonarroti",
+        "url": "https://www.pexels.com/photo/person-standing-in-a-smoky-room-4177014/"
+      },
+      {
+        "user": "cottonbro studio",
+        "url": "https://www.pexels.com/photo/people-in-orange-uniform-holding-brushes-while-leaning-on-a-vandalized-wall-9244172/"
       },
       {
         "user": "Chris D",
         "url": "https://www.pexels.com/video/fire-truck-exiting-station-with-lights-flashing-35241580/"
       },
       {
+        "user": "Google DeepMind",
+        "url": "https://www.pexels.com/photo/abstract-shapes-of-molecule-25626518/"
+      },
+      {
+        "user": "https://kaboompics.com/",
+        "url": "https://www.pexels.com/photo/medical-professionals-having-a-discussion-in-an-office-8538812/"
+      },
+      {
+        "user": "Pixabay",
+        "url": "https://www.pexels.com/photo/theater-chairs-276175/"
+      },
+      {
+        "user": "Soulful Pizza",
+        "url": "https://www.pexels.com/photo/gray-wooden-maze-3715428/"
+      },
+      {
         "user": "RDNE Stock project",
         "url": "https://www.pexels.com/video/close-up-shot-of-an-ambulance-6520323/"
+      },
+      {
+        "user": "Анастасия Грачева",
+        "url": "https://www.pexels.com/photo/white-van-on-the-road-9965658/"
+      },
+      {
+        "user": "Евгений Рмр",
+        "url": "https://www.pexels.com/photo/firefighters-in-a-city-6854802/"
+      },
+      {
+        "user": "Purvesh Photography",
+        "url": "https://www.pexels.com/photo/indian-construction-workers-at-construction-site-32826199/"
+      },
+      {
+        "user": "Ferdinand F Eman",
+        "url": "https://www.pexels.com/photo/aerial-view-of-highway-through-the-city-at-night-23221024/"
+      },
+      {
+        "user": "Mico Medel",
+        "url": "https://www.pexels.com/photo/uniformed-police-officers-in-riot-gear-assembling-outdoors-36352081/"
       },
       {
         "user": "Cheng",
         "url": "https://www.pexels.com/video/fields-and-mountain-on-horizon-13229437/"
       },
       {
+        "user": "Mehmet Turgut  Kirkgoz",
+        "url": "https://www.pexels.com/photo/mother-carrying-son-in-village-18373363/"
+      },
+      {
+        "user": "kazuyoshi sakamoto",
+        "url": "https://www.pexels.com/photo/quiet-residential-street-in-suburban-neighborhood-32972209/"
+      },
+      {
+        "user": "RDNE Stock project",
+        "url": "https://www.pexels.com/photo/a-woman-sitting-on-the-couch-while-holding-a-tv-9086923/"
+      },
+      {
+        "user": "Nicola Narracci",
+        "url": "https://www.pexels.com/photo/illustration-of-a-neutron-star-s-magnetic-field-38039151/"
+      },
+      {
         "user": "Nicola Narracci",
         "url": "https://www.pexels.com/video/glowing-molecular-structure-on-dark-background-35072412/"
+      },
+      {
+        "user": "Mahmoud Ramadan",
+        "url": "https://www.pexels.com/photo/abstract-3d-shape-with-soft-lighting-effect-31216392/"
+      },
+      {
+        "user": "Kindel Media",
+        "url": "https://www.pexels.com/photo/light-colored-pencils-7054788/"
       },
       {
         "user": "ANTONI SHKRABA production",
         "url": "https://www.pexels.com/video/a-man-adjusting-an-audio-mixer-8134917/"
       },
       {
+        "user": "Alexander Wittke",
+        "url": "https://www.pexels.com/photo/firefighters-in-hazmat-suits-securing-a-damaged-container-on-the-roadside-19375362/"
+      },
+      {
+        "user": "Artem Podrez",
+        "url": "https://www.pexels.com/photo/man-in-personal-protective-equipment-standing-inside-the-laboratory-8533069/"
+      },
+      {
         "user": "Tima Miroshnichenko",
         "url": "https://www.pexels.com/video/close-up-view-of-a-measuring-tape-7033925/"
+      },
+      {
+        "user": "Alexander Grigorian",
+        "url": "https://www.pexels.com/photo/ventilation-system-on-roof-of-building-7396978/"
+      },
+      {
+        "user": "Helena Jankovičová Kováčová",
+        "url": "https://www.pexels.com/photo/emergency-response-team-filling-sandbags-during-flood-28447798/"
+      },
+      {
+        "user": "Serena Koi",
+        "url": "https://www.pexels.com/photo/photo-of-a-carpenter-at-work-14747175/"
       },
       {
         "user": "Pavel Danilyuk",
         "url": "https://www.pexels.com/video/doctor-checking-his-patient-blood-pressure-6998170/"
       },
       {
+        "user": "cottonbro studio",
+        "url": "https://www.pexels.com/photo/hands-of-doctor-holding-notepad-and-pen-7578802/"
+      },
+      {
+        "user": "Mikhail Nilov",
+        "url": "https://www.pexels.com/photo/chemist-in-complete-ppe-holding-test-tubes-9243513/"
+      },
+      {
+        "user": "Shabran Niami",
+        "url": "https://www.pexels.com/photo/lush-green-rows-of-vegetables-in-field-38534084/"
+      },
+      {
+        "user": "Tetrakis  Sphericon",
+        "url": "https://www.pexels.com/photo/quiet-hospital-waiting-area-in-tokyo-31377751/"
+      },
+      {
+        "user": "Jo McNamara",
+        "url": "https://www.pexels.com/photo/hallway-of-a-hospital-11288653/"
+      },
+      {
         "user": "Tima Miroshnichenko",
         "url": "https://www.pexels.com/video/cancer-patients-in-the-hospital-6011533/"
+      },
+      {
+        "user": "Yuri Shkoda",
+        "url": "https://www.pexels.com/photo/window-and-door-in-hospital-10514768/"
+      },
+      {
+        "user": "Marek Piwnicki",
+        "url": "https://www.pexels.com/photo/bacteria-on-white-background-11516492/"
       },
       {
         "user": "Mikhail Nilov",
         "url": "https://www.pexels.com/video/close-up-shot-of-a-microscope-9244192/"
       },
       {
+        "user": "SR  Raju",
+        "url": "https://www.pexels.com/photo/children-sitting-outdoors-on-a-leafy-lawn-36834880/"
+      },
+      {
+        "user": "27 1",
+        "url": "https://www.pexels.com/photo/minimalist-tray-setup-with-water-and-utensils-29583763/"
+      },
+      {
         "user": "RDNE Stock project",
         "url": "https://www.pexels.com/video/heart-rate-monitor-in-the-hospital-6130551/"
+      },
+      {
+        "user": "Los Muertos Crew",
+        "url": "https://www.pexels.com/photo/a-man-and-a-woman-wearing-white-gown-8460160/"
       },
       {
         "user": "RDNE Stock project",
         "url": "https://www.pexels.com/video/blue-and-yellow-ambulance-6520433/"
       },
       {
+        "user": "Orange Ocean",
+        "url": "https://www.pexels.com/photo/mother-and-child-relaxing-by-the-sea-31972087/"
+      },
+      {
+        "user": "cottonbro studio",
+        "url": "https://www.pexels.com/photo/person-turning-the-page-of-a-spiral-notebook-5124876/"
+      },
+      {
+        "user": "Iban Lopez Luna",
+        "url": "https://www.pexels.com/photo/elderly-man-in-tokyo-street-wearing-straw-hat-37495815/"
+      },
+      {
         "user": "Кайрат Сатдиков",
         "url": "https://www.pexels.com/video/blood-bag-hanging-11377434/"
+      },
+      {
+        "user": "ANTONI SHKRABA production",
+        "url": "https://www.pexels.com/photo/man-in-brown-polo-shirt-and-orange-hard-hat-smiling-while-writing-on-paper-8278900/"
       },
       {
         "user": "yuki kiki",
         "url": "https://www.pexels.com/video/tokyo-train-station-with-passing-metro-38214997/"
       },
       {
-        "user": "Hide",
-        "url": "https://www.pexels.com/video/tractor-plowing-the-field-6799273/"
+        "user": "Zulfugar Karimov",
+        "url": "https://www.pexels.com/photo/vintage-crt-television-in-rustic-setting-33805706/"
+      },
+      {
+        "user": "Zakir Rushanly",
+        "url": "https://www.pexels.com/photo/an-empty-hospital-bed-11782003/"
+      },
+      {
+        "user": "K",
+        "url": "https://www.pexels.com/photo/round-blue-and-gray-arrow-symbol-2833717/"
+      },
+      {
+        "user": "PUWOOK Kwak",
+        "url": "https://www.pexels.com/video/aerial-panorama-of-verdant-rice-fields-in-summer-33638592/"
+      },
+      {
+        "user": "Destiny  Edor",
+        "url": "https://www.pexels.com/photo/laundry-hanging-on-the-clothesline-between-the-buildings-17844211/"
+      },
+      {
+        "user": "cottonbro studio",
+        "url": "https://www.pexels.com/photo/low-angle-shot-of-two-investigators-working-8371730/"
       },
       {
         "user": "EqualStock IN",
         "url": "https://www.pexels.com/video/indian-textile-factory-workers-in-action-31529054/"
       },
       {
+        "user": "Glen Zi 加侖子",
+        "url": "https://www.pexels.com/photo/train-maintenance-facility-in-kitakyushu-38212891/"
+      },
+      {
+        "user": "Suzy Hazelwood",
+        "url": "https://www.pexels.com/photo/stack-of-cardboards-1813331/"
+      },
+      {
         "user": "Andrey Kirievskiy",
         "url": "https://www.pexels.com/video/tv-cameramen-filming-outdoor-news-event-30048693/"
       },
       {
+        "user": "Christian Wasserfallen",
+        "url": "https://www.pexels.com/photo/wooden-interior-of-a-courthouse-14766052/"
+      },
+      {
         "user": "KATRIN  BOLOVTSOVA",
         "url": "https://www.pexels.com/video/judge-writing-on-a-document-6101337/"
+      },
+      {
+        "user": "Qdysk qdysk",
+        "url": "https://www.pexels.com/photo/exploring-the-best-coworking-space-in-new-cairo-28160884/"
+      },
+      {
+        "user": "Michael Orshan",
+        "url": "https://www.pexels.com/photo/precision-digital-caliper-measuring-metal-object-36003970/"
       },
       {
         "user": "Hugo Sykes",
