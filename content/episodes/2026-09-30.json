@@ -1,0 +1,2409 @@
+{
+  "date": "2026-09-30",
+  "stage": "done",
+  "generatedAt": "2026-09-29T23:27:23.141Z",
+  "language": "ur",
+  "topic": {
+    "name": "The Tokaimura Nuclear Accident",
+    "category": "disaster",
+    "angle": "Two technicians poured uranium into a steel bucket, and a Japanese village learned how one shortcut can trigger a chain reaction nobody could stop.",
+    "why": "Anniversary today: 30 September 1999, Japan's second-worst nuclear accident.",
+    "wikiTitles": [
+      "Tokaimura nuclear accidents",
+      "Criticality accident",
+      "International Nuclear and Radiological Event Scale"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Tokaimura nuclear accidents",
+      "url": "https://en.wikipedia.org/wiki/Tokaimura_nuclear_accidents"
+    },
+    {
+      "title": "Criticality accident",
+      "url": "https://en.wikipedia.org/wiki/Criticality_accident"
+    },
+    {
+      "title": "International Nuclear and Radiological Event Scale",
+      "url": "https://en.wikipedia.org/wiki/International_Nuclear_and_Radiological_Event_Scale"
+    }
+  ],
+  "photos": [
+    {
+      "id": "p1",
+      "title": "Japan natural location map with side map of the Ryukyu Islands",
+      "description": "Natural Location map of Japan Equirectangular projection. Geographic limits to locate objects in the main map with the main islands: N: 45°51'37\" N (45.86°N) S: 30°01'13\" N (30.02°N) W: 128°14'24\" E (",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Japan_natural_location_map_with_side_map_of_the_Ryukyu_Islands.jpg/1920px-Japan_natural_location_map_with_side_map_of_the_Ryukyu_Islands.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Japan_natural_location_map_with_side_map_of_the_Ryukyu_Islands.jpg",
+      "width": 1920,
+      "height": 1735,
+      "artist": "Alexrk2",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "p2",
+      "title": "HD.15.058 (11840039684)",
+      "description": "Tōkai Nuclear Power Plant.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/HD.15.058_%2811840039684%29.jpg/1920px-HD.15.058_%2811840039684%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:HD.15.058_(11840039684).jpg",
+      "width": 1920,
+      "height": 1324,
+      "artist": "ENERGY.GOV",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p3",
+      "title": "Tickling the Dragons Tail",
+      "description": "This image was copied from wikipedia:en. The original description was: Recreation (simulation) of the Slotin incident of \"tickling the dragon's tail\" which shows the configuration of beryllium reflect",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Tickling_the_Dragons_Tail.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Tickling_the_Dragons_Tail.jpg",
+      "width": 1920,
+      "height": 1531,
+      "artist": "Los Alamos National Laboratory",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p4",
+      "title": "Partially-reflected-plutonium-sphere",
+      "description": "A sphere of plutonium surrounded by neutron-reflecting blocks of tungsten carbide. A re-creation of the August 21, 1945 criticality accident at Los Alamos to measure the radiation produced when an ext",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Partially-reflected-plutonium-sphere.jpeg/1920px-Partially-reflected-plutonium-sphere.jpeg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Partially-reflected-plutonium-sphere.jpeg",
+      "width": 1920,
+      "height": 1536,
+      "artist": "Los Alamos National Laboratory",
+      "license": "Attribution",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p5",
+      "title": "Cyclotron with glowing beam",
+      "description": "",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Cyclotron_with_glowing_beam.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Cyclotron_with_glowing_beam.jpg",
+      "width": 1920,
+      "height": 1308,
+      "artist": "Unknown",
+      "license": "Public domain",
+      "licenseUrl": ""
+    }
+  ],
+  "youtube": {
+    "shorts": {
+      "s1": {
+        "videoId": "VwpYWESyt30",
+        "url": "https://www.youtube.com/shorts/VwpYWESyt30",
+        "publishAt": "2026-09-30T14:30:00.000Z",
+        "uploadedAt": "2026-09-30T00:18:19.310Z"
+      },
+      "s2": {
+        "videoId": "-nwp4I_G2Fs",
+        "url": "https://www.youtube.com/shorts/-nwp4I_G2Fs",
+        "publishAt": "2026-10-01T03:30:00.000Z",
+        "uploadedAt": "2026-09-30T00:18:20.934Z"
+      },
+      "s3": {
+        "videoId": "ycXkoqrwaAc",
+        "url": "https://www.youtube.com/shorts/ycXkoqrwaAc",
+        "publishAt": "2026-10-01T07:30:00.000Z",
+        "uploadedAt": "2026-09-30T00:18:22.988Z"
+      }
+    }
+  },
+  "meta": {
+    "youtubeTitle": "One Steel Bucket, One Blue Flash | Tokaimura Nuclear Accident True Story",
+    "slug": "2026-09-30-the-tokaimura-nuclear-accident",
+    "thumbnailText": "THE BLUE FLASH",
+    "thumbnailPrompt": "Close-up of a frightened Japanese technician in a white lab suit and cap staring at a steel bucket over a stainless tank, an eerie bright blue glow lighting his face, dark industrial background, high contrast, empty dark space on the left for text",
+    "characters": "Hisashi Ouchi: 35, Japanese man, white cleanroom coverall, cap and gloves, 1999 factory floor. Masato Shinohara: 40, similar white work suit, standing on a platform beside the tank. Yutaka Yokokawa: 54, supervisor, at a desk four metres away, grey work uniform. JCO conversion building: plain concrete industrial building with stainless steel precipitation tank and steel buckets, Tokaimura, Ibaraki, Japan, 1999. Residents: ordinary villagers in 1990s clothing, staying indoors, farmland nearby. Doctors: University of Tokyo Hospital, radiation ward, white coats and masks.",
+    "descriptionEn": "On 30 September 1999, three technicians at a small fuel plant in Tokaimura, Japan, were rushing to finish a batch of uranium fuel. They skipped approved steps and poured uranyl nitrate by hand from steel buckets into a tank never built to hold it. Then came a blue flash, and a chain reaction that would not stop for about 20 hours. Hundreds of thousands of people were told to stay indoors, while two workers began a desperate fight for survival in hospital. This documentary follows the shortcuts, the missing alarm, the failed warnings, the human cost and the court cases that followed, and asks how a trusted industry let it happen.",
+    "descriptionUr": "30 September 1999 ko Japan ke gaon Tokaimura mein teen technicians uranium fuel ka batch jaldi mukammal karne ki koshish kar rahe the. Unhon ne manzoor shuda tareeqa chhor kar balti se uranium tank mein daal diya. Phir neela flash hua aur chain reaction takreeban 20 ghante tak nahin ruki. Is documentary mein hum dekhenge ke ghaltiyan kaise hui, do mazdooron ke sath kya beeti, aur Japan ne is se kya seekha.",
+    "tags": [
+      "tokaimura nuclear accident",
+      "tokaimura accident in urdu",
+      "tokaimura documentary",
+      "jco criticality accident",
+      "hisashi ouchi",
+      "hisashi ouchi story",
+      "hisashi ouchi in urdu",
+      "japan nuclear accident 1999",
+      "criticality accident explained",
+      "nuclear accident documentary",
+      "nuclear disaster urdu",
+      "nuclear hadsa urdu",
+      "japan ka nuclear hadsa",
+      "uranium bucket accident",
+      "blue flash nuclear",
+      "ines level 4",
+      "tokaimura 1999 true story",
+      "nuclear safety failure",
+      "urdu documentary nuclear",
+      "radiation poisoning story"
+    ],
+    "hashtags": [
+      "#Tokaimura",
+      "#NuclearAccident",
+      "#UrduDocumentary"
+    ],
+    "metaDescription": "How a steel bucket shortcut at Japan's JCO plant in 1999 caused a 20-hour criticality accident, two deaths and lasting reforms. The Tokaimura true story."
+  },
+  "chapters": [
+    {
+      "titleEn": "The Blue Flash",
+      "titleRoman": "Neela Flash",
+      "covers": "Cold open: about 10:35 on 30 September 1999, seventh bucket of uranyl nitrate poured into the precipitation tank, blue flash, gamma alarms, Ouchi draped over the tank. Questions: why buckets, why no alarm, why could no one stop it for about 20 hours. Promise of what the viewer will learn.",
+      "words": 220,
+      "beats": [
+        {
+          "id": "c1b1",
+          "text": "30 September 1999، صبح کے تقریباً 10:35 بجے تھے۔ Japan کے گاؤں Tokaimura میں JCO کے plant پر fuel بنانے کا کام چل رہا تھا۔",
+          "roman": "30 September 1999, subah ke taqreeban 10:35 bajay thay. Japan ke gaon Tokaimura mein JCO ke plant par fuel banane ka kaam chal raha tha.",
+          "visual": {
+            "type": "clip",
+            "query": "industrial building morning",
+            "prompt": "Plain concrete industrial conversion building in rural Tokaimura, Ibaraki, Japan, 1999, quiet morning, wide shot, calm but uneasy mood"
+          },
+          "factFix": "The 'simple concrete building' is not in the sources. Calling the work 'routine' also contradicts them: the procedure was unapproved and skipped safety steps."
+        },
+        {
+          "id": "c1b2",
+          "text": "تین technicians ایک precipitation tank کے پاس کام کر رہے تھے، اور وہ stainless steel کے buckets میں محلول ملا رہے تھے۔ ان کے نام Hisashi Ouchi، Masato Shinohara اور Yutaka Yokokawa تھے۔",
+          "roman": "Teen technicians aik precipitation tank ke paas kaam kar rahe thay, aur woh stainless steel ke buckets mein mehlool mila rahe thay. Un ke naam Hisashi Ouchi, Masato Shinohara aur Yutaka Yokokawa thay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Three Japanese workers in white cleanroom coveralls, caps and gloves near a stainless steel precipitation tank on a 1999 factory floor, steel buckets nearby, documentary style, tense mood, no text"
+          },
+          "factFix": "The sources say the buckets were stainless steel, not the tank. The tank was the precipitation tank."
+        },
+        {
+          "id": "c1b3",
+          "text": "پھر ایک اور bucket میں موجود uranyl nitrate کا محلول tank میں ڈالا گیا۔ یہ ساتواں bucket تھا، اور اسی لمحے سب کچھ بدل گیا۔",
+          "roman": "Phir aik aur bucket mein maujood uranyl nitrate ka mehlool tank mein daala gaya. Yeh saatwan bucket tha, aur usi lamhe sab kuch badal gaya.",
+          "visual": {
+            "type": "card",
+            "title": "10:35 AM, 30 SEPT 1999",
+            "text": "The seventh bucket of uranyl nitrate is poured into the tank"
+          },
+          "highlight": "THE SEVENTH BUCKET"
+        },
+        {
+          "id": "c1b4",
+          "text": "Tank میں uranium کی مقدار تقریباً 16 kg تک پہنچ چکی تھی۔ اسی وقت ایک نیلی روشنی، یعنی blue flash، سب کو نظر آئی۔",
+          "roman": "Tank mein uranium ki miqdar taqreeban 16 kg tak pahunch chuki thi. Usi waqt aik neeli roshni, yaani blue flash, sab ko nazar aayi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Sudden pale blue flash of light glowing around a stainless steel tank in a dim concrete industrial room, silhouettes of workers, dramatic, no gore, no text"
+          }
+        },
+        {
+          "id": "c1b5",
+          "text": "ساتھ ہی gamma radiation کے alarms بجنے لگے۔ Ouchi اس وقت tank کے اوپر جھکا ہوا تھا، اور Shinohara پاس ہی ایک platform پر کھڑا تھا۔",
+          "roman": "Saath hi gamma radiation ke alarms bajne lagay. Ouchi us waqt tank ke upar jhuka hua tha, aur Shinohara paas hi aik platform par khara tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Japanese worker in white coverall leaning over a steel tank while a second man stands on a small platform beside it, alarm lights flashing red, 1999 factory floor, tense mood"
+          },
+          "highlight": "GAMMA ALARMS SOUNDED"
+        },
+        {
+          "id": "c1b6",
+          "text": "Yokokawa تقریباً چار میٹر دور ایک desk پر بیٹھے تھے۔ Tank کے اندر uncontrolled nuclear fission، یعنی self-sustaining chain reaction، شروع ہو چکی تھی۔",
+          "roman": "Yokokawa taqreeban chaar meter door aik desk par baithay thay. Tank ke andar uncontrolled nuclear fission, yaani self-sustaining chain reaction, shuru ho chuki thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Older Japanese supervisor in grey work uniform seated at a desk in a factory room, looking up startled, tank visible in the background four metres away, 1999"
+          }
+        },
+        {
+          "id": "c1b7",
+          "text": "Sources کے مطابق یہ Fukushima سے پہلے Japan کا سب سے بدترین civilian nuclear radiation accident تھا۔ اور یہ Tokai گاؤں کے قریب ایک fuel plant میں ہوا۔",
+          "roman": "Sources ke mutabiq yeh Fukushima se pehle Japan ka sab se badtareen civilian nuclear radiation accident tha. Aur yeh Tokai gaon ke qareeb aik fuel plant mein hua.",
+          "visual": {
+            "type": "clip",
+            "query": "japan village countryside",
+            "prompt": "Quiet Japanese rural village with farmland and a distant industrial building, 1990s, overcast sky"
+          },
+          "factFix": "The sources place the JCO plant near the village of Tōkai, and about four miles from the PNC facility. They do not say it was 'in the middle of' a village, so this is an exaggeration."
+        },
+        {
+          "id": "c1b8",
+          "text": "لیکن اصل سوال یہ ہے کہ ایک nuclear facility میں workers steel کے buckets سے uranium کا محلول کیوں ڈال رہے تھے؟ کیا یہ کوئی حادثاتی غلطی تھی، یا اس کے پیچھے کوئی پوری کہانی تھی؟",
+          "roman": "Lekin asal sawal yeh hai ke aik nuclear facility mein workers steel ke buckets se uranium ka mehlool kyun daal rahe thay? Kya yeh koi haadsati ghalti thi, ya is ke peechay koi poori kahani thi?",
+          "visual": {
+            "type": "ai",
+            "prompt": "Close-up of stainless steel buckets beside a large steel tank inside a plain industrial room, harsh fluorescent light, questioning, mysterious mood, no people, no text"
+          }
+        },
+        {
+          "id": "c1b9",
+          "text": "دوسرا سوال یہ ہے کہ وہاں criticality accident alarm کیوں نہیں تھا؟ اور تیسرا سب سے مشکل ہے: یہ chain reaction تقریباً 20 گھنٹے تک کوئی روک کیوں نہ سکا؟",
+          "roman": "Doosra sawal yeh hai ke wahan criticality accident alarm kyun nahi tha? Aur teesra sab se mushkil hai: yeh chain reaction taqreeban 20 ghantay tak koi rok kyun na saka?",
+          "visual": {
+            "type": "card",
+            "title": "ABOUT 20 HOURS",
+            "text": "How long the chain reaction lasted before active intervention stopped it"
+          }
+        },
+        {
+          "id": "c1b10",
+          "text": "اس documentary میں ہم پورا سلسلہ دیکھیں گے۔ 1997 کی ایک پرانی آگ، کمپنی کے shortcuts، اور وہ 83 دن جو Ouchi نے ہسپتال میں گزارے۔",
+          "roman": "Is documentary mein hum poora silsila dekhenge. 1997 ki aik purani aag, company ke shortcuts, aur woh 83 din jo Ouchi ne hospital mein guzaray.",
+          "visual": {
+            "type": "clip",
+            "query": "hospital corridor night",
+            "prompt": "Empty hospital corridor at night, University of Tokyo Hospital style radiation ward doors, soft light, respectful mood"
+          }
+        },
+        {
+          "id": "c1b11",
+          "text": "ہم یہ بھی دیکھیں گے کہ investigators نے کیا پایا، کس کو سزا ملی، اور Japan نے اس کے بعد کیا بدلا۔ تو دوستو، آئیے اس کہانی کو شروع سے سمجھتے ہیں۔",
+          "roman": "Hum yeh bhi dekhenge ke investigators ne kya paya, kis ko saza mili, aur Japan ne is ke baad kya badla. To dosto, aaiye is kahani ko shuru se samajhte hain.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Wide dusk view of a Japanese village with a distant concrete nuclear facility, cinematic, contemplative mood, no text"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "At about 10:35 on the morning of 30 September 1999, work was under way at the JCO fuel plant in the village of Tokaimura, Japan. Three technicians were working beside a precipitation tank, mixing solutions in stainless steel buckets. They were Hisashi Ouchi, Masato Shinohara and Yutaka Yokokawa. Then another bucket of uranyl nitrate solution was poured into the tank. It was the seventh bucket, and everything changed at that moment.",
+        "By then the tank held roughly 16 kg of uranium. A blue flash appeared, and gamma radiation alarms began to sound. Ouchi was leaning over the tank. Shinohara stood on a nearby platform. Yokokawa was sitting at a desk about four meters away. Inside the tank, uncontrolled nuclear fission, a self-sustaining chain reaction, had begun. According to the sources, it was Japan's worst civilian nuclear radiation accident before Fukushima.",
+        "Three questions hang over the story. Why were workers pouring uranium solution from steel buckets inside a nuclear facility? Was it an accidental mistake, or was there a bigger story behind it? Why was there no criticality accident alarm? And why could no one stop the chain reaction for about 20 hours?",
+        "This article follows the whole sequence: an earlier fire in 1997, the company's shortcuts, and the 83 days Ouchi spent in hospital. It also covers what investigators found, who was punished, and what Japan changed afterwards. To understand it, we have to start at the beginning."
+      ]
+    },
+    {
+      "titleEn": "A Village Built on Atoms",
+      "titleRoman": "Atomon Par Basa Gaon",
+      "covers": "Japan's need for nuclear power (about 30% of electricity before Fukushima), Tokai about 70 miles from Tokyo, first commercial nuclear plant, dozens of nuclear firms, nearly a third of the population depending on the industry.",
+      "words": 380,
+      "beats": [
+        {
+          "id": "c2b1",
+          "text": "اب ذرا کہانی کو پیچھے لے چلتے ہیں۔ Japan ایک ایسا ملک ہے جس کے پاس قدرتی وسائل بہت کم ہیں، اس لیے اسے توانائی کے لیے دوسروں پر انحصار کرنا پڑتا ہے۔",
+          "roman": "Ab zara kahani ko peechay le chalte hain. Japan aik aisa mulk hai jis ke paas qudrati wasail bohat kam hain, is liye usay tawanai ke liye doosron par inhisar karna parta hai.",
+          "visual": {
+            "type": "clip",
+            "query": "cargo ship port",
+            "prompt": "Large cargo ship at a Japanese port unloading energy shipments, wide shot, late afternoon light"
+          }
+        },
+        {
+          "id": "c2b2",
+          "text": "Nuclear power کو اسی مسئلے کا ایک حل سمجھا گیا۔ اس کا مقصد یہ تھا کہ imported energy پر انحصار کم کیا جا سکے۔",
+          "roman": "Nuclear power ko isi masle ka aik hal samjha gaya. Is ka maqsad yeh tha ke imported energy par inhisar kam kiya ja sakay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Illustration of Japan's islands with glowing power lines and a small reactor icon-free landscape, imported energy tankers offshore, calm documentary style, no text"
+          }
+        },
+        {
+          "id": "c2b3",
+          "text": "2011 کے Fukushima nuclear disaster تک nuclear power Japan کی تقریباً 30% بجلی فراہم کرتی تھی۔ اس حادثے کے بعد nuclear بجلی کی پیداوار تیزی سے گر گئی۔",
+          "roman": "2011 ke Fukushima nuclear disaster tak nuclear power Japan ki taqreeban 30% bijli faraham karti thi. Us haadse ke baad nuclear bijli ki paidawar tezi se gir gayi.",
+          "visual": {
+            "type": "clip",
+            "query": "power lines city night",
+            "prompt": "Japanese city at night with glowing lights and power transmission lines"
+          },
+          "highlight": "ABOUT 30% OF ELECTRICITY"
+        },
+        {
+          "id": "c2b4",
+          "text": "Tokaimura کا گاؤں Ibaraki Prefecture میں ہے، اور یہ Tokyo سے تقریباً 70 miles دور ہے۔ یہاں کی لوکیشن اور کھلی زمین اسے nuclear کام کے لیے مثالی بناتی تھی۔",
+          "roman": "Tokaimura ka gaon Ibaraki Prefecture mein hai, aur yeh Tokyo se taqreeban 70 miles door hai. Yahan ki location aur khuli zameen isay nuclear kaam ke liye misali banati thi.",
+          "visual": {
+            "type": "map",
+            "place": "Tokaimura, Ibaraki",
+            "lat": 36.4667,
+            "lon": 140.5667,
+            "zoom": "region",
+            "label": "Tokaimura, about 70 miles from Tokyo"
+          }
+        },
+        {
+          "id": "c2b5",
+          "text": "اسی لیے یہاں پہلے کئی experimental nuclear reactors بنائے گئے۔ پھر Tokai Nuclear Power Plant تعمیر ہوا، جو ملک کا پہلا commercial nuclear power station تھا۔",
+          "roman": "Isi liye yahan pehle kai experimental nuclear reactors banaye gaye. Phir Tokai Nuclear Power Plant taameer hua, jo mulk ka pehla commercial nuclear power station tha.",
+          "visual": {
+            "type": "photo",
+            "photo": "p2"
+          }
+        },
+        {
+          "id": "c2b6",
+          "text": "وقت کے ساتھ اس علاقے کے آس پاس درجنوں companies اور سرکاری institutes قائم ہوتے گئے۔ ان کا کام nuclear research اور experimentation سے جڑا ہوا تھا۔",
+          "roman": "Waqt ke saath is ilaqay ke aas paas darjanon companies aur sarkari institutes qaim hotay gaye. Un ka kaam nuclear research aur experimentation se jura hua tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Aerial-style illustration of several modern research and industrial buildings clustered on flat land in rural Ibaraki, Japan, 1990s, clear day, no text"
+          }
+        },
+        {
+          "id": "c2b7",
+          "text": "کچھ ادارے manufacturing کرتے تھے، کچھ fuel fabrication اور enrichment۔ اور کچھ facilities ایسی تھیں جو nuclear waste کے disposal کا کام سنبھالتی تھیں۔",
+          "roman": "Kuch idaray manufacturing karte thay, kuch fuel fabrication aur enrichment. Aur kuch facilities aisi thin jo nuclear waste ke disposal ka kaam sambhalti thin.",
+          "visual": {
+            "type": "clip",
+            "query": "industrial plant pipes",
+            "prompt": "Interior of a clean industrial plant with pipes and tanks, 1990s Japan, neutral lighting"
+          }
+        },
+        {
+          "id": "c2b8",
+          "text": "یوں ایک چھوٹا سا گاؤں nuclear industry کے کئی مراحل کا مرکز بن گیا۔ یہاں تحقیق بھی ہوتی تھی، ایندھن بھی تیار ہوتا تھا اور فضلے کا انتظام بھی۔",
+          "roman": "Yun aik chhota sa gaon nuclear industry ke kai marahil ka markaz ban gaya. Yahan tehqeeq bhi hoti thi, eendhan bhi tayyar hota tha aur fazlay ka intezam bhi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Village rooftops and farmland in the foreground with several industrial nuclear-related buildings on the horizon, Ibaraki, Japan, 1990s, soft evening light"
+          }
+        },
+        {
+          "id": "c2b9",
+          "text": "اب ایک اہم عدد سنیے۔ Tokai کی تقریباً ایک تہائی آبادی کا روزگار nuclear industry سے جڑی ملازمتوں پر منحصر تھا۔",
+          "roman": "Ab aik aham adad suniye. Tokai ki taqreeban aik tihai abadi ka rozgaar nuclear industry se jurri mulazmaton par munhasir tha.",
+          "visual": {
+            "type": "card",
+            "title": "NEARLY ONE-THIRD",
+            "text": "Share of Tokai's population relying on nuclear-industry jobs"
+          }
+        },
+        {
+          "id": "c2b10",
+          "text": "یعنی ہر تین میں سے تقریباً ایک شخص کا روزگار اسی صنعت سے چلتا تھا۔ ایسی جگہ پر safety کا سوال صرف technical نہیں ہوتا، پورے معاشرے کا سوال بن جاتا ہے۔",
+          "roman": "Yaani har teen mein se taqreeban aik shakhs ka rozgaar isi sanat se chalta tha. Aisi jagah par safety ka sawal sirf technical nahi hota, poore muashray ka sawal ban jata hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Ordinary villagers in 1990s clothing walking on a small-town street in Tokaimura, Japan, with an industrial building visible in the distance, warm afternoon light"
+          }
+        },
+        {
+          "id": "c2b11",
+          "text": "اور Japan کی مجبوری آج بھی وہی ہے۔ Sources کے مطابق Japan اپنی 80% توانائی باہر سے منگواتا ہے، اس لیے اپنی توانائی پیدا کرنے کا دباؤ ہمیشہ رہتا ہے۔",
+          "roman": "Aur Japan ki majboori aaj bhi wahi hai. Sources ke mutabiq Japan apni 80% tawanai bahar se mangwata hai, is liye apni tawanai paida karne ka dabao hamesha rehta hai.",
+          "visual": {
+            "type": "clip",
+            "query": "oil tanker sea",
+            "prompt": "Energy tanker ship crossing the sea near Japan at sunset"
+          },
+          "highlight": "JAPAN IMPORTS 80% OF ENERGY"
+        },
+        {
+          "id": "c2b12",
+          "text": "اسی گاؤں میں دو بڑے حادثے پیش آئے۔ پہلا 11 March 1997 کو ہوا، اور دوسرا 30 September 1999 کو۔ دونوں کو مل کر Tokaimura nuclear accidents کہا جاتا ہے۔",
+          "roman": "Isi gaon mein do bare haadsay pesh aaye. Pehla 11 March 1997 ko hua, aur doosra 30 September 1999 ko. Dono ko mil kar Tokaimura nuclear accidents kaha jata hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Two calendar-style visual panels showing an industrial building with smoke on the left and a plain concrete building on the right, muted documentary tones, no text"
+          }
+        },
+        {
+          "id": "c2b13",
+          "text": "پہلا حادثہ PNC کے radioactive waste bituminisation facility میں ہوا، جہاں ایک experimental batch میں آگ لگی اور پھر explosion ہوا۔ ابتدائی تعارف کے مطابق بیس سے زیادہ لوگ radiation کی زد میں آئے۔",
+          "roman": "Pehla haadsa PNC ke radioactive waste bituminisation facility mein hua, jahan aik experimental batch mein aag lagi aur phir explosion hua. Ibtidai taaruf ke mutabiq bees se ziyada log radiation ki zad mein aaye.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Industrial waste-processing building with smoke rising and broken windows, Japan 1997, overcast sky, no people, documentary mood"
+          }
+        },
+        {
+          "id": "c2b14",
+          "text": "دوسرا حادثہ JCO کی ایک الگ facility میں ہوا۔ وہاں experimental reactor کے لیے liquid uranium fuel کو غلط طریقے سے handle کیا گیا، جس سے criticality accident پیدا ہوا۔",
+          "roman": "Doosra haadsa JCO ki aik alag facility mein hua. Wahan experimental reactor ke liye liquid uranium fuel ko ghalat tareeqay se handle kiya gaya, jis se criticality accident paida hua.",
+          "visual": {
+            "type": "ai",
+            "prompt": "JCO conversion building, plain concrete industrial building with stainless steel precipitation tank glimpsed through a doorway and steel buckets, Tokaimura, Ibaraki, Japan, 1999"
+          }
+        },
+        {
+          "id": "c2b15",
+          "text": "یہ واقعہ تقریباً 20 گھنٹے چلا، اور اس میں دو workers کی جان گئی۔ جن 436 لوگوں کی radiation doses کا جائزہ لیا گیا، ان میں سے کسی کی dose سالانہ regulatory limit سے زیادہ نہیں تھی۔",
+          "roman": "Yeh waqia taqreeban 20 ghantay chala, aur is mein do workers ki jaan gayi. Jin 436 logon ki radiation doses ka jaiza liya gaya, un mein se kisi ki dose salana regulatory limit se ziyada nahi thi.",
+          "visual": {
+            "type": "clip",
+            "query": "radiation monitoring instrument",
+            "prompt": "Technician holding a radiation survey meter in a corridor, neutral lighting"
+          },
+          "highlight": "436 PEOPLE EVALUATED"
+        },
+        {
+          "id": "c2b16",
+          "text": "بعد کی تحقیقات میں تین بڑی وجوہات سامنے آئیں۔ کمزور regulatory oversight، safety culture کی کمی، اور workers کی ناکافی training اور qualification۔",
+          "roman": "Baad ki tehqeeqat mein teen bari wajuhat samne aayin. Kamzor regulatory oversight, safety culture ki kami, aur workers ki nakafi training aur qualification.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Investigators in suits reviewing papers and manuals around a table in a Japanese government office, 2000, serious mood, no text"
+          }
+        },
+        {
+          "id": "c2b17",
+          "text": "ان حادثوں کے بعد کئی lawsuits دائر ہوئے اور نئی safety measures نافذ کی گئیں۔ لیکن یہ سب بعد کی بات ہے۔ پہلے ہمیں وہ دن دیکھنا ہے جب پہلی وارننگ ملی۔",
+          "roman": "In haadson ke baad kai lawsuits daayer hue aur nayi safety measures nafiz ki gayin. Lekin yeh sab baad ki baat hai. Pehle humein woh din dekhna hai jab pehli warning mili.",
+          "visual": {
+            "type": "clip",
+            "query": "courtroom gavel",
+            "prompt": "Japanese courtroom interior with empty benches, muted tones"
+          }
+        },
+        {
+          "id": "c2b18",
+          "text": "تو سوال یہ ہے کہ جو گاؤں nuclear industry پر اتنا انحصار کرتا تھا، وہ دو بار خطرے کے سامنے کیسے آیا؟ اس کا پہلا جواب 1997 کی ایک آگ میں چھپا ہے۔",
+          "roman": "To sawal yeh hai ke jo gaon nuclear industry par itna inhisar karta tha, woh do baar khatray ke samne kaise aaya? Is ka pehla jawab 1997 ki aik aag mein chhupa hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Close view of a metal storage drum glowing faintly orange from within inside a dim industrial building, suspenseful mood, no people, no text"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "Japan has very few natural resources and has to rely on others for its energy. Nuclear power was seen as one answer to that problem, a way to reduce dependence on imports. Until the Fukushima nuclear disaster in 2011, nuclear power supplied about 30% of Japan's electricity. After that disaster, nuclear generation fell sharply. Sources say Japan imports 80% of its energy, so the pressure to produce its own has never gone away.",
+        "Tokaimura lies in Ibaraki Prefecture, about 70 miles from Tokyo. Its location and open land made it ideal for nuclear work, so several experimental reactors were built there first. Then the Tokai Nuclear Power Plant was built, the country's first commercial nuclear power station. Over time, dozens of companies and government institutes settled in the area. They were involved in nuclear research and experimentation. Some did manufacturing, some fuel fabrication and enrichment, and some handled nuclear waste disposal. A small village became a hub for many stages of the nuclear industry: research, fuel production and waste management.",
+        "One figure stands out. About a third of Tokai's population depended on jobs connected to the nuclear industry, so roughly one person in three earned a living from it. In such a place, safety is not only a technical question but a question for the whole community.",
+        "Two major accidents happened in this village, one on 11 March 1997 and one on 30 September 1999. Together they are known as the Tokaimura nuclear accidents. The first took place at PNC's radioactive waste bituminisation facility, where an experimental batch caught fire and then exploded. An initial summary says more than twenty people were exposed to radiation. The second happened at a separate JCO facility. Liquid uranium fuel for an experimental reactor was handled improperly, causing a criticality accident. It lasted about 20 hours and two workers died. Of the 436 people whose radiation doses were assessed, none exceeded the annual regulatory limit.",
+        "Later investigations pointed to three main causes: weak regulatory oversight, a lack of safety culture, and inadequate worker training and qualification. Lawsuits followed and new safety measures were introduced. But first we need to look at the earlier warning. How did a village so dependent on nuclear power come face to face with danger twice? The first answer lies in a fire in 1997."
+      ]
+    },
+    {
+      "titleEn": "The Warning: Fire and Lies in 1997",
+      "titleRoman": "Warning: 1997 Ki Aag Aur Jhoot",
+      "covers": "11 March 1997 PNC bituminisation plant fire and explosion, 20% less asphalt trial, malfunctioning temperature controls, 8 p.m. explosion, 37 exposed, INES 3, caesium detected 40 km away, falsified chronology, delayed reporting, understated radiation levels, public outcry, plant closed until November 2000.",
+      "words": 480,
+      "beats": [
+        {
+          "id": "c3b1",
+          "text": "11 March 1997۔ اس دن Tokaimura میں پہلا سنگین nuclear واقعہ پیش آیا۔ جگہ تھی PNC کا bituminization facility، یعنی Power Reactor and Nuclear Fuel Development Corporation کا plant۔",
+          "roman": "11 March 1997. Is din Tokaimura mein pehla sangeen nuclear waqia pesh aaya. Jagah thi PNC ka bituminization facility, yaani Power Reactor and Nuclear Fuel Development Corporation ka plant.",
+          "visual": {
+            "type": "card",
+            "title": "11 MARCH 1997",
+            "text": "Fire and explosion at the PNC bituminization facility"
+          }
+        },
+        {
+          "id": "c3b2",
+          "text": "اسے Dōnen accident بھی کہا جاتا ہے۔ Dōnen دراصل PNC کے پورے جاپانی نام کا مخفف ہے۔ یہ وہی ادارہ تھا جس کا یہ plant تھا۔",
+          "roman": "Isay Dōnen accident bhi kaha jata hai. Dōnen dar asal PNC ke poore japani naam ka mukhaffaf hai. Yeh wahi idara tha jis ka yeh plant tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Exterior of a low industrial waste-processing building in Tokai, Japan, 1997, grey daylight, no text"
+          }
+        },
+        {
+          "id": "c3b3",
+          "text": "یہ facility low-level liquid waste کو پگھلے ہوئے asphalt، یعنی bitumen، میں بند کر دیتی تھی۔ پھر یہ آمیزہ metal drums میں store کیا جاتا تھا۔",
+          "roman": "Yeh facility low-level liquid waste ko pighle hue asphalt, yaani bitumen, mein band kar deti thi. Phir yeh amaizish metal drums mein store kiya jata tha.",
+          "visual": {
+            "type": "clip",
+            "query": "metal drums warehouse",
+            "prompt": "Rows of metal storage drums inside a warehouse, dim lighting"
+          }
+        },
+        {
+          "id": "c3b4",
+          "text": "اس دن plant میں ایک نیا تجربہ چل رہا تھا۔ Waste اور asphalt کے mix کا نیا ratio آزمایا جا رہا تھا، جس میں معمول سے 20% کم asphalt استعمال ہوا۔",
+          "roman": "Is din plant mein aik naya tajruba chal raha tha. Waste aur asphalt ke mix ka naya ratio aazmaya ja raha tha, jis mein maamool se 20% kam asphalt istemal hua.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Worker in protective clothing checking a mixing vessel of dark asphalt in an industrial room, Japan 1997, tense but calm, no text"
+          },
+          "highlight": "20% LESS ASPHALT"
+        },
+        {
+          "id": "c3b5",
+          "text": "صبح 10:00 بجے ایک نئے barrel کے اندر آہستہ آہستہ ہونے والے chemical reaction نے پہلے سے گرم مواد کو بھڑکا دیا۔ آگ جلدی ہی قریب کے کئی barrels تک پھیل گئی۔",
+          "roman": "Subah 10:00 bajay aik naye barrel ke andar aahista aahista honay walay chemical reaction ne pehle se garam maadday ko bhadka diya. Aag jaldi hi qareeb ke kai barrels tak phail gayi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Smoke rising from metal drums inside an industrial hall, orange glow, dim light, no people visible, Japan 1997, no gore"
+          }
+        },
+        {
+          "id": "c3b6",
+          "text": "عمارت میں temperature controls کا کام ہی یہ تھا کہ asphalt کو ignition point تک پہنچنے سے روکیں۔ لیکن اس وقت وہ controls ٹھیک کام نہیں کر رہے تھے۔",
+          "roman": "Imarat mein temperature controls ka kaam hi yeh tha ke asphalt ko ignition point tak pahunchne se rokein. Lekin us waqt woh controls theek kaam nahi kar rahe thay.",
+          "visual": {
+            "type": "clip",
+            "query": "control panel warning lights",
+            "prompt": "Industrial control panel with blinking warning lights, close-up"
+          },
+          "highlight": "TEMPERATURE CONTROLS FAILED"
+        },
+        {
+          "id": "c3b7",
+          "text": "Workers آگ کو صحیح طرح بجھا نہ سکے۔ پھر دھوئیں اور radiation کے alarms بجنے لگے، اور تمام عملے کو عمارت خالی کرنی پڑی۔",
+          "roman": "Workers aag ko sahi tarah bujha na sakay. Phir dhuwen aur radiation ke alarms bajne lagay, aur tamam amlay ko imarat khali karni padi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Plant staff in work uniforms hurrying out of an industrial building exit, smoke drifting, alarm lights, Japan 1997, documentary style"
+          }
+        },
+        {
+          "id": "c3b8",
+          "text": "یعنی آگ صبح شروع ہوئی، مگر اس پر مکمل قابو نہ پایا جا سکا۔ شام تک صورتحال ایک نئے موڑ کی طرف بڑھ رہی تھی۔",
+          "roman": "Yaani aag subah shuru hui, magar is par mukammal qaboo na paya ja saka. Sham tak surat-e-haal aik naye moor ki taraf barh rahi thi.",
+          "visual": {
+            "type": "clip",
+            "query": "clock ticking evening",
+            "prompt": "Wall clock in an industrial building showing evening time, dim light"
+          }
+        },
+        {
+          "id": "c3b9",
+          "text": "شام 8 بجے لوگ دوبارہ عمارت میں داخل ہونے کی تیاری کر رہے تھے۔ عین اسی وقت جمع ہونے والی flammable gases میں دھماکہ ہو گیا۔",
+          "roman": "Sham 8 bajay log dobara imarat mein dakhil honay ki tayyari kar rahe thay. Ain usi waqt jama honay wali flammable gases mein dhamaka ho gaya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Night exterior of an industrial building with a bright flash and debris at the windows, workers standing at a distance, Japan 1997, dramatic, no gore"
+          },
+          "highlight": "8 P.M. EXPLOSION"
+        },
+        {
+          "id": "c3b10",
+          "text": "دھماکے سے کھڑکیاں اور دروازے ٹوٹ گئے۔ اسی راستے سے دھواں اور radiation آس پاس کے علاقے میں نکل گئے۔ اب مسئلہ عمارت کے اندر سے باہر آ چکا تھا۔",
+          "roman": "Dhamakay se khirkiyan aur darwaze toot gaye. Isi rastay se dhuan aur radiation aas paas ke ilaqay mein nikal gaye. Ab masla imarat ke andar se bahar aa chuka tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Broken windows and doors of a concrete industrial building with smoke drifting into a dark sky, Tokai, Japan, 1997, no people, no text"
+          }
+        },
+        {
+          "id": "c3b11",
+          "text": "سرکاری Science and Technology Agency نے اسے ملک کا اب تک کا بدترین nuclear حادثہ قرار دیا۔ International Nuclear Event Scale پر اسے Level 3 دیا گیا۔",
+          "roman": "Sarkari Science and Technology Agency ne isay mulk ka ab tak ka badtareen nuclear haadsa qarar diya. International Nuclear Event Scale par isay Level 3 diya gaya.",
+          "visual": {
+            "type": "card",
+            "title": "INES LEVEL 3",
+            "text": "Rated by Japan's STA as the country's worst nuclear accident up to then"
+          }
+        },
+        {
+          "id": "c3b12",
+          "text": "آس پاس کے 37 افراد trace amounts میں radiation کی زد میں آئے۔ یاد رہے کہ source کے تعارف میں بیس سے زیادہ لوگ لکھا ہے، جبکہ تفصیل میں 37 کا عدد ہے۔",
+          "roman": "Aas paas ke 37 afraad trace amounts mein radiation ki zad mein aaye. Yaad rahe ke source ke taaruf mein bees se ziyada log likha hai, jabke tafseel mein 37 ka adad hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Group of Japanese plant personnel in work uniforms being checked with hand-held radiation detectors outdoors, orderly, 1997, respectful mood"
+          },
+          "highlight": "37 PEOPLE EXPOSED"
+        },
+        {
+          "id": "c3b13",
+          "text": "ایک ہفتے بعد موسمیاتی حکام نے plant سے 40 km جنوب مغرب میں caesium کی غیر معمولی طور پر اونچی سطح ریکارڈ کی۔",
+          "roman": "Aik hafte baad mausmiyati hukkam ne plant se 40 km janoob maghrib mein caesium ki ghair maamooli taur par unchi satah record ki.",
+          "visual": {
+            "type": "clip",
+            "query": "weather station instruments",
+            "prompt": "Meteorological monitoring station with instruments on a field, overcast sky"
+          }
+        },
+        {
+          "id": "c3b14",
+          "text": "ہوائی جائزے میں عمارت کی چھت بھی ٹوٹی ہوئی نظر آئی۔ اس نقصان کی وجہ سے باہر کی طرف radiation کا اخراج جاری رہا۔",
+          "roman": "Hawai jaizay mein imarat ki chhat bhi tooti hui nazar aayi. Is nuqsan ki wajah se bahar ki taraf radiation ka akhraaj jari raha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "High-angle aerial view of a damaged concrete roof of an industrial building, Tokai, Japan, 1997, grey sky, no text"
+          }
+        },
+        {
+          "id": "c3b15",
+          "text": "اب کہانی کا دوسرا رخ سنیے۔ PNC کی management نے دو workers کو حکم دیا کہ وہ عمارت خالی کرانے تک کے واقعات کی غلط timeline رپورٹ کریں۔",
+          "roman": "Ab kahani ka doosra rukh suniye. PNC ki management ne do workers ko hukm diya ke woh imarat khali karane tak ke waqiaat ki ghalat timeline report karein.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Two Japanese employees in a plain office facing a manager's desk, tense body language, papers on the desk, 1997, no text"
+          },
+          "highlight": "FALSE CHRONOLOGY"
+        },
+        {
+          "id": "c3b16",
+          "text": "مقصد یہ تھا کہ نگرانی کی کمی چھپائی جا سکے۔ اسی طرح Dōnen کی قیادت نے آگ کی اطلاع فوراً STA کو بھی نہیں دی۔",
+          "roman": "Maqsad yeh tha ke nigrani ki kami chhupai ja sakay. Isi tarah Dōnen ki qayadat ne aag ki ittila foran STA ko bhi nahi di.",
+          "visual": {
+            "type": "clip",
+            "query": "telephone office desk",
+            "prompt": "Unanswered telephone on an office desk, dim room"
+          }
+        },
+        {
+          "id": "c3b17",
+          "text": "اس تاخیر کی وجہ ان کی اپنی internal investigation بتائی گئی۔ نتیجہ یہ ہوا کہ emergency response teams کی روانگی متاثر ہوئی اور لوگ زیادہ دیر تک radiation کے سامنے رہے۔",
+          "roman": "Is takheer ki wajah un ki apni internal investigation batayi gayi. Nateeja yeh hua ke emergency response teams ki rawangi mutasir hui aur log ziyada der tak radiation ke samne rahe.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Emergency vehicles waiting idle at a distance from an industrial building at dusk, Japan 1997, slow-moving response, muted colors"
+          }
+        },
+        {
+          "id": "c3b18",
+          "text": "پھر اعداد و شمار کا مسئلہ آیا۔ حکام نے شروع میں plant کے آس پاس radiation میں 20% اضافے کی اطلاع دی۔ بعد میں سامنے آیا کہ اصل اضافہ اس سے دس گنا زیادہ تھا۔",
+          "roman": "Phir aadad o shumar ka masla aaya. Hukkam ne shuru mein plant ke aas paas radiation mein 20% izafay ki ittila di. Baad mein samne aaya ke asal izafa is se das guna ziyada tha.",
+          "visual": {
+            "type": "card",
+            "title": "10x HIGHER",
+            "text": "Actual rise in radiation was ten times what was first reported"
+          }
+        },
+        {
+          "id": "c3b19",
+          "text": "Tokai کے رہائشی غصے میں تھے۔ انہوں نے PNC کے افسران کے خلاف criminal prosecution، کمپنی کی قیادت میں تبدیلی اور plant کی بندش کا مطالبہ کیا۔",
+          "roman": "Tokai ke rehaishi ghusse mein thay. Unhon ne PNC ke afsaran ke khilaf criminal prosecution, company ki qayadat mein tabdeeli aur plant ki bandish ka mutalba kiya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Ordinary villagers in 1990s clothing gathered outdoors in a Japanese town, speaking earnestly with concerned expressions, farmland behind them, no text"
+          }
+        },
+        {
+          "id": "c3b20",
+          "text": "Prime Minister Ryutaro Hashimoto نے بھی اس تاخیر پر تنقید کی، جس کی وجہ سے radiation مقامی علاقوں کو متاثر کرتا رہا۔",
+          "roman": "Prime Minister Ryutaro Hashimoto ne bhi is takheer par tanqeed ki, jis ki wajah se radiation maqami ilaqon ko mutasir karta raha.",
+          "visual": {
+            "type": "clip",
+            "query": "government press conference",
+            "prompt": "Government officials at a press conference table with microphones, Japan 1997 style"
+          }
+        },
+        {
+          "id": "c3b21",
+          "text": "عوامی دباؤ کے بعد facility بند کر دی گئی۔ یہ نومبر 2000 میں دوبارہ کھلی، لیکن اس بار nuclear fuel reprocessing plant کے طور پر۔",
+          "roman": "Awami dabao ke baad facility band kar di gayi. Yeh November 2000 mein dobara khuli, lekin is baar nuclear fuel reprocessing plant ke taur par.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Closed and locked gate of an industrial facility with a chain, Japan, muted tones, calm but heavy mood, no text"
+          }
+        },
+        {
+          "id": "c3b22",
+          "text": "اس واقعے میں تین باتیں بار بار سامنے آئیں: نگرانی کی کمی، دیر سے رپورٹنگ، اور معلومات چھپانے کی کوشش۔ لیکن کیا ان سے سبق سیکھا گیا؟",
+          "roman": "Is waqiay mein teen baatein baar baar samne aayin: nigrani ki kami, der se reporting, aur maloomat chhupane ki koshish. Lekin kya in se sabaq seekha gaya?",
+          "visual": {
+            "type": "ai",
+            "prompt": "Three abstract paper documents laid on a table under a lamp, one partly covered, symbolic of hidden information, moody documentary style, no text"
+          }
+        },
+        {
+          "id": "c3b23",
+          "text": "صرف تقریباً چار میل دور، ایک اور plant میں، تقریباً ڈھائی سال بعد اس سے بھی بڑا حادثہ ہونے والا تھا۔ اور وہاں کام steel کے buckets سے ہو رہا تھا۔",
+          "roman": "Sirf taqreeban chaar meel door, aik aur plant mein, taqreeban dhai saal baad is se bhi bara haadsa honay wala tha. Aur wahan kaam steel ke buckets se ho raha tha.",
+          "visual": {
+            "type": "map",
+            "place": "Tokaimura, Ibaraki",
+            "lat": 36.4667,
+            "lon": 140.5667,
+            "zoom": "city",
+            "label": "JCO plant, about four miles from the"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "On 11 March 1997, Tokaimura saw its first serious nuclear accident, at the bituminization facility of PNC, the Power Reactor and Nuclear Fuel Development Corporation. It is also called the Dōnen accident, Dōnen being an abbreviation of PNC's full Japanese name. The plant sealed low-level liquid waste in molten asphalt, or bitumen, and stored the mixture in metal drums. On this day a new experiment was under way, testing a new waste-to-asphalt ratio that used 20% less asphalt than usual.",
+        "At 10:00 in the morning, a slow chemical reaction inside a new barrel set off the already hot material. The fire soon spread to several nearby barrels. The building's temperature controls were meant to keep the asphalt from reaching its ignition point, but they were not working properly. Workers could not put the fire out properly. Smoke and radiation alarms sounded and all staff had to leave the building. The fire had begun in the morning and could not be fully controlled.",
+        "By evening the situation took a new turn. At 8 p.m. people were preparing to re-enter the building when flammable gases that had built up exploded. The blast broke windows and doors, and smoke and radiation escaped through them into the surrounding area. The problem was no longer confined to the building. The government's Science and Technology Agency called it the worst nuclear accident in the country's history to that point, and it was rated Level 3 on the International Nuclear Event Scale. Thirty-seven people nearby were exposed to trace amounts of radiation. The introduction to the source says more than twenty people, while the detailed account gives 37. A week later, weather officials recorded unusually high caesium levels 40 km southwest of the plant. An aerial survey also showed that the building's roof was broken, and this damage let radiation keep escaping.",
+        "Then came the cover-up. PNC management ordered two workers to report a false timeline of events up to the evacuation, so that the lack of supervision could be hidden. Dōnen's leadership also did not inform the STA of the fire immediately, a delay attributed to their own internal investigation. As a result, emergency teams were slower to deploy and people were exposed to radiation for longer. Authorities first reported a 20% increase in radiation around the plant, but the real increase later turned out to be ten times higher.",
+        "Tokai residents were angry. They demanded criminal prosecution of PNC officials, a change of company leadership and the closure of the plant. Prime Minister Ryutaro Hashimoto also criticized the delay, which had let radiation keep affecting the local area. After public pressure the facility was shut down. It reopened in November 2000, but as a nuclear fuel reprocessing plant. Three failings came up again and again in this accident: lack of oversight, late reporting, and attempts to hide information. Had the lessons been learned? Only about four miles away, at another plant, an even bigger accident was coming in about two and a half years. There, the work was being done with steel buckets."
+      ]
+    },
+    {
+      "titleEn": "The Plant and Its Shortcuts",
+      "titleRoman": "Plant Aur Shortcuts",
+      "covers": "JCO, subsidiary of Sumitomo Metal Mining, four miles away; regulatory failures (no criticality alarm, not in disaster plan, no routine inspections); financial pressure, layoffs, unapproved procedure; normal process with dissolving, buffer and precipitation tanks; first batch for the Joyo reactor in three years; no proper training; buckets in 1995 committee approval and 1996 manual.",
+      "words": 520,
+      "beats": [
+        {
+          "id": "c4b1",
+          "text": "یہ دوسرا plant JCO کا تھا، جو Sumitomo Metal Mining Company کی subsidiary تھی۔ یہ PNC کی facility سے تقریباً چار میل دور، Tokaimura میں ہی واقع تھا۔",
+          "roman": "Yeh doosra plant JCO ka tha, jo Sumitomo Metal Mining Company ki subsidiary thi. Yeh PNC ki facility se taqreeban chaar meel door, Tokaimura mein hi waqe tha.",
+          "visual": {
+            "type": "map",
+            "place": "Tokaimura, Ibaraki",
+            "lat": 36.47,
+            "lon": 140.57,
+            "zoom": "city",
+            "label": "Tokaimura, Ibaraki, Japan"
+          }
+        },
+        {
+          "id": "c4b2",
+          "text": "یہاں uranium hexafluoride کو enriched uranium dioxide fuel میں بدلا جاتا تھا۔ یہ power plants اور research reactors کے لیے fuel rods بنانے کا پہلا قدم تھا۔",
+          "roman": "Yahan uranium hexafluoride ko enriched uranium dioxide fuel mein badla jata tha. Yeh power plants aur research reactors ke liye fuel rods banane ka pehla qadam tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Plain concrete industrial fuel conversion building in Tokaimura, Ibaraki, Japan, 1999, overcast sky, wide establishing shot, quiet and slightly ominous mood, no text"
+          }
+        },
+        {
+          "id": "c4b3",
+          "text": "اب سوال یہ ہے کہ اس جگہ حفاظت کا نظام کیسا تھا؟ sources کے مطابق اس میں کئی بڑی خامیاں تھیں۔",
+          "roman": "Ab sawal yeh hai ke is jagah hifazat ka nizam kaisa tha? Sources ke mutabiq is mein kai bari khamiyan thin.",
+          "visual": {
+            "type": "clip",
+            "query": "nuclear facility exterior",
+            "prompt": "Exterior of an industrial nuclear fuel facility in Japan, grey day, fence in foreground"
+          },
+          "highlight": "SAFETY GAPS",
+          "factFix": "The claim that 'even on paper many things were missing' and the 'you will be surprised' framing are not supported by the sources. The sources only list the missing alarm, disaster plan and inspections."
+        },
+        {
+          "id": "c4b4",
+          "text": "سب سے پہلی بات، یہاں criticality accident alarm موجود ہی نہیں تھا۔ وجہ یہ تھی کہ licensing board نے غلط نتیجہ نکالا تھا کہ یہاں criticality accident ہو ہی نہیں سکتا۔",
+          "roman": "Sab se pehli baat, yahan criticality accident alarm mojood hi nahin tha. Wajah yeh thi ke licensing board ne ghalat nateeja nikala tha ke yahan criticality accident ho hi nahin sakta.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Empty wall of a 1990s factory corridor where an alarm panel would be expected, bare concrete, dim fluorescent light, eerie mood, no text"
+          }
+        },
+        {
+          "id": "c4b5",
+          "text": "دوسری بات، یہ site National Plan for the Prevention of Nuclear Disasters میں شامل ہی نہیں تھی۔ اسی لیے disaster plan نہ ہونے سے قریب کے لوگوں کو اطلاع دینے میں دیر ہوئی۔",
+          "roman": "Doosri baat, yeh site National Plan for the Prevention of Nuclear Disasters mein shamil hi nahin thi. Isi liye disaster plan na hone se qareeb ke logon ko itla dene mein der hui.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Government office desk with a thick disaster planning binder, a Japan map on the wall with one location left unmarked, 1990s office, muted tones, no text"
+          }
+        },
+        {
+          "id": "c4b6",
+          "text": "تیسری بات، regulator باقاعدہ inspections بھی نہیں کرتا تھا۔ یعنی کسی نے یہ دیکھا ہی نہیں کہ production کے طریقے واقعی درست طریقے سے چل رہے ہیں یا نہیں۔",
+          "roman": "Teesri baat, regulator baqaida inspections bhi nahin karta tha. Yani kisi ne yeh dekha hi nahin ke production ke tareeqay waqai durust tareeqay se chal rahe hain ya nahin.",
+          "visual": {
+            "type": "clip",
+            "query": "inspector clipboard factory",
+            "prompt": "Empty inspector's clipboard on a factory desk, dust on the desk, 1990s Japan"
+          },
+          "highlight": "NO ROUTINE INSPECTIONS"
+        },
+        {
+          "id": "c4b7",
+          "text": "اب دیکھتے ہیں کہ صحیح طریقہ کیا تھا۔ پہلے uranium oxide powder چھوٹے چھوٹے batches میں ایک مخصوص dissolving tank میں ڈالا جاتا، اور nitric acid سے uranyl nitrate بنتا تھا۔",
+          "roman": "Ab dekhte hain ke sahi tareeqa kya tha. Pehle uranium oxide powder chhotay chhotay batches mein ek makhsoos dissolving tank mein dala jata, aur nitric acid se uranyl nitrate banta tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Stainless steel dissolving tank with pipes in a clean 1999 Japanese fuel plant, technician in white cleanroom coverall standing at a distance, cool lighting"
+          }
+        },
+        {
+          "id": "c4b8",
+          "text": "پھر یہ محلول احتیاط سے buffer tank میں جاتا۔ اس tank کی شکل لمبی اور تنگ رکھی گئی تھی، تاکہ fission activity criticality تک پہنچ ہی نہ سکے۔",
+          "roman": "Phir yeh mehlool ehtiyat se buffer tank mein jata. Is tank ki shakal lambi aur tang rakhi gayi thi, taake fission activity criticality tak pahunch hi na sake.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Tall narrow stainless steel buffer tank beside a wide cylindrical tank for comparison, industrial interior, side-by-side composition, no text"
+          }
+        },
+        {
+          "id": "c4b9",
+          "text": "اس کے بعد precipitation tank آتا ہے، جہاں ammonia ملائی جاتی ہے۔ اس سے solid product بنتا ہے اور باقی contaminants بھی الگ ہو جاتے ہیں۔",
+          "roman": "Is ke baad precipitation tank aata hai, jahan ammonia milai jati hai. Is se solid product banta hai aur baqi contaminants bhi alag ho jate hain.",
+          "visual": {
+            "type": "clip",
+            "query": "chemical tank laboratory",
+            "prompt": "Wide stainless steel precipitation tank in a Japanese fuel plant, 1999, steel buckets nearby"
+          }
+        },
+        {
+          "id": "c4b10",
+          "text": "صحیح procedure میں uranyl nitrate کو buffer tank میں رکھا جاتا۔ پھر اسے pump کے ذریعے precipitation tank میں صرف 2.4 kg کی مقدار میں آہستہ آہستہ بھیجا جاتا تھا۔",
+          "roman": "Sahi procedure mein uranyl nitrate ko buffer tank mein rakha jata. Phir usay pump ke zariye precipitation tank mein sirf 2.4 kg ki miqdar mein aahista aahista bheja jata tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Diagram-style illustration without text: a pump slowly moving liquid from a tall narrow tank through a pipe into a wide tank, clean technical look, blue tones"
+          },
+          "highlight": "2.4 KG AT A TIME"
+        },
+        {
+          "id": "c4b11",
+          "text": "لیکن اصل کہانی پیسے اور دباؤ کی تھی۔ کمپنی کی آمدنی کم ہو چکی تھی، layoffs ہو چکی تھیں، اور تجربہ کار عملہ کم رہ گیا تھا۔",
+          "roman": "Lekin asal kahani paise aur dabao ki thi. Company ki amdani kam ho chuki thi, layoffs ho chuki thin, aur tajurba kaar amla kam reh gaya tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Half-empty 1990s Japanese factory office, empty desks, a few workers in grey uniforms looking tired, late afternoon light, somber mood"
+          }
+        },
+        {
+          "id": "c4b12",
+          "text": "اسی دباؤ میں JCO نے ایک مختلف enrichment کا fuel بنانے کا فیصلہ کیا۔ یہ fuel کم ہی بنتا تھا، اور اس کے لیے ایسا procedure استعمال ہوا جسے regulator نے منظور ہی نہیں کیا تھا۔",
+          "roman": "Isi dabao mein JCO ne ek mukhtalif enrichment ka fuel banane ka faisla kiya. Yeh fuel kam hi banta tha, aur is ke liye aisa procedure istemal hua jise regulator ne manzoor hi nahin kiya tha.",
+          "visual": {
+            "type": "clip",
+            "query": "factory workers meeting",
+            "prompt": "Managers and workers around a table reviewing papers in a 1990s Japanese factory office, tense mood"
+          }
+        },
+        {
+          "id": "c4b13",
+          "text": "اس غیر منظور شدہ process میں کئی اہم safety steps چھوڑ دیے گئے تھے۔ یعنی خطرہ کاغذ سے نکل کر سیدھا factory floor پر آ گیا تھا۔",
+          "roman": "Is ghair manzoor shuda process mein kai aham safety steps chhor diye gaye thay. Yani khatra kaghaz se nikal kar seedha factory floor par aa gaya tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Close-up of a skipped checklist with several steps crossed out, on a metal workbench in a 1999 factory, no readable text, moody lighting"
+          }
+        },
+        {
+          "id": "c4b14",
+          "text": "JCO کا کہنا تھا کہ اس نے یہ procedure regulator کو جمع نہیں کرایا۔ وجہ یہ بتائی گئی کہ کمپنی کو معلوم تھا کہ یہ منظور نہیں ہوگا، اور پھر fuel بن ہی نہ پاتا۔",
+          "roman": "JCO ka kehna tha ke us ne yeh procedure regulator ko jama nahin karaya. Wajah yeh batai gayi ke company ko maloom tha ke yeh manzoor nahin hoga, aur phir fuel ban hi na pata.",
+          "visual": {
+            "type": "ai",
+            "prompt": "A sealed envelope left unsent on a desk beside a stamped approval form that is blank, dim office, 1990s, no text"
+          },
+          "highlight": "PROCEDURE NEVER SUBMITTED"
+        },
+        {
+          "id": "c4b15",
+          "text": "اس دن جو fuel بن رہا تھا، وہ Joyo experimental fast breeder reactor کے لیے تھا۔ تین سال میں JCO کا یہ پہلا batch تھا۔",
+          "roman": "Us din jo fuel ban raha tha, woh Joyo experimental fast breeder reactor ke liye tha. Teen saal mein JCO ka yeh pehla batch tha.",
+          "visual": {
+            "type": "card",
+            "title": "FIRST BATCH IN 3 YEARS",
+            "text": "Fuel for the Joyo experimental fast breeder reactor"
+          }
+        },
+        {
+          "id": "c4b16",
+          "text": "یعنی کام کم ہوتا تھا، اور تجربہ بھی کم تھا۔ اس process کے لیے مناسب qualification اور training کی کوئی شرط بھی طے نہیں کی گئی تھی۔",
+          "roman": "Yani kaam kam hota tha, aur tajurba bhi kam tha. Is process ke liye munasib qualification aur training ki koi shart bhi tay nahin ki gayi thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Young Japanese technician in white cleanroom coverall, cap and gloves, reading a thick manual alone on a 1999 factory floor, uncertain expression"
+          }
+        },
+        {
+          "id": "c4b17",
+          "text": "اب buckets کا سوال۔ pump کے بجائے technicians نے buckets سے uranyl nitrate ہاتھ سے سیدھا precipitation tank میں ڈالا۔ یہ عام طریقہ نہیں تھا۔",
+          "roman": "Ab buckets ka sawal. Pump ke bajaye technicians ne buckets se uranyl nitrate haath se seedha precipitation tank mein dala. Yeh aam tareeqa nahin tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Stainless steel buckets lined up beside a wide precipitation tank in a plain concrete conversion building, Tokaimura 1999, cold light, no people"
+          }
+        },
+        {
+          "id": "c4b18",
+          "text": "حیران کن بات یہ ہے کہ workers نے JCO کے operating manual کی ہدایت پر عمل کیا۔ مگر انہیں معلوم نہیں تھا کہ STA نے اس طریقے کو منظور ہی نہیں کیا تھا۔",
+          "roman": "Hairan kun baat yeh hai ke workers ne JCO ke operating manual ki hidayat par amal kiya. Magar unhein maloom nahin tha ke STA ne is tareeqay ko manzoor hi nahin kiya tha.",
+          "visual": {
+            "type": "clip",
+            "query": "reading instruction manual",
+            "prompt": "Worker in white coverall following a manual on a workbench, factory floor, 1999"
+          }
+        },
+        {
+          "id": "c4b19",
+          "text": "بعد کی عدالتی کارروائی میں ایک اور بات سامنے آئی۔ 1995 میں JCO کی ایک safety committee نے steel buckets کے استعمال کی منظوری دی تھی۔",
+          "roman": "Baad ki adalati karrwai mein ek aur baat samne aayi. 1995 mein JCO ki ek safety committee ne steel buckets ke istemal ki manzoori di thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Japanese company safety committee meeting in a plain conference room in 1995, men in grey uniforms and suits around a table, serious mood"
+          }
+        },
+        {
+          "id": "c4b20",
+          "text": "اس کے علاوہ 1996 کا ایک manual بھی تقسیم ہوا۔ اسے کھلے عام پھیلایا گیا، مگر وہ authorized نہیں تھا، اور اس میں solution بنانے کے لیے buckets تجویز کیے گئے تھے۔",
+          "roman": "Is ke ilawa 1996 ka ek manual bhi taqseem hua. Isay khule aam phailaya gaya, magar woh authorized nahin tha, aur is mein solution banane ke liye buckets tajweez kiye gaye thay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Stack of photocopied procedure manuals on a factory shelf, 1996 Japan, worn covers with no readable text, warm dim light"
+          }
+        },
+        {
+          "id": "c4b21",
+          "text": "یہاں sources میں ایک باریک فرق ہے۔ ایک طرف 1996 JCO Operating Manual کو صحیح procedures کا معیار بتایا گیا، دوسری طرف ایک غیر منظور شدہ manual کا ذکر ہے۔",
+          "roman": "Yahan sources mein ek bareek farq hai. Ek taraf 1996 JCO Operating Manual ko sahi procedures ka miyar bataya gaya, doosri taraf ek ghair manzoor shuda manual ka zikr hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Two different manuals side by side on a desk, one neat, one worn, overhead shot, 1990s office, neutral light, no text"
+          }
+        },
+        {
+          "id": "c4b22",
+          "text": "STA کی رپورٹ کے مطابق JCO کی management نے 1993 سے ہی ان خطرناک طریقوں کی اجازت دے رکھی تھی۔ مقصد conversion process کو مختصر کرنا تھا۔",
+          "roman": "STA ki report ke mutabiq JCO ki management ne 1993 se hi in khatarnak tareeqon ki ijazat de rakhi thi. Maqsad conversion process ko mukhtasar karna tha.",
+          "visual": {
+            "type": "card",
+            "title": "1993",
+            "text": "STA report: management permitted shortcuts in the conversion process"
+          }
+        },
+        {
+          "id": "c4b23",
+          "text": "ایک اور پہلو بھی ہے۔ کمپنی میں 15 سال سے زیادہ کوئی حادثہ نہیں ہوا تھا، اور sources کے مطابق اسی سے عملہ اپنی روزمرہ ذمہ داریوں میں complacent ہو گیا تھا۔",
+          "roman": "Ek aur pehlu bhi hai. Company mein 15 saal se zyada koi hadsa nahin hua tha, aur sources ke mutabiq isi se amla apni rozmarra zimmedariyon mein complacent ho gaya tha.",
+          "visual": {
+            "type": "clip",
+            "query": "calm factory routine",
+            "prompt": "Routine calm working day in a Japanese industrial plant, workers walking through corridor, 1990s, false sense of safety mood"
+          },
+          "highlight": "15 YEARS, NO INCIDENTS",
+          "factFix": "The IAEA statement is only about the cause being 'human error and serious breaches of safety principles'. The 15 years without incidents and the resulting complacency are stated separately in the source and are not attributed to the IAEA."
+        },
+        {
+          "id": "c4b24",
+          "text": "انجینئرز اور workers کے درمیان communication بھی کمزور تھی۔ sources کے مطابق اسی وجہ سے جب حادثہ ہوا تو اس کی رپورٹنگ میں کمی رہی۔",
+          "roman": "Engineers aur workers ke darmiyan communication bhi kamzor thi. Sources ke mutabiq isi wajah se jab hadsa hua to is ki reporting mein kami rahi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Engineers in an office and workers on the floor separated by a glass wall, neither looking at the other, 1999 Japanese plant, muted colors"
+          },
+          "factFix": "The source says poor communication between engineers and workers contributed to the lack of reporting when the incident arose. It does not say that nobody knew what to do."
+        },
+        {
+          "id": "c4b25",
+          "text": "تو یہ سب چیزیں ایک جگہ جمع تھیں: alarm نہیں، منصوبہ نہیں، inspection نہیں، training نہیں، اور شارٹ کٹ کا دباؤ۔ اب بس ایک صبح کا انتظار تھا۔",
+          "roman": "To yeh sab cheezein ek jagah jama thin: alarm nahin, mansooba nahin, inspection nahin, training nahin, aur shortcut ka dabao. Ab bas ek subah ka intezar tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Wide dusk shot of the plain concrete JCO conversion building in Tokaimura, one lit window, ominous quiet sky, 1999"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "The second plant belonged to JCO, a subsidiary of Sumitomo Metal Mining Company. It stood in Tokaimura, about four miles from the PNC facility. There, uranium hexafluoride was converted into enriched uranium dioxide fuel, the first step in making fuel rods for power plants and research reactors. So how good was safety at this site? According to the sources, there were several serious gaps.",
+        "First, there was no criticality accident alarm at all, because the licensing board had wrongly concluded that a criticality accident could not happen there. Second, the site was not included in the National Plan for the Prevention of Nuclear Disasters, so without a disaster plan, informing nearby residents was delayed. Third, the regulator did not carry out regular inspections. No one checked whether production methods were actually being carried out correctly.",
+        "The correct procedure was as follows. Uranium oxide powder was added in small batches to a special dissolving tank, where nitric acid turned it into uranyl nitrate. The solution then went carefully to a buffer tank, which was deliberately tall and narrow so that fission activity could not reach criticality. Next came the precipitation tank, where ammonia was added. This produced a solid product and separated out remaining contaminants. In the correct procedure, the uranyl nitrate was held in the buffer tank and then pumped slowly into the precipitation tank, only 2.4 kg at a time.",
+        "But the real story was about money and pressure. The company's income had fallen, layoffs had taken place, and experienced staff were few. Under this pressure, JCO decided to make a fuel of a different enrichment. This fuel was made only rarely, and for it the company used a procedure the regulator had never approved. That unapproved process skipped several important safety steps. The danger had moved from paper onto the factory floor. JCO said it had not submitted the procedure to the regulator because it knew it would not be approved, and then the fuel could not have been made at all.",
+        "The fuel being made that day was for the Joyo experimental fast breeder reactor. It was JCO's first batch in three years, so work was infrequent and experience was low. No appropriate qualification or training was required for the process either.",
+        "Now the buckets. Instead of using the pump, the technicians poured uranyl nitrate by hand from buckets directly into the precipitation tank. This was not the normal method. Surprisingly, the workers were following the instructions in JCO's operating manual, but they did not know the STA had never approved the method. Later court proceedings brought out more. In 1995 a JCO safety committee had approved the use of steel buckets. A manual from 1996 was also distributed, widely circulated but not authorized, and it proposed buckets for preparing the solution. The sources differ slightly here: one side calls the 1996 JCO Operating Manual the standard for correct procedures, while another refers to an unauthorized manual. According to the STA report, JCO's management had allowed these dangerous methods since 1993 in order to shorten the conversion process.",
+        "There was another factor. The company had had no accident for more than 15 years, and according to the sources this left staff complacent about their daily duties. Communication between engineers and workers was also weak, and the sources say this is why reporting was poor when the accident happened. So everything was in place in one location: no alarm, no plan, no inspection, no training, and pressure to take shortcuts. All that was left was to wait for one morning."
+      ]
+    },
+    {
+      "titleEn": "Thirty September, 1999",
+      "titleRoman": "30 September 1999",
+      "covers": "Ouchi, Shinohara and Yokokawa rushing to meet shipping needs; buckets; seventh bucket with 18.8% enriched uranium, about 16 kg versus the legal limit almost seven times exceeded; wide tank geometry; the chain reaction; blue flash; symptoms; evacuation to the decontamination room; Ouchi passing out; colleague calling an ambulance; 56 other workers exposed.",
+      "words": 520,
+      "beats": [
+        {
+          "id": "c5b1",
+          "text": "30 September 1999۔ صبح کا وقت تھا۔ JCO کے conversion building میں تین technicians کام پر تھے: Hisashi Ouchi، Masato Shinohara اور Yutaka Yokokawa۔",
+          "roman": "30 September 1999. Subah ka waqt tha. JCO ke conversion building mein teen technicians kaam par thay: Hisashi Ouchi, Masato Shinohara aur Yutaka Yokokawa.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Three Japanese technicians in white cleanroom coveralls, caps and gloves walking into a plain concrete conversion building in Tokaimura, morning light, 1999"
+          }
+        },
+        {
+          "id": "c5b2",
+          "text": "Ouchi کی عمر 35 سال تھی، Shinohara 40 سال کے تھے، اور ان کے supervisor Yokokawa 54 سال کے تھے۔ تینوں اس دن fuel کے آخری مراحل تیز کر رہے تھے۔",
+          "roman": "Ouchi ki umr 35 saal thi, Shinohara 40 saal ke thay, aur un ke supervisor Yokokawa 54 saal ke thay. Teenon us din fuel ke aakhri marahil tez kar rahe thay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Portrait-style scene of Ouchi (35) and Shinohara (40) in white work suits at a workbench, Yokokawa (54, grey uniform) at a desk behind, 1999 factory floor"
+          }
+        },
+        {
+          "id": "c5b3",
+          "text": "وجہ shipping کی ضرورت تھی۔ fuel وقت پر بھیجنا تھا۔ وقت بچانے کے لیے اور سہولت کی خاطر، ٹیم نے chemicals stainless steel کے buckets میں ملانے شروع کر دیے۔",
+          "roman": "Wajah shipping ki zaroorat thi. Fuel waqt par bhejna tha. Waqt bachane ke liye aur sahulat ki khatir, team ne chemicals stainless steel ke buckets mein milane shuru kar diye.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Technician in white coverall mixing a solution in a stainless steel bucket beside a tank, 1999 factory floor, focused mood, no text"
+          }
+        },
+        {
+          "id": "c5b4",
+          "text": "یاد رکھیں، صحیح طریقے میں buffer tank اور pump شامل تھے۔ یہاں دونوں کو بائی پاس کر دیا گیا۔ solution ہاتھ سے، bucket بہ bucket، tank میں جا رہا تھا۔",
+          "roman": "Yaad rakhein, sahi tareeqay mein buffer tank aur pump shamil thay. Yahan dono ko bypass kar diya gaya. Solution haath se, bucket ba bucket, tank mein ja raha tha.",
+          "visual": {
+            "type": "clip",
+            "query": "pouring liquid bucket",
+            "prompt": "Worker pouring liquid from a steel bucket into a wide tank opening, industrial interior, 1999"
+          },
+          "highlight": "BUFFER TANK BYPASSED"
+        },
+        {
+          "id": "c5b5",
+          "text": "ایک، دو، تین… ہر bucket کے ساتھ tank میں uranium بڑھتا گیا۔ پھر ساتواں bucket آیا۔ اس میں uranyl nitrate تھا، جس کی enrichment 18.8% 235U تھی۔",
+          "roman": "Ek, do, teen… har bucket ke saath tank mein uranium barhta gaya. Phir satwan bucket aaya. Is mein uranyl nitrate tha, jis ki enrichment 18.8% 235U thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Close-up of the seventh steel bucket tilting over the mouth of a wide stainless steel precipitation tank, tense atmosphere, cold light, no people faces"
+          }
+        },
+        {
+          "id": "c5b6",
+          "text": "اب tank میں تقریباً 16 kg uranium ہو چکا تھا۔ یہ مقدار STA کی مقرر کردہ قانونی حد سے تقریباً سات گنا زیادہ تھی۔",
+          "roman": "Ab tank mein taqreeban 16 kg uranium ho chuka tha. Yeh miqdar STA ki muqarrar kardah qanooni had se taqreeban saat guna zyada thi.",
+          "visual": {
+            "type": "card",
+            "title": "~16 KG OF URANIUM",
+            "text": "Almost seven times the legal mass limit set by the STA"
+          }
+        },
+        {
+          "id": "c5b7",
+          "text": "یہاں tank کی شکل نے اہم کردار ادا کیا۔ buffer tank لمبا اور تنگ تھا، مگر precipitation tank چوڑا اور cylinder نما تھا، اور یہ شکل criticality کے لیے موزوں ہے۔",
+          "roman": "Yahan tank ki shakal ne aham kirdar ada kiya. Buffer tank lamba aur tang tha, magar precipitation tank chaura aur cylinder numa tha, aur yeh shakal criticality ke liye mozoon hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Cutaway-style illustration of a wide cylindrical tank with abstract neutrons bouncing inside, glowing faint blue, technical diagram look, no text"
+          }
+        },
+        {
+          "id": "c5b8",
+          "text": "تقریباً 10:35 پر precipitation tank critical mass تک پہنچ گیا۔ اسی لمحے uncontrolled fission، یعنی self-sustaining chain reaction، شروع ہو گئی۔",
+          "roman": "Taqreeban 10:35 par precipitation tank critical mass tak pahunch gaya. Isi lamhe uncontrolled fission, yani self-sustaining chain reaction, shuru ho gayi.",
+          "visual": {
+            "type": "card",
+            "title": "10:35 AM",
+            "text": "Criticality begins in the precipitation tank"
+          }
+        },
+        {
+          "id": "c5b9",
+          "text": "اس وقت Ouchi کا جسم tank کے اوپر جھکا ہوا تھا۔ Shinohara ایک platform پر کھڑے ہو کر solution ڈالنے میں مدد کر رہے تھے۔",
+          "roman": "Us waqt Ouchi ka jism tank ke upar jhuka hua tha. Shinohara ek platform par khare ho kar solution dalne mein madad kar rahe thay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Ouchi in white cleanroom coverall leaning over the tank, Shinohara standing on a platform beside it, 1999 factory floor, dramatic but not graphic, blue tint beginning"
+          }
+        },
+        {
+          "id": "c5b10",
+          "text": "Yokokawa چار میٹر دور ایک desk پر بیٹھے تھے۔ تینوں نے ایک نیلی چمک دیکھی۔ کچھ لوگوں کا خیال ہے کہ یہ Cherenkov radiation ہو سکتی ہے۔",
+          "roman": "Yokokawa chaar meter door ek desk par baithe thay. Teenon ne ek neeli chamak dekhi. Kuch logon ka khayal hai ke yeh Cherenkov radiation ho sakti hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Yokokawa in grey work uniform at a desk four metres away turning toward a sudden soft blue glow in the room, 1999 factory, suspenseful"
+          },
+          "highlight": "BLUE FLASH"
+        },
+        {
+          "id": "c5b11",
+          "text": "اسی وقت gamma radiation کے alarms بج اٹھے۔ آنے والے کئی گھنٹوں تک tank کے اندر chain reactions مسلسل جاری رہیں۔",
+          "roman": "Isi waqt gamma radiation ke alarms baj uthay. Aane wale kai ghanton tak tank ke andar chain reactions musalsal jari raheen.",
+          "visual": {
+            "type": "clip",
+            "query": "red alarm light flashing",
+            "prompt": "Red alarm light flashing in an industrial corridor, 1999 Japan"
+          }
+        },
+        {
+          "id": "c5b12",
+          "text": "S2 کے مطابق بہت سے criticality accidents میں نیلی چمک دیکھی گئی۔ ایک وضاحت یہ ہے کہ ہوا کے ions اور molecules دوبارہ normal حالت میں آتے ہوئے روشنی دیتے ہیں۔",
+          "roman": "S2 ke mutabiq bohat se criticality accidents mein neeli chamak dekhi gayi. Ek wazahat yeh hai ke hawa ke ions aur molecules dobara normal halat mein aate hue roshni dete hain.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Abstract scientific illustration of air molecules glowing electric blue like a spark in a dark room, educational style, no text"
+          }
+        },
+        {
+          "id": "c5b13",
+          "text": "دوسری وضاحت کے مطابق، اگر radiation آنکھ کے اندر سے گزرے تو Cherenkov light بن سکتی ہے۔ ان دونوں کے بارے میں sources میں یہ بھی لکھا ہے کہ رنگ کی مشابہت صرف اتفاق ہے۔",
+          "roman": "Doosri wazahat ke mutabiq, agar radiation aankh ke andar se guzray to Cherenkov light ban sakti hai. In dono ke bare mein sources mein yeh bhi likha hai ke rang ki mushabihat sirf ittefaq hai.",
+          "visual": {
+            "type": "photo",
+            "photo": "p5"
+          }
+        },
+        {
+          "id": "c5b14",
+          "text": "Ouchi اور Shinohara کو فوراً درد، متلی اور سانس لینے میں دشواری ہونے لگی۔ دونوں decontamination room کی طرف گئے، جہاں Ouchi کو الٹی ہوئی۔",
+          "roman": "Ouchi aur Shinohara ko fauran dard, matli aur saans lene mein dushwari hone lagi. Dono decontamination room ki taraf gaye, jahan Ouchi ko ulti hui.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Two workers in white coveralls hurrying along a bright corridor toward a decontamination room, one supporting the other, worried mood, not graphic"
+          }
+        },
+        {
+          "id": "c5b15",
+          "text": "Ouchi کو سب سے زیادہ radiation لگی تھی۔ جلد ہی انہیں چلنے پھرنے اور بات سمجھنے میں مشکل ہونے لگی، اور پھر وہ ہوش کھو بیٹھے۔",
+          "roman": "Ouchi ko sab se zyada radiation lagi thi. Jald hi unhein chalne phirne aur baat samajhne mein mushkil hone lagi, aur phir woh hosh kho baithe.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Ouchi slumped seated on a bench in a decontamination area, colleague crouching beside him, dim clinical light, respectful non-graphic depiction"
+          }
+        },
+        {
+          "id": "c5b16",
+          "text": "سب سے تشویشناک بات یہ تھی کہ تینوں کو حادثے کے اثرات اور رپورٹ کرنے کے اصولوں کا اندازہ ہی نہیں تھا۔",
+          "roman": "Sab se tashweeshnak baat yeh thi ke teenon ko hadse ke asraat aur report karne ke usoolon ka andaza hi nahin tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Confused technician standing in a corridor holding his gloves, looking at the door, alarm light casting red on the wall, 1999 factory"
+          },
+          "factFix": "The source says the workers were unaware of the accident's impact and the reporting criteria. Calling this a 'direct result' of missing training is an unsupported causal claim."
+        },
+        {
+          "id": "c5b17",
+          "text": "ساتھ والی building کے ایک worker کو زخمی ساتھیوں کا پتا چلا۔ ایک شخص بے ہوش ہو کر تقریباً 70 منٹ بعد ہوش میں آیا تھا۔ اس worker نے emergency medical help کو بلایا۔",
+          "roman": "Sath wali building ke ek worker ko zakhmi sathiyon ka pata chala. Ek shakhs behosh ho kar taqreeban 70 minute baad hosh mein aaya tha. Us worker ne emergency medical help ko bulaya.",
+          "visual": {
+            "type": "clip",
+            "query": "ambulance emergency lights",
+            "prompt": "Ambulance with flashing lights outside an industrial building, Japan, 1999"
+          },
+          "highlight": "70 MINUTES UNCONSCIOUS"
+        },
+        {
+          "id": "c5b18",
+          "text": "ایک ambulance انہیں قریبی hospital لے گئی۔ اُدھر fission products نے fuel reprocessing building اور facility کے آس پاس کے علاقے کو آلودہ کر دیا تھا۔",
+          "roman": "Ek ambulance unhein qareebi hospital le gayi. Udhar fission products ne fuel reprocessing building aur facility ke aas paas ke ilaqay ko aaloda kar diya tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Ambulance driving away from a plain concrete industrial building under grey sky, Tokaimura 1999, emergency workers in background, sombre mood"
+          }
+        },
+        {
+          "id": "c5b19",
+          "text": "Emergency service workers پہنچے اور باقی plant workers کو facility کے muster zones سے باہر لے گئے۔ صورتحال اب صرف تین لوگوں تک محدود نہیں رہی تھی۔",
+          "roman": "Emergency service workers pohanche aur baqi plant workers ko facility ke muster zones se bahar le gaye. Soorat e haal ab sirf teen logon tak mehdood nahin rahi thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Emergency workers in protective gear guiding plant workers out of a gate at a Japanese nuclear fuel facility, 1999, overcast, orderly but tense"
+          }
+        },
+        {
+          "id": "c5b20",
+          "text": "رپورٹس کے مطابق JCO plant کے 56 دوسرے لوگ بھی radiation کی زد میں آئے۔ قریب ہی ایک تعمیراتی site کے مزدوروں کے exposed ہونے کی بھی اطلاع ملی۔",
+          "roman": "Reports ke mutabiq JCO plant ke 56 doosray log bhi radiation ki zad mein aaye. Qareeb hi ek tameeraati site ke mazdooron ke exposed hone ki bhi itla mili.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Construction workers at a nearby building site in Tokaimura looking toward a concrete factory in the distance, 1999, uneasy mood, farmland edges"
+          },
+          "highlight": "56 OTHER WORKERS EXPOSED"
+        },
+        {
+          "id": "c5b21",
+          "text": "یہ Japan کا worst civilian nuclear radiation accident تھا، Fukushima سے پہلے۔ مگر ابھی سب سے مشکل سوال باقی تھا: اس reaction کو روکا کیسے جائے؟",
+          "roman": "Yeh Japan ka worst civilian nuclear radiation accident tha, Fukushima se pehle. Magar abhi sab se mushkil sawal baqi tha: is reaction ko roka kaise jaye?",
+          "visual": {
+            "type": "ai",
+            "prompt": "Night-time view of the JCO conversion building with faint blue light through a window and emergency vehicles gathering outside, ominous, 1999 Tokaimura"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "On the morning of 30 September 1999, three technicians were at work in JCO's conversion building: Hisashi Ouchi, Masato Shinohara and Yutaka Yokokawa. Ouchi was 35, Shinohara was 40, and their supervisor Yokokawa was 54. That day the three were speeding up the final stages of fuel production because of shipping needs, since the fuel had to go out on time. To save time and for convenience, the team began mixing chemicals in stainless steel buckets. In the correct method, a buffer tank and pump were involved. Here both were bypassed, and the solution went into the tank by hand, bucket after bucket.",
+        "One, two, three... with each bucket the amount of uranium in the tank grew. Then came the seventh bucket. It held uranyl nitrate with an enrichment of 18.8% 235U. The tank now contained about 16 kg of uranium, roughly seven times the legal limit set by the STA. The shape of the tank played an important part here. The buffer tank was tall and narrow, but the precipitation tank was wide and cylindrical, a shape that is favorable for criticality.",
+        "At about 10:35 the precipitation tank reached critical mass. At that moment uncontrolled fission, a self-sustaining chain reaction, began. Ouchi's body was leaning over the tank. Shinohara was standing on a platform helping to pour the solution. Yokokawa was sitting at a desk four meters away. All three saw a blue flash. Some think it may have been Cherenkov radiation. At the same moment the gamma radiation alarms went off. For several hours afterwards the chain reactions inside the tank continued.",
+        "According to one source, a blue flash has been seen in many criticality accidents. One explanation is that ions and molecules in the air give off light as they return to their normal state. Another says that if radiation passes through the eye, it can produce Cherenkov light. The sources add that the similarity in color is only a coincidence.",
+        "Ouchi and Shinohara at once felt pain, nausea and difficulty breathing. Both went toward the decontamination room, where Ouchi vomited. Ouchi had received the most radiation. Soon he had trouble walking and understanding speech, and then he lost consciousness. Most alarming of all, the three had no idea of the effects of the accident or of the rules for reporting it.",
+        "A worker in the next building learned of the injured colleagues. One man had lost consciousness and came round about 70 minutes later. That worker called for emergency medical help, and an ambulance took them to a nearby hospital. Meanwhile fission products had contaminated the fuel reprocessing building and the area around the facility. Emergency service workers arrived and led the remaining plant workers out of the facility's muster zones.",
+        "The situation was no longer limited to three people. According to reports, 56 other people at the JCO plant were also exposed to radiation. There was also word that workers at a nearby construction site had been exposed. It was Japan's worst civilian nuclear radiation accident before Fukushima. But the hardest question was still unanswered: how could the reaction be stopped?"
+      ]
+    },
+    {
+      "titleEn": "Twenty Hours to Stop a Chain Reaction",
+      "titleRoman": "20 Ghante Ki Jang",
+      "covers": "Confusion without emergency plan; evacuation of 161 people within 350 m after five hours; 300,000 residents told to stay indoors; draining water from the cooling jacket next morning, boric acid to absorb neutrons; sandbags and shielding; ventilation fan found on 12 October; gold used to estimate neutron flux; criticality science from S2 (prompt-critical spike, why no nuclear explosion, Hanford 37.5 hours vs Tokaimura about 20 hours).",
+      "words": 560,
+      "beats": [
+        {
+          "id": "c6b1",
+          "text": "اب مسئلہ یہ تھا کہ tank کے اندر chain reaction جاری تھی۔ اور JCO کے پاس نہ کوئی emergency plan تھا، نہ عوام سے بات کرنے کا کوئی طریقہ۔",
+          "roman": "Ab masla yeh tha ke tank ke andar chain reaction jari thi. Aur JCO ke paas na koi emergency plan tha, na awam se baat karne ka koi tareeqa.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Crowded control office at the JCO plant in 1999, officials on telephones, papers scattered, confusion and anxiety, no text"
+          }
+        },
+        {
+          "id": "c6b2",
+          "text": "نتیجہ confusion اور panic تھا۔ حکام نے مقامی لوگوں کو کہا کہ فصلیں نہ کاٹیں اور well کا پانی نہ پئیں۔",
+          "roman": "Nateeja confusion aur panic tha. Hukkam ne muqami logon ko kaha ke faslein na katein aur well ka pani na piyein.",
+          "visual": {
+            "type": "clip",
+            "query": "village farmland japan",
+            "prompt": "Japanese farmland near Tokaimura in 1999, farmers stopping work in fields, worried mood"
+          },
+          "highlight": "NO CROPS, NO WELL WATER"
+        },
+        {
+          "id": "c6b3",
+          "text": "دوپہر کے وقت plant workers اور آس پاس کے رہائشیوں سے evacuate ہونے کو کہا گیا۔ خاص طور پر conversion building کے قریب رہنے والے لوگ سب سے زیادہ خطرے میں تھے۔",
+          "roman": "Dopahar ke waqt plant workers aur aas paas ke rehaishiyon se evacuate hone ko kaha gaya. Khaas tor par conversion building ke qareeb rehne wale log sab se zyada khatre mein thay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Villagers in 1990s clothing leaving their homes carrying small bags on a quiet Japanese village street, afternoon light, calm but worried"
+          }
+        },
+        {
+          "id": "c6b4",
+          "text": "criticality شروع ہونے کے پانچ گھنٹے بعد evacuation شروع ہوا۔ conversion building سے 350 میٹر کے دائرے میں 39 گھرانوں کے تقریباً 161 لوگ نکالے گئے۔",
+          "roman": "Criticality shuru hone ke paanch ghante baad evacuation shuru hua. Conversion building se 350 meter ke daaray mein 39 gharanon ke taqreeban 161 log nikale gaye.",
+          "visual": {
+            "type": "card",
+            "title": "350 METRES",
+            "text": "About 161 people from 39 households evacuated after five hours"
+          }
+        },
+        {
+          "id": "c6b5",
+          "text": "بارہ گھنٹے بعد اس سے بھی بڑا اعلان ہوا۔ facility کے آس پاس کے 300,000 رہائشیوں سے کہا گیا کہ گھروں کے اندر رہیں اور زرعی پیداوار بند کر دیں۔",
+          "roman": "Barah ghante baad is se bhi bara elaan hua. Facility ke aas paas ke 300,000 rehaishiyon se kaha gaya ke gharon ke andar rahein aur zarai paidawar band kar dein.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Quiet 1990s Japanese residential street at dusk, doors and windows closed, no people outside, farmland in background, tense stillness"
+          },
+          "highlight": "300,000 STAY INDOORS"
+        },
+        {
+          "id": "c6b6",
+          "text": "یہ پابندی اگلی دوپہر ہٹا لی گئی۔ یعنی ہزاروں خاندانوں نے تقریباً ایک دن اپنے گھروں میں بے یقینی کے عالم میں گزارا۔",
+          "roman": "Yeh pabandi agli dopahar hata li gayi. Yani hazaron khandanon ne taqreeban ek din apne gharon mein be yaqeeni ke aalam mein guzara.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Family in 1990s clothing sitting indoors in a small Japanese living room listening to a radio, curtains drawn, anxious mood"
+          }
+        },
+        {
+          "id": "c6b7",
+          "text": "اب سوال وہی تھا: reaction رکے گی کیسے؟ تھوڑا سا science سمجھ لیں۔ criticality اس وقت ہوتی ہے جب fissile material اتنا جمع ہو جائے کہ chain reaction خود چلتی رہے۔",
+          "roman": "Ab sawal wahi tha: reaction rukay gi kaise? Thora sa science samajh lein. Criticality us waqt hoti hai jab fissile material itna jama ho jaye ke chain reaction khud chalti rahe.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Educational illustration of neutrons splitting atoms in a chain reaction inside a tank, glowing dots and arrows, dark blue background, no text"
+          }
+        },
+        {
+          "id": "c6b8",
+          "text": "ہر fission میں تقریباً 2.5 neutrons نکلتے ہیں۔ stable chain reaction کے لیے ان میں سے 1.5 کو یا تو نکل جانا ہوتا ہے، یا ایسے absorb ہونا ہوتا ہے کہ مزید fission نہ ہو۔",
+          "roman": "Har fission mein taqreeban 2.5 neutrons nikalte hain. Stable chain reaction ke liye in mein se 1.5 ko ya to nikal jana hota hai, ya aise absorb hona hota hai ke mazeed fission na ho.",
+          "visual": {
+            "type": "clip",
+            "query": "atom particles animation",
+            "prompt": "Glowing particles colliding in dark space, scientific animation style"
+          }
+        },
+        {
+          "id": "c6b9",
+          "text": "جب reactivity حد سے بڑھ جائے تو ایک بہت بڑا energy burst آتا ہے، جسے prompt-critical spike کہتے ہیں۔ ہر fission تقریباً 200 MeV energy دیتا ہے۔",
+          "roman": "Jab reactivity had se barh jaye to ek bohat bara energy burst aata hai, jise prompt-critical spike kehte hain. Har fission taqreeban 200 MeV energy deta hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Stylized graph-like glow spike rising sharply against a dark background with faint tank silhouette, educational style, no text"
+          },
+          "highlight": "PROMPT-CRITICAL SPIKE"
+        },
+        {
+          "id": "c6b10",
+          "text": "کیا اتنی طاقت سے nuclear bomb جیسا دھماکہ ہو سکتا ہے؟ جواب ہے نہیں۔ S2 کے مطابق bomb کے لیے درکار design features اتفاق سے بن ہی نہیں سکتے۔",
+          "roman": "Kya itni taqat se nuclear bomb jaisa dhamaka ho sakta hai? Jawab hai nahin. S2 ke mutabiq bomb ke liye darkar design features ittefaq se ban hi nahin sakte.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Calm illustration contrasting a simple steel tank with a complex weapon blueprint silhouette crossed out, without text or symbols, muted colors"
+          }
+        },
+        {
+          "id": "c6b11",
+          "text": "بعض صورتوں میں حرارت سے material پھیلتا ہے، تو reaction کم طاقت پر ٹھہر سکتی ہے، یا عارضی طور پر رک بھی سکتی ہے۔ مگر یہاں reaction کو انسانی مداخلت سے روکنا پڑا۔",
+          "roman": "Baaz soorton mein hararat se material phailta hai, to reaction kam taqat par thehar sakti hai, ya arzi tor par ruk bhi sakti hai. Magar yahan reaction ko insani mudakhilat se rokna para.",
+          "visual": {
+            "type": "clip",
+            "query": "control room engineers",
+            "prompt": "Engineers gathered around a table with diagrams in a Japanese control room, 1999, serious discussion"
+          }
+        },
+        {
+          "id": "c6b12",
+          "text": "اگلی صبح workers نے tank کے گرد لگے cooling jacket سے پانی نکال دیا۔ وجہ یہ تھی کہ پانی neutron reflector کا کام کر رہا تھا، اور اسے ہٹانے سے chain reaction کمزور ہو گئی۔",
+          "roman": "Agli subah workers ne tank ke gird lage cooling jacket se pani nikal diya. Wajah yeh thi ke pani neutron reflector ka kaam kar raha tha, aur ise hatane se chain reaction kamzor ho gayi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Workers in protective suits at dawn draining water from a jacketed steel tank with hoses, Tokaimura 1999, careful and tense atmosphere, no faces in detail"
+          }
+        },
+        {
+          "id": "c6b13",
+          "text": "پھر precipitation tank میں boric acid کا محلول ڈالا گیا۔ boron کو اس لیے چنا گیا کہ وہ neutrons کو بہت اچھی طرح absorb کرتا ہے۔ اس سے سارا مواد sub-critical ہو گیا۔",
+          "roman": "Phir precipitation tank mein boric acid ka mehlool dala gaya. Boron ko is liye chuna gaya ke woh neutrons ko bohat achi tarah absorb karta hai. Is se sara mawad sub-critical ho gaya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Technician in protective gear carefully adding a clear solution into a stainless steel tank, blue glow fading to normal light, relief and tension"
+          },
+          "highlight": "BORIC ACID ABSORBS NEUTRONS"
+        },
+        {
+          "id": "c6b14",
+          "text": "یوں یہ حادثہ تقریباً 20 گھنٹے تک قابو سے باہر رہا۔ اس کے مقابلے میں Hanford Works میں 1962 کا process accident 37.5 گھنٹے تک چلا تھا، جو ریکارڈ ہے۔",
+          "roman": "Yun yeh hadsa taqreeban 20 ghante tak qaboo se bahar raha. Is ke muqable mein Hanford Works mein 1962 ka process accident 37.5 ghante tak chala tha, jo record hai.",
+          "visual": {
+            "type": "card",
+            "title": "20 HOURS VS 37.5 HOURS",
+            "text": "Tokaimura 1999 versus Hanford Works 1962, longest of 22 process accidents"
+          }
+        },
+        {
+          "id": "c6b15",
+          "text": "دوستو، خطرہ ختم نہیں ہوا تھا۔ plant سیل ہونے کے بعد بھی علاقے میں radioactive gas کی سطح بلند رہی۔",
+          "roman": "Dosto, khatra khatam nahin hua tha. Plant seal hone ke baad bhi ilaqay mein radioactive gas ki satah buland rahi.",
+          "visual": {
+            "type": "clip",
+            "query": "radiation detector measuring",
+            "prompt": "Technician holding a radiation survey meter outside a plant fence, Japan, 1999"
+          },
+          "factFix": "The claim that people were wondering where the gas came from is invented. The source only says gas levels stayed high after the plant was sealed. The Roman text also contains a stray Urdu character."
+        },
+        {
+          "id": "c6b16",
+          "text": "آخرکار 12 October کو پتا چلا کہ roof کا ventilation fan چلتا چھوڑ دیا گیا تھا۔ اسے بند کر دیا گیا۔",
+          "roman": "Aakhirkar 12 October ko pata chala ke roof ka ventilation fan chalta chhor diya gaya tha. Ise band kar diya gaya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Rooftop ventilation fan on a plain concrete industrial building, technician in protective suit switching it off, Tokaimura 1999, grey sky"
+          },
+          "highlight": "VENTILATION FAN SHUT 12 OCT",
+          "factFix": "The claim that the fan's effect 'lasted for many days' and that it was a 'small mistake' is not supported. The source only says the fan was found left on and was shut down on 12 October."
+        },
+        {
+          "id": "c6b17",
+          "text": "تقریباً 15 دن بعد facility پر sandbags اور دوسری shielding لگائی گئی، تاکہ باقی رہ جانے والی gamma radiation سے حفاظت ہو سکے۔",
+          "roman": "Taqreeban 15 din baad facility par sandbags aur doosri shielding lagai gayi, taake baqi reh jane wali gamma radiation se hifazat ho sake.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Workers stacking sandbags along the wall of a concrete industrial building for radiation shielding, Tokaimura 1999, overcast day"
+          }
+        },
+        {
+          "id": "c6b18",
+          "text": "neutron flux کا اندازہ لگانے کے لیے ایک عجیب درخواست کی گئی۔ علاقے کے لوگوں سے کہا گیا کہ اگر ان کے پاس سونا ہے تو قرض دے دیں۔",
+          "roman": "Neutron flux ka andaza lagane ke liye ek ajeeb darkhwast ki gayi. Ilaqay ke logon se kaha gaya ke agar un ke paas sona hai to qarz de dein.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Elderly Japanese villager handing a small gold ring to an official in a community hall, 1990s clothing, curious and serious mood"
+          },
+          "highlight": "GOLD TO ESTIMATE NEUTRON FLUX"
+        },
+        {
+          "id": "c6b19",
+          "text": "اس کے بعد screening شروع ہوئی۔ حکام نے facility سے تقریباً 10 کلومیٹر کے دائرے میں رہنے والوں کی جانچ کی۔ اگلے 10 دنوں میں تقریباً 10,000 medical check-ups ہوئے۔",
+          "roman": "Is ke baad screening shuru hui. Hukkam ne facility se taqreeban 10 kilometre ke daaray mein rehne walon ki jaanch ki. Agle 10 dinon mein taqreeban 10,000 medical check-ups hue.",
+          "visual": {
+            "type": "clip",
+            "query": "medical checkup clinic",
+            "prompt": "Residents queueing for medical screening at a Japanese community health centre, 1999"
+          }
+        },
+        {
+          "id": "c6b20",
+          "text": "اعداد و شمار مختلف جگہ مختلف ہیں۔ ایک جگہ 39 workers کی exposure کی تصدیق ہوئی، دوسری جگہ کم از کم 667 لوگ، اور ایک اور جگہ 600 سے زیادہ لوگ لکھے گئے ہیں۔",
+          "roman": "Adaad o shumar mukhtalif jagah mukhtalif hain. Ek jagah 39 workers ki exposure ki tasdeeq hui, doosri jagah kam az kam 667 log, aur ek aur jagah 600 se zyada log likhe gaye hain.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Doctor in white coat reviewing radiation dose records with a nurse in a hospital office, 1999 Japan, calm concentration, no readable text"
+          }
+        },
+        {
+          "id": "c6b21",
+          "text": "ماحولیاتی جانچ بھی ہوئی۔ STA اور Ibaraki Prefecture نے 10 کلومیٹر کے اندر tap water، well water، بارش، سبزیوں، سمندری پانی اور دودھ کے samples لیے۔",
+          "roman": "Mahol yati jaanch bhi hui. STA aur Ibaraki Prefecture ne 10 kilometre ke andar tap water, well water, barish, sabziyon, samundari pani aur doodh ke samples liye.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Scientists in light protective clothing collecting water and vegetation samples near farmland in Ibaraki, Japan, 1999, careful work, daylight"
+          }
+        },
+        {
+          "id": "c6b22",
+          "text": "نتیجہ یہ نکلا کہ کچھ vegetation میں کم سطح کی radioactivity ملی۔ دودھ، پانی اور سمندر میں کچھ نہیں ملا۔ یہ اس وقت کی رپورٹس کا خلاصہ ہے۔",
+          "roman": "Nateeja yeh nikla ke kuch vegetation mein kam satah ki radioactivity mili. Doodh, pani aur samundar mein kuch nahin mila. Yeh us waqt ki reports ka khulasa hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Green vegetable field in Ibaraki with a scientist holding a sample bag, soft daylight, reassuring but cautious mood"
+          },
+          "highlight": "LOW LEVELS IN VEGETATION"
+        },
+        {
+          "id": "c6b23",
+          "text": "cooling jacket سے پانی نکالنا اور boric acid کا محلول ڈالنا، انہی دو کاموں سے chain reaction رکی۔ لیکن تب تک تین technicians شدید radiation کی زد میں آ چکے تھے۔",
+          "roman": "Cooling jacket se pani nikalna aur boric acid ka mehlool dalna, inhi do kamon se chain reaction ruki. Lekin tab tak teen technicians shadeed radiation ki zad mein aa chuke thay.",
+          "visual": {
+            "type": "photo",
+            "photo": "p2"
+          },
+          "factFix": "The chain reaction was stopped by draining the cooling-jacket water and adding boric acid, which is two steps. The 'shutting a device' step was the ventilation fan on 12 October, which came much later and did not stop the reaction. The claim that the damage could not be undone is also unsupported."
+        },
+        {
+          "id": "c6b24",
+          "text": "اور سب سے بھاری قیمت تین لوگوں نے ادا کی۔ اگلے حصے میں ہم دیکھیں گے کہ ہسپتال کے اندر 83 دن کیسے گزرے۔",
+          "roman": "Aur sab se bhari qeemat teen logon ne ada ki. Agle hisse mein hum dekhenge ke hospital ke andar 83 din kaise guzray.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Corridor of University of Tokyo Hospital radiation ward at night, doctors in white coats and masks visible through a glass door, quiet and solemn, 1999"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "The problem was that the chain reaction was continuing inside the tank. JCO had no emergency plan and no way to speak to the public, which led to confusion and panic. Authorities told local people not to harvest crops or drink well water. At midday plant workers and nearby residents were told to evacuate. People living close to the conversion building were at the greatest risk. Evacuation began five hours after criticality started. Within a 350-meter radius, about 161 people from 39 households were moved out. Twelve hours later, a bigger announcement followed. About 300,000 residents around the facility were told to stay indoors and stop agricultural production. The restriction was lifted the next afternoon. Thousands of families spent about a day at home in uncertainty.",
+        "The question remained: how would the reaction stop? A little science helps. Criticality occurs when enough fissile material gathers that a chain reaction sustains itself. Each fission releases about 2.5 neutrons. For a stable chain reaction, 1.5 of these have to escape or be absorbed so that no further fission occurs. When reactivity goes past the limit, a very large burst of energy occurs, called a prompt-critical spike. Each fission releases about 200 MeV of energy. Could this produce an explosion like a nuclear bomb? No. According to one source, the design features needed for a bomb cannot come about by chance. In some cases heat expands the material, so the reaction may settle at a lower power or even stop temporarily. Here, though, human intervention was needed to end the reaction.",
+        "The next morning workers drained water from the cooling jacket around the tank. The water was acting as a neutron reflector, and removing it weakened the chain reaction. Then a boric acid solution was added to the precipitation tank. Boron was chosen because it absorbs neutrons very well. This made all the material sub-critical. The accident thus ran out of control for about 20 hours. By comparison, a 1962 process accident at Hanford Works lasted 37.5 hours, which is the record.",
+        "The danger was not over, though. Even after the plant was sealed, radioactive gas levels in the area stayed high. Finally, on 12 October, it was discovered that a rooftop ventilation fan had been left running, and it was switched off. About 15 days later, sandbags and other shielding were placed at the facility to protect against the remaining gamma radiation. To estimate neutron flux, an unusual request was made: people in the area were asked to lend gold if they had any.",
+        "Screening then began. Authorities checked people living within about 10 kilometers of the facility, and roughly 10,000 medical check-ups took place over the next 10 days. Figures vary from source to source. One says 39 workers were confirmed exposed, another at least 667 people, and another more than 600.",
+        "Environmental testing followed as well. The STA and Ibaraki Prefecture took samples of tap water, well water, rain, vegetables, seawater and milk within 10 kilometers. Some vegetation showed low levels of radioactivity. Nothing was found in milk, water or the sea. This is a summary of the reports from that time.",
+        "Draining the cooling jacket water and adding boric acid solution were the two actions that stopped the chain reaction. But by then three technicians had been exposed to severe radiation, and they paid the heaviest price. Next, we look at how the 83 days in hospital went."
+      ]
+    },
+    {
+      "titleEn": "Eighty-Three Days: The Fight to Save Ouchi",
+      "titleRoman": "83 Din: Ouchi Ko Bachane Ki Jang",
+      "covers": "Doses of 17 Sv, 10 Sv and 3 Sv; Ouchi's treatment at University of Tokyo Hospital, stem cell transplant from his sister, skin grafts, cardiac arrest, family decisions, death 21 December 1999; Shinohara's treatment, cord blood, ventilator, death 27 April 2000; Yokokawa recovering after three months. Doctors' private doubts.",
+      "words": 520,
+      "beats": [
+        {
+          "id": "c7b1",
+          "text": "ہسپتال کے اندر کی کہانی شروع ہوتی ہے۔ STA کے radiation tests کے مطابق Ouchi کو 17 Sv، Shinohara کو 10 Sv اور Yokokawa کو 3 Sv radiation ملی۔",
+          "roman": "Aspatal ke andar ki kahani shuru hoti hai. STA ke radiation tests ke mutabiq Ouchi ko 17 Sv, Shinohara ko 10 Sv aur Yokokawa ko 3 Sv radiation mili.",
+          "visual": {
+            "type": "card",
+            "title": "17 Sv / 10 Sv / 3 Sv",
+            "text": "Doses: Ouchi, Shinohara, Yokokawa"
+          }
+        },
+        {
+          "id": "c7b2",
+          "text": "Hisashi Ouchi کی عمر 35 سال تھی۔ انہیں University of Tokyo Hospital میں علاج کے لیے رکھا گیا، جہاں وہ پورے 83 دن زیر علاج رہے۔",
+          "roman": "Hisashi Ouchi ki umar 35 saal thi. Unhein University of Tokyo Hospital mein ilaaj ke liye rakha gaya, jahan woh poore 83 din zer-e-ilaaj rahe.",
+          "visual": {
+            "type": "map",
+            "place": "University of Tokyo Hospital",
+            "lat": 35.713,
+            "lon": 139.762,
+            "zoom": "city",
+            "label": "University of Tokyo Hospital"
+          },
+          "highlight": "83 DAYS OF TREATMENT"
+        },
+        {
+          "id": "c7b3",
+          "text": "ان کے جسم کے بڑے حصے پر شدید radiation burns تھے۔ اندرونی اعضا کو بھی سخت نقصان پہنچا تھا، اور white blood cells کی تعداد تقریباً صفر ہو چکی تھی۔",
+          "roman": "Un ke jism ke bade hisse par shadeed radiation burns thay. Andruni aaza ko bhi sakht nuqsan pohancha tha, aur white blood cells ki tadaad taqreeban zero ho chuki thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Quiet radiation ward at University of Tokyo Hospital, 1999, doctors in white coats and masks standing beside a bed behind a plastic isolation curtain, soft cold light, respectful sombre mood, no gore, no text"
+          }
+        },
+        {
+          "id": "c7b4",
+          "text": "جب جسم کا دفاعی نظام کام نہ کرے تو خطرہ بڑھ جاتا ہے۔ Ouchi کے پاس functioning immune system نہیں تھا، اس لیے hospital میں لگنے والے infection کا خطرہ بہت زیادہ تھا۔",
+          "roman": "Jab jism ka difaayi nizam kaam na kare to khatra barh jata hai. Ouchi ke paas functioning immune system nahi tha, is liye hospital mein lagne wale infection ka khatra bohat zyada tha.",
+          "visual": {
+            "type": "clip",
+            "query": "hospital corridor night",
+            "prompt": "Empty hospital corridor at night in 1999 Japan, dim fluorescent lights, calm and heavy atmosphere"
+          }
+        },
+        {
+          "id": "c7b5",
+          "text": "اسی لیے انہیں ایک خصوصی radiation ward میں رکھا گیا۔ مقصد ایک ہی تھا، infection کا خطرہ کم سے کم رکھنا، کیونکہ جسم خود کو بچانے کے قابل نہیں رہا تھا۔",
+          "roman": "Isi liye unhein ek khusoosi radiation ward mein rakha gaya. Maqsad ek hi tha, infection ka khatra kam se kam rakhna, kyunki jism khud ko bachane ke qabil nahi raha tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Sterile isolation room in a Japanese hospital, 1999, a single hospital bed behind clear plastic sheeting, medical monitors glowing softly, no people's faces visible, sombre mood, no text"
+          }
+        },
+        {
+          "id": "c7b6",
+          "text": "پھر ان کے chromosomes کی micrograph لی گئی۔ نتیجہ چونکا دینے والا تھا۔ ان میں سے کوئی بھی chromosome پہچانا نہیں جا سکتا تھا۔ یہ نقصان کی گہرائی کی ایک جھلک تھی۔",
+          "roman": "Phir un ke chromosomes ki micrograph li gayi. Nateeja chonka dene wala tha. Un mein se koi bhi chromosome pehchana nahi ja sakta tha. Yeh nuqsan ki gehrai ki ek jhalak thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Abstract scientific illustration of a microscope view of scattered, unrecognisable cell fragments in blue and grey tones, laboratory feel, no text, no gore"
+          },
+          "highlight": "NO CHROMOSOME IDENTIFIABLE"
+        },
+        {
+          "id": "c7b7",
+          "text": "ڈاکٹروں نے immune system کو سہارا دینے کے لیے peripheral blood stem cell transplantation آزمایا۔ اس وقت یہ علاج کا ایک بالکل نیا طریقہ تھا۔",
+          "roman": "Doctoron ne immune system ko sahara dene ke liye peripheral blood stem cell transplantation aazmaya. Us waqt yeh ilaaj ka ek bilkul naya tareeqa tha.",
+          "visual": {
+            "type": "clip",
+            "query": "medical laboratory microscope",
+            "prompt": "Doctors in a Japanese hospital laboratory preparing a medical transplant, white coats and masks, focused mood"
+          }
+        },
+        {
+          "id": "c7b8",
+          "text": "یہ stem cells Ouchi کی بہن نے دیے۔ transplant کے بعد ان کے white blood cells کی تعداد عارضی طور پر بڑھی۔ کچھ امید جاگی، لیکن وہ امید زیادہ دیر نہ رہی۔",
+          "roman": "Yeh stem cells Ouchi ki behan ne diye. Transplant ke baad un ke white blood cells ki tadaad arzi tor par barhi. Kuch umeed jaagi, lekin woh umeed zyada der na rahi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Two siblings' hands, one lying on a hospital bed sheet and one reaching toward it, soft window light, Japan 1999, gentle emotional mood, no faces, no text"
+          }
+        },
+        {
+          "id": "c7b9",
+          "text": "کیونکہ باقی زخم بڑھتے جا رہے تھے۔ ڈاکٹروں نے کئی اور طریقے آزمائے۔ cultured skin grafts بار بار لگائے گئے، اور painkillers، broad-spectrum antibiotics اور granulocyte colony-stimulating factor بھی دی گئی۔",
+          "roman": "Kyunki baqi zakhm barhte ja rahe thay. Doctoron ne kai aur tareeqay aazmaye. Cultured skin grafts baar baar lagaye gaye, aur painkillers, broad-spectrum antibiotics aur granulocyte colony-stimulating factor bhi di gayi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Close view of a hospital tray with sterile medical supplies, vials and bandages, cool light, University hospital Japan 1999, clinical but respectful, no people, no text"
+          }
+        },
+        {
+          "id": "c7b10",
+          "text": "لیکن ان کوششوں سے کوئی measurable کامیابی نہیں ملی۔ جلد اور mucous membranes کے کچھ چھوٹے حصے ضرور بہتر ہوئے، مگر مجموعی حالت مسلسل بگڑتی رہی۔",
+          "roman": "Lekin in koshishon se koi measurable kamyabi nahi mili. Jild aur mucous membranes ke kuch chhote hisse zaroor behtar hue, magar mujmui haalat musalsal bigarti rahi.",
+          "visual": {
+            "type": "clip",
+            "query": "hospital heart monitor",
+            "prompt": "Heart monitor in a dim hospital room, steady green line, calm serious mood"
+          }
+        },
+        {
+          "id": "c7b11",
+          "text": "اب ایک مشکل سوال سامنے تھا۔ sources کے مطابق medical staff نجی طور پر سوچنے لگا کہ کیا علاج جاری رکھنا چاہیے، کیونکہ اس کا اثر نہیں ہو رہا تھا اور Ouchi کو تکلیف تھی۔",
+          "roman": "Ab ek mushkil sawal samne tha. Sources ke mutabiq medical staff nijji tor par sochne laga ke kya ilaaj jaari rakhna chahiye, kyunki is ka asar nahi ho raha tha aur Ouchi ko takleef thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Two doctors in white coats and masks standing quietly in a hospital hallway, heads slightly bowed in thought, Japan 1999, muted colours, sombre mood, no text"
+          },
+          "highlight": "DOCTORS PRIVATELY DOUBTED"
+        },
+        {
+          "id": "c7b12",
+          "text": "حادثے کے دو ماہ بعد Ouchi کو cardiac arrest ہوا۔ انہیں revive کر لیا گیا، لیکن اس کے بعد وہ unresponsive ہو گئے۔",
+          "roman": "Hadsay ke do maah baad Ouchi ko cardiac arrest hua. Unhein revive kar liya gaya, lekin is ke baad woh unresponsive ho gaye.",
+          "visual": {
+            "type": "clip",
+            "query": "hospital emergency lights",
+            "prompt": "Hospital emergency corridor with blurred motion of medical staff, urgent mood, no gore"
+          }
+        },
+        {
+          "id": "c7b13",
+          "text": "خاندان کی خواہش پر ڈاکٹروں نے علاج جاری رکھا، حالانکہ sources کے مطابق یہ واضح تھا کہ وہ بچ نہیں سکتے۔ ایک خاندان کے لیے یہ فیصلہ کتنا مشکل ہوگا؟",
+          "roman": "Khandan ki khwahish par doctoron ne ilaaj jaari rakha, halanke sources ke mutabiq yeh wazeh tha ke woh bach nahi sakte. Ek khandan ke liye yeh faisla kitna mushkil hoga?",
+          "visual": {
+            "type": "ai",
+            "prompt": "A Japanese family sitting together in a hospital waiting area, seen from behind, dim light, heavy quiet mood, 1999, no text"
+          }
+        },
+        {
+          "id": "c7b14",
+          "text": "19 December کو خاندان نے do-not-resuscitate order پر رضامندی دی۔ ان کی بیوی کو امید تھی کہ Ouchi کم از کم 1 January تک زندہ رہیں، کیونکہ اس دن 2000 کا آغاز ہو رہا تھا۔",
+          "roman": "19 December ko khandan ne do-not-resuscitate order par razamandi di. Un ki biwi ko umeed thi ke Ouchi kam az kam 1 January tak zinda rahein, kyunki us din 2000 ka aghaz ho raha tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Calendar page turned to late December on a hospital room wall, winter light through a window, quiet sombre mood, Japan 1999, no readable text"
+          }
+        },
+        {
+          "id": "c7b15",
+          "text": "لیکن ان کی حالت multiple organ failure میں بدل گئی۔ 21 December 1999 کو Hisashi Ouchi کا انتقال ہو گیا۔ اس وقت ان کی عمر 35 سال تھی۔",
+          "roman": "Lekin un ki haalat multiple organ failure mein badal gayi. 21 December 1999 ko Hisashi Ouchi ka intiqal ho gaya. Us waqt un ki umar 35 saal thi.",
+          "visual": {
+            "type": "card",
+            "title": "21 DECEMBER 1999",
+            "text": "Hisashi Ouchi dies, age 35"
+          }
+        },
+        {
+          "id": "c7b16",
+          "text": "اب دوسرے technician کی طرف چلتے ہیں۔ Masato Shinohara، عمر 40 سال، کو بھی اسی hospital منتقل کیا گیا تھا۔ ان کے ساتھ کیا ہوا؟",
+          "roman": "Ab doosre technician ki taraf chalte hain. Masato Shinohara, umar 40 saal, ko bhi isi hospital muntaqil kiya gaya tha. Un ke sath kya hua?",
+          "visual": {
+            "type": "ai",
+            "prompt": "Masato Shinohara, 40, Japanese man in a white work suit, standing on a platform beside a steel precipitation tank in a concrete factory, 1999, calm before the accident, documentary illustration, no text"
+          }
+        },
+        {
+          "id": "c7b17",
+          "text": "ان کا radical cancer treatments والا علاج ہوا، کئی skin grafts کامیاب رہے، اور stem cells بڑھانے کے لیے umbilical cord blood کی transfusion بھی کی گئی۔",
+          "roman": "Un ka radical cancer treatments wala ilaaj hua, kai skin grafts kamyab rahe, aur stem cells barhane ke liye umbilical cord blood ki transfusion bhi ki gayi.",
+          "visual": {
+            "type": "clip",
+            "query": "blood transfusion bag",
+            "prompt": "Medical transfusion bag hanging beside a hospital bed, soft light, respectful clinical mood"
+          }
+        },
+        {
+          "id": "c7b18",
+          "text": "لیکن February 2000 میں انہیں ventilator پر رکھنا پڑا۔ آخرکار 27 April 2000 کو lung اور kidney failure کے باعث Shinohara بھی چل بسے۔ ان کی عمر 40 سال تھی۔",
+          "roman": "Lekin February 2000 mein unhein ventilator par rakhna para. Aakhirkaar 27 April 2000 ko lung aur kidney failure ke baais Shinohara bhi chal base. Un ki umar 40 saal thi.",
+          "visual": {
+            "type": "card",
+            "title": "27 APRIL 2000",
+            "text": "Masato Shinohara dies, age 40"
+          }
+        },
+        {
+          "id": "c7b19",
+          "text": "یعنی دو technicians، دو الگ مہینوں میں، اس ایک حادثے کے بعد دنیا سے رخصت ہو گئے۔ اور تیسرا شخص؟ وہ ان کا supervisor تھا، Yutaka Yokokawa۔",
+          "roman": "Yani do technicians, do alag mahinon mein, is ek hadsay ke baad duniya se rukhsat ho gaye. Aur teesra shakhs? Woh un ka supervisor tha, Yutaka Yokokawa.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Yutaka Yokokawa, 54, supervisor in a grey work uniform sitting at a desk four metres from a steel tank in a concrete factory, 1999, documentary illustration, no text"
+          }
+        },
+        {
+          "id": "c7b20",
+          "text": "Yokokawa کی عمر 54 سال تھی۔ انہیں Chiba میں National Institute of Radiological Sciences، یعنی NIRS، میں علاج ملا۔ انہیں 3 Sv کی dose ملی تھی۔",
+          "roman": "Yokokawa ki umar 54 saal thi. Unhein Chiba mein National Institute of Radiological Sciences, yani NIRS, mein ilaaj mila. Unhein 3 Sv ki dose mili thi.",
+          "visual": {
+            "type": "map",
+            "place": "Chiba, Japan",
+            "lat": 35.607,
+            "lon": 140.106,
+            "zoom": "region",
+            "label": "NIRS, Chiba"
+          }
+        },
+        {
+          "id": "c7b21",
+          "text": "تین مہینے بعد انہیں minor radiation sickness کے ساتھ فارغ کر دیا گیا۔ لیکن ان کی کہانی یہاں ختم نہیں ہوئی۔ October 2000 میں ان پر negligence کے charges لگے۔",
+          "roman": "Teen mahine baad unhein minor radiation sickness ke sath farigh kar diya gaya. Lekin un ki kahani yahan khatam nahi hui. October 2000 mein un par negligence ke charges lage.",
+          "visual": {
+            "type": "clip",
+            "query": "courtroom entrance japan",
+            "prompt": "Exterior of a Japanese courthouse in autumn, quiet street, documentary mood"
+          },
+          "highlight": "NEGLIGENCE CHARGES OCT 2000"
+        },
+        {
+          "id": "c7b22",
+          "text": "2023 کی Japanese miniseries The Days میں، جو Fukushima حادثے پر بنی ہے، Ouchi کے hospital کی ایک flashback scene بھی شامل ہے۔ یوں یہ کہانی آج بھی یاد رکھی جاتی ہے۔",
+          "roman": "2023 ki Japanese miniseries The Days mein, jo Fukushima hadsay par bani hai, Ouchi ke hospital ki ek flashback scene bhi shamil hai. Yun yeh kahani aaj bhi yaad rakhi jati hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Old television screen glowing in a dark living room showing a blurred hospital scene, Japan, reflective quiet mood, no text"
+          }
+        },
+        {
+          "id": "c7b23",
+          "text": "دوستو، تینوں کی doses الگ الگ تھیں، اور ان کے انجام بھی۔ لیکن ایک سوال ابھی باقی ہے۔ اس سب کا ذمہ دار کون تھا؟ اگلے حصے میں اسی کا جواب ڈھونڈتے ہیں۔",
+          "roman": "Dosto, teenon ki doses alag alag thi, aur un ke anjaam bhi. Lekin ek sawal abhi baqi hai. Is sab ka zimmedar kaun tha? Agle hisse mein isi ka jawab dhoondte hain.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Three empty white cleanroom coveralls hanging in a row in a locker room, 1999 Japan factory, soft cold light, reflective sombre mood, no text"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "The story now moves inside the hospital. According to STA radiation tests, Ouchi received 17 Sv, Shinohara 10 Sv and Yokokawa 3 Sv. Hisashi Ouchi, aged 35, was treated at the University of Tokyo Hospital, where he stayed for a full 83 days. Large parts of his body had severe radiation burns. His internal organs were badly damaged too, and his white blood cell count had fallen to nearly zero. When the body's defense system fails, the danger rises. Ouchi had no functioning immune system, so the risk of infection in hospital was very high. For that reason he was placed in a special radiation ward. The aim was to keep the risk of infection as low as possible, because the body could no longer protect itself.",
+        "A micrograph of his chromosomes was then taken, and the result was shocking. None of his chromosomes could be identified. It was a glimpse of how deep the damage went.",
+        "To support his immune system, doctors tried peripheral blood stem cell transplantation, a completely new method of treatment at the time. The stem cells came from Ouchi's sister. After the transplant his white blood cell count rose temporarily. Some hope arose, but it did not last long, because the other injuries kept getting worse.",
+        "Doctors tried many other approaches. Cultured skin grafts were applied repeatedly, and painkillers, broad-spectrum antibiotics and granulocyte colony-stimulating factor were given. But none of these efforts produced measurable success. Some small areas of skin and mucous membranes did improve, but his overall condition kept worsening.",
+        "A hard question now arose. According to the sources, the medical staff began to wonder privately whether treatment should continue, since it was not working and Ouchi was in pain. Two months after the accident Ouchi had a cardiac arrest. He was revived but afterwards remained unresponsive. At the family's wish doctors continued treatment, although the sources say it was clear he could not survive. How hard must that decision have been for a family? On 19 December the family agreed to a do-not-resuscitate order. His wife had hoped Ouchi would live at least until 1 January, the start of the year 2000. But his condition turned into multiple organ failure. Hisashi Ouchi died on 21 December 1999, aged 35.",
+        "Now to the second technician. Masato Shinohara, aged 40, was also transferred to the same hospital. What happened to him? He was given radical cancer treatments, several skin grafts were successful, and umbilical cord blood was transfused to boost his stem cells. But in February 2000 he had to be put on a ventilator. Finally, on 27 April 2000, Shinohara also died, of lung and kidney failure, aged 40. Two technicians thus died in two different months after this one accident.",
+        "And the third man? He was their supervisor, Yutaka Yokokawa, aged 54. He was treated at the National Institute of Radiological Sciences (NIRS) in Chiba. He had received a dose of 3 Sv. Three months later he was discharged with minor radiation sickness. But his story did not end there. In October 2000 he was charged with negligence.",
+        "The 2023 Japanese miniseries The Days, about the Fukushima disaster, includes a flashback scene of Ouchi's hospital stay, so the story is still remembered today. The three men received different doses, and had different outcomes. But one question remains: who was responsible for all this? The next section looks for the answer."
+      ]
+    },
+    {
+      "titleEn": "Who Was to Blame?",
+      "titleRoman": "Qasoorwar Kaun?",
+      "covers": "INES Level 4 rated irradiation not contamination, environmental monitoring findings, IAEA finding of human error and breaches, complacency after 15 years without incidents, poor communication, weak regulator, safety culture; compensation of about $121 million for 6,875 claims; STA cancelling JCO's licence, president resigning, six officials charged; April 2001 guilty pleas; STA report that management allowed practices since 1993; INES limits and criticism.",
+      "words": 520,
+      "beats": [
+        {
+          "id": "c8b1",
+          "text": "اب بڑا سوال: قصوروار کون؟ سب سے پہلے دیکھتے ہیں کہ اس حادثے کو officially کیا درجہ ملا۔ اسے INES scale پر Level 4 دیا گیا۔",
+          "roman": "Ab bara sawal: qasoorwar kaun? Sab se pehle dekhte hain ke is hadsay ko officially kya darja mila. Ise INES scale par Level 4 diya gaya.",
+          "visual": {
+            "type": "card",
+            "title": "INES LEVEL 4",
+            "text": "Rated as irradiation, not contamination"
+          }
+        },
+        {
+          "id": "c8b2",
+          "text": "لیکن اسے 'irradiation' accident کہا گیا، 'contamination' accident نہیں۔ اس کا مطلب یہ تھا کہ facility کے باہر خطرہ کم سمجھا گیا۔",
+          "roman": "Lekin ise 'irradiation' accident kaha gaya, 'contamination' accident nahi. Is ka matlab yeh tha ke facility ke bahar khatra kam samjha gaya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Aerial-style illustration of a small concrete industrial building in Tokaimura, Ibaraki, Japan, 1999, with farmland around it, overcast sky, calm documentary tone, no text"
+          }
+        },
+        {
+          "id": "c8b3",
+          "text": "ماحولیاتی جانچ میں کچھ vegetation میں کم سطح کی radioactivity ملی، جبکہ دودھ، پانی اور سمندر میں کچھ نہیں ملا۔ Official investigations نے کہا کہ عام لوگوں اور ماحول کو نقصان نہیں پہنچا۔",
+          "roman": "Mahaulyati jaanch mein kuch vegetation mein kam satah ki radioactivity mili, jabke doodh, pani aur samandar mein kuch nahi mila. Official investigations ne kaha ke aam logon aur mahaul ko nuqsan nahi pohancha.",
+          "visual": {
+            "type": "clip",
+            "query": "farmland fields japan",
+            "prompt": "Green Japanese farmland fields under grey sky, quiet rural mood, 1990s"
+          }
+        },
+        {
+          "id": "c8b4",
+          "text": "مگر exposed لوگوں کی تعداد پر sources ایک جیسی بات نہیں کرتے۔ ایک جگہ لکھا ہے کہ 436 لوگوں کی doses evaluate ہوئیں اور کسی کی بھی annual limit سے زیادہ نہیں تھی۔ دوسری جگہ کم از کم 667 لوگ excess radiation سے exposed بتائے گئے ہیں۔",
+          "roman": "Magar exposed logon ki tadaad par sources ek jaisi baat nahi karte. Ek jagah likha hai ke 436 logon ki doses evaluate hui aur kisi ki bhi annual limit se zyada nahi thi. Doosri jagah kam az kam 667 log excess radiation se exposed bataye gaye hain.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Villagers in 1990s clothing lining up outside a community hall for health check-ups, Ibaraki, Japan, calm and orderly, documentary style, no text"
+          },
+          "highlight": "436 VS 667 EXPOSED"
+        },
+        {
+          "id": "c8b5",
+          "text": "اب سبب کی طرف آتے ہیں۔ International Atomic Energy Agency، یعنی IAEA، کے مطابق وجہ 'human error and serious breaches of safety principles' تھی۔",
+          "roman": "Ab sabab ki taraf aate hain. International Atomic Energy Agency, yani IAEA, ke mutabiq wajah 'human error and serious breaches of safety principles' thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Investigators in dark suits examining a stainless steel tank and steel buckets inside a plain concrete industrial building, Tokaimura 1999, cold light, no text"
+          }
+        },
+        {
+          "id": "c8b6",
+          "text": "تحقیقات میں کئی غلطیاں سامنے آئیں: مواد کو سنبھالنے کا لاپرواہ طریقہ، ناتجربہ کار technicians، کمزور supervision اور operating floor پر پرانے safety procedures۔",
+          "roman": "Tehqiqat mein kai ghaltiyan samne aayin: mawad ko sambhalne ka laparwah tareeqa, natajurbakar technicians, kamzor supervision aur operating floor par purane safety procedures.",
+          "visual": {
+            "type": "clip",
+            "query": "factory floor workers",
+            "prompt": "Factory floor in Japan in the 1990s with workers in white coveralls at steel tanks, documentary mood"
+          }
+        },
+        {
+          "id": "c8b7",
+          "text": "ایک اور بات۔ کمپنی میں 15 سال سے زیادہ کوئی incident نہیں ہوا تھا۔ sources کے مطابق اس سے employees اپنی روزمرہ ذمہ داریوں میں complacent ہو گئے تھے۔",
+          "roman": "Ek aur baat. Company mein 15 saal se zyada koi incident nahi hua tha. Sources ke mutabiq is se employees apni rozmarra zimmedariyon mein complacent ho gaye thay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Calm routine at a Japanese factory in 1999, workers casually chatting near steel equipment, bright lights, sense of comfort and complacency, no text"
+          },
+          "highlight": "15 YEARS WITHOUT INCIDENTS"
+        },
+        {
+          "id": "c8b8",
+          "text": "operation manuals کی بری management، technicians اور engineers کی ناکافی training، اور engineers اور workers کے درمیان communication کی کمی بھی وجوہات میں شامل تھیں۔",
+          "roman": "Operation manuals ki buri management, technicians aur engineers ki nakafi training, aur engineers aur workers ke darmiyan communication ki kami bhi wajuhaat mein shamil thin.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Stack of worn paper operating manuals on a desk beside a steel bucket in a plain factory office, 1999, no readable text, muted colours"
+          }
+        },
+        {
+          "id": "c8b9",
+          "text": "regulator کا کردار بھی سوالوں میں رہا۔ کوئی criticality alarm نہیں تھا، site disaster plan میں شامل نہیں تھا، اور routine inspections بھی نہیں ہوتی تھیں۔",
+          "roman": "Regulator ka kirdar bhi sawalon mein raha. Koi criticality alarm nahi tha, site disaster plan mein shamil nahi tha, aur routine inspections bhi nahi hoti thin.",
+          "visual": {
+            "type": "photo",
+            "photo": "p2"
+          }
+        },
+        {
+          "id": "c8b10",
+          "text": "اب عدالتی کہانی۔ late March 2000 میں STA نے JCO کی operating credentials منسوخ کر دیں۔ JCO پہلا Japanese plant operator بنا جسے radiation کے غلط استعمال پر قانون کے تحت سزا ملی۔",
+          "roman": "Ab adalati kahani. Late March 2000 mein STA ne JCO ki operating credentials mansookh kar din. JCO pehla Japanese plant operator bana jise radiation ke ghalat istemal par qanoon ke tehat saza mili.",
+          "visual": {
+            "type": "card",
+            "title": "MARCH 2000",
+            "text": "STA cancels JCO's credentials"
+          }
+        },
+        {
+          "id": "c8b11",
+          "text": "اس کے بعد کمپنی کے president نے resign کر دیا۔ اور October 2000 میں JCO کے چھ officials پر professional negligence کے charges لگے۔",
+          "roman": "Is ke baad company ke president ne resign kar diya. Aur October 2000 mein JCO ke chhe officials par professional negligence ke charges lage.",
+          "visual": {
+            "type": "clip",
+            "query": "press conference cameras",
+            "prompt": "Japanese executives bowing before cameras at a press conference, 2000, sombre mood"
+          }
+        },
+        {
+          "id": "c8b12",
+          "text": "الزام یہ تھا کہ انہوں نے technicians کی درست training نہیں کی اور جانتے بوجھتے safety procedures کو نظر انداز کیا۔",
+          "roman": "Ilzam yeh tha ke unhon ne technicians ki durust training nahi ki aur jante boojhte safety procedures ko nazar andaz kiya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Empty Japanese courtroom with wooden benches and a long table, morning light, serious mood, 2001, no text"
+          }
+        },
+        {
+          "id": "c8b13",
+          "text": "April 2001 میں چھ employees نے، جن میں اس وقت کے production department کے chief بھی تھے، موت کا سبب بننے والی negligence کے الزام میں جرم قبول کیا۔ Yokokawa بھی گرفتار ہونے والوں میں شامل تھے۔",
+          "roman": "April 2001 mein chhe employees ne, jin mein us waqt ke production department ke chief bhi thay, maut ka sabab banne wali negligence ke ilzam mein jurm qabool kiya. Yokokawa bhi girftar hone walon mein shamil thay.",
+          "visual": {
+            "type": "card",
+            "title": "APRIL 2001",
+            "text": "Six employees plead guilty to negligence"
+          }
+        },
+        {
+          "id": "c8b14",
+          "text": "JCO کے president نے بھی کمپنی کی طرف سے guilty plea دیا۔ اور trial کے دوران ایک اہم بات سامنے آئی، جس نے کہانی کا رخ بدل دیا۔",
+          "roman": "JCO ke president ne bhi company ki taraf se guilty plea diya. Aur trial ke dauran ek aham baat samne aayi, jis ne kahani ka rukh badal diya.",
+          "visual": {
+            "type": "clip",
+            "query": "courtroom gavel",
+            "prompt": "Wooden gavel on a courtroom desk, dramatic side light, serious mood"
+          }
+        },
+        {
+          "id": "c8b15",
+          "text": "jury کو بتایا گیا کہ 1995 میں JCO کی ایک safety committee steel buckets کے استعمال کی منظوری دے چکی تھی۔ یعنی بالٹی کوئی اچانک ایجاد نہیں تھی۔",
+          "roman": "Jury ko bataya gaya ke 1995 mein JCO ki ek safety committee steel buckets ke istemal ki manzoori de chuki thi. Yani balti koi achanak ijaad nahi thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Meeting room in a Japanese company in 1995, several men in suits around a table with a steel bucket placed among papers, neutral documentary mood, no text"
+          },
+          "highlight": "1995 COMMITTEE APPROVED BUCKETS"
+        },
+        {
+          "id": "c8b16",
+          "text": "اس کے علاوہ 1996 کا ایک وسیع پیمانے پر تقسیم ہونے والا unauthorized manual بھی solution بنانے کے لیے buckets تجویز کرتا تھا۔",
+          "roman": "Is ke ilawa 1996 ka ek wasi paimane par taqseem hone wala unauthorized manual bhi solution banane ke liye buckets tajweez karta tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Close view of a thick operating manual with steel buckets drawn in a diagram, on a factory desk, 1996 style, no readable text"
+          }
+        },
+        {
+          "id": "c8b17",
+          "text": "STA کی report کے مطابق JCO management نے 1993 سے ان خطرناک طریقوں کی اجازت دے رکھی تھی تاکہ conversion process مختصر ہو، حالانکہ یہ منظور شدہ procedures کے خلاف تھا۔",
+          "roman": "STA ki report ke mutabiq JCO management ne 1993 se in khatarnak tareeqon ki ijazat de rakhi thi taake conversion process mukhtasar ho, halanke yeh manzoor shuda procedures ke khilaf tha.",
+          "visual": {
+            "type": "card",
+            "title": "SINCE 1993",
+            "text": "STA: management allowed shortcuts"
+          }
+        },
+        {
+          "id": "c8b18",
+          "text": "تو workers کا قصور کتنا تھا؟ sources کہتے ہیں کہ انہوں نے JCO manual کی ہدایت پر عمل کیا، مگر انہیں معلوم نہیں تھا کہ STA نے اسے منظور نہیں کیا۔",
+          "roman": "To workers ka qasoor kitna tha? Sources kehte hain ke unhon ne JCO manual ki hidayat par amal kiya, magar unhein maloom nahi tha ke STA ne ise manzoor nahi kiya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Hisashi Ouchi, 35, Japanese man in white cleanroom coverall, cap and gloves, holding a steel bucket beside a stainless steel tank, 1999 factory floor, thoughtful documentary illustration, no text"
+          }
+        },
+        {
+          "id": "c8b19",
+          "text": "متاثرین کے لیے October 1999 میں JCO نے advisory booths لگائے تاکہ claims اور سوالات نمٹائے جا سکیں۔ July 2000 تک 7,000 سے زیادہ claims فائل اور settle ہو چکے تھے۔",
+          "roman": "Mutasireen ke liye October 1999 mein JCO ne advisory booths lagaye taake claims aur sawalat nimtaye ja sakein. July 2000 tak 7,000 se zyada claims file aur settle ho chuke thay.",
+          "visual": {
+            "type": "clip",
+            "query": "office desk paperwork",
+            "prompt": "Japanese community office with staff processing paper claim forms at a counter, 1999, orderly mood"
+          }
+        },
+        {
+          "id": "c8b20",
+          "text": "September 2000 میں JCO نے 6,875 claims کے لیے 121 million dollars دینے پر اتفاق کیا۔ یہ claims radiation سے exposed لوگوں اور متاثرہ زرعی و service businesses کے تھے۔",
+          "roman": "September 2000 mein JCO ne 6,875 claims ke liye 121 million dollars dene par ittefaq kiya. Yeh claims radiation se exposed logon aur mutasira zarai o service businesses ke thay.",
+          "visual": {
+            "type": "card",
+            "title": "$121 MILLION",
+            "text": "Compensation for 6,875 claims"
+          }
+        },
+        {
+          "id": "c8b21",
+          "text": "350 metres کے اندر رہنے والے اور evacuate ہونے والے تمام residents کو معاوضہ ملا، بشرطیکہ وہ مستقبل میں کمپنی پر مقدمہ نہ کرنے پر راضی ہوں۔",
+          "roman": "350 metres ke andar rehne wale aur evacuate hone wale tamam residents ko muawza mila, basharti ke woh mustaqbil mein company par muqadma na karne par razi hon.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Residents in 1990s clothing signing papers at a folding table in a local hall, Tokaimura, Japan, quiet serious mood, no text"
+          }
+        },
+        {
+          "id": "c8b22",
+          "text": "آخر میں INES کی حدود۔ یہ scale حادثے کے کافی بعد assign ہوتی ہے، کیونکہ نقصان کی شدت میں interpretation شامل ہوتی ہے۔ ایک study نے اسے inconsistent بھی کہا۔",
+          "roman": "Aakhir mein INES ki hudood. Yeh scale hadsay ke kafi baad assign hoti hai, kyunki nuqsan ki shiddat mein interpretation shamil hoti hai. Ek study ne ise inconsistent bhi kaha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Simple illustrated scale with seven steps rising from left to right, level four highlighted, clean infographic style, no text or numbers"
+          }
+        },
+        {
+          "id": "c8b23",
+          "text": "کچھ critics کا کہنا ہے کہ INES ایک public relations tool ہے اور magnitude و intensity کو ملا دیتی ہے۔ اسی لیے David Smythe نے NAMS نام کا متبادل scale تجویز کیا۔ تو کیا اس حادثے کے بعد کچھ بدلا؟",
+          "roman": "Kuch critics ka kehna hai ke INES ek public relations tool hai aur magnitude o intensity ko mila deti hai. Isi liye David Smythe ne NAMS naam ka mutabadil scale tajweez kiya. To kya is hadsay ke baad kuch badla?",
+          "visual": {
+            "type": "clip",
+            "query": "question mark chalkboard",
+            "prompt": "Chalkboard with a large question mark drawn in chalk, moody lighting"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "So who was to blame? First, what official rating did the accident receive? It was given Level 4 on the INES scale. But it was called an irradiation accident, not a contamination accident, which meant the danger outside the facility was considered smaller. In environmental testing, some vegetation showed low levels of radioactivity, while nothing was found in milk, water or the sea. Official investigations said that the public and the environment were not harmed. But the sources do not agree on how many people were exposed. One says 436 people's doses were evaluated and none exceeded the annual limit. Another says at least 667 people were exposed to excess radiation.",
+        "Now the causes. According to the International Atomic Energy Agency (IAEA), the cause was human error and serious breaches of safety principles. Investigations found several failings: careless handling of material, inexperienced technicians, weak supervision, and outdated safety procedures on the operating floor. Also, the company had had no incident for more than 15 years, and according to the sources this made employees complacent about their daily duties. Poor management of operation manuals, inadequate training of technicians and engineers, and lack of communication between engineers and workers were also among the causes.",
+        "The regulator's role was also in question. There was no criticality alarm, the site was not part of the disaster plan, and routine inspections were not carried out.",
+        "Then came the legal story. In late March 2000 the STA revoked JCO's operating credentials. JCO became the first Japanese plant operator to be punished under law for the improper use of radiation. The company's president then resigned. In October 2000 six JCO officials were charged with professional negligence. The accusation was that they had not properly trained the technicians and had knowingly ignored safety procedures. In April 2001 six employees, including the then head of the production department, pleaded guilty to negligence resulting in death. Yokokawa was among those arrested. JCO's president also entered a guilty plea on behalf of the company.",
+        "During the trial, an important point emerged that changed the direction of the story. The jury was told that in 1995 a JCO safety committee had approved the use of steel buckets. So the bucket was not a sudden invention. In addition, a widely distributed unauthorized manual from 1996 also proposed buckets for preparing the solution. According to the STA report, JCO management had permitted these dangerous methods since 1993 to shorten the conversion process, although they went against approved procedures. So how much were the workers to blame? The sources say they followed the instructions in the JCO manual, but did not know that the STA had not approved it.",
+        "For those affected, JCO set up advisory booths in October 1999 to handle claims and questions. By July 2000, more than 7,000 claims had been filed and settled. In September 2000 JCO agreed to pay 121 million dollars for 6,875 claims. These came from people exposed to radiation and from affected agricultural and service businesses. All residents who lived within 350 meters and were evacuated received compensation, provided they agreed not to sue the company in the future.",
+        "Finally, the limits of INES. The scale is assigned well after an accident, because assessing the severity of damage involves interpretation. One study called it inconsistent. Some critics say INES is a public relations tool that mixes up magnitude and intensity. For this reason David Smythe proposed an alternative scale called NAMS. So did anything change after this accident?"
+      ]
+    },
+    {
+      "titleEn": "What Changed, What Remains",
+      "titleRoman": "Kya Badla, Kya Baqi Hai",
+      "covers": "New laws, quarterly inspections, safety education from 2000, emergency preparedness; Fukushima commission comparison; no confirmed criticality accidents since 1999 as of June 2024; Japan imports 80% of energy and the 2014 Strategic Energy Plan; antinuclear movements; lessons about shortcuts and oversight; open questions; request to like and subscribe.",
+      "words": 180,
+      "beats": [
+        {
+          "id": "c9b1",
+          "text": "حادثے کے جواب میں Japan نے خصوصی قوانین بنائے۔ ان میں operational safety procedures اور quarterly inspections لازمی قرار دی گئیں، جن کا focus workers اور leadership کے طرز عمل پر تھا۔",
+          "roman": "Hadsay ke jawab mein Japan ne khusoosi qawaneen banaye. In mein operational safety procedures aur quarterly inspections lazmi qarar di gayin, jin ka focus workers aur leadership ke tarz-e-amal par tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Japanese inspectors in helmets and grey uniforms reviewing a checklist inside a clean nuclear facility, 2000s, orderly and careful mood, no text"
+          },
+          "highlight": "QUARTERLY INSPECTIONS"
+        },
+        {
+          "id": "c9b2",
+          "text": "safety education اور تمام nuclear facilities کی quality assurance بھی لازمی ہوئی۔ 2000 سے atomic اور nuclear commissions نے facilities کی regular investigations شروع کیں، اور emergency preparedness پر کام جاری رہا۔",
+          "roman": "Safety education aur tamam nuclear facilities ki quality assurance bhi lazmi hui. 2000 se atomic aur nuclear commissions ne facilities ki regular investigations shuru kin, aur emergency preparedness par kaam jaari raha.",
+          "visual": {
+            "type": "clip",
+            "query": "safety training classroom",
+            "prompt": "Workers attending a safety training session in a Japanese classroom, 2000, attentive mood"
+          }
+        },
+        {
+          "id": "c9b3",
+          "text": "2012 میں Fukushima Nuclear Accident Independent Investigation Commission کی report نے کہا کہ regulator اور industry کی overconfidence اور governance کی ناکامیاں شاید Tokaimura پر بھی لاگو ہوتی ہیں۔",
+          "roman": "2012 mein Fukushima Nuclear Accident Independent Investigation Commission ki report ne kaha ke regulator aur industry ki overconfidence aur governance ki nakamiyan shayad Tokaimura par bhi lagu hoti hain.",
+          "visual": {
+            "type": "card",
+            "title": "2012 COMMISSION REPORT",
+            "text": "Overconfidence may apply to Tokaimura too"
+          }
+        },
+        {
+          "id": "c9b4",
+          "text": "as of June 2024، 1999 کے بعد کوئی confirmed criticality accident نہیں ہوا۔ ہاں، Fukushima 2011 اور Nyonoksa 2019 میں suspected criticalities کا ذکر ملتا ہے۔",
+          "roman": "As of June 2024, 1999 ke baad koi confirmed criticality accident nahi hua. Haan, Fukushima 2011 aur Nyonoksa 2019 mein suspected criticalities ka zikr milta hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Calm modern control room of a nuclear facility with monitors showing steady green indicators, quiet and safe atmosphere, no text"
+          },
+          "highlight": "NO CONFIRMED SINCE 1999"
+        },
+        {
+          "id": "c9b5",
+          "text": "لیکن توانائی کا سوال باقی ہے۔ Japan اپنی 80% energy import کرتا ہے۔ 2014 میں حکومت نے Strategic Energy Plan بنایا، جس میں nuclear کو ایک اہم power source کہا گیا۔",
+          "roman": "Lekin tawanai ka sawal baqi hai. Japan apni 80% energy import karta hai. 2014 mein hukumat ne Strategic Energy Plan banaya, jis mein nuclear ko ek aham power source kaha gaya.",
+          "visual": {
+            "type": "photo",
+            "photo": "p2"
+          }
+        },
+        {
+          "id": "c9b6",
+          "text": "ساتھ ہی اس حادثے نے Japan میں antinuclear movements کو بھی تقویت دی۔ آج بھی energy کی ضرورت اور لوگوں کی safety کے درمیان کشمکش موجود ہے۔",
+          "roman": "Sath hi is hadsay ne Japan mein antinuclear movements ko bhi taqwiyat di. Aaj bhi energy ki zaroorat aur logon ki safety ke darmiyan kashmakash maujood hai.",
+          "visual": {
+            "type": "clip",
+            "query": "protest crowd banners",
+            "prompt": "Peaceful crowd of Japanese citizens marching with blank banners in a city street, daytime, calm mood"
+          }
+        },
+        {
+          "id": "c9b7",
+          "text": "دوستو، سبق سادہ ہے۔ shortcuts اور کمزور oversight مل جائیں تو ایک عام سا کام، ایک بالٹی، بڑا خطرہ بن سکتا ہے۔ آپ کے خیال میں ذمہ داری کس پر زیادہ تھی؟ comments میں بتائیں۔",
+          "roman": "Dosto, sabaq saada hai. Shortcuts aur kamzor oversight mil jayein to ek aam sa kaam, ek balti, bara khatra ban sakta hai. Aap ke khayal mein zimmedari kis par zyada thi? Comments mein bataiye.",
+          "visual": {
+            "type": "ai",
+            "prompt": "A single steel bucket on a concrete factory floor beside a stainless steel tank, dim light, 1999 Tokaimura, symbolic quiet mood, no text"
+          }
+        },
+        {
+          "id": "c9b8",
+          "text": "اگر یہ video پسند آئی ہو تو like کریں، channel کو subscribe کریں، اور اگلی سچی کہانی کے لیے ہمارے ساتھ رہیں۔ دیکھنے کا بہت شکریہ۔",
+          "roman": "Agar yeh video pasand aayi ho to like karein, channel ko subscribe karein, aur agli sacchi kahani ke liye hamare sath rahein. Dekhne ka bohat shukriya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Sunrise over quiet Japanese farmland with a distant industrial building silhouette, peaceful hopeful mood, no text"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "In response to the accident, Japan created special laws. These made operational safety procedures and quarterly inspections mandatory, focusing on the conduct of workers and leadership. Safety education and quality assurance at all nuclear facilities also became mandatory. From 2000, the atomic and nuclear commissions began regular investigations of facilities, and work on emergency preparedness continued. In 2012 the report of the Fukushima Nuclear Accident Independent Investigation Commission said that the overconfidence of the regulator and industry, and failures of governance, may well apply to Tokaimura too.",
+        "As of June 2024, no confirmed criticality accident had occurred since 1999. Suspected criticalities are mentioned at Fukushima in 2011 and Nyonoksa in 2019. But the energy question remains. Japan imports 80% of its energy. In 2014 the government made a Strategic Energy Plan that called nuclear an important power source. The accident also strengthened antinuclear movements in Japan. Even today there is a tension between the need for energy and the safety of people.",
+        "The lesson is simple. When shortcuts and weak oversight combine, an ordinary task, a single bucket, can become a great danger. Who do you think was most responsible? Tell us in the comments."
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "id": "s1",
+      "chapter": 0,
+      "titleEn": "One Steel Bucket, One Blue Flash: Tokaimura 1999",
+      "hook": "Saatwan bucket, neeli roshni",
+      "text": "ایک bucket، اور سب کچھ بدل گیا! 30 September 1999، صبح 10:35 بجے تھے۔ جاپان کے Tokaimura میں JCO کے plant پر تین technicians کام کر رہے تھے: Hisashi Ouchi، Masato Shinohara اور Yutaka Yokokawa۔ وہ stainless steel کے buckets میں محلول ملا رہے تھے۔ Ouchi tank کے اوپر جھکے تھے، Shinohara platform پر تھے، اور Yokokawa چار میٹر دور desk پر بیٹھے تھے۔ پھر ساتواں bucket tank میں ڈالا گیا۔ اس میں uranyl nitrate تھا، جو 18.8% 235U تک enriched تھا۔ اب tank میں uranium تقریباً 16 kg تھا۔ اچانک تینوں کو نیلی روشنی نظر آئی، اور gamma radiation کے alarms بجنے لگے۔ کیا یہ صرف شروعات تھی؟ پوری کہانی ہمارے channel پر دیکھیں۔",
+      "roman": "Ek bucket, aur sab kuch badal gaya! 30 September 1999, subah 10:35 bajay thay. Japan ke Tokaimura mein JCO ke plant par teen technicians kaam kar rahe thay: Hisashi Ouchi, Masato Shinohara aur Yutaka Yokokawa. Woh stainless steel ke buckets mein mehlool mila rahe thay. Ouchi tank ke upar jhukay thay, Shinohara platform par thay, aur Yokokawa chaar meter door desk par baithay thay. Phir saatwan bucket tank mein dala gaya. Is mein uranyl nitrate tha, jo 18.8% 235U tak enriched tha. Ab tank mein uranium taqreeban 16 kg tha. Achanak teenon ko neeli roshni nazar aayi, aur gamma radiation ke alarms bajne lagay. Kya yeh sirf shuruaat thi? Poori kahani hamare channel par dekhein.",
+      "descriptionEn": "On 30 September 1999, a seventh bucket of uranyl nitrate poured into a tank at the JCO plant in Tokaimura, Japan, triggered a criticality accident.\nThis short covers the first moments, from the blue flash to the gamma alarms.",
+      "tags": [
+        "Tokaimura",
+        "JCO",
+        "nuclear accident",
+        "criticality accident",
+        "Hisashi Ouchi",
+        "Japan",
+        "1999",
+        "blue flash",
+        "nuclear history",
+        "documentary"
+      ],
+      "render": {
+        "duration": 47.925
+      }
+    },
+    {
+      "id": "s2",
+      "chapter": 2,
+      "titleEn": "Fire at 10 AM, Explosion at 8 PM: Tokaimura 1997",
+      "hook": "Aag subah, dhamaka raat",
+      "text": "صبح 10:00 بجے آگ لگی، اور رات 8 بجے دھماکا ہوا! 11 March 1997 کو Tokaimura میں PNC کے bituminization facility پر ایک نیا تجربہ چل رہا تھا۔ Waste اور asphalt کے mix میں معمول سے 20% کم asphalt استعمال ہوا۔ ایک نئے barrel کے اندر chemical reaction سے آگ بھڑک اٹھی اور کئی barrels تک پھیل گئی۔ Building کے temperature controls خراب تھے۔ Smoke اور radiation alarms کی وجہ سے سب کو building خالی کرنی پڑی۔ رات 8 بجے، جب لوگ واپس جانے کی تیاری کر رہے تھے، جمع شدہ گیسوں میں دھماکا ہوا۔ کھڑکیاں اور دروازے ٹوٹ گئے، اور smoke اور radiation باہر نکل گیا۔ کیا management نے پوری سچائی بتائی؟ پوری کہانی ہمارے channel پر دیکھیں۔",
+      "roman": "Subah 10:00 bajay aag lagi, aur raat 8 bajay dhamaka hua! 11 March 1997 ko Tokaimura mein PNC ke bituminization facility par ek naya tajruba chal raha tha. Waste aur asphalt ke mix mein maamool se 20% kam asphalt istemal hua. Ek naye barrel ke andar chemical reaction se aag bhadak uthi aur kai barrels tak phail gayi. Building ke temperature controls kharab thay. Smoke aur radiation alarms ki wajah se sab ko building khali karni padi. Raat 8 bajay, jab log wapas jane ki tayyari kar rahe thay, jama shuda gaison mein dhamaka hua. Khirkiyan aur darwaze toot gaye, aur smoke aur radiation bahar nikal gaya. Kya management ne poori sachai batayi? Poori kahani hamare channel par dekhein.",
+      "descriptionEn": "On 11 March 1997, a fire at the PNC bituminization facility in Tokaimura was followed by an explosion that evening.\nThis short tells how the day unfolded, from the new asphalt mix to the evacuation.",
+      "tags": [
+        "Tokaimura",
+        "PNC",
+        "Donen accident",
+        "1997",
+        "nuclear waste",
+        "bituminization",
+        "Japan",
+        "nuclear accident",
+        "INES",
+        "documentary"
+      ],
+      "render": {
+        "duration": 48.11
+      }
+    },
+    {
+      "id": "s3",
+      "chapter": 5,
+      "titleEn": "20 Hours to Stop a Chain Reaction in Tokaimura",
+      "hook": "20 ghantay ki chain reaction",
+      "text": "20 گھنٹے تک ایک tank کے اندر chain reaction چلتی رہی! 30 September 1999 کو Tokaimura میں JCO کے پاس نہ emergency plan تھا، نہ عوام سے بات کرنے کا کوئی طریقہ۔ نتیجہ confusion اور panic تھا۔ Criticality شروع ہونے کے 5 گھنٹے بعد evacuation شروع ہوا۔ Conversion building سے 350 میٹر کے دائرے میں 39 گھروں کے تقریباً 161 لوگوں کو نکالا گیا۔ 12 گھنٹے بعد 300,000 رہائشیوں سے کہا گیا کہ گھروں کے اندر رہیں اور agricultural production بند کر دیں۔ اگلی صبح workers نے tank کے cooling jacket سے پانی نکالا، کیونکہ یہ پانی neutron reflector کا کام کر رہا تھا۔ لیکن ایک آخری قدم ابھی باقی تھا۔ وہ کیا تھا؟ پوری کہانی ہمارے channel پر دیکھیں۔",
+      "roman": "20 ghantay tak ek tank ke andar chain reaction chalti rahi! 30 September 1999 ko Tokaimura mein JCO ke paas na emergency plan tha, na awam se baat karne ka koi tareeqa. Nateeja confusion aur panic tha. Criticality shuru hone ke 5 ghantay baad evacuation shuru hua. Conversion building se 350 meter ke daaray mein 39 gharon ke taqreeban 161 logon ko nikala gaya. 12 ghantay baad 300,000 rehaishiyon se kaha gaya ke gharon ke andar rahein aur agricultural production band kar dein. Agli subah workers ne tank ke cooling jacket se pani nikala, kyunke yeh pani neutron reflector ka kaam kar raha tha. Lekin ek aakhri qadam abhi baaqi tha. Woh kya tha? Poori kahani hamare channel par dekhein.",
+      "descriptionEn": "The 1999 Tokaimura criticality accident lasted about 20 hours, with no emergency plan at the JCO plant.\nThis short covers the evacuations, the stay-indoors order for 300,000 residents, and the first step to end the reaction.",
+      "tags": [
+        "Tokaimura",
+        "JCO",
+        "criticality accident",
+        "evacuation",
+        "chain reaction",
+        "neutron reflector",
+        "Japan",
+        "1999",
+        "nuclear safety",
+        "documentary"
+      ],
+      "render": {
+        "duration": 49.557
+      }
+    }
+  ],
+  "metaChecked": true,
+  "wordCount": 5023,
+  "render": {
+    "duration": 2027.44,
+    "chapters": [
+      {
+        "start": 0,
+        "titleEn": "The Blue Flash",
+        "titleRoman": "Neela Flash"
+      },
+      {
+        "start": 123.08000000000001,
+        "titleEn": "A Village Built on Atoms",
+        "titleRoman": "Atomon Par Basa Gaon"
+      },
+      {
+        "start": 336.6400000000001,
+        "titleEn": "The Warning: Fire and Lies in 1997",
+        "titleRoman": "Warning: 1997 Ki Aag Aur Jhoot"
+      },
+      {
+        "start": 584.8400000000001,
+        "titleEn": "The Plant and Its Shortcuts",
+        "titleRoman": "Plant Aur Shortcuts"
+      },
+      {
+        "start": 863.2800000000002,
+        "titleEn": "Thirty September, 1999",
+        "titleRoman": "30 September 1999"
+      },
+      {
+        "start": 1093.6000000000001,
+        "titleEn": "Twenty Hours to Stop a Chain Reaction",
+        "titleRoman": "20 Ghante Ki Jang"
+      },
+      {
+        "start": 1361.8000000000004,
+        "titleEn": "Eighty-Three Days: The Fight to Save Ouchi",
+        "titleRoman": "83 Din: Ouchi Ko Bachane Ki Jang"
+      },
+      {
+        "start": 1631.2000000000003,
+        "titleEn": "Who Was to Blame?",
+        "titleRoman": "Qasoorwar Kaun?"
+      },
+      {
+        "start": 1908.9200000000005,
+        "titleEn": "What Changed, What Remains",
+        "titleRoman": "Kya Badla, Kya Baqi Hai"
+      }
+    ],
+    "chapterImages": [
+      {
+        "file": "ch1.jpg",
+        "photo": null,
+        "kind": "ai"
+      },
+      {
+        "file": "ch2.jpg",
+        "photo": null,
+        "kind": "ai"
+      },
+      {
+        "file": "ch3.jpg",
+        "photo": null,
+        "kind": "ai"
+      },
+      {
+        "file": "ch4.jpg",
+        "photo": null,
+        "kind": "map"
+      },
+      {
+        "file": "ch5.jpg",
+        "photo": null,
+        "kind": "ai"
+      },
+      {
+        "file": "ch6.jpg",
+        "photo": null,
+        "kind": "ai"
+      },
+      {
+        "file": "ch7.jpg",
+        "photo": null,
+        "kind": "map"
+      },
+      {
+        "file": "ch8.jpg",
+        "photo": null,
+        "kind": "ai"
+      },
+      {
+        "file": "ch9.jpg",
+        "photo": null,
+        "kind": "ai"
+      }
+    ],
+    "pictures": {
+      "ai": 95,
+      "stock": 7,
+      "clip": 43,
+      "photo": 5,
+      "map": 5,
+      "card": 21,
+      "reused": 0,
+      "fallback": 0
+    },
+    "renderedAt": "2026-09-30T00:14:35.327Z",
+    "clipCredits": [
+      {
+        "user": "Md Amir Umar",
+        "url": "https://www.pexels.com/video/machinery-industrial-machinery-heavy-industry-heavy-machine-3968565/"
+      },
+      {
+        "user": "Messiedo Xadinho",
+        "url": "https://www.pexels.com/video/scenic-japanese-canal-with-mountain-backdrop-37319606/"
+      },
+      {
+        "user": "Tima Miroshnichenko",
+        "url": "https://www.pexels.com/video/a-female-doctor-with-her-young-cancer-patient-6011518/"
+      },
+      {
+        "user": "Toàn BDS",
+        "url": "https://www.pexels.com/video/aerial-view-of-container-ship-at-port-29903737/"
+      },
+      {
+        "user": "Yeşim Çolak",
+        "url": "https://www.pexels.com/video/moody-nighttime-cityscape-with-power-lines-35946782/"
+      },
+      {
+        "user": "Sergei Starostin",
+        "url": "https://www.pexels.com/video/industrial-machinery-and-piping-inside-factory-30243446/"
+      },
+      {
+        "user": "FD Visualzz",
+        "url": "https://www.pexels.com/video/large-cargo-ship-navigating-the-ocean-waves-37186126/"
+      },
+      {
+        "user": "Andrey Kirievskiy",
+        "url": "https://www.pexels.com/video/close-up-footage-of-medical-equipment-used-in-hospitals-3197670/"
+      },
+      {
+        "user": "pickarick",
+        "url": "https://www.pexels.com/video/judge-using-a-gavel-6699964/"
+      },
+      {
+        "user": "Yan Krukau",
+        "url": "https://www.pexels.com/video/a-video-footage-of-drum-set-9005825/"
+      },
+      {
+        "user": "Videas Cl",
+        "url": "https://www.pexels.com/video/a-close-up-of-red-buttons-on-a-machine-16943466/"
+      },
+      {
+        "user": "Horst Dreisbach",
+        "url": "https://www.pexels.com/video/close-up-of-modern-wall-clock-with-moving-hands-39488468/"
+      },
+      {
+        "user": "Olavi Anttila",
+        "url": "https://www.pexels.com/video/anemometer-moving-on-wind-13930910/"
+      },
+      {
+        "user": "Ron Lach",
+        "url": "https://www.pexels.com/video/people-working-at-an-office-8691678/"
+      },
+      {
+        "user": "Werner Pfennig",
+        "url": "https://www.pexels.com/video/senior-man-giving-a-speech-6952221/"
+      },
+      {
+        "user": "K",
+        "url": "https://www.pexels.com/video/footage-of-power-plant-beside-a-river-6498501/"
+      },
+      {
+        "user": "Artem Podrez",
+        "url": "https://www.pexels.com/video/man-checking-inventory-5044422/"
+      },
+      {
+        "user": "Ron Lach",
+        "url": "https://www.pexels.com/video/close-up-of-a-person-developing-film-in-a-darkroom-10273767/"
+      },
+      {
+        "user": "Paul Cruz",
+        "url": "https://www.pexels.com/video/men-having-a-meeting-in-the-warehouse-4477607/"
+      },
+      {
+        "user": "Stepan SK",
+        "url": "https://www.pexels.com/video/person-holding-a-manual-7584759/"
+      },
+      {
+        "user": "EqualStock IN",
+        "url": "https://www.pexels.com/video/efficient-textile-folding-in-industrial-setting-31358517/"
+      },
+      {
+        "user": "KoolShooters",
+        "url": "https://www.pexels.com/video/a-person-holding-a-stainless-basin-while-pouring-liquid-clay-on-a-pail-9736285/"
+      },
+      {
+        "user": "Chris D",
+        "url": "https://www.pexels.com/video/fire-truck-exiting-station-with-lights-flashing-35241580/"
+      },
+      {
+        "user": "RDNE Stock project",
+        "url": "https://www.pexels.com/video/close-up-shot-of-an-ambulance-6520323/"
+      },
+      {
+        "user": "Cheng",
+        "url": "https://www.pexels.com/video/fields-and-mountain-on-horizon-13229437/"
+      },
+      {
+        "user": "Nicola Narracci",
+        "url": "https://www.pexels.com/video/glowing-molecular-structure-on-dark-background-35072412/"
+      },
+      {
+        "user": "ANTONI SHKRABA production",
+        "url": "https://www.pexels.com/video/a-man-adjusting-an-audio-mixer-8134917/"
+      },
+      {
+        "user": "Tima Miroshnichenko",
+        "url": "https://www.pexels.com/video/close-up-view-of-a-measuring-tape-7033925/"
+      },
+      {
+        "user": "Pavel Danilyuk",
+        "url": "https://www.pexels.com/video/doctor-checking-his-patient-blood-pressure-6998170/"
+      },
+      {
+        "user": "Tima Miroshnichenko",
+        "url": "https://www.pexels.com/video/cancer-patients-in-the-hospital-6011533/"
+      },
+      {
+        "user": "Mikhail Nilov",
+        "url": "https://www.pexels.com/video/close-up-shot-of-a-microscope-9244192/"
+      },
+      {
+        "user": "RDNE Stock project",
+        "url": "https://www.pexels.com/video/heart-rate-monitor-in-the-hospital-6130551/"
+      },
+      {
+        "user": "RDNE Stock project",
+        "url": "https://www.pexels.com/video/blue-and-yellow-ambulance-6520433/"
+      },
+      {
+        "user": "Кайрат Сатдиков",
+        "url": "https://www.pexels.com/video/blood-bag-hanging-11377434/"
+      },
+      {
+        "user": "yuki kiki",
+        "url": "https://www.pexels.com/video/tokyo-train-station-with-passing-metro-38214997/"
+      },
+      {
+        "user": "Hide",
+        "url": "https://www.pexels.com/video/tractor-plowing-the-field-6799273/"
+      },
+      {
+        "user": "EqualStock IN",
+        "url": "https://www.pexels.com/video/indian-textile-factory-workers-in-action-31529054/"
+      },
+      {
+        "user": "Andrey Kirievskiy",
+        "url": "https://www.pexels.com/video/tv-cameramen-filming-outdoor-news-event-30048693/"
+      },
+      {
+        "user": "KATRIN  BOLOVTSOVA",
+        "url": "https://www.pexels.com/video/judge-writing-on-a-document-6101337/"
+      },
+      {
+        "user": "Hugo Sykes",
+        "url": "https://www.pexels.com/photo/a-man-sitting-on-a-stone-wall-with-a-basket-27666771/"
+      },
+      {
+        "user": "Tima Miroshnichenko",
+        "url": "https://www.pexels.com/video/man-using-laptop-while-working-7580446/"
+      },
+      {
+        "user": "Mehmet Turgut  Kirkgoz",
+        "url": "https://www.pexels.com/photo/painting-on-wall-in-bar-11366437/"
+      },
+      {
+        "user": "Miguel Á. Padriñán",
+        "url": "https://www.pexels.com/photo/numeric-7-wall-decor-2249535/"
+      },
+      {
+        "user": "Coverr",
+        "url": "https://www.pexels.com/video/person-wiping-a-whiteboard-853977/"
+      },
+      {
+        "user": "Chen Te",
+        "url": "https://www.pexels.com/photo/a-person-riding-a-motorcycle-9949119/"
+      },
+      {
+        "user": "Pavel Danilyuk",
+        "url": "https://www.pexels.com/video/woman-sitting-while-writing-in-notebook-8716885/"
+      },
+      {
+        "user": "Caleb Oquendo",
+        "url": "https://www.pexels.com/photo/professional-music-studio-mixing-console-close-up-34538643/"
+      },
+      {
+        "user": "Joseph Eulo",
+        "url": "https://www.pexels.com/video/back-view-of-protesters-walking-with-placards-5286290/"
+      },
+      {
+        "user": "Paparazzi Ratzfatzzi",
+        "url": "https://www.pexels.com/photo/industrial-excavator-claw-at-night-in-dockyard-38552025/"
+      },
+      {
+        "user": "MITSUKI SAWA",
+        "url": "https://www.pexels.com/photo/photo-of-a-village-at-sunset-13566985/"
+      }
+    ],
+    "presenter": {
+      "mode": "full",
+      "engine": "card"
+    }
+  }
+}
