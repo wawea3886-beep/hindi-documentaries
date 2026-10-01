@@ -1,0 +1,2713 @@
+{
+  "date": "2026-10-01",
+  "stage": "done",
+  "generatedAt": "2026-09-30T23:30:15.835Z",
+  "language": "ur",
+  "topic": {
+    "name": "SS El Faro: Sailing Into the Hurricane",
+    "category": "disaster",
+    "angle": "A 33-person crew sails into the eyewall of a Category 3 hurricane. The black box recordings show what went wrong on the bridge in the hours before the ship sank.",
+    "why": "Anniversary: SS El Faro sank on 1 October 2015, the worst US merchant marine disaster in decades.",
+    "wikiTitles": [
+      "SS El Faro",
+      "Hurricane Joaquin",
+      "Voyage data recorder",
+      "TOTE Maritime"
+    ]
+  },
+  "sources": [
+    {
+      "title": "SS El Faro",
+      "url": "https://en.wikipedia.org/wiki/SS_El_Faro"
+    },
+    {
+      "title": "Hurricane Joaquin",
+      "url": "https://en.wikipedia.org/wiki/Hurricane_Joaquin"
+    },
+    {
+      "title": "Voyage data recorder",
+      "url": "https://en.wikipedia.org/wiki/Voyage_data_recorder"
+    },
+    {
+      "title": "TOTE Maritime",
+      "url": "https://en.wikipedia.org/wiki/TOTE_Maritime"
+    }
+  ],
+  "photos": [
+    {
+      "id": "p1",
+      "title": "TS Joaquin advisory 11 a.m.. EST 29 Sept, 2015",
+      "description": "National Hurricane Center Joaquin Advisory # 9 issued 11 a.m. EST 29 September 2015",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/TS_Joaquin_advisory_11_a.m.._EST_29_Sept%2C_2015.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:TS_Joaquin_advisory_11_a.m.._EST_29_Sept,_2015.jpg",
+      "width": 1920,
+      "height": 1570,
+      "artist": "National Weather Service Graphic",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p2",
+      "title": "Model of the wreck of the El Faro (38972122842)",
+      "description": "An accurately-scaled, computer-generated illustration of El Faro’s main hull as it rests on the ocean bottom, viewed from the starboard quarter. The hull is largely intact. The ship’s house is missing",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Model_of_the_wreck_of_the_El_Faro_%2838972122842%29.jpg/1920px-Model_of_the_wreck_of_the_El_Faro_%2838972122842%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Model_of_the_wreck_of_the_El_Faro_(38972122842).jpg",
+      "width": 1920,
+      "height": 1080,
+      "artist": "National Transportation Safety Board",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p3",
+      "title": "Joaquin 2015-10-01 1145z",
+      "description": "Visible satellite imagery of Hurricane Joaquin at 11:45 UTC October 1, 2015. The SS El Faro was lost in the hurricane around this time, with its final position reported in the northwestern eyewall. Im",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Joaquin_2015-10-01_1145z.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Joaquin_2015-10-01_1145z.png",
+      "width": 1920,
+      "height": 1920,
+      "artist": "National Oceanic and Atmospheric Administration; provided via the United States ",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p4",
+      "title": "Illustration of Significant events between 420 a.m and the sinking of El Faro showing ship's heading and course",
+      "description": "Figure 18 from U.S. Coast Guard's report on the sinking and loss of the El Faro of significant events after 4:20 a.m. showing ship's heading and course",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Illustration_of_Significant_events_between_420_a.m_and_the_sinking_of_El_Faro_showing_ship%27s_heading_and_course.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Illustration_of_Significant_events_between_420_a.m_and_the_sinking_of_El_Faro_showing_ship%27s_heading_and_course.jpg",
+      "width": 1920,
+      "height": 1649,
+      "artist": "U.S. Coast Guard",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p5",
+      "title": "El Faro Alternate, Normal and Accident Routes Jacksonville to San Juan Figure 5 from NTSB Report",
+      "description": "El Faro Alternate, Normal and Accident Routes Jacksonville to San Juan Figure 5 from NTSB Report Diagram from U.S. Coast Guard",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/El_Faro_Alternate%2C_Normal_and_Accident_Routes_Jacksonville_to_San_Juan_Figure_5_from_NTSB_Report.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:El_Faro_Alternate,_Normal_and_Accident_Routes_Jacksonville_to_San_Juan_Figure_5_from_NTSB_Report.jpg",
+      "width": 1920,
+      "height": 1560,
+      "artist": "U.S. Coast Guard Diagram",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p6",
+      "title": "EL FARO VDR Photo (26569406162)",
+      "description": "Voyage data recorder next to El Faro mast on ocean floor.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/EL_FARO_VDR_Photo_%2826569406162%29.jpg/1920px-EL_FARO_VDR_Photo_%2826569406162%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:EL_FARO_VDR_Photo_(26569406162).jpg",
+      "width": 1920,
+      "height": 1411,
+      "artist": "NTSBgov",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p7",
+      "title": "CURV photo of the stern of El Faro 160103-N-ZZ999-550",
+      "description": "160103-N-ZZ999-550 - ATLANTIC OCEAN (Jan. 3, 2016) A video frame grab showing the stern of the of the sunken freighter El Faro on the seafloor, 15,000-feet deep near the Bahamas. The image was taken b",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/CURV_photo_of_the_stern_of_El_Faro_160103-N-ZZ999-550.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:CURV_photo_of_the_stern_of_El_Faro_160103-N-ZZ999-550.jpg",
+      "width": 1920,
+      "height": 1440,
+      "artist": "(U.S. Navy video frame grab/Released)",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p8",
+      "title": "Cyclone Catarina from the ISS on March 26 2004",
+      "description": "Before the year 2004, only two tropical cyclones had ever been noted in the South Atlantic Basin, and no hurricane. However, a circulation center well off the coast of southern Brazil developed tropic",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG/1920px-Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG",
+      "width": 1920,
+      "height": 1269,
+      "artist": "Astronaut photograph ISS008-E-19646 was taken March 7, 2004, with a Kodak DCS760",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p9",
+      "title": "Joaquin 2015 Bahamas path",
+      "description": "Track map of Hurricane Joaquin of the 2015 Atlantic hurricane season. The points show the location of the storm at 6-hour intervals. The colour represents the storm's maximum sustained wind speeds as ",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Joaquin_2015_Bahamas_path.png/1920px-Joaquin_2015_Bahamas_path.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Joaquin_2015_Bahamas_path.png",
+      "width": 1920,
+      "height": 1852,
+      "artist": "KN2731",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p10",
+      "title": "Joaquin 2015-10-03 1437Z",
+      "description": "Visible satellite imagery of Hurricane Joaquin at the time of its peak winds on October 3, 2015.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Joaquin_2015-10-03_1437Z.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Joaquin_2015-10-03_1437Z.png",
+      "width": 1920,
+      "height": 1920,
+      "artist": "National Oceanic and Atmospheric Administration; provided via the United States ",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p11",
+      "title": "2015 Atlantic hurricane season summary",
+      "description": "This map shows the tracks of all tropical cyclones in the 2015 Atlantic hurricane season. The points show the location of each storm at 6-hour intervals. The colour represents the storm's maximum sust",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/2015_Atlantic_hurricane_season_summary.png/1920px-2015_Atlantic_hurricane_season_summary.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:2015_Atlantic_hurricane_season_summary.png",
+      "width": 1920,
+      "height": 1188,
+      "artist": "MarioProtIV",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p12",
+      "title": "Voyage data recorder on MV Barfleur",
+      "description": "The protective capsule (or final recording media) of a voyage data recorder on M/V Barfleur.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Voyage_data_recorder_on_MV_Barfleur.JPG/1920px-Voyage_data_recorder_on_MV_Barfleur.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Voyage_data_recorder_on_MV_Barfleur.JPG",
+      "width": 1920,
+      "height": 1440,
+      "artist": "Edward Betts",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p13",
+      "title": "Terra",
+      "description": "",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Terra.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Terra.png",
+      "width": 1920,
+      "height": 1920,
+      "artist": "Unknown",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p14",
+      "title": "Ship Voyage Data Recorder",
+      "description": "A Voyage Data Recorder (VDR), the \"black box\" of a ship, on the container ship SMA CGM Nabucco",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Ship_Voyage_Data_Recorder.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Ship_Voyage_Data_Recorder.jpg",
+      "width": 1920,
+      "height": 1440,
+      "artist": "Hervé Cozanet",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "id": "p15",
+      "title": "Data Acquisition Unit",
+      "description": "The Data Acquisition Unit (DAU) of a Voyage Data Recorder. It collects data from various shipboard sensors and transmits it to the recording unit.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Data_Acquisition_Unit.jpg/1920px-Data_Acquisition_Unit.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Data_Acquisition_Unit.jpg",
+      "width": 1920,
+      "height": 1280,
+      "artist": "MultiPazz!",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p16",
+      "title": "DM100 VDR G2",
+      "description": "Overview of a complete Voyage Data Recorder (VDR) system showing the Data Acquisition Unit, bridge microphones, float-free capsule, and fixed capsule. The system is designed to meet SOLAS requirements",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/DM100_VDR_G2.jpg/1920px-DM100_VDR_G2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:DM100_VDR_G2.jpg",
+      "width": 1920,
+      "height": 986,
+      "artist": "MultiPazz!",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p17",
+      "title": "AMI Float Free Capsule",
+      "description": "This image shows the AMI Marine ltd Float Free Capsule used on ships to store a minimum of 48 hours of recorded data. if the vessel sinks the capsule case (white) will open and release the Yellow caps",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/AMI_Float_Free_Capsule.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:AMI_Float_Free_Capsule.png",
+      "width": 1920,
+      "height": 1438,
+      "artist": "Stulish",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  ],
+  "youtube": {
+    "shorts": {
+      "s1": {
+        "videoId": "0XQArxcjTZQ",
+        "url": "https://www.youtube.com/shorts/0XQArxcjTZQ",
+        "publishAt": "2026-10-01T14:30:00.000Z",
+        "uploadedAt": "2026-10-01T00:21:11.467Z"
+      },
+      "s2": {
+        "videoId": "z4cfVkaofpc",
+        "url": "https://www.youtube.com/shorts/z4cfVkaofpc",
+        "publishAt": "2026-10-02T03:30:00.000Z",
+        "uploadedAt": "2026-10-01T00:21:13.298Z"
+      },
+      "s3": {
+        "videoId": "haGoDdVM0Os",
+        "url": "https://www.youtube.com/shorts/haGoDdVM0Os",
+        "publishAt": "2026-10-02T07:30:00.000Z",
+        "uploadedAt": "2026-10-01T00:21:15.163Z"
+      }
+    },
+    "long": {
+      "videoId": "v3NpkB1FRYo",
+      "url": "https://www.youtube.com/watch?v=v3NpkB1FRYo",
+      "publishAt": "2026-10-01T13:00:00.000Z",
+      "uploadedAt": "2026-10-01T00:21:02.691Z",
+      "thumbnail": true,
+      "captions": true
+    }
+  },
+  "meta": {
+    "youtubeTitle": "Black Box Reveals Final Hours | SS El Faro Hurricane True Story",
+    "slug": "2026-10-01-ss-el-faro-sailing-into-the-hurricane",
+    "thumbnailText": "INTO THE STORM",
+    "thumbnailPrompt": "A huge rusty cargo ship tilted at a steep angle in giant black ocean waves inside a hurricane eyewall, lightning-lit sky, a lone captain silhouette at a bridge window in the foreground right, dark high-contrast blue and orange palette, empty dark space on the left for text",
+    "characters": "Captain Michael Davidson: middle-aged American merchant mariner, dark navy work jacket, tired but calm face, on a dim ship bridge. Second mate Danielle Randolph: young woman in a dark work jacket and hard hat, worried, phone in hand. Helmsman: young crew member in an orange immersion suit, panicked. Chief mate: American mariner in a yellow foul-weather jacket. SS El Faro: 790 ft rust-streaked US cargo ship with a white bridge house, 2015, Atlantic near the Bahamas. Hurricane Joaquin: huge swirling storm with a dark eye, 20-40 ft waves. Coast Guard rescuers: orange MH-60T helicopter and HC-130 aircraft over grey sea. Jacksonville port: container cranes at dusk.",
+    "descriptionEn": "On September 29, 2015, the American cargo ship El Faro left Jacksonville bound for Puerto Rico with 33 people aboard. A tropical storm was forming to the east. Two days later, the ship was gone. What happened on the bridge? Why did a respected captain keep sailing toward a hurricane while his officers raised concerns? Using the voyage data recorder transcript, investigation findings and search records, this documentary follows the final 26 hours of El Faro, the massive Coast Guard search, the discovery of the wreck about 15,000 feet down, and the safety failures that investigators uncovered. A true story of weather, decisions, and silence on the bridge.",
+    "descriptionUr": "29 September 2015 ko American cargo ship El Faro Jacksonville se Puerto Rico ke liye nikli, jis par 33 log sawar thay. Do din baad wo ghayab ho chuki thi. Bridge par kya hua? Captain ne tarqi karte toofan ki taraf safar kyun jari rakha jabke officers khatre ki nishandehi kar rahe thay? Is documentary mein black box ki recording, Coast Guard ki talash, samandar ki gehrai mein wreck ki dariyaft aur investigation ki findings Urdu aur English mein dekhiye.",
+    "tags": [
+      "el faro documentary",
+      "el faro in urdu",
+      "ss el faro",
+      "el faro sinking",
+      "hurricane joaquin",
+      "hurricane joaquin documentary",
+      "el faro black box",
+      "el faro voyage data recorder",
+      "el faro captain davidson",
+      "el faro true story",
+      "cargo ship disaster",
+      "ship sinking documentary",
+      "bermuda triangle ship",
+      "ntsb el faro",
+      "tote maritime",
+      "maritime disaster urdu",
+      "jahaz doob gaya",
+      "toofan mein jahaz",
+      "el faro ki kahani",
+      "samandari hadsa urdu"
+    ],
+    "hashtags": [
+      "#ElFaro",
+      "#HurricaneJoaquin",
+      "#ShipDisaster"
+    ],
+    "metaDescription": "In 2015 cargo ship El Faro sailed into Hurricane Joaquin with 33 crew. Black box audio reveals what went wrong on the bridge before she sank. Full story."
+  },
+  "chapters": [
+    {
+      "titleEn": "The Last Words on the Bridge",
+      "titleRoman": "Bridge par aakhri alfaaz",
+      "covers": "Cold open: 7:24-7:39 a.m. on Oct 1, 2015; Davidson orders abandon ship, 'Bow is down', helpless helmsman, final recorded words 'It's time to come this way!'; all 33 lost; questions: why sail toward the storm, why late muster, what did the recorder reveal; promise of the story",
+      "words": 220,
+      "beats": [
+        {
+          "id": "c1b1",
+          "text": "صبح کے 7:24 بجے ہیں، 1 اکتوبر 2015۔ Atlantic کے بیچ ایک cargo ship طوفان کی زد میں ہے، اور bridge پر alarms بج رہے ہیں۔",
+          "roman": "Subah ke 7:24 baje hain, 1 October 2015. Atlantic ke beech ek cargo ship toofan ki zad mein hai, aur bridge par alarms baj rahe hain.",
+          "visual": {
+            "type": "clip",
+            "query": "stormy sea night",
+            "prompt": "Rust-streaked cargo ship battered by huge waves at night in the Atlantic, dark hurricane sky, cinematic"
+          },
+          "highlight": "1 OCTOBER 2015, 7:24 A.M."
+        },
+        {
+          "id": "c1b2",
+          "text": "Captain Michael Davidson abandon ship کا حکم دیتا ہے۔ تھوڑی دیر بعد bridge پر آواز گونجتی ہے، Bow is down, bow is down!",
+          "roman": "Captain Michael Davidson abandon ship ka hukm deta hai. Thodi der baad bridge par awaaz goonjti hai, Bow is down, bow is down!",
+          "visual": {
+            "type": "ai",
+            "prompt": "Middle-aged American merchant mariner captain in a dark navy work jacket, tired but calm face, on a dim ship bridge with red alarm lights, tilted floor, stormy windows, dramatic mood"
+          }
+        },
+        {
+          "id": "c1b3",
+          "text": "پھر وہ chief mate کو UHF radio پر کہتا ہے کہ rafts پانی میں پھینک دو اور سب جہاز سے نکلو۔",
+          "roman": "Phir woh chief mate ko UHF radio par kehta hai ke rafts pani mein phenk do aur sab jahaz se niklo.",
+          "visual": {
+            "type": "ai",
+            "prompt": "American mariner in a yellow foul-weather jacket on a wet ship deck in a hurricane, holding a radio, orange life rafts nearby, heavy spray, tense mood"
+          }
+        },
+        {
+          "id": "c1b4",
+          "text": "اسی دوران ایک helmsman گھبرایا ہوا ہے۔ وہ چلاتا ہے، I need a ladder! A line! اور captain اسے بار بار کہتا ہے کہ گھبراؤ نہیں۔",
+          "roman": "Isi doran ek helmsman ghabraya hua hai. Woh chillata hai, I need a ladder! A line! Aur captain use baar baar kehta hai ke ghabrao nahin.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Young crew member in an orange immersion suit, panicked face, on a tilted dim ship bridge with flashing alarm lights, the navy-jacketed captain reaching toward him"
+          }
+        },
+        {
+          "id": "c1b5",
+          "text": "Captain اسے کہتا ہے، I'm not leavin' you, let's go! وہ اپنے helmsman کو اکیلا چھوڑنے کو تیار نہیں تھا۔",
+          "roman": "Captain use kehta hai, I'm not leavin' you, let's go! Woh apne helmsman ko akela chhorne ko tayyar nahin tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Captain in dark navy work jacket extending a steady hand to a young helmsman in an orange immersion suit on a dim storm-lit ship bridge, emotional, cinematic"
+          }
+        },
+        {
+          "id": "c1b6",
+          "text": "7:39 پر recording ختم ہو جاتی ہے۔ captain اور helmsman اب بھی bridge پر ہیں۔ آخری الفاظ ہیں، It's time to come this way!",
+          "roman": "7:39 par recording khatam ho jati hai. captain aur helmsman ab bhi bridge par hain. Aakhri alfaaz hain, It's time to come this way!",
+          "visual": {
+            "type": "card",
+            "title": "7:39 A.M. - 1 OCT 2015",
+            "text": "Recording ends: 'It's time to come this way!'"
+          }
+        },
+        {
+          "id": "c1b7",
+          "text": "اس کے بعد خاموشی۔ El Faro اپنے پورے عملے کے ساتھ ڈوب گیا۔ 33 لوگ، 28 Americans اور 5 Poles، کبھی واپس نہیں لوٹے۔",
+          "roman": "Is ke baad khamoshi. El Faro apne poore amle ke saath doob gaya. 33 log, 28 Americans aur 5 Poles, kabhi wapas nahin laute.",
+          "visual": {
+            "type": "photo",
+            "photo": "p2"
+          },
+          "highlight": "ALL 33 CREW LOST"
+        },
+        {
+          "id": "c1b8",
+          "text": "لیکن سوال یہ ہے کہ ایک respected captain اپنے ship کو Hurricane Joaquin کی طرف کیوں لے گیا؟ عملے نے اسے کتنی بار خبردار کیا؟",
+          "roman": "Lekin sawal yeh hai ke ek respected captain apne ship ko Hurricane Joaquin ki taraf kyun le gaya? Amle ne use kitni baar khabardar kiya?",
+          "visual": {
+            "type": "ai",
+            "prompt": "Huge swirling Hurricane Joaquin seen from above with a dark eye over the Bahamas, a tiny cargo ship near the eyewall, 20-40 ft waves, dramatic"
+          }
+        },
+        {
+          "id": "c1b9",
+          "text": "اور crew کو muster کرنے میں اتنی دیر کیوں ہوئی؟ NTSB نے اسے late decision کہا۔ تو recorder نے اصل میں کیا بتایا؟",
+          "roman": "Aur crew ko muster karne mein itni der kyun hui? NTSB ne ise late decision kaha. To recorder ne asal mein kya bataya?",
+          "visual": {
+            "type": "photo",
+            "photo": "p6"
+          }
+        },
+        {
+          "id": "c1b10",
+          "text": "دوستو، یہ SS El Faro کی سچی کہانی ہے۔ ایک پرانا جہاز، ایک طوفان، اور 26 گھنٹوں کی آوازیں۔ آئیے شروع سے چلتے ہیں، 1975 سے۔",
+          "roman": "Dosto, yeh SS El Faro ki sachi kahani hai. Ek purana jahaz, ek toofan, aur 26 ghanton ki awaazein. Aayiye shuru se chalte hain, 1975 se.",
+          "visual": {
+            "type": "clip",
+            "query": "old ship harbor",
+            "prompt": "Vintage 1975 cargo ship at a shipyard pier, warm sunrise light, documentary style"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "It is 7:24 a.m. on 1 October 2015. A cargo ship is caught in a storm in the middle of the Atlantic, and alarms are sounding on the bridge. Captain Michael Davidson gives the order to abandon ship. Soon after, a voice rings out on the bridge: \"Bow is down, bow is down!\" He then tells the chief mate over the UHF radio to throw the rafts into the water and get off the ship.",
+        "Meanwhile, a helmsman is panicking. He cries out, \"I need a ladder! A line!\" The captain keeps telling him not to be afraid. \"I'm not leavin' you, let's go!\" he says. He was not willing to leave his helmsman behind alone.",
+        "The recording ends at 7:39. The captain and the helmsman are still on the bridge. The last words heard are \"It's time to come this way!\" After that, there is silence. El Faro went down with her entire crew. Thirty-three people, 28 Americans and 5 Poles, never came home.",
+        "But questions remain. Why did a respected captain take his ship toward Hurricane Joaquin? How many times did his crew warn him? Why did it take so long to muster the crew? The NTSB called it a late decision. So what did the recorder really reveal?",
+        "This is the true story of SS El Faro: an old ship, a storm, and 26 hours of voices. Let's start at the beginning, in 1975."
+      ]
+    },
+    {
+      "titleEn": "A Lifeline Built in 1975",
+      "titleRoman": "1975 mein bani zindagi ki lifeline",
+      "covers": "Built 1975 as Puerto Rico by Sun Shipbuilding; renamed Northern Lights 1991 by Saltchuk/TOTE; 1992 conversion adding 90 ft mid-body; 2005-06 modification with cranes, added ballast, raised load line, damage stability assessment not performed; Iraq war charter, missiles; renamed El Faro 2006, Puerto Rico route; inspections and surveys passed; former crew called her a rust bucket; sister ship El Yunque's poor ventilation",
+      "words": 450,
+      "beats": [
+        {
+          "id": "c2b1",
+          "text": "El Faro کی کہانی 1975 سے شروع ہوتی ہے۔ اسے Chester, Pennsylvania میں Sun Shipbuilding and Drydock نے Puerto Rico کے نام سے بنایا تھا۔",
+          "roman": "El Faro ki kahani 1975 se shuru hoti hai. Ise Chester, Pennsylvania mein Sun Shipbuilding and Drydock ne Puerto Rico ke naam se banaya tha.",
+          "visual": {
+            "type": "map",
+            "place": "Chester, Pennsylvania",
+            "lat": 39.85,
+            "lon": -75.36,
+            "zoom": "region",
+            "label": "Chester, Pennsylvania"
+          }
+        },
+        {
+          "id": "c2b2",
+          "text": "یہ roll-on/roll-off اور lift-on/lift-off cargo ship تھی، جس پر U.S. merchant mariners کام کرتے تھے۔ پندرہ سال تک Navieras de Puerto Rico اسے چلاتی رہی۔",
+          "roman": "Yeh roll-on/roll-off aur lift-on/lift-off cargo ship thi, jis par U.S. merchant mariners kaam karte thay. Pandrah saal tak Navieras de Puerto Rico ise chalati rahi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "1975 American cargo ship newly built at a Pennsylvania shipyard dock, cranes, clean hull, sunny day, vintage documentary look"
+          },
+          "highlight": "BUILT IN 1975"
+        },
+        {
+          "id": "c2b3",
+          "text": "1991 میں Saltchuk Resources نے اسے خرید لیا، جو TOTE Maritime کی parent company ہے۔ نیا نام رکھا گیا، Northern Lights۔",
+          "roman": "1991 mein Saltchuk Resources ne ise khareed liya, jo TOTE Maritime ki parent company hai. Naya naam rakha gaya, Northern Lights.",
+          "visual": {
+            "type": "clip",
+            "query": "cargo ship harbor",
+            "prompt": "Large cargo ship at a northern port, grey sky, containers, documentary style"
+          }
+        },
+        {
+          "id": "c2b4",
+          "text": "1992 میں Mobile, Alabama کے Atlantic Marine Shipyard میں اس کی conversion ہوئی۔ جہاز میں 90 فٹ کا نیا mid-body جوڑا گیا، یعنی تقریباً 27 میٹر۔",
+          "roman": "1992 mein Mobile, Alabama ke Atlantic Marine Shipyard mein is ki conversion hui. Jahaz mein 90 feet ka naya mid-body jora gaya, yaani taqreeban 27 meter.",
+          "visual": {
+            "type": "clip",
+            "query": "shipyard welding",
+            "prompt": "Shipyard workers welding a huge steel ship section, sparks, cranes overhead"
+          },
+          "highlight": "90 FT MID-BODY ADDED"
+        },
+        {
+          "id": "c2b5",
+          "text": "پھر 2005 اور 2006 کے درمیان اسی shipyard میں دوسری modification ہوئی۔ اس بار lift-on/lift-off cranes لگانے کا انتظام کیا گیا۔",
+          "roman": "Phir 2005 aur 2006 ke darmiyan isi shipyard mein doosri modification hui. Is baar lift-on/lift-off cranes lagane ka intezam kiya gaya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Large cargo ship in a shipyard with new lifting cranes being installed on deck, workers in hard hats, afternoon light"
+          }
+        },
+        {
+          "id": "c2b6",
+          "text": "اس کام میں 4,875 long tons کا fixed ballast بھی شامل کیا گیا، اور جہاز کی load line تقریباً 2 فٹ اوپر اٹھائی گئی تاکہ مزید cargo آ سکے۔",
+          "roman": "Is kaam mein 4,875 long tons ka fixed ballast bhi shamil kiya gaya, aur jahaz ki load line taqreeban 2 feet upar uthai gayi taake mazeed cargo aa sake.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Cutaway-style illustration of a cargo ship hull with added ballast weight at the bottom and a raised load line mark on the side, technical yet simple"
+          },
+          "highlight": "4,875 LONG TONS OF BALLAST"
+        },
+        {
+          "id": "c2b7",
+          "text": "لیکن ایک اہم بات: ایک ضروری damage stability assessment نہیں کی گئی۔ اس بات پر ہم آگے چل کر دوبارہ غور کریں گے۔",
+          "roman": "Lekin ek ahem baat: ek zaroori damage stability assessment nahin ki gayi. Is baat par hum aage chal kar dobara ghaur karenge.",
+          "visual": {
+            "type": "card",
+            "title": "DAMAGE STABILITY ASSESSMENT",
+            "text": "A required assessment was not performed"
+          }
+        },
+        {
+          "id": "c2b8",
+          "text": "فروری 2003 میں، عراق پر امریکی حملے سے ذرا پہلے، Military Sealift Command نے اس جہاز کو charter کیا۔ یہ Operation Iraqi Freedom کا حصہ تھا۔",
+          "roman": "February 2003 mein, Iraq par Americi hamle se zara pehle, Military Sealift Command ne is jahaz ko charter kiya. Yeh Operation Iraqi Freedom ka hissa tha.",
+          "visual": {
+            "type": "clip",
+            "query": "military cargo ship",
+            "prompt": "Military-chartered cargo ship loaded with vehicles sailing across open sea, hazy light"
+          }
+        },
+        {
+          "id": "c2b9",
+          "text": "جہاز نے San Diego سے Marines اور فوجی سامان Kuwait پہنچایا۔ 19 مارچ کو Persian Gulf میں جہاز missiles کی زد میں آیا۔",
+          "roman": "Jahaz ne San Diego se Marines aur fauji saman Kuwait pohanchaya. 19 March ko Persian Gulf mein jahaz missiles ki zad mein aaya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Cargo ship at sea in the Persian Gulf with distant explosions and water plumes beside it, smoky sky, tense but no gore"
+          }
+        },
+        {
+          "id": "c2b10",
+          "text": "قریبی دھماکوں سے جہاز ہلا، مگر نہ کوئی نقصان ہوا اور نہ کوئی زخمی۔ جہاز اس حملے سے محفوظ رہا۔",
+          "roman": "Qareebi dhamakon se jahaz hila, magar na koi nuqsan hua aur na koi zakhmi. Jahaz is hamle se mehfooz raha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Merchant mariners in work jackets standing on a ship bridge looking out at distant explosions over the water, shaken but unhurt, dusk"
+          },
+          "factFix": "The sentence about how hard it is to imagine the crew's state is an invented, unsupported embellishment. The sources only say the explosions rocked the ship but caused no damage or injuries."
+        },
+        {
+          "id": "c2b11",
+          "text": "اکتوبر 2005 تک اس نے 25 voyages اور 49 port calls کیے۔ 12,200 pieces of military equipment، جن کا وزن 81,000 short tons تھا، اسی جہاز نے پہنچائے۔",
+          "roman": "October 2005 tak is ne 25 voyages aur 49 port calls kiye. 12,200 pieces of military equipment, jin ka wazan 81,000 short tons tha, isi jahaz ne pohanchaye.",
+          "visual": {
+            "type": "clip",
+            "query": "cargo containers port",
+            "prompt": "Military vehicles and equipment being loaded onto a ship at a port"
+          },
+          "highlight": "25 VOYAGES, 49 PORT CALLS"
+        },
+        {
+          "id": "c2b12",
+          "text": "Air Force general Norton A. Schwartz نے TOTE کی ٹیم کی تعریف کی کہ انہوں نے US flag industry کو اس کے بہترین روپ میں دکھایا۔",
+          "roman": "Air Force general Norton A. Schwartz ne TOTE ki team ki taareef ki ke unhon ne US flag industry ko us ke behtareen roop mein dikhaya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Air Force general in dress uniform shaking hands with a merchant shipping executive and mariners on a pier, flag in background, formal portrait mood"
+          }
+        },
+        {
+          "id": "c2b13",
+          "text": "2006 میں فوجی خدمات ختم ہوئیں۔ TOTE نے جہاز اپنی subsidiary Sea Star Lines کو دیا، اور نیا نام رکھا گیا، El Faro۔",
+          "roman": "2006 mein fauji khidmaat khatam hueen. TOTE ne jahaz apni subsidiary Sea Star Lines ko diya, aur naya naam rakha gaya, El Faro.",
+          "visual": {
+            "type": "ai",
+            "prompt": "790 ft rust-streaked US cargo ship with a white bridge house, freshly painted name on the bow, at a dock in Florida, golden hour"
+          },
+          "highlight": "RENAMED EL FARO IN 2006"
+        },
+        {
+          "id": "c2b14",
+          "text": "وہ اپنے پرانے route پر واپس آیا، اور امریکی mainland اور Puerto Rico کے درمیان ایک lifeline بن گیا۔",
+          "roman": "Woh apne purane route par wapas aaya, aur Americi mainland aur Puerto Rico ke darmiyan ek lifeline ban gaya.",
+          "visual": {
+            "type": "clip",
+            "query": "cargo ship ocean",
+            "prompt": "Cargo ship sailing across calm blue Caribbean sea at midday"
+          }
+        },
+        {
+          "id": "c2b15",
+          "text": "کاغذ پر اس کا record ٹھیک تھا۔ Coast Guard کی دو inspections مارچ اور جون 2014 میں ہوئیں، اور American Bureau of Shipping کے surveys فروری 2015 میں مکمل ہوئے۔",
+          "roman": "Kaghaz par us ka record theek tha. Coast Guard ki do inspections March aur June 2014 mein hueen, aur American Bureau of Shipping ke surveys February 2015 mein mukammal hue.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Inspector with a clipboard and hard hat examining documents beside a large cargo ship at a dock, daylight, calm mood"
+          }
+        },
+        {
+          "id": "c2b16",
+          "text": "NTSB نے پایا کہ safety drills ہر ہفتے ہوتی تھیں، اور Jacksonville سے نکلتے وقت جہاز stability criteria پر پورا اترتا تھا۔",
+          "roman": "NTSB ne paya ke safety drills har hafte hoti thin, aur Jacksonville se nikalte waqt jahaz stability criteria par poora utarta tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Crew members in hard hats and life vests doing a safety drill on a cargo ship deck, orderly, bright day"
+          }
+        },
+        {
+          "id": "c2b17",
+          "text": "مگر سابق crew members کی کہانی مختلف تھی۔ انہوں نے کہا کہ جہاز a rust bucket تھا، اور اسے پانی پر ہونا ہی نہیں چاہیے تھا۔",
+          "roman": "Magar sabiq crew members ki kahani mukhtalif thi. Unhon ne kaha ke jahaz a rust bucket tha, aur use pani par hona hi nahin chahiye tha.",
+          "visual": {
+            "type": "clip",
+            "query": "rusty metal hull",
+            "prompt": "Close view of a rust-streaked ship hull with peeling paint, moody light"
+          }
+        },
+        {
+          "id": "c2b18",
+          "text": "انہوں نے galley compartment میں drainage مسائل اور leaks بتائے، اور یہ بھی کہ ڈوبنے سے صرف دو مہینے پہلے تک decks میں سوراخ تھے۔",
+          "roman": "Unhon ne galley compartment mein drainage masail aur leaks bataye, aur yeh bhi ke doobne se sirf do mahine pehle tak decks mein surakh thay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Worn steel ship deck with rust patches and small holes, water dripping in a galley corridor, dim light, no people"
+          }
+        },
+        {
+          "id": "c2b19",
+          "text": "حادثے کے بعد Coast Guard نے sister ship El Yunque کا معائنہ کیا۔ اس کا cargo ventilation system خراب حالت میں تھا۔",
+          "roman": "Hadse ke baad Coast Guard ne sister ship El Yunque ka muaina kiya. Us ka cargo ventilation system kharab halat mein tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Coast Guard inspectors examining corroded ventilation trunks on the deck of an old cargo ship, flashlights, industrial mood"
+          }
+        },
+        {
+          "id": "c2b20",
+          "text": "Coast Guard کے مطابق اس سے 25 سے 30 فٹ کی seas میں وقفے وقفے سے flooding کا امکان تھا۔ کیا El Faro کے ساتھ بھی ایسا تھا؟",
+          "roman": "Coast Guard ke mutabiq is se 25 se 30 feet ki seas mein waqfe waqfe se flooding ka imkan tha. Kya El Faro ke saath bhi aisa tha?",
+          "visual": {
+            "type": "clip",
+            "query": "rough ocean waves",
+            "prompt": "Large ocean waves crashing against a ship hull, grey stormy sky"
+          },
+          "highlight": "25-30 FT SEAS"
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "El Faro's story begins in 1975. She was built in Chester, Pennsylvania, by Sun Shipbuilding and Drydock under the name Puerto Rico. She was a roll-on/roll-off and lift-on/lift-off cargo ship crewed by U.S. merchant mariners. Navieras de Puerto Rico operated her for fifteen years. In 1991 Saltchuk Resources, the parent company of TOTE Maritime, bought her and renamed her Northern Lights.",
+        "In 1992 she was converted at Atlantic Marine Shipyard in Mobile, Alabama, where a new 90-foot mid-body, roughly 27 meters, was added. Between 2005 and 2006 the same shipyard carried out a second modification, this time providing for lift-on/lift-off cranes. The work included 4,875 long tons of fixed ballast, and the ship's load line was raised by about 2 feet so she could carry more cargo. One important point, however: a required damage stability assessment was not carried out. We will return to this later.",
+        "In February 2003, just before the American attack on Iraq, the Military Sealift Command chartered the ship as part of Operation Iraqi Freedom. She carried Marines and military equipment from San Diego to Kuwait. On 19 March she came under missile fire in the Persian Gulf. Nearby explosions shook the ship, but there was no damage and no one was hurt. By October 2005 she had made 25 voyages and 49 port calls, delivering 12,200 pieces of military equipment weighing 81,000 short tons. Air Force General Norton A. Schwartz praised the TOTE team for showing the U.S. flag industry at its best.",
+        "Military service ended in 2006. TOTE handed the ship to its subsidiary Sea Star Lines, and she was renamed El Faro. She returned to her old route and became a lifeline between the American mainland and Puerto Rico.",
+        "On paper, her record was sound. The Coast Guard inspected her in March and June 2014, and American Bureau of Shipping surveys were completed in February 2015. The NTSB found that safety drills were held every week and that the ship met stability criteria when she left Jacksonville.",
+        "Former crew members told a different story. They called her a rust bucket that should never have been on the water. They described drainage problems and leaks in a galley compartment, and said there were holes in the decks as recently as two months before she sank. After the accident, the Coast Guard examined her sister ship, El Yunque. Its cargo ventilation system was in poor condition, and the Coast Guard said this could allow intermittent flooding in seas of 25 to 30 feet. Was the same true of El Faro?"
+      ]
+    },
+    {
+      "titleEn": "Leaving Jacksonville",
+      "titleRoman": "Jacksonville se rawangi",
+      "covers": "Sept 29, 2015, 8:10 p.m. departure, 391 containers, ~294 trailers and cars, 33 crew (28 Americans, 5 Poles); Captain Davidson; normal direct route expected to pass south of the storm; NTSB: departure reasonable but later insufficient action; forecasts of Joaquin; 175 nmi within storm",
+      "words": 480,
+      "beats": [
+        {
+          "id": "c3b1",
+          "text": "29 ستمبر 2015، رات کے 8:10 بجے۔ El Faro Jacksonville, Florida کی بندرگاہ سے نکلا، اور اس کی منزل تھی San Juan, Puerto Rico۔",
+          "roman": "29 September 2015, raat ke 8:10 baje. El Faro Jacksonville, Florida ki bandargah se nikla, aur us ki manzil thi San Juan, Puerto Rico.",
+          "visual": {
+            "type": "map",
+            "place": "Jacksonville, Florida",
+            "lat": 30.33,
+            "lon": -81.65,
+            "zoom": "region",
+            "label": "Jacksonville, Florida"
+          },
+          "highlight": "8:10 P.M. DEPARTURE"
+        },
+        {
+          "id": "c3b2",
+          "text": "جہاز پر 391 shipping containers تھے، اور تقریباً 294 trailers اور cars بھی۔ یہ سارا مال Puerto Rico تک جانا تھا۔",
+          "roman": "Jahaz par 391 shipping containers thay, aur taqreeban 294 trailers aur cars bhi. Yeh sara maal Puerto Rico tak jana tha.",
+          "visual": {
+            "type": "clip",
+            "query": "container port dusk",
+            "prompt": "Container cranes at Jacksonville port at dusk loading a large cargo ship, orange sky"
+          },
+          "highlight": "391 CONTAINERS"
+        },
+        {
+          "id": "c3b3",
+          "text": "عملے میں 33 لوگ تھے: 28 Americans اور 5 Poles۔ ہر ایک کی اپنی زندگی تھی، اپنا خاندان تھا، اور اپنی کہانی۔",
+          "roman": "Amle mein 33 log thay: 28 Americans aur 5 Poles. Har ek ki apni zindagi thi, apna khandan tha, aur apni kahani.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Group of merchant mariners in work jackets and hard hats standing together on a ship deck at dusk, warm light, respectful documentary portrait"
+          },
+          "highlight": "33 CREW MEMBERS"
+        },
+        {
+          "id": "c3b4",
+          "text": "El Faro اس وقت 40 سال پرانا جہاز تھا، 790 فٹ لمبا۔ اتنا بڑا جہاز بھی ایک hurricane کے سامنے کتنا چھوٹا ہو سکتا ہے، یہ وقت بتانے والا تھا۔",
+          "roman": "El Faro us waqt 40 saal purana jahaz tha, 790 feet lamba. Itna bara jahaz bhi ek hurricane ke samne kitna chhota ho sakta hai, yeh waqt batane wala tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "790 ft rust-streaked US cargo ship with a white bridge house seen from the side at sea, calm water, dusk, 2015"
+          },
+          "highlight": "790 FT, 40 YEARS OLD"
+        },
+        {
+          "id": "c3b5",
+          "text": "کمان Captain Michael Davidson کے ہاتھ میں تھی۔ Coast Guard کے Capt. Jason Neubauer نے بعد میں کہا کہ Davidson جہاز، عملے اور safe navigation کا آخری ذمہ دار تھا۔",
+          "roman": "Kamaan Captain Michael Davidson ke haath mein thi. Coast Guard ke Capt. Jason Neubauer ne baad mein kaha ke Davidson jahaz, amle aur safe navigation ka aakhri zimmedar tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Middle-aged American captain in dark navy work jacket, tired but calm face, studying a chart on a dim ship bridge at night"
+          }
+        },
+        {
+          "id": "c3b6",
+          "text": "Davidson نے El Faro کا normal direct route لینے کا plan بنایا۔ اسے امید تھی کہ جہاز Hurricane Joaquin کے جنوب سے گزر جائے گا۔",
+          "roman": "Davidson ne El Faro ka normal direct route lene ka plan banaya. Use umeed thi ke jahaz Hurricane Joaquin ke junoob se guzar jaye ga.",
+          "visual": {
+            "type": "photo",
+            "photo": "p5"
+          }
+        },
+        {
+          "id": "c3b7",
+          "text": "اس وقت Joaquin صرف ایک tropical storm تھا۔ مگر forecasts بتا رہے تھے کہ tropical storm اور hurricane کی ہوائیں جہاز کے normal route کے قریب آ سکتی ہیں۔",
+          "roman": "Us waqt Joaquin sirf ek tropical storm tha. Magar forecasts bata rahe thay ke tropical storm aur hurricane ki hawaein jahaz ke normal route ke qareeb aa sakti hain.",
+          "visual": {
+            "type": "photo",
+            "photo": "p1"
+          }
+        },
+        {
+          "id": "c3b8",
+          "text": "Joaquin اس وقت El Faro سے کئی سو miles مشرق میں تھا۔ NHC کے forecasters نے کہا کہ اس کے track اور intensity کے بارے میں بڑی uncertainty ہے۔",
+          "roman": "Joaquin us waqt El Faro se kai sau miles mashriq mein tha. NHC ke forecasters ne kaha ke us ke track aur intensity ke bare mein bari uncertainty hai.",
+          "visual": {
+            "type": "clip",
+            "query": "weather satellite storm",
+            "prompt": "Satellite view of a tropical storm over the Atlantic with forecast track lines"
+          }
+        },
+        {
+          "id": "c3b9",
+          "text": "کچھ weather models کے مطابق طوفان امریکہ کے East Coast کے قریب آ سکتا تھا، مگر ایک ridge اسے اچانک جنوب مغرب، یعنی Bahamas کی طرف موڑنے والی تھی۔",
+          "roman": "Kuch weather models ke mutabiq toofan Americi East Coast ke qareeb aa sakta tha, magar ek ridge use achanak junoob maghrib, yaani Bahamas ki taraf modne wali thi.",
+          "visual": {
+            "type": "photo",
+            "photo": "p9"
+          }
+        },
+        {
+          "id": "c3b10",
+          "text": "National Hurricane Center کے meteorologists کا اندازہ تھا کہ یکم اکتوبر کی صبح تک یہ hurricane بن جائے گا، اور Bahamas کی طرف southwest میں بڑھے گا۔",
+          "roman": "National Hurricane Center ke meteorologists ka andaza tha ke yakum October ki subah tak yeh hurricane ban jaye ga, aur Bahamas ki taraf southwest mein barhe ga.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Meteorologists at the National Hurricane Center watching large screens with a swirling storm forecast, dim control room, tense mood"
+          }
+        },
+        {
+          "id": "c3b11",
+          "text": "جہاز کے voyage plan کے مطابق وہ طوفان سے 175 nautical miles کے اندر سے گزرتا، جہاں 10 فٹ سے اونچی waves کا امکان تھا۔",
+          "roman": "Jahaz ke voyage plan ke mutabiq woh toofan se 175 nautical miles ke andar se guzarta, jahan 10 feet se unchi waves ka imkan tha.",
+          "visual": {
+            "type": "card",
+            "title": "175 NAUTICAL MILES",
+            "text": "Planned route passed within 175 nmi of the storm"
+          },
+          "highlight": "WITHIN 175 NMI OF STORM"
+        },
+        {
+          "id": "c3b12",
+          "text": "تو کیا Davidson کو روانہ ہی نہیں ہونا چاہیے تھا؟ تحقیق کے مطابق Jacksonville سے نکلنے کا فیصلہ available options کو دیکھتے ہوئے reasonable تھا۔",
+          "roman": "To kya Davidson ko rawana hi nahin hona chahiye tha? Tehqeeq ke mutabiq Jacksonville se nikalne ka faisla available options ko dekhte hue reasonable tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Captain in dark navy work jacket standing at the dim bridge window looking out at a darkening horizon, thoughtful, dusk"
+          },
+          "factFix": "The sources do not attribute the statement that departing Jacksonville was reasonable to the NTSB. The text says only that the decision was reasonable given the available options. The attribution should be removed or made general."
+        },
+        {
+          "id": "c3b13",
+          "text": "لیکن اس کے ساتھ NTSB نے یہ بھی کہا کہ بعد میں Davidson نے hurricane سے بچنے کے لیے کافی action نہیں لیا۔ آگے ہم دیکھیں گے کہ کیسے۔",
+          "roman": "Lekin is ke saath NTSB ne yeh bhi kaha ke baad mein Davidson ne hurricane se bachne ke liye kafi action nahin liya. Aage hum dekhenge ke kaise.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Investigators at a long table reviewing a thick report and a ship route diagram in a formal hearing room, serious mood"
+          }
+        },
+        {
+          "id": "c3b14",
+          "text": "بعد میں سابق crew members نے حیرت کا اظہار کیا کہ جہاز ایسے وقت روانہ ہوا جب planned track کے قریب ایک بڑا طوفان موجود تھا۔",
+          "roman": "Baad mein sabiq crew members ne herat ka izhar kiya ke jahaz aise waqt rawana hua jab planned track ke qareeb ek bara toofan maujood tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Former merchant mariners sitting at a table at a harbor cafe speaking with worried expressions, muted evening light"
+          }
+        },
+        {
+          "id": "c3b15",
+          "text": "Coast Guard investigators نے بعد میں نتیجہ نکالا کہ Davidson نے طوفان کی طاقت اور جہاز کی کمزوری، دونوں کو underestimate کیا۔",
+          "roman": "Coast Guard investigators ne baad mein nateeja nikala ke Davidson ne toofan ki taqat aur jahaz ki kamzori, dono ko underestimate kiya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Coast Guard investigators in uniform examining a large storm map and ship diagram on a wall, somber mood"
+          }
+        },
+        {
+          "id": "c3b16",
+          "text": "El Faro کو اس کے بعد Tacoma واپس جا کر ایک دوسرے vessel کی جگہ لینی تھی۔ یعنی جہاز کے آگے بھی پورا schedule موجود تھا۔",
+          "roman": "El Faro ko us ke baad Tacoma wapas ja kar ek doosre vessel ki jagah leni thi. Yaani jahaz ke aage bhi poora schedule maujood tha.",
+          "visual": {
+            "type": "clip",
+            "query": "cargo ship sailing",
+            "prompt": "Large cargo ship sailing at sea with a calm horizon, late afternoon"
+          }
+        },
+        {
+          "id": "c3b17",
+          "text": "Jacksonville کی cranes پیچھے رہ گئیں، اور El Faro کھلے Atlantic میں داخل ہو گیا۔ اگلے دو دن میں Joaquin تیزی سے بدلنے والا تھا۔",
+          "roman": "Jacksonville ki cranes peechhe reh gayin, aur El Faro khule Atlantic mein dakhil ho gaya. Agle do din mein Joaquin tezi se badalne wala tha.",
+          "visual": {
+            "type": "clip",
+            "query": "container cranes dusk",
+            "prompt": "Container cranes silhouetted at dusk as a ship sails away from Jacksonville port into open water"
+          }
+        },
+        {
+          "id": "c3b18",
+          "text": "Jacksonville سے نکلنے کے دس گھنٹے بعد El Faro اپنے charted course سے ہٹ چکا تھا۔ اس کے بیس گھنٹوں سے کم وقت بعد satellite alert آنے والا تھا۔",
+          "roman": "Jacksonville se nikalne ke das ghante baad El Faro apne charted course se hat chuka tha. Us ke bees ghanton se kam waqt baad satellite alert aane wala tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Cargo ship at night on dark Atlantic waves with growing swells, distant storm glow on the horizon, ominous mood"
+          }
+        },
+        {
+          "id": "c3b19",
+          "text": "تو کیا جہاز اسی route پر چلتا رہا؟ اور جب طوفان قریب آیا تو bridge پر کن کن لوگوں نے آواز اٹھائی؟ یہ ہم اگلے حصے میں دیکھیں گے۔",
+          "roman": "To kya jahaz usi route par chalta raha? Aur jab toofan qareeb aaya to bridge par kin kin logon ne awaaz uthai? Yeh hum agle hisse mein dekhenge.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Young woman second mate in dark work jacket and hard hat holding a phone on a dim ship bridge at night, worried, captain silhouette in the background"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "At 8:10 p.m. on 29 September 2015, El Faro left the port of Jacksonville, Florida, bound for San Juan, Puerto Rico. She carried 391 shipping containers and about 294 trailers and cars, all destined for Puerto Rico. The crew numbered 33: 28 Americans and 5 Poles. Each had a life, a family and a story. The ship was 40 years old and 790 feet long. How small even a ship that large can be against a hurricane was something time was about to show.",
+        "Captain Michael Davidson was in command. Coast Guard Capt. Jason Neubauer later said Davidson was ultimately responsible for the ship, the crew and safe navigation. Davidson planned to take El Faro's normal direct route. He hoped the ship would pass south of Hurricane Joaquin. At that point Joaquin was only a tropical storm, but forecasts indicated that its winds could come close to the ship's normal route.",
+        "Joaquin was then several hundred miles east of El Faro. Forecasters at the NHC spoke of great uncertainty about its track and intensity. Some weather models suggested the storm could approach the American East Coast, but a ridge was expected to turn it suddenly southwest toward the Bahamas. National Hurricane Center meteorologists expected it to become a hurricane by the morning of 1 October and move southwest toward the Bahamas. Under the voyage plan, the ship would pass within 175 nautical miles of the storm, where waves above 10 feet were possible.",
+        "So should Davidson never have sailed? According to the investigation, the decision to leave Jacksonville was reasonable given the options available. But the NTSB also said that later Davidson did not take enough action to avoid the hurricane. We will see how.",
+        "Former crew members later expressed astonishment that the ship sailed when a large storm was near her planned track. Coast Guard investigators concluded that Davidson underestimated both the storm's strength and the ship's vulnerability. After this trip El Faro was to return to Tacoma to replace another vessel, so a full schedule lay ahead of her.",
+        "The cranes of Jacksonville fell behind, and El Faro entered the open Atlantic. Over the next two days Joaquin would change quickly. Ten hours after leaving Jacksonville, El Faro had already moved off her charted course, and less than twenty hours after that a satellite alert would come. Did the ship stay on the same route? And when the storm drew closer, who on the bridge spoke up? We will see in the next part."
+      ]
+    },
+    {
+      "titleEn": "A Storm Grows Closer",
+      "titleRoman": "Toofan qareeb aata hai",
+      "covers": "Joaquin formed Sept 28, named Sept 29, hurricane by Sept 30, rapid intensification, Category 3 by night of Sept 30 into Oct 1, then Category 4; ridge shifted track southwest; Sept 30 6:40 a.m. course alter slightly south; 11:05 p.m. and 11:13 p.m. calls from third mate; 1:20 a.m. second mate Randolph suggests Crooked Island Passage; her email; outdated weather data from Bon Voyage System",
+      "words": 450,
+      "beats": [
+        {
+          "id": "c4b1",
+          "text": "Joaquin کی کہانی 28 ستمبر کو شروع ہوئی۔ Bermuda کے جنوب مغرب میں ایک non-tropical low سے tropical depression بنا، اور 29 ستمبر کو اسے Joaquin کا نام ملا۔",
+          "roman": "Joaquin ki kahani 28 sitambar ko shuru hui. Bermuda ke janub maghrib mein aik non-tropical low se tropical depression bana, aur 29 sitambar ko ise Joaquin ka naam mila.",
+          "visual": {
+            "type": "photo",
+            "photo": "p1"
+          }
+        },
+        {
+          "id": "c4b2",
+          "text": "یہ سب اتنا خطرناک نہیں لگتا تھا۔ شروع میں NHC کے meteorologists کا خیال تھا کہ computer models کے مطابق یہ system شاید 96 گھنٹوں میں ختم ہو جائے گا۔",
+          "roman": "Yeh sab itna khatarnak nahi lagta tha. Shuru mein NHC ke meteorologists ka khayal tha ke computer models ke mutabiq yeh system shayad 96 ghanton mein khatam ho jaye ga.",
+          "visual": {
+            "type": "clip",
+            "query": "weather forecast computer screen",
+            "prompt": "Meteorologists studying computer forecast models of a tropical storm on large screens in a dim hurricane center, 2015, tense mood"
+          },
+          "highlight": "96 HOURS FORECAST"
+        },
+        {
+          "id": "c4b3",
+          "text": "لیکن پھر mid-level ridge مضبوط ہوا۔ اس سے Joaquin کا راستہ اچانک جنوب مغرب کی طرف مڑ گیا، یعنی Bahamas کی سمت۔",
+          "roman": "Lekin phir mid-level ridge mazboot hua. Is se Joaquin ka rasta achanak janub maghrib ki taraf mur gaya, yani Bahamas ki simt.",
+          "visual": {
+            "type": "photo",
+            "photo": "p9"
+          }
+        },
+        {
+          "id": "c4b4",
+          "text": "سمندر کا درجہ حرارت normal سے تقریباً 1.1 ڈگری سیلسیس زیادہ تھا، اور wind shear کم ہو رہی تھی۔ یہ دونوں چیزیں طوفان کو طاقت دے رہی تھیں۔",
+          "roman": "Samandar ka darja hararat normal se taqriban 1.1 degree celsius zyada tha, aur wind shear kam ho rahi thi. Yeh dono cheezein toofan ko taqat de rahi thin.",
+          "visual": {
+            "type": "clip",
+            "query": "warm ocean waves",
+            "prompt": "Warm tropical Atlantic ocean under heavy gathering clouds, aerial view, ominous mood"
+          }
+        },
+        {
+          "id": "c4b5",
+          "text": "30 ستمبر کی صبح Joaquin hurricane بن گیا۔ اس کے بعد rapid intensification شروع ہوئی، اور مرکز میں ایک واضح eye بننے لگی۔",
+          "roman": "30 sitambar ki subah Joaquin hurricane ban gaya. Is ke baad rapid intensification shuru hui, aur markaz mein aik wazeh eye banne lagi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Hurricane Joaquin forming a clear dark eye, huge swirling storm seen from space over the Atlantic near the Bahamas, dramatic lighting"
+          },
+          "highlight": "HURRICANE BY 30 SEPTEMBER"
+        },
+        {
+          "id": "c4b6",
+          "text": "اب El Faro کی bridge پر چلتے ہیں۔ 30 ستمبر کی صبح 6:40 پر Davidson اور chief mate نے updated weather data دیکھ کر course تھوڑا جنوب کی طرف بدلا۔",
+          "roman": "Ab El Faro ki bridge par chalte hain. 30 sitambar ki subah 6:40 par Davidson aur chief mate ne updated weather data dekh kar course thora janub ki taraf badla.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Captain Michael Davidson, middle-aged American merchant mariner in a dark navy work jacket, tired but calm face, studying a weather chart with the chief mate in a yellow foul-weather jacket on a dim ship bridge"
+          },
+          "highlight": "6:40 A.M. COURSE CHANGE"
+        },
+        {
+          "id": "c4b7",
+          "text": "یہ بہت چھوٹی تبدیلی تھی۔ Davidson کو امید تھی کہ جہاز طوفان کے جنوب سے گزر جائے گا، لیکن storm کی wind fields عام route کے قریب forecast تھیں۔",
+          "roman": "Yeh bohat chhoti tabdeeli thi. Davidson ko umeed thi ke jahaz toofan ke janub se guzar jaye ga, lekin storm ki wind fields aam route ke qareeb forecast thin.",
+          "visual": {
+            "type": "photo",
+            "photo": "p5"
+          }
+        },
+        {
+          "id": "c4b8",
+          "text": "Plan کے مطابق El Faro کو طوفان کے 175 nautical miles کے اندر سے گزرنا تھا، جہاں 10 فٹ سے اونچی waves کا امکان تھا۔",
+          "roman": "Plan ke mutabiq El Faro ko toofan ke 175 nautical miles ke andar se guzarna tha, jahan 10 feet se unchi waves ka imkan tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Rust-streaked 790 ft US cargo ship with white bridge house sailing on a rough grey Atlantic sea under dark heavy clouds, 2015, wide shot"
+          },
+          "highlight": "WITHIN 175 NAUTICAL MILES"
+        },
+        {
+          "id": "c4b9",
+          "text": "اسی دن Joaquin جنوب مغرب کی طرف بڑھتا رہا۔ رات تک طوفان Category 3 تک پہنچ گیا، اور اس کی maximum sustained winds 100 knots تھیں۔",
+          "roman": "Isi din Joaquin janub maghrib ki taraf barhta raha. Raat tak toofan Category 3 tak pahunch gaya, aur us ki maximum sustained winds 100 knots thin.",
+          "visual": {
+            "type": "clip",
+            "query": "hurricane satellite view",
+            "prompt": "Satellite view of a strengthening hurricane over the Atlantic with a dark eye"
+          }
+        },
+        {
+          "id": "c4b10",
+          "text": "رات 11:05 پر third mate نے Davidson کو فون کر کے بتایا کہ Joaquin کی maximum winds اب 100 mph ہو چکی ہیں۔",
+          "roman": "Raat 11:05 par third mate ne Davidson ko phone kar ke bataya ke Joaquin ki maximum winds ab 100 mph ho chuki hain.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Young ship officer in dark work jacket holding a bridge telephone at night on a dim ship bridge, worried face, storm outside the windows"
+          }
+        },
+        {
+          "id": "c4b11",
+          "text": "اس نے یہ بھی کہا کہ طوفان El Faro کے planned track کی طرف بڑھ رہا ہے۔ چند منٹ بعد، 11:13 پر، اس نے دوبارہ فون کیا۔",
+          "roman": "Us ne yeh bhi kaha ke toofan El Faro ke planned track ki taraf barh raha hai. Chand minute baad, 11:13 par, us ne dobara phone kiya.",
+          "visual": {
+            "type": "clip",
+            "query": "ship bridge night",
+            "prompt": "Dark ship bridge at night with glowing radar screens and rain on windows"
+          }
+        },
+        {
+          "id": "c4b12",
+          "text": "اس بار third mate نے جنوب کی طرف diversion کا مشورہ دیا۔ یعنی رات کے اندھیرے میں ایک نہیں، دو بار خطرے کی گھنٹی بج چکی تھی۔",
+          "roman": "Is baar third mate ne janub ki taraf diversion ka mashwara diya. Yani raat ke andheray mein aik nahi, do baar khatre ki ghanti baj chuki thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Captain Michael Davidson in a dark navy work jacket listening to a phone call on a dim ship bridge, tired but calm face, faint blue screen glow"
+          },
+          "highlight": "11:13 P.M. SECOND CALL"
+        },
+        {
+          "id": "c4b13",
+          "text": "پھر 1 اکتوبر کو تقریباً 1:20 بجے second mate Danielle Randolph نے بھی Davidson کو فون کیا۔ انہوں نے Crooked Island Passage سے گزرنے کا course change suggest کیا۔",
+          "roman": "Phir 1 aktoobar ko taqriban 1:20 baje second mate Danielle Randolph ne bhi Davidson ko phone kiya. Unhon ne Crooked Island Passage se guzarne ka course change suggest kiya.",
+          "visual": {
+            "type": "map",
+            "place": "Crooked Island Passage",
+            "lat": 22.7,
+            "lon": -74.1,
+            "zoom": "region",
+            "label": "Crooked Island Passage, Bahamas"
+          }
+        },
+        {
+          "id": "c4b14",
+          "text": "Randolph کو صاف فکر تھی۔ انہوں نے اپنے friends اور family کو email میں لکھا: There is a hurricane out here and we are heading straight into it.",
+          "roman": "Randolph ko saaf fikr thi. Unhon ne apne friends aur family ko email mein likha: There is a hurricane out here and we are heading straight into it.",
+          "visual": {
+            "type": "card",
+            "title": "RANDOLPH'S EMAIL",
+            "text": "There is a hurricane out here and we are heading straight into it."
+          }
+        },
+        {
+          "id": "c4b15",
+          "text": "1 اکتوبر کی صبح تک Joaquin Category 4 بن چکا تھا۔ تقریباً 12:00 UTC پر وہ Samana Cay کے اوپر سے 130 mph کی ہواؤں کے ساتھ گزرا۔",
+          "roman": "1 aktoobar ki subah tak Joaquin Category 4 ban chuka tha. Taqriban 12:00 UTC par woh Samana Cay ke upar se 130 mph ki hawaon ke saath guzra.",
+          "visual": {
+            "type": "photo",
+            "photo": "p3"
+          },
+          "highlight": "CATEGORY 4 ON OCTOBER 1"
+        },
+        {
+          "id": "c4b16",
+          "text": "یعنی crew کے کئی افراد خطرہ محسوس کر رہے تھے۔ NTSB کے مطابق Davidson نے اس کے باوجود طوفان سے بچنے کے لیے کافی action نہیں لیا۔",
+          "roman": "Yani crew ke kai afraad khatra mehsoos kar rahe thay. NTSB ke mutabiq Davidson ne is ke bawajood toofan se bachne ke liye kafi action nahi liya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Second mate Danielle Randolph, young woman in a dark work jacket and hard hat, worried, phone in hand, standing on a dim ship bridge at night"
+          }
+        },
+        {
+          "id": "c4b17",
+          "text": "NTSB نے یہ بھی کہا کہ Davidson نے commercial service Bon Voyage System کی پرانی weather information پر انحصار کیا، یعنی سب سے تازہ معلومات استعمال نہیں کیں۔",
+          "roman": "NTSB ne yeh bhi kaha ke Davidson ne commercial service Bon Voyage System ki purani weather information par inhisar kiya, yani sab se taza maloomat istemal nahi kin.",
+          "visual": {
+            "type": "clip",
+            "query": "old weather map",
+            "prompt": "Outdated printed weather chart on a ship's chart table beside a modern forecast screen"
+          },
+          "highlight": "OUTDATED WEATHER DATA"
+        },
+        {
+          "id": "c4b18",
+          "text": "اور اسی طوفان کی طرف El Faro اب بھی بڑھ رہا تھا۔ سوال یہی تھا: جب کئی officers خطرہ بتا رہے تھے، تو فیصلہ بدلا کیوں نہیں؟",
+          "roman": "Aur isi toofan ki taraf El Faro ab bhi barh raha tha. Sawal yahi tha: jab kai officers khatra bata rahe thay, to faisla badla kyun nahi?",
+          "visual": {
+            "type": "ai",
+            "prompt": "SS El Faro, rust-streaked cargo ship with white bridge house, sailing toward a massive dark hurricane wall on the horizon, Atlantic near the Bahamas, dramatic mood"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "Joaquin's story began on 28 September. A non-tropical low southwest of Bermuda turned into a tropical depression, and on 29 September it was named Joaquin. It did not seem so dangerous at first. NHC meteorologists initially thought, based on computer models, that the system might die out within 96 hours. Then a mid-level ridge strengthened, and Joaquin's path suddenly turned southwest, toward the Bahamas. Sea temperatures were about 1.1 degrees Celsius above normal and wind shear was weakening. Both factors were giving the storm strength. On the morning of 30 September Joaquin became a hurricane, rapid intensification began, and a clear eye started forming at its center.",
+        "Now to El Faro's bridge. At 6:40 on the morning of 30 September, Davidson and the chief mate looked at updated weather data and altered course slightly south. It was a very small change. Davidson hoped the ship would pass south of the storm, but the storm's wind fields were forecast to lie close to the usual route. By plan, El Faro was to pass within 175 nautical miles of the storm, where waves above 10 feet were possible.",
+        "Joaquin kept moving southwest that day. By night it had reached Category 3, with maximum sustained winds of 100 knots. At 11:05 p.m. the third mate phoned Davidson to say Joaquin's maximum winds were now 100 mph, and that the storm was moving toward El Faro's planned track. A few minutes later, at 11:13, he called again, this time recommending a diversion to the south. In the dark of night, the alarm had been raised not once but twice.",
+        "Then, at about 1:20 a.m. on 1 October, second mate Danielle Randolph also phoned Davidson. She suggested changing course to go through the Crooked Island Passage. Randolph was clearly worried. She wrote in an email to friends and family: \"There is a hurricane out here and we are heading straight into it.\"",
+        "By the morning of 1 October Joaquin was a Category 4. At about 12:00 UTC it passed over Samana Cay with 130 mph winds. Several members of the crew were feeling the danger. According to the NTSB, Davidson nonetheless did not take enough action to avoid the storm. The NTSB also said he relied on outdated weather information from the commercial Bon Voyage System, meaning he did not use the most recent information.",
+        "And El Faro was still heading toward this storm. The question was: when several officers were pointing out the danger, why was the decision not changed?"
+      ]
+    },
+    {
+      "titleEn": "Twenty-Six Hours on the Recorder: The Final Morning",
+      "titleRoman": "Recorder ke 26 ghante: aakhri subah",
+      "covers": "VDR transcript released Dec 13, 2016; 5:43 a.m. flooding in no. 3 hold; loss of propulsion; 6:54 and 7:06 phone calls quoting Davidson, scuttle open, list; 7:10 distress, SSAS/GMDSS; 7:15 chief mate and fire main; 7:17 bilge alarm; 7:24 general alarm, abandon ship, bow down; helmsman; recording ends 7:39; Coast Guard got satellite alert about 7:30 and EPIRB ping; last positions near the eyewall",
+      "words": 650,
+      "beats": [
+        {
+          "id": "c5b1",
+          "text": "13 دسمبر 2016 کو NTSB نے 500 صفحات کا transcript جاری کیا۔ یہ وہ باتیں تھیں جو جہاز کی bridge پر آخری 26 گھنٹوں میں ہوئیں۔",
+          "roman": "13 disambar 2016 ko NTSB ne 500 safhat ka transcript jari kiya. Yeh woh baatein thin jo jahaz ki bridge par aakhri 26 ghanton mein hui.",
+          "visual": {
+            "type": "card",
+            "title": "13 DECEMBER 2016",
+            "text": "NTSB releases 500-page VDR transcript"
+          }
+        },
+        {
+          "id": "c5b2",
+          "text": "یکم اکتوبر کی صبح 5:43 پر Davidson کو فون آیا کہ no. 3 cargo hold میں flooding کا شبہ ہے۔ اس نے chief mate کو جانچ کے لیے بھیجا۔",
+          "roman": "Yakum aktoobar ki subah 5:43 par Davidson ko phone aaya ke no. 3 cargo hold mein flooding ka shubah hai. Us ne chief mate ko jaanch ke liye bheja.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Chief mate, American mariner in a yellow foul-weather jacket, hurrying down a narrow ship corridor with a flashlight, cargo hold door ahead, tense mood"
+          },
+          "highlight": "5:43 A.M. FLOODING IN HOLD 3"
+        },
+        {
+          "id": "c5b3",
+          "text": "Crew نے flooding کو سمجھنے اور روکنے کی کوششیں شروع کیں۔ 30 منٹ بعد جہاز کا steam propulsion plant بند ہو گیا۔",
+          "roman": "Crew ne flooding ko samajhne aur rokne ki koshishein shuru keen. 30 minute baad jahaz ka steam propulsion plant band ho gaya.",
+          "visual": {
+            "type": "clip",
+            "query": "ship engine room",
+            "prompt": "Engineers in a dim engine room working urgently among pipes and gauges, warning lights"
+          }
+        },
+        {
+          "id": "c5b4",
+          "text": "پھر 6:54 پر Davidson نے فون پر بتایا کہ ایک scuttle کھلا رہ گیا تھا یا کھل گیا تھا، اور three hold میں کافی پانی آ چکا ہے۔",
+          "roman": "Phir 6:54 par Davidson ne phone par bataya ke aik scuttle khula reh gaya tha ya khul gaya tha, aur three hold mein kafi pani aa chuka hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Captain Michael Davidson, middle-aged American merchant mariner in a dark navy work jacket, tired but calm face, holding a phone receiver on a dim ship bridge, stormy grey sea outside"
+          },
+          "highlight": "SCUTTLE OPEN, WATER IN HOLD"
+        },
+        {
+          "id": "c5b5",
+          "text": "اس نے کہا: سب لوگ فی الحال safe ہیں، ہم ship نہیں چھوڑ رہے، ہم ship کے ساتھ رہیں گے۔ ابھی general alarm بجانے کی ضرورت نہیں۔",
+          "roman": "Us ne kaha: sab log fil haal safe hain, hum ship nahi chhor rahe, hum ship ke saath rahen ge. Abhi general alarm bajane ki zaroorat nahi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Dim ship bridge interior, captain silhouette standing calmly by a window as huge waves crash outside, muted blue light"
+          },
+          "highlight": "NO GENERAL ALARM YET"
+        },
+        {
+          "id": "c5b6",
+          "text": "پھر 7:06 پر Davidson نے Qualified Individual سے بات کی۔ کہا کہ hull breach ہوا، scuttle طوفان میں کھل گیا تھا، اور main propulsion unit کام نہیں کر رہا۔",
+          "roman": "Phir 7:06 par Davidson ne Qualified Individual se baat ki. Kaha ke hull breach hua, scuttle toofan mein khul gaya tha, aur main propulsion unit kaam nahi kar raha.",
+          "visual": {
+            "type": "clip",
+            "query": "ship radio telephone",
+            "prompt": "Captain speaking urgently on a ship telephone on a dim bridge during a storm"
+          }
+        },
+        {
+          "id": "c5b7",
+          "text": "اس نے یہ بھی بتایا کہ three hold میں کافی پانی ہے، port side پر بہت healthy list ہے، اور engineers lube oil pressure نہیں بنا پا رہے۔",
+          "roman": "Us ne yeh bhi bataya ke three hold mein kafi pani hai, port side par bohat healthy list hai, aur engineers lube oil pressure nahi bana pa rahe.",
+          "visual": {
+            "type": "ai",
+            "prompt": "El Faro style cargo ship listing heavily to one side in huge grey waves under a dark stormy sky, 2015, Atlantic near the Bahamas"
+          }
+        },
+        {
+          "id": "c5b8",
+          "text": "اس نے کہا کہ swell شمال مشرق سے آ رہی ہے، 10 سے 12 فٹ، تیز ہوائیں ہیں اور visibility بہت کم ہے۔ ہم ship کے ساتھ رہیں گے۔",
+          "roman": "Us ne kaha ke swell shumal mashriq se aa rahi hai, 10 se 12 feet, tez hawayein hain aur visibility bohat kam hai. Hum ship ke saath rahen ge.",
+          "visual": {
+            "type": "clip",
+            "query": "stormy sea waves",
+            "prompt": "Huge storm waves and heavy spray at sea, very poor visibility, grey sky"
+          }
+        },
+        {
+          "id": "c5b9",
+          "text": "7:10 پر Davidson نے بتایا کہ list 10 سے 15 degrees ہے، لیکن اس میں بہت حصہ wind heel کا ہے۔ وہ Coast Guard کو distress call کرنے والا تھا۔",
+          "roman": "7:10 par Davidson ne bataya ke list 10 se 15 degrees hai, lekin is mein bohat hissa wind heel ka hai. Woh Coast Guard ko distress call karne wala tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Captain Michael Davidson on a dim ship bridge with a tilted horizon visible through windows, tired but calm face, alarm lights glowing"
+          },
+          "highlight": "7:10 A.M. DISTRESS CALL"
+        },
+        {
+          "id": "c5b10",
+          "text": "اس نے second mate کو Ship Security Alert System اور Global Maritime Distress and Safety System activate کرنے کو کہا، اور باقی crew کو جگانے کا حکم دیا۔",
+          "roman": "Us ne second mate ko Ship Security Alert System aur Global Maritime Distress and Safety System activate karne ko kaha, aur baqi crew ko jagane ka hukm diya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Second mate Danielle Randolph, young woman in a dark work jacket and hard hat, pressing emergency buttons on a ship bridge console, worried face, red alert glow"
+          }
+        },
+        {
+          "id": "c5b11",
+          "text": "7:15 پر chief mate bridge پر واپس آیا۔ اس نے کہا: Captain، مجھے لگتا ہے پانی کی سطح بڑھ رہی ہے۔ Davidson نے پوچھا، پانی آ کہاں سے رہا ہے؟",
+          "roman": "7:15 par chief mate bridge par wapas aaya. Us ne kaha: Captain, mujhe lagta hai pani ki satah barh rahi hai. Davidson ne poocha, pani aa kahan se raha hai?",
+          "visual": {
+            "type": "ai",
+            "prompt": "Chief mate in a yellow foul-weather jacket, soaked, reporting to the captain on a dim ship bridge, anxious faces, dark stormy windows"
+          }
+        },
+        {
+          "id": "c5b12",
+          "text": "Chief mate نے بتایا کہ chief engineer کے مطابق کوئی چیز fire main سے ٹکرائی ہے۔ ساتھ ہی بولا، میں جو بھی کہوں، وہ اندازہ ہے۔",
+          "roman": "Chief mate ne bataya ke chief engineer ke mutabiq koi cheez fire main se takrai hai. Saath hi bola, main jo bhi kahoon, woh andaza hai.",
+          "visual": {
+            "type": "clip",
+            "query": "ship pipes flooding",
+            "prompt": "Water flooding a dim ship compartment around large pipes, emergency lighting"
+          }
+        },
+        {
+          "id": "c5b13",
+          "text": "7:17 پر chief engineer نے sound-powered phone پر بتایا کہ two alpha میں bilge alarm بج رہا ہے۔ Chief mate نے کہا کہ #3 hold میں cars تیر رہی ہیں۔",
+          "roman": "7:17 par chief engineer ne sound-powered phone par bataya ke two alpha mein bilge alarm baj raha hai. Chief mate ne kaha ke #3 hold mein cars tair rahi hain.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Cars and trailers shifting and floating in a dark flooded ship cargo hold, emergency lights, no people"
+          },
+          "highlight": "BILGE ALARM IN 2 ALPHA"
+        },
+        {
+          "id": "c5b14",
+          "text": "Chief mate کے مطابق fire main پانی کی سطح کے نیچے تھا، اس لیے نقصان نظر نہیں آ رہا تھا۔",
+          "roman": "Chief mate ke mutabiq fire main pani ki satah ke neeche tha, is liye nuqsan nazar nahi aa raha tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Dark floodwater rising in a ship hold with a submerged pipe barely visible below the surface, flashlight beam, tense mood"
+          }
+        },
+        {
+          "id": "c5b15",
+          "text": "دو منٹ بعد Davidson نے chief engineer سے کہا کہ fire pump کے suction کا isolation valve بند کر دو، تاکہ سمندر سے براہِ راست رابطہ نہ رہے۔",
+          "roman": "Do minute baad Davidson ne chief engineer se kaha ke fire pump ke suction ka isolation valve band kar do, taake samandar se barah e raast rabta na rahe.",
+          "visual": {
+            "type": "clip",
+            "query": "engine room valves",
+            "prompt": "Engineer turning a large valve wheel in an engine room under emergency lighting"
+          }
+        },
+        {
+          "id": "c5b16",
+          "text": "7:24 پر Davidson نے فون پر کہا: ہمارے پاس ابھی reserve buoyancy اور stability ہے۔ اس کے فوراً بعد اس نے second mate کو general alarm بجانے کا کہا۔",
+          "roman": "7:24 par Davidson ne phone par kaha: hamare paas abhi reserve buoyancy aur stability hai. Is ke fauran baad us ne second mate ko general alarm bajane ka kaha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Ship bridge with red alarm lights flashing, captain giving an urgent order, second mate reaching for the alarm panel, stormy sea outside"
+          },
+          "highlight": "7:24 A.M. GENERAL ALARM"
+        },
+        {
+          "id": "c5b17",
+          "text": "پھر ship چھوڑنے کا حکم آیا۔ تقریباً ایک منٹ بعد bridge پر آواز سنائی دی: Bow is down, bow is down! یعنی جہاز کا اگلا حصہ نیچے جا رہا تھا۔",
+          "roman": "Phir ship chhorne ka hukm aaya. Taqriban aik minute baad bridge par awaz sunai di: Bow is down, bow is down! Yani jahaz ka agla hissa neeche ja raha tha.",
+          "visual": {
+            "type": "photo",
+            "photo": "p4"
+          }
+        },
+        {
+          "id": "c5b18",
+          "text": "Davidson نے UHF radio پر chief mate سے کہا: Get into your rafts! Throw all your rafts into the water! Everybody get off! Get off the ship! Stay together!",
+          "roman": "Davidson ne UHF radio par chief mate se kaha: Get into your rafts! Throw all your rafts into the water! Everybody get off! Get off the ship! Stay together!",
+          "visual": {
+            "type": "ai",
+            "prompt": "Chief mate in a yellow foul-weather jacket on a wet ship deck in huge waves, radio in hand, life rafts being thrown toward the sea, dark storm"
+          }
+        },
+        {
+          "id": "c5b19",
+          "text": "اگلے چند منٹ Davidson نے گھبرائے ہوئے helmsman کو سنبھالا۔ وہ بولتا رہا: Work your way up here، You're okay، I'm not leavin' you, let's go!",
+          "roman": "Agle chand minute Davidson ne ghabraye hue helmsman ko sambhala. Woh bolta raha: Work your way up here, You're okay, I'm not leavin' you, let's go!",
+          "visual": {
+            "type": "ai",
+            "prompt": "Captain Michael Davidson reaching toward a young helmsman in an orange immersion suit, panicked, on a tilted dim ship bridge with alarm lights"
+          }
+        },
+        {
+          "id": "c5b20",
+          "text": "Helmsman چلایا: I need a ladder! A line! I need someone to help me! یہ سن کر دل بیٹھ جاتا ہے، مگر یہی ریکارڈنگ میں موجود ہے۔",
+          "roman": "Helmsman chilaya: I need a ladder! A line! I need someone to help me! Yeh sun kar dil baith jata hai, magar yahi recording mein moujood hai.",
+          "visual": {
+            "type": "clip",
+            "query": "emergency alarm lights",
+            "prompt": "Red emergency alarm lights flashing in a dark ship corridor, tilted angle"
+          }
+        },
+        {
+          "id": "c5b21",
+          "text": "VDR کی ریکارڈنگ 7:39 پر ختم ہوتی ہے۔ اس وقت Davidson اور helmsman دونوں bridge پر تھے۔ آخری الفاظ تھے: It's time to come this way!",
+          "roman": "VDR ki recording 7:39 par khatam hoti hai. Us waqt Davidson aur helmsman dono bridge par thay. Aakhri alfaaz thay: It's time to come this way!",
+          "visual": {
+            "type": "card",
+            "title": "7:39 A.M.",
+            "text": "Recording ends: It's time to come this way!"
+          }
+        },
+        {
+          "id": "c5b22",
+          "text": "اسی دوران Coast Guard کو تقریباً 7:30 پر satellite notification ملی کہ جہاز propulsion کھو چکا ہے، اس میں پانی آیا ہے، اور 15 degree list ہے۔",
+          "roman": "Isi douran Coast Guard ko taqriban 7:30 par satellite notification mili ke jahaz propulsion kho chuka hai, is mein pani aaya hai, aur 15 degree list hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Coast Guard operations center at dawn with officers reading a satellite alert on a screen, serious faces, radios and maps"
+          },
+          "highlight": "15 DEGREE LIST"
+        },
+        {
+          "id": "c5b23",
+          "text": "اس message میں flooding کو contained بتایا گیا تھا۔ Coast Guard کو Emergency Position Indicating Radio Beacon کی صرف ایک ping بھی ملی، پھر رابطے کی کوششیں ناکام رہیں۔",
+          "roman": "Is message mein flooding ko contained bataya gaya tha. Coast Guard ko Emergency Position Indicating Radio Beacon ki sirf aik ping bhi mili, phir rabte ki koshishein nakaam rahin.",
+          "visual": {
+            "type": "clip",
+            "query": "radio operator emergency",
+            "prompt": "Radio operator trying to reach a ship with no reply, dim control room"
+          }
+        },
+        {
+          "id": "c5b24",
+          "text": "Marine Traffic کے مطابق 4:01 پر El Faro کی آخری position 24.2747°N 74.94522°W تھی، اور وہ 19 knots پر جنوب جنوب مشرق کی طرف جا رہا تھا۔",
+          "roman": "Marine Traffic ke mutabiq 4:01 par El Faro ki aakhri position 24.2747°N 74.94522°W thi, aur woh 19 knots par janub janub mashriq ki taraf ja raha tha.",
+          "visual": {
+            "type": "photo",
+            "photo": "p3"
+          }
+        },
+        {
+          "id": "c5b25",
+          "text": "ایک اور positioning database، جسے Reuters نے relay کیا، کے مطابق 7:56 پر جہاز 23.52°N 74.02°W پر تھا، یعنی Crooked Island سے تقریباً 35 nautical miles شمال مشرق میں۔",
+          "roman": "Aik aur positioning database, jise Reuters ne relay kiya, ke mutabiq 7:56 par jahaz 23.52°N 74.02°W par tha, yani Crooked Island se taqriban 35 nautical miles shumal mashriq mein.",
+          "visual": {
+            "type": "map",
+            "place": "Near Crooked Island, Bahamas",
+            "lat": 23.52,
+            "lon": -74.02,
+            "zoom": "region",
+            "label": "El Faro last relayed position"
+          }
+        },
+        {
+          "id": "c5b26",
+          "text": "یہ جگہ Joaquin کی eyewall میں تھی، جہاں 80 knots سے زیادہ ہوائیں چل رہی تھیں۔ تلاش کرنے والوں کو اب کیا ملے گا؟",
+          "roman": "Yeh jagah Joaquin ki eyewall mein thi, jahan 80 knots se zyada hawayein chal rahi thin. Talash karne walon ko ab kya mile ga?",
+          "visual": {
+            "type": "ai",
+            "prompt": "Hurricane Joaquin eyewall seen from above with enormous waves below, dark swirling storm, no ship visible, ominous mood"
+          },
+          "highlight": "WINDS OVER 80 KNOTS"
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "On 13 December 2016 the NTSB released a 500-page transcript. It recorded what was said on the ship's bridge during the last 26 hours. At 5:43 on the morning of 1 October, Davidson received a call about suspected flooding in No. 3 cargo hold. He sent the chief mate to investigate, and the crew began trying to understand and stop the flooding. Thirty minutes later the ship's steam propulsion plant shut down.",
+        "At 6:54 Davidson said by phone that a scuttle had been left open or had come open, and that a good deal of water had entered three hold. He said everyone was safe for now, they were not abandoning ship, and they would stay with the ship. There was no need yet to sound the general alarm. At 7:06 he spoke to the Qualified Individual. He said the hull had been breached, a scuttle had opened in the storm, and the main propulsion unit was not working. He added that there was a good deal of water in three hold, a very healthy list to port, and that engineers could not build lube oil pressure. He said the swell was from the northeast at 10 to 12 feet, with strong winds and very poor visibility. They would stay with the ship.",
+        "At 7:10 Davidson said the list was 10 to 15 degrees, though much of it was wind heel. He was about to make a distress call to the Coast Guard. He told the second mate to activate the Ship Security Alert System and the Global Maritime Distress and Safety System, and ordered the rest of the crew woken.",
+        "At 7:15 the chief mate returned to the bridge. He said, \"Captain, I think the water level is rising.\" Davidson asked where the water was coming from. The chief mate said the chief engineer thought something had struck the fire main, and added that whatever he said was a guess. At 7:17 the chief engineer reported over the sound-powered phone that a bilge alarm was sounding in two alpha. The chief mate said cars were floating in No. 3 hold. According to the chief mate, the fire main was below the water level, which is why no damage was visible. Two minutes later Davidson told the chief engineer to close the fire pump suction isolation valve so there would be no direct connection to the sea.",
+        "At 7:24 Davidson said by phone, \"We have reserve buoyancy and stability at this time.\" Immediately afterward he told the second mate to sound the general alarm. Then came the order to abandon ship. About a minute later a voice on the bridge said, \"Bow is down, bow is down!\" The front of the ship was going down. Davidson told the chief mate on the UHF radio: \"Get into your rafts! Throw all your rafts into the water! Everybody get off! Get off the ship! Stay together!\"",
+        "For the next few minutes Davidson tried to calm the frightened helmsman. \"Work your way up here. You're okay. I'm not leavin' you, let's go!\" The helmsman cried out: \"I need a ladder! A line! I need someone to help me!\" It is heartbreaking to hear, but it is on the recording. The VDR recording ends at 7:39. At that time Davidson and the helmsman were both on the bridge. The last words were: \"It's time to come this way!\"",
+        "Meanwhile, at about 7:30, the Coast Guard received a satellite notification that the ship had lost propulsion, had taken on water and had a 15-degree list. The message described the flooding as contained. The Coast Guard received only a single ping from the Emergency Position Indicating Radio Beacon, and attempts to make contact failed.",
+        "According to Marine Traffic, El Faro's last position at 4:01 was 24.2747°N 74.94522°W, and she was traveling south-southeast at 19 knots. According to another positioning database relayed by Reuters, at 7:56 the ship was at 23.52°N 74.02°W, about 35 nautical miles northeast of Crooked Island. That location was in Joaquin's eyewall, where winds above 80 knots were blowing. What would the searchers find?"
+      ]
+    },
+    {
+      "titleEn": "Searching the Sea",
+      "titleRoman": "Samandar mein talash",
+      "covers": "Oct 1-7 search: WC-130J, HC-130H, Coast Guard ships and helicopters, Navy P-8A, hurricane conditions Oct 3, life ring, immersion suit and decomposed body not recovered, damaged open lifeboat, declared lost Oct 5, debris fields, 183,000 sq nmi, search ended Oct 7 sunset; Minouche rescued in same storm; Joaquin hit Bahamas",
+      "words": 480,
+      "beats": [
+        {
+          "id": "c6b1",
+          "text": "یکم اکتوبر کو U.S. Air Force Reserve کے 53rd Weather Reconnaissance Squadron کے WC-130J Super Hercules aircraft نے El Faro کو ڈھونڈنے کی کوشش کی، مگر کامیابی نہیں ملی۔",
+          "roman": "Yakum aktoobar ko U.S. Air Force Reserve ke 53rd Weather Reconnaissance Squadron ke WC-130J Super Hercules aircraft ne El Faro ko dhoondne ki koshish ki, magar kamyabi nahi mili.",
+          "visual": {
+            "type": "clip",
+            "query": "hurricane hunter aircraft",
+            "prompt": "Air Force WC-130J Super Hercules flying through dark storm clouds over the ocean"
+          }
+        },
+        {
+          "id": "c6b2",
+          "text": "2 اکتوبر کو Clearwater، Florida کے Coast Guard Air Station سے HC-130H Hercules نے باقاعدہ تلاش شروع کی۔ اسی دن USCGC Northland اور MH-60T Jayhawk بھی شامل ہوئے۔",
+          "roman": "2 aktoobar ko Clearwater, Florida ke Coast Guard Air Station se HC-130H Hercules ne baqaida talash shuru ki. Isi din USCGC Northland aur MH-60T Jayhawk bhi shamil hue.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Coast Guard HC-130 aircraft and an orange MH-60T helicopter flying over a grey rough sea, search mission, overcast sky"
+          },
+          "highlight": "SEARCH BEGINS OCTOBER 2"
+        },
+        {
+          "id": "c6b3",
+          "text": "3 اکتوبر کو aircraft شدید hurricane conditions میں اڑ رہے تھے۔ ہوائیں 100 knots سے زیادہ، waves 40 فٹ تک، اور visibility 1 nautical mile سے کم تھی۔",
+          "roman": "3 aktoobar ko aircraft shadeed hurricane conditions mein ur rahe thay. Hawayein 100 knots se zyada, waves 40 feet tak, aur visibility 1 nautical mile se kam thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Orange MH-60T helicopter struggling through violent hurricane winds above huge 40 ft waves, grey sea, low visibility, dramatic"
+          },
+          "highlight": "40 FT WAVES, 100 KNOT WINDS"
+        },
+        {
+          "id": "c6b4",
+          "text": "اس کے باوجود ایک helicopter crew نے El Faro کا life ring recover کر لیا۔ امید اور خدشہ، دونوں ساتھ چل رہے تھے۔",
+          "roman": "Is ke bawajood aik helicopter crew ne El Faro ka life ring recover kar liya. Umeed aur khadsha, dono saath chal rahe thay.",
+          "visual": {
+            "type": "clip",
+            "query": "life ring ocean",
+            "prompt": "Orange and white life ring floating on rough grey ocean waves"
+          }
+        },
+        {
+          "id": "c6b5",
+          "text": "4 اکتوبر کو Joaquin دور ہٹا تو موسم بہتر ہوا۔ ہوائیں اوسطاً 15 knots اور visibility unlimited تھی۔ ایک helicopter 11 گھنٹے فضا میں رہا۔",
+          "roman": "4 aktoobar ko Joaquin door hata to mausam behtar hua. Hawayein ausatan 15 knots aur visibility unlimited thi. Aik helicopter 11 ghantay faza mein raha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Coast Guard MH-60T helicopter flying in clear weather over a calm blue-grey sea at midday, search crew looking out the open door"
+          },
+          "highlight": "HELICOPTER FLEW 11 HOURS"
+        },
+        {
+          "id": "c6b6",
+          "text": "4 اکتوبر کو دوسرا HC-130، USCGC Charles Sexton اور USCGC Resolute بھی پہنچے۔ اس سے پہلے 3 اکتوبر کو Navy کا P-8A Poseidon aircraft اور Crowley Maritime کے 3 tugboats بھی مدد کو آ چکے تھے۔",
+          "roman": "4 aktoobar ko doosra HC-130, USCGC Charles Sexton aur USCGC Resolute bhi pahunchay. Is se pehle 3 aktoobar ko Navy ka P-8A Poseidon aircraft aur Crowley Maritime ke 3 tugboats bhi madad ko aa chuke thay.",
+          "visual": {
+            "type": "clip",
+            "query": "coast guard cutter sea",
+            "prompt": "Coast Guard cutter ship steaming across a wide grey ocean on a search mission"
+          },
+          "factFix": "The beat says 'the same day' (October 4) for the P-8A Poseidon and the three Crowley tugboats, but the source says they joined on October 3. Only the second HC-130, USCGC Charles Sexton and USCGC Resolute were deployed on October 4."
+        },
+        {
+          "id": "c6b7",
+          "text": "4 اکتوبر کو شام 4:57 پر P-8A Poseidon نے El Faro کی آخری معلوم position سے تقریباً 40 nautical miles مغرب شمال مغرب میں ایک orange immersion suit دیکھا۔",
+          "roman": "4 aktoobar ko sham 4:57 par P-8A Poseidon ne El Faro ki aakhri maloom position se taqriban 40 nautical miles maghrib shumal maghrib mein aik orange immersion suit dekha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Navy P-8A Poseidon patrol aircraft flying low over open ocean at late afternoon, searching the water below, golden light"
+          }
+        },
+        {
+          "id": "c6b8",
+          "text": "تقریباً 90 منٹ بعد MH-60T نے وہ suit ڈھونڈ لیا۔ rescue diver کو اندر ایک جسد ملا، مگر اس کی شناخت ممکن نہیں تھی۔",
+          "roman": "Taqriban 90 minute baad MH-60T ne woh suit dhoond liya. Rescue diver ko andar aik jasad mila, magar us ki shanakht mumkin nahi thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Orange MH-60T helicopter hovering low over the sea at dusk with a rescue swimmer being lowered on a cable, solemn mood"
+          }
+        },
+        {
+          "id": "c6b9",
+          "text": "اسی وقت crew کو بتایا گیا کہ P-8A کو تقریباً 30 nautical miles دور ایک اور suit ملا ہے، جس میں ممکنہ survivor تھا۔ helicopter وہاں روانہ ہو گیا۔",
+          "roman": "Isi waqt crew ko bataya gaya ke P-8A ko taqriban 30 nautical miles door aik aur suit mila hai, jis mein mumkina survivor tha. Helicopter wahan rawana ho gaya.",
+          "visual": {
+            "type": "clip",
+            "query": "rescue helicopter",
+            "prompt": "Orange rescue helicopter flying fast over grey sea toward a distant spot"
+          }
+        },
+        {
+          "id": "c6b10",
+          "text": "جانے سے پہلے diver نے پہلے جسد پر self-locating datum marker buoy چھوڑا۔ مگر واپسی پر buoy ناکام ہو چکا تھا، اس لیے جسد نہیں مل سکا۔",
+          "roman": "Jaane se pehle diver ne pehle jasad par self-locating datum marker buoy chhora. Magar wapsi par buoy nakaam ho chuka tha, is liye jasad nahi mil saka.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Empty grey ocean at dusk seen from a helicopter window, crew searching the waves, somber and quiet mood"
+          }
+        },
+        {
+          "id": "c6b11",
+          "text": "5 اکتوبر کو ایک deflated life raft اور ایک heavily damaged، خالی lifeboat ملی۔ El Faro پر دو lifeboats تھیں، ہر ایک میں 43 افراد کی گنجائش۔",
+          "roman": "5 aktoobar ko aik deflated life raft aur aik heavily damaged, khali lifeboat mili. El Faro par do lifeboats thin, har aik mein 43 afraad ki gunjaish.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Heavily damaged empty open lifeboat floating alone on grey ocean waves, overcast sky, somber mood"
+          },
+          "highlight": "LIFEBOAT HELD 43 PEOPLE"
+        },
+        {
+          "id": "c6b12",
+          "text": "اسی دن جہاز کو lost at sea قرار دے دیا گیا۔ خیال تھا کہ وہ 15,000 فٹ گہرے پانی میں ڈوبا ہے۔ اب یہ search and recovery mission تھا۔",
+          "roman": "Isi din jahaz ko lost at sea qarar de diya gaya. Khayal tha ke woh 15,000 feet gehre pani mein dooba hai. Ab yeh search and recovery mission tha.",
+          "visual": {
+            "type": "card",
+            "title": "5 OCTOBER 2015",
+            "text": "El Faro declared lost at sea"
+          }
+        },
+        {
+          "id": "c6b13",
+          "text": "6 اکتوبر کو Air Force اور Air National Guard نے تین مزید HC-130P/J aircraft دیے۔ مجموعی طور پر 183,000 square nautical miles کا علاقہ چھانا گیا۔",
+          "roman": "6 aktoobar ko Air Force aur Air National Guard ne teen mazeed HC-130P/J aircraft diye. Mujmooi tor par 183,000 square nautical miles ka ilaqa chhana gaya.",
+          "visual": {
+            "type": "clip",
+            "query": "aerial search ocean",
+            "prompt": "Aircraft flying over a vast empty ocean on a search mission, wide aerial view"
+          },
+          "highlight": "183,000 SQ NAUTICAL MILES"
+        },
+        {
+          "id": "c6b14",
+          "text": "دو debris fields ملے۔ پہلا 260 square nautical miles کا تھا، آخری position کے قریب۔ دوسرا 61 square nautical miles کا، 60 nautical miles شمال مشرق میں۔",
+          "roman": "Do debris fields mile. Pehla 260 square nautical miles ka tha, aakhri position ke qareeb. Doosra 61 square nautical miles ka, 60 nautical miles shumal mashriq mein.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Scattered debris, containers and floating items on a grey ocean surface seen from above, aerial view, no people"
+          }
+        },
+        {
+          "id": "c6b15",
+          "text": "7 اکتوبر کو sunset پر Coast Guard نے search ختم کرنے کا اعلان کر دیا۔ 33 crew members میں سے کسی کو زندہ نہیں ڈھونڈا جا سکا۔",
+          "roman": "7 aktoobar ko sunset par Coast Guard ne search khatam karne ka elaan kar diya. 33 crew members mein se kisi ko zinda nahi dhoonda ja saka.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Coast Guard helicopter and cutter at sunset over a calm sea, orange sky, quiet and somber mood"
+          },
+          "highlight": "SEARCH ENDED OCTOBER 7"
+        },
+        {
+          "id": "c6b16",
+          "text": "اسی طوفان میں 212 فٹ کا cargo vessel Minouche ڈوبنے لگا۔ مگر Coast Guard نے 1 اکتوبر کی رات اس کے 12 crew members کو life-raft سے بچا لیا۔",
+          "roman": "Isi toofan mein 212 feet ka cargo vessel Minouche doobne laga. Magar Coast Guard ne 1 aktoobar ki raat us ke 12 crew members ko life-raft se bacha liya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Coast Guard rescuers in an orange helicopter lifting sailors from a small orange life raft in rough night seas, floodlights"
+          }
+        },
+        {
+          "id": "c6b17",
+          "text": "اسی دوران Joaquin نے Bahamas میں بھاری تباہی مچائی۔ 1 سے 3 اکتوبر کے درمیان Acklins، Crooked Island، Long Island، Rum Cay اور San Salvador Island کو شدید نقصان پہنچا۔",
+          "roman": "Isi douran Joaquin ne Bahamas mein bhari tabahi machai. 1 se 3 aktoobar ke darmiyan Acklins, Crooked Island, Long Island, Rum Cay aur San Salvador Island ko shadeed nuqsan pahuncha.",
+          "visual": {
+            "type": "map",
+            "place": "Bahamas",
+            "lat": 23,
+            "lon": -74.5,
+            "zoom": "region",
+            "label": "Southern Bahamas hit by Joaquin"
+          }
+        },
+        {
+          "id": "c6b18",
+          "text": "تقریباً 7,000 لوگ براہِ راست متاثر ہوئے، 836 گھر تباہ ہوئے، اور نقصان کا اندازہ US$120 million لگایا گیا۔ اسی طوفان نے El Faro کے 33 crew بھی کھو دیے۔",
+          "roman": "Taqriban 7,000 log barah e raast mutasir hue, 836 ghar tabah hue, aur nuqsan ka andaza US$120 million lagaya gaya. Isi toofan ne El Faro ke 33 crew bhi kho diye.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Flooded island village in the Bahamas after a hurricane, damaged roofs and debris, grey sky, aerial view, no people visible"
+          },
+          "highlight": "836 HOMES DESTROYED"
+        },
+        {
+          "id": "c6b19",
+          "text": "Search بند ہو گئی، مگر کہانی نہیں۔ جہاز کہاں تھا؟ اور کیا اس کا recorder آخری گھنٹوں کی آوازیں سنبھالے ہوئے تھا؟ یہ اگلے حصے میں دیکھتے ہیں۔",
+          "roman": "Search band ho gayi, magar kahani nahi. Jahaz kahan tha? Aur kya us ka recorder aakhri ghanton ki awazein sambhale hue tha? Yeh agle hisse mein dekhte hain.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Deep dark ocean depths with faint sonar beams sweeping downward, mysterious and quiet mood, no text"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "On 1 October a WC-130J Super Hercules from the U.S. Air Force Reserve's 53rd Weather Reconnaissance Squadron tried to find El Faro without success. On 2 October an HC-130H Hercules from Coast Guard Air Station Clearwater, Florida, began a formal search. USCGC Northland and an MH-60T Jayhawk joined the same day.",
+        "On 3 October aircraft were flying in severe hurricane conditions, with winds above 100 knots, waves up to 40 feet and visibility under 1 nautical mile. Even so, a helicopter crew recovered El Faro's life ring. Hope and dread ran side by side. On 4 October, as Joaquin moved away, the weather improved, with winds averaging 15 knots and unlimited visibility. One helicopter stayed in the air for 11 hours. On 4 October a second HC-130, USCGC Charles Sexton and USCGC Resolute also arrived. Earlier, on 3 October, a Navy P-8A Poseidon and three Crowley Maritime tugboats had come to help.",
+        "At 4:57 p.m. on 4 October, the P-8A Poseidon spotted an orange immersion suit about 40 nautical miles west-northwest of El Faro's last known position. About 90 minutes later the MH-60T found the suit. The rescue diver found a body inside, but it could not be identified. At that moment the crew was told that the P-8A had found another suit about 30 nautical miles away, with a possible survivor inside. The helicopter headed there. Before leaving, the diver had dropped a self-locating datum marker buoy on the first body. But on the return trip the buoy had failed, so the body could not be found.",
+        "On 5 October a deflated life raft and a heavily damaged, empty lifeboat were found. El Faro had two lifeboats, each with room for 43 people. The same day the ship was declared lost at sea. She was believed to be in 15,000 feet of water. It was now a search and recovery mission. On 6 October the Air Force and Air National Guard supplied three more HC-130P/J aircraft. In all, 183,000 square nautical miles were searched. Two debris fields were found. The first covered 260 square nautical miles, near the last position. The second covered 61 square nautical miles, 60 nautical miles to the northeast.",
+        "At sunset on 7 October the Coast Guard announced it was ending the search. None of the 33 crew members could be found alive. In the same storm, the 212-foot cargo vessel Minouche began to sink, but the Coast Guard rescued its 12 crew members from a life raft on the night of 1 October.",
+        "Joaquin also caused heavy destruction in the Bahamas. Between 1 and 3 October, Acklins, Crooked Island, Long Island, Rum Cay and San Salvador Island were badly damaged. About 7,000 people were directly affected, 836 homes were destroyed, and damage was estimated at US$120 million. The same storm took El Faro's 33 crew.",
+        "The search ended, but the story did not. Where was the ship? And did her recorder hold the voices of the final hours? We look at that next."
+      ]
+    },
+    {
+      "titleEn": "Finding the Wreck and the Black Box",
+      "titleRoman": "Wreck aur black box ki dariyaft",
+      "covers": "USNS Apache, wreck found Oct 31 around 15,000 ft, upright in one piece, confirmed El Faro; VDR not found first; RV Atlantis April 2016 located VDR; Apache recovered it in August 2016 (sources give Aug 9 or ~Aug 10); delivered to NTSB; one of deepest VDR recoveries; what a VDR records",
+      "words": 420,
+      "beats": [
+        {
+          "id": "c7b1",
+          "text": "19 اکتوبر کو Navy کا جہاز USNS Apache، Virginia Beach سے روانہ ہوا۔ اس پر towed pinger locator، side-scan sonar اور ایک remotely operated vehicle موجود تھی۔",
+          "roman": "19 October ko Navy ka jahaz USNS Apache, Virginia Beach se rawana hua. Is par towed pinger locator, side-scan sonar aur aik remotely operated vehicle moujood thi.",
+          "visual": {
+            "type": "map",
+            "place": "Virginia Beach",
+            "lat": 36.85,
+            "lon": -75.98,
+            "zoom": "city",
+            "label": "Virginia Beach, USA"
+          }
+        },
+        {
+          "id": "c7b2",
+          "text": "ایک دوسرا source کہتا ہے کہ Apache نے 23 اکتوبر کو search دوبارہ شروع کی۔ تاریخوں میں یہ فرق ہے، مگر 31 اکتوبر پر دونوں متفق ہیں۔",
+          "roman": "Aik doosra source kehta hai ke Apache ne 23 October ko search dobara shuru ki. Tareekhon mein yeh farq hai, magar 31 October par dono muttafiq hain.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Grey US Navy research ship at sea at dawn towing a sonar device behind it, calm Atlantic, overcast sky, wide shot, serious mood"
+          }
+        },
+        {
+          "id": "c7b3",
+          "text": "31 اکتوبر کو sonar پر ایک بڑا object ابھرا۔ گہرائی تقریباً 15,400 فٹ تھی، اور وہاں pressure تقریباً 6,688 pounds per square inch بنتا ہے۔",
+          "roman": "31 October ko sonar par aik bara object ubhra. Gehrai taqreeban 15,400 feet thi, aur wahan pressure taqreeban 6,688 pounds per square inch banta hai.",
+          "visual": {
+            "type": "card",
+            "title": "31 OCTOBER 2015",
+            "text": "Wreck found near 15,400 ft"
+          },
+          "highlight": "15,400 FEET DEEP"
+        },
+        {
+          "id": "c7b4",
+          "text": "NTSB نے بتایا کہ یہ چیز 790 فٹ کے cargo ship جیسی ہے، سیدھی کھڑی ہوئی، اور ایک ہی piece میں۔",
+          "roman": "NTSB ne bataya ke yeh cheez 790 feet ke cargo ship jaisi hai, seedhi khari hui, aur aik hi piece mein.",
+          "visual": {
+            "type": "photo",
+            "photo": "p2"
+          },
+          "factFix": "The source says only that the object was 'consistent with' a cargo ship. Saying flatly that it was the whole ship overstates it: the identification came on Nov 1 and was confirmed on Nov 16."
+        },
+        {
+          "id": "c7b5",
+          "text": "اگلے دن Navy نے اعلان کیا کہ submersible کی تصویروں سے wreck کی شناخت El Faro کے طور پر ہو گئی۔ 16 نومبر کو NTSB نے تصدیق کی۔",
+          "roman": "Agle din Navy ne elan kiya ke submersible ki tasveeron se wreck ki shanakht El Faro ke taur par ho gayi. 16 November ko NTSB ne tasdeeq ki.",
+          "visual": {
+            "type": "clip",
+            "query": "deep sea submersible",
+            "prompt": "Small deep-sea submersible with bright lights descending into dark water, cinematic, eerie mood"
+          }
+        },
+        {
+          "id": "c7b6",
+          "text": "مگر ایک بڑی کمی رہ گئی۔ recorder نہیں ملا۔ 3 جنوری 2016 کو NTSB نے docket کھولا اور underwater تصویریں اور video جاری کیں۔",
+          "roman": "Magar aik bari kami reh gayi. Recorder nahin mila. 3 January 2016 ko NTSB ne docket khola aur underwater tasveerein aur video jari kin.",
+          "visual": {
+            "type": "photo",
+            "photo": "p7"
+          }
+        },
+        {
+          "id": "c7b7",
+          "text": "18 اپریل 2016 کو دوسری search شروع ہوئی۔ اس بار RV Atlantis استعمال ہوا، جو Navy کی ملکیت ہے اور Woods Hole Oceanographic Institution کے mariners چلاتے ہیں۔",
+          "roman": "18 April 2016 ko doosri search shuru hui. Is baar RV Atlantis istemal hua, jo Navy ki milkiyat hai aur Woods Hole Oceanographic Institution ke mariners chalate hain.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Oceanographic research vessel with a white hull and A-frame crane on open ocean, bright morning light, wide aerial angle, hopeful mood"
+          }
+        },
+        {
+          "id": "c7b8",
+          "text": "26 اپریل کو NTSB نے بتایا کہ recorder مل گیا ہے، Acklins اور Crooked Islands سے 41 میل شمال مشرق میں۔ لیکن وہ mast کے بہت قریب تھا۔",
+          "roman": "26 April ko NTSB ne bataya ke recorder mil gaya hai, Acklins aur Crooked Islands se 41 meel shumal mashriq mein. Lekin woh mast ke bohat qareeb tha.",
+          "visual": {
+            "type": "map",
+            "place": "Crooked Island, Bahamas",
+            "lat": 22.75,
+            "lon": -74.2,
+            "zoom": "region",
+            "label": "Crooked Island, Bahamas"
+          }
+        },
+        {
+          "id": "c7b9",
+          "text": "دوستو، mast اور دوسری رکاوٹوں کی وجہ سے اس وقت recorder کو نکالنا ممکن نہیں تھا۔ ٹیم کو واپس آنا تھا۔",
+          "roman": "Dosto, mast aur doosri rukawaton ki wajah se is waqt recorder ko nikalna mumkin nahin tha. Team ko wapas aana tha.",
+          "visual": {
+            "type": "photo",
+            "photo": "p6"
+          }
+        },
+        {
+          "id": "c7b10",
+          "text": "5 اگست 2016 کو USNS Apache دوبارہ اسی جگہ پہنچا۔ پانچ دن بعد، یعنی 10 اگست کو، recorder نکال لیا گیا۔ ایک source میں تاریخ 9 اگست لکھی ہے۔",
+          "roman": "5 August 2016 ko USNS Apache dobara usi jagah pohncha. Paanch din baad, yaani 10 August ko, recorder nikal liya gaya. Aik source mein tareekh 9 August likhi hai.",
+          "visual": {
+            "type": "card",
+            "title": "10 AUGUST 2016",
+            "text": "VDR recovered by USNS Apache"
+          }
+        },
+        {
+          "id": "c7b11",
+          "text": "یہ recorder 15,250 فٹ، یعنی 4,650 meters کی گہرائی سے نکالا گیا۔ ایک source کے مطابق یہ آج تک کی سب سے گہری VDR recoveries میں سے ایک ہے۔",
+          "roman": "Yeh recorder 15,250 feet, yaani 4,650 meters ki gehrai se nikala gaya. Aik source ke mutabiq yeh aaj tak ki sab se gehri VDR recoveries mein se aik hai.",
+          "visual": {
+            "type": "clip",
+            "query": "underwater robot deep ocean",
+            "prompt": "Remotely operated underwater robot with floodlights retrieving a small object from the dark seabed, cinematic"
+          },
+          "highlight": "15,250 FEET DEEP"
+        },
+        {
+          "id": "c7b12",
+          "text": "حادثے کے دس مہینے بعد recorder Mayport، Florida میں NTSB کے حوالے کیا گیا۔ اب تحقیقات کے پاس جہاز کی اپنی آواز تھی۔",
+          "roman": "Hadse ke das mahine baad recorder Mayport, Florida mein NTSB ke hawale kiya gaya. Ab tehqeeqaat ke paas jahaz ki apni awaaz thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Investigators in a quiet lab carefully handling a damaged orange data recorder capsule on a steel table, soft overhead light, serious mood"
+          }
+        },
+        {
+          "id": "c7b13",
+          "text": "VDR کو جہاز کا black box بھی کہتے ہیں۔ قواعد کے مطابق یہ مسافر جہازوں پر، اور 2002 کے بعد بنے 3000 gross tonnage اور اس سے اوپر کے دوسرے جہازوں پر لازمی ہے۔",
+          "roman": "VDR ko jahaz ka black box bhi kehte hain. Qawaid ke mutabiq yeh musafir jahazon par, aur 2002 ke baad bane 3000 gross tonnage aur is se oopar ke doosre jahazon par lazmi hai.",
+          "visual": {
+            "type": "photo",
+            "photo": "p14"
+          },
+          "factFix": "The rule is incomplete. Passenger ships must carry a VDR regardless of size. The 3000 gross tonnage and 2002 conditions apply to ships other than passenger ships."
+        },
+        {
+          "id": "c7b14",
+          "text": "یہ unit position، رفتار، heading، radar، bridge کی آوازیں، VHF radio اور alarms ریکارڈ کر سکتا ہے۔ یعنی جہاز کے فیصلے اور حالات ایک ساتھ محفوظ ہو جاتے ہیں۔",
+          "roman": "Yeh unit position, raftar, heading, radar, bridge ki awaazein, VHF radio aur alarms record kar sakta hai. Yaani jahaz ke faislay aur halaat aik saath mahfooz ho jate hain.",
+          "visual": {
+            "type": "photo",
+            "photo": "p16"
+          }
+        },
+        {
+          "id": "c7b15",
+          "text": "El Faro کے recorder میں 26 گھنٹے سے زیادہ کی bridge audio اور sensor data تھا۔ اسی سے investigators جہاز کے آخری گھنٹوں کو تفصیل سے دوبارہ بنا سکے۔",
+          "roman": "El Faro ke recorder mein 26 ghante se ziada ki bridge audio aur sensor data tha. Isi se investigators jahaz ke aakhri ghanton ko tafseel se dobara bana sake.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Investigators wearing headphones listening intently at a desk with charts and a laptop showing audio waveforms, dim room, tense mood"
+          },
+          "highlight": "26+ HOURS OF AUDIO"
+        },
+        {
+          "id": "c7b16",
+          "text": "13 دسمبر 2016 کو NTSB نے 500 صفحات کا transcript جاری کیا۔ اس میں چھ microphones کی ریکارڈنگ شامل تھی۔",
+          "roman": "13 December 2016 ko NTSB ne 500 safhat ka transcript jari kiya. Is mein chhe microphones ki recording shamil thi.",
+          "visual": {
+            "type": "clip",
+            "query": "stack of documents",
+            "prompt": "Thick stack of printed transcript pages on a desk under a lamp, close-up, serious mood"
+          }
+        },
+        {
+          "id": "c7b17",
+          "text": "NTSB کے مطابق اس data نے navigation فیصلوں، weather معلومات کی کمی اور company کے safety management کے مسائل پر روشنی ڈالی۔ تو اب سوال تھا: قصوروار کون؟",
+          "roman": "NTSB ke mutabiq is data ne navigation faislon, weather maloomat ki kami aur company ke safety management ke masail par roshni dali. To ab sawal tha: qusoorwar kaun?",
+          "visual": {
+            "type": "ai",
+            "prompt": "Captain Michael Davidson, middle-aged American merchant mariner in a dark navy work jacket, tired but calm face, standing on a dim ship bridge looking at a stormy window, dramatic mood"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "On 19 October the Navy ship USNS Apache left Virginia Beach. She carried a towed pinger locator, side-scan sonar and a remotely operated vehicle. Another source says Apache resumed the search on 23 October. The dates differ, but both sources agree on 31 October. On 31 October a large object appeared on sonar. The depth was about 15,400 feet, where pressure comes to roughly 6,688 pounds per square inch. The NTSB said the object resembled a 790-foot cargo ship, upright and in one piece.",
+        "The next day the Navy announced that submersible images had identified the wreck as El Faro. On 16 November the NTSB confirmed it. But one big gap remained: the recorder had not been found. On 3 January 2016 the NTSB opened its docket and released underwater images and video.",
+        "A second search began on 18 April 2016. This time RV Atlantis was used, a Navy-owned ship operated by mariners of the Woods Hole Oceanographic Institution. On 26 April the NTSB announced that the recorder had been found, 41 miles northeast of Acklins and Crooked Islands. But it was very close to the mast. Because of the mast and other obstructions, it was not possible to retrieve the recorder at that time. The team had to come back.",
+        "On 5 August 2016 USNS Apache returned to the same spot. Five days later, on 10 August, the recorder was retrieved. One source gives the date as 9 August. It was recovered from 15,250 feet, or 4,650 meters. One source says this is among the deepest VDR recoveries to date. Ten months after the accident, the recorder was handed over to the NTSB in Mayport, Florida. Investigators now had the ship's own voice.",
+        "The VDR is also called a ship's black box. Under the rules, it is mandatory on passenger ships and on other ships of 3,000 gross tonnage and above built after 2002. The unit can record position, speed, heading, radar, bridge audio, VHF radio and alarms. In other words, a ship's decisions and circumstances are preserved together.",
+        "El Faro's recorder held more than 26 hours of bridge audio and sensor data. From it investigators could rebuild the ship's final hours in detail. On 13 December 2016 the NTSB released the 500-page transcript, which included recordings from six microphones. According to the NTSB, the data shed light on navigation decisions, a lack of weather information and company safety management problems. So now the question was: who was to blame?"
+      ]
+    },
+    {
+      "titleEn": "Who and What Sank El Faro?",
+      "titleRoman": "El Faro ko kis ne doobaya?",
+      "covers": "Coast Guard report Sept 2017: blame mostly on Davidson, TOTE violations on rest hours, no safety officer, open lifeboats; NTSB Dec 2017 probable cause: insufficient action, outdated weather information, late muster, poor bridge resource management, TOTE oversight, scuttle open, seawater piping damage, lube oil pressure loss with list, downflooding via ventilation, no damage control plan, lack of survival craft; earlier modification without damage stability assessment; lawsuits and settlements",
+      "words": 500,
+      "beats": [
+        {
+          "id": "c8b1",
+          "text": "اب سوال وہی ہے جو ہر حادثے کے بعد اٹھتا ہے۔ El Faro کو کس نے ڈبویا؟ جواب دو بڑی تحقیقات میں ملتا ہے۔",
+          "roman": "Ab sawal wohi hai jo har hadse ke baad uthta hai. El Faro ko kis ne dubaya? Jawab do bari tehqeeqaat mein milta hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Rust-streaked 790 ft US cargo ship El Faro with white bridge house sailing on dark Atlantic under heavy clouds, 2015, moody wide shot"
+          }
+        },
+        {
+          "id": "c8b2",
+          "text": "Coast Guard کے Marine Board of Investigation نے 24 ستمبر 2017 کو اپنی رپورٹ مکمل کی اور 1 اکتوبر کو شائع کی۔ یہ 199 صفحات کی تھی۔",
+          "roman": "Coast Guard ke Marine Board of Investigation ne 24 September 2017 ko apni report mukammal ki aur 1 October ko shaya ki. Yeh 199 safhat ki thi.",
+          "visual": {
+            "type": "card",
+            "title": "24 SEPTEMBER 2017",
+            "text": "Coast Guard final report: 199 pages"
+          }
+        },
+        {
+          "id": "c8b3",
+          "text": "تحقیقات کی سربراہی Captain Jason Neubauer نے کی۔ investigators نے تقریباً تمام الزام Davidson پر ڈالا، جنہوں نے طوفان اور جہاز کی کمزوری دونوں کو کم سمجھا۔",
+          "roman": "Tehqeeqaat ki sarbarahi Captain Jason Neubauer ne ki. Investigators ne taqreeban tamam ilzam Davidson par dala, jinhon ne toofan aur jahaz ki kamzori dono ko kam samjha.",
+          "visual": {
+            "type": "photo",
+            "photo": "p4"
+          }
+        },
+        {
+          "id": "c8b4",
+          "text": "crew کے خدشات کے باوجود Davidson نے طوفان سے بچنے کے لیے کافی اقدامات نہیں کیے۔ اگر وہ زندہ بچتے تو ان کا license منسوخ ہو سکتا تھا۔",
+          "roman": "Crew ke khadshat ke bawajood Davidson ne toofan se bachne ke liye kafi iqdamaat nahin kiye. Agar woh zinda bachte to un ka license mansookh ho sakta tha.",
+          "visual": {
+            "type": "clip",
+            "query": "ship bridge night",
+            "prompt": "Dim ship bridge at night with glowing instruments and rain on the windows, empty captain's chair, tense mood"
+          }
+        },
+        {
+          "id": "c8b5",
+          "text": "لیکن Coast Guard نے TOTE Maritime کو بھی نہیں چھوڑا۔ کمپنی پر crew کے آرام اور کام کے اوقات سے متعلق کئی خلاف ورزیوں کا الزام لگا۔",
+          "roman": "Lekin Coast Guard ne TOTE Maritime ko bhi nahin chhora. Company par crew ke aaram aur kaam ke auqaat se mutaliq kai khilaf warziyon ka ilzam laga.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Tired merchant mariners in work jackets resting in a cramped ship mess room at night, dim light, reflective mood"
+          }
+        },
+        {
+          "id": "c8b6",
+          "text": "جہاز کی نگرانی کے لیے کوئی dedicated safety officer نہیں تھا۔ اور lifeboats پرانے open air طرز کے تھے، جو Titanic جیسے پرانے جہازوں میں ہوتے تھے۔",
+          "roman": "Jahaz ki nigrani ke liye koi dedicated safety officer nahin tha. Aur lifeboats purane open air tarz ke thay, jo Titanic jaise purane jahazon mein hote thay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Old open-air lifeboat hanging on davits on the side of a rusty cargo ship, grey sky, weathered metal, close-up"
+          },
+          "highlight": "NO SAFETY OFFICER"
+        },
+        {
+          "id": "c8b7",
+          "text": "پھر 12 دسمبر 2017 کو NTSB نے Washington میں بورڈ میٹنگ کی۔ اس کی 400 صفحات کی رپورٹ نے Davidson، company اور regulators، تینوں پر سوال اٹھائے۔",
+          "roman": "Phir 12 December 2017 ko NTSB ne Washington mein board meeting ki. Is ki 400 safhat ki report ne Davidson, company aur regulators, teenon par sawal uthaye.",
+          "visual": {
+            "type": "card",
+            "title": "12 DECEMBER 2017",
+            "text": "NTSB final report: about 400 pages"
+          }
+        },
+        {
+          "id": "c8b8",
+          "text": "NTSB کے مطابق probable cause کا پہلا حصہ captain کے فیصلے تھے: طوفان سے بچنے کے لیے ناکافی action، اور سب سے تازہ weather information کا استعمال نہ کرنا۔",
+          "roman": "NTSB ke mutabiq probable cause ka pehla hissa captain ke faislay thay: toofan se bachne ke liye na-kafi action, aur sab se taza weather information ka istemal na karna.",
+          "visual": {
+            "type": "photo",
+            "photo": "p5"
+          }
+        },
+        {
+          "id": "c8b9",
+          "text": "اس میں crew کو muster کرنے کا دیر سے فیصلہ بھی شامل تھا۔ وہ Bon Voyage System کی پرانی weather information پر انحصار کر رہے تھے۔",
+          "roman": "Is mein crew ko muster karne ka dair se faisla bhi shamil tha. Woh Bon Voyage System ki purani weather information par inhisar kar rahe thay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Weather forecast chart on a ship bridge screen showing a hurricane swirl, captain's hand resting on the console, dim light, tense mood"
+          }
+        },
+        {
+          "id": "c8b10",
+          "text": "ineffective bridge resource management بھی ایک وجہ تھی، یعنی captain نے officers کی تجاویز پر پوری توجہ نہیں دی۔ TOTE کی oversight اور safety system بھی ناکافی تھی۔",
+          "roman": "Ineffective bridge resource management bhi aik wajah thi, yaani captain ne officers ki tajaweez par poori tawajjo nahin di. TOTE ki oversight aur safety system bhi na-kafi thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Second mate Danielle Randolph, young woman in a dark work jacket and hard hat, worried, phone in hand, standing on a dim ship bridge at night"
+          }
+        },
+        {
+          "id": "c8b11",
+          "text": "اب technical chain دیکھیں۔ ایک cargo hold میں ایک undetected کھلے watertight scuttle اور damaged seawater piping کے ذریعے flooding ہوئی۔",
+          "roman": "Ab technical chain dekhein. Aik cargo hold mein aik undetected khule watertight scuttle aur damaged seawater piping ke zariye flooding hui.",
+          "visual": {
+            "type": "clip",
+            "query": "flooded ship hold",
+            "prompt": "Dark cargo hold with cars and trailers partly under rising water, emergency lights, tense mood, no people"
+          }
+        },
+        {
+          "id": "c8b12",
+          "text": "پھر مسلسل list سے main engine کا lube oil pressure کم ہو گیا اور propulsion چلی گئی۔ اس کے بعد unsecured ventilation closures سے cargo holds میں downflooding ہوئی۔",
+          "roman": "Phir musalsal list se main engine ka lube oil pressure kam ho gaya aur propulsion chali gayi. Is ke baad unsecured ventilation closures se cargo holds mein downflooding hui.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Cutaway diagram-style illustration of a cargo ship tilting in heavy waves with water entering through deck ventilation openings, no text, dramatic"
+          },
+          "highlight": "LOST PROPULSION"
+        },
+        {
+          "id": "c8b13",
+          "text": "NTSB نے کہا کہ approved damage control plan موجود نہیں تھا۔ اور loss of life میں حالات کے مطابق مناسب survival craft کی کمی بھی شامل تھی۔",
+          "roman": "NTSB ne kaha ke approved damage control plan moujood nahin tha. Aur loss of life mein halaat ke mutabiq munasib survival craft ki kami bhi shamil thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Empty orange lifeboat drifting on rough grey sea after a storm, overcast light, somber mood"
+          }
+        },
+        {
+          "id": "c8b14",
+          "text": "NTSB نے Coast Guard کی grandfathering پالیسی پر بھی تنقید کی، جس کی وجہ سے پرانے جہاز closed lifeboats سے مستثنیٰ رہے۔",
+          "roman": "NTSB ne Coast Guard ki grandfathering policy par bhi tanqeed ki, jis ki wajah se purane jahaz closed lifeboats se mustasna rahe.",
+          "visual": {
+            "type": "clip",
+            "query": "lifeboat davit ship",
+            "prompt": "Lifeboat suspended on davits on an old cargo ship deck, rust and peeling paint, close-up"
+          }
+        },
+        {
+          "id": "c8b15",
+          "text": "El Faro کی پرانی lifeboats ٹھیک سے maintain نہیں ہوئیں، launch نہیں کی گئیں، اور شاید کارآمد پناہ بھی نہ دیتیں۔",
+          "roman": "El Faro ki purani lifeboats theek se maintain nahin huin, launch nahin ki gayin, aur shayad kaar-aamad panah bhi na deteen.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Damaged open lifeboat floating alone on grey waves, debris nearby, quiet somber mood, aerial view"
+          }
+        },
+        {
+          "id": "c8b16",
+          "text": "ایک اور پہلو 2005-06 کی modification تھی، جس میں 4,875 long tons ballast بڑھایا گیا، مگر required damage stability assessment نہیں ہوا۔",
+          "roman": "Aik aur pehlu 2005-06 ki modification thi, jis mein 4,875 long tons ballast barhaya gaya, magar required damage stability assessment nahin hua.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Cargo ship in a shipyard dry dock with workers adding heavy steel sections and cranes, industrial lighting, 2005 era"
+          },
+          "highlight": "NO DAMAGE STABILITY CHECK"
+        },
+        {
+          "id": "c8b17",
+          "text": "مگر تصویر یک طرفہ نہیں۔ جہاز نے 2014 میں دو inspections اور فروری 2015 میں ABS surveys پاس کیے تھے، اور NTSB کے مطابق روانگی پر stability criteria پورے تھے۔",
+          "roman": "Magar tasveer yak-tarfa nahin. Jahaz ne 2014 mein do inspections aur February 2015 mein ABS surveys pass kiye thay, aur NTSB ke mutabiq rawangi par stability criteria poore thay.",
+          "visual": {
+            "type": "clip",
+            "query": "ship inspection",
+            "prompt": "Inspector with clipboard examining a ship's steel hull in a harbor, daylight, documentary style"
+          }
+        },
+        {
+          "id": "c8b18",
+          "text": "Coast Guard نے TOTE پر پانچ code violations کے لیے 5,350 ڈالر جرمانے کی سفارش کی۔ ایک source کے مطابق کمپنی نے کوئی internal incident record file نہیں کیا۔",
+          "roman": "Coast Guard ne TOTE par paanch code violations ke liye 5,350 dollar jurmane ki sifarish ki. Aik source ke mutabiq company ne koi internal incident record file nahin kiya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Empty corporate office desk with a closed folder and a single lamp at night, muted colors, contemplative mood"
+          }
+        },
+        {
+          "id": "c8b19",
+          "text": "قانونی کارروائی بھی ہوئی۔ 14 اکتوبر 2015 کو ایک crew member کے خاندان نے TOTE کے خلاف 100 million ڈالر کا مقدمہ کیا۔",
+          "roman": "Qanooni karrawai bhi hui. 14 October 2015 ko aik crew member ke khandan ne TOTE ke khilaf 100 million dollar ka muqaddama kiya.",
+          "visual": {
+            "type": "clip",
+            "query": "courthouse exterior",
+            "prompt": "US courthouse with columns at dusk, quiet street, sober mood"
+          }
+        },
+        {
+          "id": "c8b20",
+          "text": "پہلے مقدمے میں negligence کا الزام تھا۔ 19 اپریل 2016 تک TOTE Maritime 33 میں سے 18 خاندانوں سے 7 million ڈالر سے زیادہ پر settlement کر چکی تھی۔",
+          "roman": "Pehle muqaddame mein negligence ka ilzam tha. 19 April 2016 tak TOTE Maritime 33 mein se 18 khandanon se 7 million dollar se ziada par settlement kar chuki thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Families seated quietly in a bare meeting room, hands folded, muted light, respectful somber mood, no faces in detail"
+          },
+          "highlight": "18 OF 33 FAMILIES SETTLED"
+        },
+        {
+          "id": "c8b21",
+          "text": "تو کیا یہ صرف ایک captain کی غلطی تھی؟ Coast Guard زیادہ تر ہاں کہتی ہے، جبکہ NTSB نے company اور نظام کی کمزوریاں بھی گنوائیں۔",
+          "roman": "To kya yeh sirf aik captain ki ghalti thi? Coast Guard ziada tar haan kehti hai, jabke NTSB ne company aur nizam ki kamzoriyan bhi ginwayin.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Captain Michael Davidson, middle-aged mariner in a dark navy work jacket, silhouetted on a dim bridge facing a huge dark storm window, contemplative mood"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "Now comes the question asked after every accident: who sank El Faro? The answer lies in two major investigations. The Coast Guard's Marine Board of Investigation completed its report on 24 September 2017 and published it on 1 October. It ran to 199 pages. The investigation was led by Captain Jason Neubauer. Investigators placed almost all the blame on Davidson, who underestimated both the storm and the ship's vulnerability. Despite his crew's concerns, Davidson did not take enough action to avoid the storm. Had he survived, his license could have been revoked.",
+        "But the Coast Guard did not spare TOTE Maritime either. The company was accused of several violations relating to crew rest and working hours. There was no dedicated safety officer overseeing the ship. And the lifeboats were old open-air designs, of the kind found on old ships from the era of the Titanic.",
+        "Then, on 12 December 2017, the NTSB held a board meeting in Washington. Its 400-page report raised questions about Davidson, the company and the regulators alike. According to the NTSB, the first part of the probable cause was the captain's decisions: insufficient action to avoid the storm and failure to use the most current weather information. It also included the late decision to muster the crew. He had relied on outdated weather information from the Bon Voyage System. Ineffective bridge resource management was another cause, meaning the captain did not give full attention to his officers' suggestions. TOTE's oversight and safety system were also inadequate.",
+        "Now consider the technical chain. Flooding occurred in a cargo hold through an undetected open watertight scuttle and damaged seawater piping. Then the continuous list caused the main engine's lube oil pressure to drop and propulsion was lost. After that, downflooding into the cargo holds occurred through unsecured ventilation closures. The NTSB said there was no approved damage control plan. The loss of life also involved a lack of survival craft suitable for the conditions. The NTSB also criticized the Coast Guard's grandfathering policy, under which older ships were exempt from having closed lifeboats. El Faro's old lifeboats were not properly maintained, were not launched, and might not even have provided effective shelter.",
+        "Another aspect was the 2005-06 modification, in which 4,875 long tons of ballast were added but the required damage stability assessment was not done.",
+        "But the picture is not one-sided. The ship had passed two inspections in 2014 and ABS surveys in February 2015, and according to the NTSB the stability criteria were met at departure. The Coast Guard recommended fines of 5,350 dollars on TOTE for five code violations. According to one source, the company did not file any internal incident record.",
+        "Legal action followed. On 14 October 2015 the family of one crew member sued TOTE for 100 million dollars. The first suit alleged negligence. By 19 April 2016 TOTE Maritime had settled with 18 of the 33 families for more than 7 million dollars.",
+        "So was this only one captain's mistake? The Coast Guard mostly says yes, while the NTSB also listed weaknesses in the company and the system."
+      ]
+    },
+    {
+      "titleEn": "What Changed, and What We Still Ask",
+      "titleRoman": "Kya badla aur kya sawal baaqi hain",
+      "covers": "Hamm Alert Maritime Safety Act 2019: weather forecasts, beacons, anonymous reporting; memorials in Jacksonville, San Juan, Rockland, Gdynia, Dania Beach; sister ships scrapped; Joaquin name retired; open questions on why Davidson did not listen; lessons on listening to crew; like and subscribe request",
+      "words": 250,
+      "beats": [
+        {
+          "id": "c9b1",
+          "text": "Hamm Alert Maritime Safety Act 2019 میں Congress نے پاس کیا۔ یہ قانون El Faro کے حادثے میں جاں بحق ہونے والے ایک شخص کے نام پر ہے۔",
+          "roman": "Hamm Alert Maritime Safety Act 2019 mein Congress ne pass kiya. Yeh qanoon El Faro ke hadse mein jaan-bahaq hone wale aik shakhs ke naam par hai.",
+          "visual": {
+            "type": "card",
+            "title": "2019",
+            "text": "Hamm Alert Maritime Safety Act passed"
+          }
+        },
+        {
+          "id": "c9b2",
+          "text": "اس کے تحت cargo ships کو بروقت weather forecasts اور hurricane alerts ملیں گے۔ emergency gear میں location beacons ہوں گے، اور crew کے لیے anonymous reporting system بھی ہوگا۔",
+          "roman": "Is ke tehat cargo ships ko barwaqt weather forecasts aur hurricane alerts milenge. Emergency gear mein location beacons honge, aur crew ke liye anonymous reporting system bhi hoga.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Ship officer on a modern bridge reading a hurricane alert on a screen, calm lighting, hopeful mood"
+          },
+          "highlight": "WEATHER ALERTS AND BEACONS"
+        },
+        {
+          "id": "c9b3",
+          "text": "Memorials بھی بنائے گئے۔ Jacksonville اور San Juan میں دو یادگاریں ہیں، اور Rockland، Maine میں Jay Sawyer کی بنائی یادگار ہے۔",
+          "roman": "Memorials bhi banaye gaye. Jacksonville aur San Juan mein do yaadgarein hain, aur Rockland, Maine mein Jay Sawyer ki banayi yaadgar hai.",
+          "visual": {
+            "type": "clip",
+            "query": "memorial candles",
+            "prompt": "Memorial with candles and flowers beside a harbor at dusk, quiet respectful mood"
+          }
+        },
+        {
+          "id": "c9b4",
+          "text": "Gdynia، Poland کے pier پر plaque ہے، کیونکہ 5 crew members Polish تھے۔ اور Dania Beach، Florida میں 29 ستمبر 2018 کو ایک اور memorial وقف ہوا۔",
+          "roman": "Gdynia, Poland ke pier par plaque hai, kyunke 5 crew members Polish thay. Aur Dania Beach, Florida mein 29 September 2018 ko aik aur memorial waqf hua.",
+          "visual": {
+            "type": "map",
+            "place": "Gdynia, Poland",
+            "lat": 54.52,
+            "lon": 18.53,
+            "zoom": "country",
+            "label": "Gdynia, Poland"
+          }
+        },
+        {
+          "id": "c9b5",
+          "text": "El Faro کے sister ships بھی رخصت ہوئے۔ El Morro 2012 میں اور El Yunque 2017 میں scrap ہوئے، دونوں Coast Guard inspections کے بعد۔",
+          "roman": "El Faro ke sister ships bhi rukhsat hue. El Morro 2012 mein aur El Yunque 2017 mein scrap hue, dono Coast Guard inspections ke baad.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Old rusty cargo ship being dismantled at a scrapyard pier, cranes and sparks, grey evening light, somber mood"
+          }
+        },
+        {
+          "id": "c9b6",
+          "text": "El Faro کے آپریشنز کی جگہ MV Isla Bella کو چنا گیا۔ مگر کوئی نیا جہاز ان 33 لوگوں کی جگہ نہیں لے سکتا۔",
+          "roman": "El Faro ke operations ki jagah MV Isla Bella ko chuna gaya. Magar koi naya jahaz un 33 logon ki jagah nahin le sakta.",
+          "visual": {
+            "type": "clip",
+            "query": "container ship sunrise",
+            "prompt": "Modern container ship leaving harbor at sunrise, calm sea, hopeful mood"
+          }
+        },
+        {
+          "id": "c9b7",
+          "text": "اور طوفان کا نام؟ World Meteorological Organization نے اپریل 2016 میں Joaquin کا نام retire کر دیا۔ 2021 season میں اس کی جگہ Julian آیا۔",
+          "roman": "Aur toofan ka naam? World Meteorological Organization ne April 2016 mein Joaquin ka naam retire kar diya. 2021 season mein is ki jagah Julian aaya.",
+          "visual": {
+            "type": "photo",
+            "photo": "p10"
+          }
+        },
+        {
+          "id": "c9b8",
+          "text": "پھر بھی سوال باقی ہیں۔ Davidson نے اپنی crew کی بات کیوں نہیں مانی؟ NTSB اسے ineffective bridge resource management کہتا ہے، مگر ان کی سوچ ہم نہیں جانتے۔",
+          "roman": "Phir bhi sawal baqi hain. Davidson ne apni crew ki baat kyun nahin mani? NTSB ise ineffective bridge resource management kehta hai, magar un ki soch hum nahin jante.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Captain Michael Davidson, middle-aged American mariner in a dark navy work jacket, tired calm face, alone on a dim bridge looking out at rough dark sea, reflective mood"
+          }
+        },
+        {
+          "id": "c9b9",
+          "text": "دوستو، سبق سادہ ہے: جب crew خطرے کی بات کرے تو سننا ضروری ہے۔ Danielle Randolph نے Crooked Island Passage سے جانے کا مشورہ دیا تھا۔",
+          "roman": "Dosto, sabaq saada hai: jab crew khatre ki baat kare to sunna zaroori hai. Danielle Randolph ne Crooked Island Passage se jaane ka mashwara diya tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Second mate Danielle Randolph, young woman in a dark work jacket and hard hat, worried, phone in hand, looking toward a stormy horizon from a ship bridge"
+          }
+        },
+        {
+          "id": "c9b10",
+          "text": "33 لوگوں کو یاد رکھنا ہی ان کے ساتھ انصاف ہے۔ کہانی پسند آئی ہو تو video کو like کریں اور channel کو subscribe کریں۔",
+          "roman": "33 logon ko yaad rakhna hi un ke saath insaf hai. Kahani pasand aayi ho to video ko like karein aur channel ko subscribe karein.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Calm ocean at sunrise with a single lit lantern floating on the water, peaceful respectful mood, wide shot"
+          },
+          "highlight": "33 LIVES REMEMBERED"
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "Congress passed the Hamm Alert Maritime Safety Act in 2019. The law is named after a person who lost his life in the El Faro accident. Under it, cargo ships will receive timely weather forecasts and hurricane alerts. Emergency gear will include location beacons, and there will be an anonymous reporting system for crew.",
+        "Memorials have also been built. There are two in Jacksonville and San Juan, and a memorial made by Jay Sawyer in Rockland, Maine. There is a plaque on the pier in Gdynia, Poland, because five crew members were Polish. Another memorial was dedicated in Dania Beach, Florida, on 29 September 2018.",
+        "El Faro's sister ships have also departed. El Morro was scrapped in 2012 and El Yunque in 2017, both after Coast Guard inspections. MV Isla Bella was chosen to take over El Faro's operations. But no new ship can replace those 33 people. And the storm's name? The World Meteorological Organization retired the name Joaquin in April 2016. In the 2021 season it was replaced by Julian.",
+        "Questions remain. Why did Davidson not heed his crew? The NTSB calls it ineffective bridge resource management, but we do not know his thinking. The lesson is simple: when the crew speaks of danger, it is essential to listen. Danielle Randolph had advised going through the Crooked Island Passage. Remembering the 33 is the way to do them justice. If you liked this story, please like the video and subscribe to the channel."
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "id": "s1",
+      "chapter": 0,
+      "titleEn": "\"Bow is down!\" El Faro's Last Minutes on the Bridge",
+      "hook": "Aakhri lafz bridge par",
+      "text": "کیا ایک captain اپنے آخری لمحوں میں کسی کو اکیلا چھوڑ سکتا ہے؟ صبح کے 7:24 بجے تھے، 1 October 2015۔ Atlantic کے بیچ cargo ship El Faro طوفان میں گھری تھی۔ Captain Michael Davidson نے abandon ship کا حکم دیا۔ تھوڑی دیر بعد bridge پر آواز گونجی، Bow is down، bow is down! پھر اس نے UHF radio پر chief mate سے کہا کہ rafts پانی میں پھینک دو اور سب جہاز سے نکلو۔ اسی دوران ایک helmsman بہت گھبرایا ہوا تھا۔ وہ چیخا، I need a ladder! A line! Captain اسے بار بار کہتا رہا کہ گھبراؤ نہیں۔ اس نے کہا، I'm not leavin' you، let's go! Recording 7:39 پر ختم ہوئی، اور دونوں اب بھی bridge پر تھے۔ Davidson کے آخری الفاظ کیا تھے؟ پوری کہانی ہمارے channel پر دیکھیں۔",
+      "roman": "Kya aik captain apne aakhri lamhon mein kisi ko akela chhor sakta hai? Subah ke 7:24 baje thay, 1 October 2015. Atlantic ke beech cargo ship El Faro toofan mein ghiri thi. Captain Michael Davidson ne abandon ship ka hukm diya. Thodi der baad bridge par awaaz goonji, Bow is down, bow is down! Phir us ne UHF radio par chief mate se kaha ke rafts pani mein phenk do aur sab jahaz se niklo. Isi dauran aik helmsman bohat ghabraya hua tha. Woh chillaya, I need a ladder! A line! Captain use baar baar kehta raha ke ghabrao nahin. Us ne kaha, I'm not leavin' you, let's go! Recording 7:39 par khatam hui, aur dono ab bhi bridge par thay. Davidson ke aakhri alfaaz kya thay? Poori kahani hamare channel par dekhein.",
+      "descriptionEn": "The final minutes on El Faro's bridge, as recorded by the voyage data recorder on October 1, 2015.\nBased on the NTSB transcript of the ship's last moments.",
+      "tags": [
+        "ElFaro",
+        "HurricaneJoaquin",
+        "ShipDisaster",
+        "VoyageDataRecorder",
+        "Shipwreck",
+        "MaritimeHistory",
+        "NTSB",
+        "TrueStory",
+        "UrduDocumentary",
+        "CaptainDavidson"
+      ],
+      "render": {
+        "duration": 55.363
+      }
+    },
+    {
+      "id": "s2",
+      "chapter": 4,
+      "titleEn": "\"We're Not Abandoning Ship\" El Faro's Final Morning",
+      "hook": "Scuttle jo khul gaya",
+      "text": "کیا ایک جہاز کی قسمت ایک کھلے scuttle پر ٹکی تھی؟ 1 October 2015 کی صبح 5:43 پر Davidson کو phone آیا کہ no. 3 cargo hold میں flooding کا شک ہے۔ اس نے chief mate کو جانچ کے لیے بھیجا۔ 30 منٹ بعد ship کا steam propulsion plant بند ہو گیا۔ 6:54 پر Davidson نے phone پر کہا کہ ہم ship نہیں چھوڑ رہے، ہم ship کے ساتھ رہیں گے۔ 7:06 پر اس نے بتایا کہ طوفان میں ایک scuttle کھل گیا تھا، three hold میں پانی ہے اور engineers main engine نہیں چلا پا رہے۔ پھر 7:15 پر chief mate bridge پر لوٹا اور بولا، Captain، مجھے لگتا ہے پانی کی سطح بڑھ رہی ہے۔ صرف 9 منٹ بعد Davidson کیا حکم دینے والا تھا؟ پوری کہانی ہمارے channel پر دیکھیں۔",
+      "roman": "Kya aik jahaz ki qismat aik khule scuttle par tiki thi? 1 October 2015 ki subah 5:43 par Davidson ko phone aaya ke no. 3 cargo hold mein flooding ka shak hai. Us ne chief mate ko jaanch ke liye bheja. 30 minute baad ship ka steam propulsion plant band ho gaya. 6:54 par Davidson ne phone par kaha ke hum ship nahin chhor rahe, hum ship ke saath rahenge. 7:06 par us ne bataya ke toofan mein aik scuttle khul gaya tha, three hold mein pani hai aur engineers main engine nahin chala pa rahe. Phir 7:15 par chief mate bridge par lauta aur bola, Captain, mujhe lagta hai pani ki satah barh rahi hai. Sirf 9 minute baad Davidson kya hukm dene wala tha? Poori kahani hamare channel par dekhein.",
+      "descriptionEn": "How flooding, lost propulsion and a worsening list unfolded on El Faro's bridge on the morning of October 1, 2015.\nBased on the NTSB's voyage data recorder transcript.",
+      "tags": [
+        "ElFaro",
+        "HurricaneJoaquin",
+        "NTSBTranscript",
+        "ShipFlooding",
+        "TOTEMaritime",
+        "MaritimeDisaster",
+        "FinalHours",
+        "TrueStory",
+        "UrduDocumentary",
+        "Bahamas"
+      ],
+      "render": {
+        "duration": 51.173
+      }
+    },
+    {
+      "id": "s3",
+      "chapter": 6,
+      "titleEn": "El Faro Found: A Giant Wreck 15,000 Feet Below the Sea",
+      "hook": "Samandar mein kya mila?",
+      "text": "سمندر کی تہہ میں تقریباً 15,400 feet نیچے کیا چھپا تھا؟ 19 October کو Navy کا جہاز USNS Apache، Virginia Beach سے روانہ ہوا۔ اس پر towed pinger locator، side-scan sonar اور ایک remotely operated vehicle تھی۔ ایک دوسرا source کہتا ہے کہ search 23 October کو دوبارہ شروع ہوئی، مگر 31 October پر دونوں متفق ہیں۔ اس دن sonar پر ایک بڑا object ابھرا۔ NTSB نے بتایا کہ یہ 790 feet کے cargo ship جیسا ہے، سیدھا کھڑا اور ایک ہی piece میں۔ اگلے دن Navy نے اعلان کیا کہ تصویروں سے wreck کی شناخت El Faro کے طور پر ہو گئی۔ 16 November کو NTSB نے تصدیق کی، مگر ایک بڑی چیز نہیں ملی تھی، voyage data recorder۔ وہ کہاں تھا؟ پوری کہانی ہمارے channel پر دیکھیں۔",
+      "roman": "Samandar ki tah mein taqreeban 15,400 feet neeche kya chhupa tha? 19 October ko Navy ka jahaz USNS Apache, Virginia Beach se rawana hua. Is par towed pinger locator, side-scan sonar aur aik remotely operated vehicle thi. Aik doosra source kehta hai ke search 23 October ko dobara shuru hui, magar 31 October par dono muttafiq hain. Us din sonar par aik bara object ubhra. NTSB ne bataya ke yeh 790 feet ke cargo ship jaisa hai, seedha khara aur aik hi piece mein. Agle din Navy ne elan kiya ke tasveeron se wreck ki shanakht El Faro ke taur par ho gayi. 16 November ko NTSB ne tasdeeq ki, magar aik bari cheez nahin mili thi, voyage data recorder. Woh kahan tha? Poori kahani hamare channel par dekhein.",
+      "descriptionEn": "The Navy's search for El Faro's wreck in 2015 and the recovery of the missing voyage data recorder in 2016.\nSources differ on the search restart date and the exact depth.",
+      "tags": [
+        "ElFaro",
+        "USNSApache",
+        "ShipwreckFound",
+        "NTSB",
+        "DeepSeaSearch",
+        "VoyageDataRecorder",
+        "HurricaneJoaquin",
+        "MaritimeMystery",
+        "UrduDocumentary",
+        "TrueStory"
+      ],
+      "render": {
+        "duration": 50.442
+      }
+    }
+  ],
+  "metaChecked": true,
+  "wordCount": 4218,
+  "render": {
+    "duration": 1751.24,
+    "chapters": [
+      {
+        "start": 0,
+        "titleEn": "The Last Words on the Bridge",
+        "titleRoman": "Bridge par aakhri alfaaz"
+      },
+      {
+        "start": 106.6,
+        "titleEn": "A Lifeline Built in 1975",
+        "titleRoman": "1975 mein bani zindagi ki lifeline"
+      },
+      {
+        "start": 307.87999999999994,
+        "titleEn": "Leaving Jacksonville",
+        "titleRoman": "Jacksonville se rawangi"
+      },
+      {
+        "start": 505.08000000000004,
+        "titleEn": "A Storm Grows Closer",
+        "titleRoman": "Toofan qareeb aata hai"
+      },
+      {
+        "start": 695.9599999999998,
+        "titleEn": "Twenty-Six Hours on the Recorder: The Final Morning",
+        "titleRoman": "Recorder ke 26 ghante: aakhri subah"
+      },
+      {
+        "start": 986.1999999999996,
+        "titleEn": "Searching the Sea",
+        "titleRoman": "Samandar mein talash"
+      },
+      {
+        "start": 1211.7999999999997,
+        "titleEn": "Finding the Wreck and the Black Box",
+        "titleRoman": "Wreck aur black box ki dariyaft"
+      },
+      {
+        "start": 1402.2799999999997,
+        "titleEn": "Who and What Sank El Faro?",
+        "titleRoman": "El Faro ko kis ne doobaya?"
+      },
+      {
+        "start": 1631.72,
+        "titleEn": "What Changed, and What We Still Ask",
+        "titleRoman": "Kya badla aur kya sawal baaqi hain"
+      }
+    ],
+    "chapterImages": [
+      {
+        "file": "ch1.jpg",
+        "photo": null,
+        "kind": "ai"
+      },
+      {
+        "file": "ch2.jpg",
+        "photo": null,
+        "kind": "map"
+      },
+      {
+        "file": "ch3.jpg",
+        "photo": null,
+        "kind": "map"
+      },
+      {
+        "file": "ch4.jpg",
+        "photo": "p1",
+        "kind": "photo"
+      },
+      {
+        "file": "ch5.jpg",
+        "photo": null,
+        "kind": "ai"
+      },
+      {
+        "file": "ch6.jpg",
+        "photo": null,
+        "kind": "ai"
+      },
+      {
+        "file": "ch7.jpg",
+        "photo": null,
+        "kind": "map"
+      },
+      {
+        "file": "ch8.jpg",
+        "photo": null,
+        "kind": "ai"
+      },
+      {
+        "file": "ch9.jpg",
+        "photo": null,
+        "kind": "ai"
+      }
+    ],
+    "pictures": {
+      "ai": 0,
+      "stock": 81,
+      "clip": 40,
+      "photo": 19,
+      "map": 8,
+      "card": 12,
+      "reused": 0,
+      "fallback": 0
+    },
+    "renderedAt": "2026-10-01T00:16:38.168Z",
+    "clipCredits": [
+      {
+        "user": "Bisan Subba",
+        "url": "https://www.pexels.com/video/lonely-lighthouse-amidst-stormy-sea-waves-32844046/"
+      },
+      {
+        "user": "Wolfgang Vrede",
+        "url": "https://www.pexels.com/photo/cargo-ship-on-inland-waterway-at-daytime-35976474/"
+      },
+      {
+        "user": "Murry Lee",
+        "url": "https://www.pexels.com/photo/man-with-beard-and-in-raincoat-17272126/"
+      },
+      {
+        "user": "Abdulmutalip  BOZKUS",
+        "url": "https://www.pexels.com/photo/portrait-of-man-on-a-boat-in-black-and-white-26975241/"
+      },
+      {
+        "user": "Nabil Naidu",
+        "url": "https://www.pexels.com/photo/captains-hat-binoculars-and-walkie-talkie-left-on-the-map-10794377/"
+      },
+      {
+        "user": "Pixabay",
+        "url": "https://www.pexels.com/photo/earth-planet-76969/"
+      },
+      {
+        "user": "Tom Fisk",
+        "url": "https://www.pexels.com/video/fishing-boats-dock-on-a-sea-harbor-3376554/"
+      },
+      {
+        "user": "Tom Fisk",
+        "url": "https://www.pexels.com/photo/barge-on-river-12442355/"
+      },
+      {
+        "user": "Toàn BDS",
+        "url": "https://www.pexels.com/video/aerial-view-of-container-ship-at-port-29903737/"
+      },
+      {
+        "user": "Somogro Bangladesh",
+        "url": "https://www.pexels.com/video/industrial-welding-on-ship-hull-outdoors-38415765/"
+      },
+      {
+        "user": "sakibul Hasan",
+        "url": "https://www.pexels.com/photo/large-cargo-ships-docked-at-shipyard-35813617/"
+      },
+      {
+        "user": "Markus Winkler",
+        "url": "https://www.pexels.com/photo/the-word-ship-spelled-out-in-scrabble-letters-19867370/"
+      },
+      {
+        "user": "JANILSON PEREIRA TRARBACH",
+        "url": "https://www.pexels.com/video/military-ship-in-harbor-12859922/"
+      },
+      {
+        "user": "Ozan Tabakoğlu",
+        "url": "https://www.pexels.com/photo/lighthouse-on-sea-shore-19910644/"
+      },
+      {
+        "user": "Oleksiy Yeshtokyn,🌻🇺🇦🌻",
+        "url": "https://www.pexels.com/photo/tugboat-and-cargo-ship-at-twilight-in-ocean-39762821/"
+      },
+      {
+        "user": "K",
+        "url": "https://www.pexels.com/video/directly-above-view-of-commercial-dock-10391545/"
+      },
+      {
+        "user": "the Amritdev",
+        "url": "https://www.pexels.com/photo/indian-armed-forces-formal-medal-display-34954614/"
+      },
+      {
+        "user": "Henley Wang",
+        "url": "https://www.pexels.com/photo/rusting-freighter-near-rocky-shoreline-38332314/"
+      },
+      {
+        "user": "Mehmed Ali Bekman",
+        "url": "https://www.pexels.com/video/a-large-ship-is-in-the-water-near-a-mountain-28496106/"
+      },
+      {
+        "user": "RDNE Stock project",
+        "url": "https://www.pexels.com/photo/a-man-in-yellow-hard-hat-holding-a-clipboard-8293670/"
+      },
+      {
+        "user": "Cecilia  Ravalli",
+        "url": "https://www.pexels.com/photo/two-men-wearing-safety-helmets-13384293/"
+      },
+      {
+        "user": "wowi allinsky",
+        "url": "https://www.pexels.com/video/a-large-piece-of-metal-sitting-on-a-trailer-16089171/"
+      },
+      {
+        "user": "Khusen Rustamov",
+        "url": "https://www.pexels.com/photo/interior-of-abandoned-rusty-ship-in-desert-36429290/"
+      },
+      {
+        "user": "RDNE Stock project",
+        "url": "https://www.pexels.com/photo/man-in-yellow-safety-reflective-vest-with-hard-hat-doing-house-inspection-8293667/"
+      },
+      {
+        "user": "Wei86 Travel",
+        "url": "https://www.pexels.com/video/dynamic-ocean-waves-crashing-against-rocky-shore-29493224/"
+      },
+      {
+        "user": "willy one",
+        "url": "https://www.pexels.com/video/aerial-view-of-busy-shipping-port-at-dusk-35907902/"
+      },
+      {
+        "user": "Oleksiy Yeshtokyn,🌻🇺🇦🌻",
+        "url": "https://www.pexels.com/photo/cargo-ship-on-river-with-crew-at-work-39001340/"
+      },
+      {
+        "user": "Tom Fisk",
+        "url": "https://www.pexels.com/photo/old-ship-moored-on-pier-in-port-6196277/"
+      },
+      {
+        "user": "Luk Sauvage",
+        "url": "https://www.pexels.com/photo/aerial-view-of-umbrella-walkway-in-rainy-vienna-39302525/"
+      },
+      {
+        "user": "Vinay",
+        "url": "https://www.pexels.com/video/a-dark-storm-cloud-is-seen-in-the-sky-17311357/"
+      },
+      {
+        "user": "SpaceX",
+        "url": "https://www.pexels.com/photo/satellite-view-of-earth-586072/"
+      },
+      {
+        "user": "Guy Kawasaki",
+        "url": "https://www.pexels.com/photo/sailor-walking-on-a-ships-deck-1654497/"
+      },
+      {
+        "user": "cottonbro studio",
+        "url": "https://www.pexels.com/photo/a-tattooed-man-holding-a-photo-8382279/"
+      },
+      {
+        "user": "Emir Anık",
+        "url": "https://www.pexels.com/photo/elderly-men-sitting-together-12775138/"
+      },
+      {
+        "user": "RDNE Stock project",
+        "url": "https://www.pexels.com/photo/man-in-orange-jacket-standing-beside-man-in-black-leather-jacket-6065469/"
+      },
+      {
+        "user": "Seven Seil",
+        "url": "https://www.pexels.com/video/a-blue-boat-on-the-sea-9128646/"
+      },
+      {
+        "user": "Glenn Langhorst",
+        "url": "https://www.pexels.com/video/container-ship-in-harbor-10452360/"
+      },
+      {
+        "user": "Fatih Turan",
+        "url": "https://www.pexels.com/photo/cargo-ship-on-sea-at-night-12810604/"
+      },
+      {
+        "user": "Lucas Leonel Suárez",
+        "url": "https://www.pexels.com/photo/young-woman-enjoying-mate-by-lake-in-patagonia-36364930/"
+      },
+      {
+        "user": "Rafael Minguet Delgado",
+        "url": "https://www.pexels.com/video/crypto-market-analysis-on-dual-screens-38512646/"
+      },
+      {
+        "user": "Sajjad Naqvi",
+        "url": "https://www.pexels.com/video/video-of-a-blue-sea-and-waves-5288655/"
+      },
+      {
+        "user": "Connor Scott McManus",
+        "url": "https://www.pexels.com/photo/palm-trees-by-the-sea-in-sanford-13865771/"
+      },
+      {
+        "user": "ΘSWΛLD",
+        "url": "https://www.pexels.com/photo/elderly-man-in-hat-looking-at-sunset-30608642/"
+      },
+      {
+        "user": "Tom Fisk",
+        "url": "https://www.pexels.com/photo/boat-on-water-1996985/"
+      },
+      {
+        "user": "Zelch Csaba",
+        "url": "https://www.pexels.com/video/earth-from-space-south-america-view-35997572/"
+      },
+      {
+        "user": "Simon R. Minshall",
+        "url": "https://www.pexels.com/photo/navigator-on-cargo-ship-bridge-using-binoculars-28498830/"
+      },
+      {
+        "user": "Glenn Langhorst",
+        "url": "https://www.pexels.com/video/passenger-ship-at-night-11336559/"
+      },
+      {
+        "user": "Samet  Korkmaz",
+        "url": "https://www.pexels.com/photo/elderly-captain-on-boat-12811925/"
+      },
+      {
+        "user": "Dương Nhân",
+        "url": "https://www.pexels.com/photo/person-sitting-beside-the-bottle-of-jack-daniel-s-7160354/"
+      },
+      {
+        "user": "ROMAN ODINTSOV",
+        "url": "https://www.pexels.com/video/world-maps-on-the-wall-7593623/"
+      },
+      {
+        "user": "Rain Lü",
+        "url": "https://www.pexels.com/photo/rusty-cargo-ship-stranded-on-rocky-shoreline-36253411/"
+      },
+      {
+        "user": "Andrew Patrick Photo",
+        "url": "https://www.pexels.com/photo/american-flag-near-the-body-of-water-11578702/"
+      },
+      {
+        "user": "K",
+        "url": "https://www.pexels.com/video/ship-sailing-across-the-river-2402371/"
+      },
+      {
+        "user": "Erik Reemst",
+        "url": "https://www.pexels.com/photo/group-of-senior-men-in-black-railway-uniforms-6574877/"
+      },
+      {
+        "user": "Navdeep singh",
+        "url": "https://www.pexels.com/photo/ship-s-bridge-overlooking-calm-sea-in-spain-29805443/"
+      },
+      {
+        "user": "Ron Lach",
+        "url": "https://www.pexels.com/video/people-working-at-an-office-8691678/"
+      },
+      {
+        "user": "Fred dendoktoor",
+        "url": "https://www.pexels.com/photo/red-and-black-ship-on-sea-9328777/"
+      },
+      {
+        "user": "Mario Krimer",
+        "url": "https://www.pexels.com/video/dramatic-ocean-waves-in-slow-motion-37259189/"
+      },
+      {
+        "user": "Joerg Mangelsen",
+        "url": "https://www.pexels.com/photo/a-man-in-red-and-white-uniform-standing-on-a-cobblestone-street-27424975/"
+      },
+      {
+        "user": "Kampus Production",
+        "url": "https://www.pexels.com/photo/young-woman-sitting-on-a-boat-and-holding-a-champagne-glass-7895747/"
+      },
+      {
+        "user": "ömer faruk ermiş",
+        "url": "https://www.pexels.com/photo/woman-fishing-in-yellow-raincoat-by-the-waterfront-35254499/"
+      },
+      {
+        "user": "dabatepatvideos",
+        "url": "https://www.pexels.com/video/sea-waves-rising-over-a-concrete-pier-11294886/"
+      },
+      {
+        "user": "Mike Bird",
+        "url": "https://www.pexels.com/photo/red-coupe-on-flatbed-trailer-943930/"
+      },
+      {
+        "user": "Long Bà Mùi",
+        "url": "https://www.pexels.com/photo/flooding-in-phu-yen-vietnam-during-monsoon-34959193/"
+      },
+      {
+        "user": "Mytho Digital",
+        "url": "https://www.pexels.com/video/industrial-red-valves-on-white-pipes-38286597/"
+      },
+      {
+        "user": "Wolfgang Weiser",
+        "url": "https://www.pexels.com/photo/view-of-boats-in-the-harbor-in-hamburg-germany-20379716/"
+      },
+      {
+        "user": "Maël  BALLAND",
+        "url": "https://www.pexels.com/photo/man-in-a-yellow-jacket-standing-near-a-water-body-3098765/"
+      },
+      {
+        "user": "HONG SON",
+        "url": "https://www.pexels.com/photo/man-standing-behind-the-helm-17126295/"
+      },
+      {
+        "user": "Tony Rush",
+        "url": "https://www.pexels.com/video/emergency-light-28172140/"
+      },
+      {
+        "user": "William Jacobs",
+        "url": "https://www.pexels.com/photo/coast-guard-helicopter-rescue-over-ocean-38153652/"
+      },
+      {
+        "user": "Ron Lach",
+        "url": "https://www.pexels.com/video/a-woman-taking-notes-beside-a-man-talking-10350199/"
+      },
+      {
+        "user": "Johannes Plenio",
+        "url": "https://www.pexels.com/photo/tornado-on-body-of-water-during-golden-hour-1119974/"
+      },
+      {
+        "user": "Владимир Брызгин",
+        "url": "https://www.pexels.com/video/biplane-on-sky-10835593/"
+      },
+      {
+        "user": "Francisco José  Zangerolame",
+        "url": "https://www.pexels.com/photo/propellers-on-wing-of-aircraft-23632459/"
+      },
+      {
+        "user": "Sinful",
+        "url": "https://www.pexels.com/photo/us-coast-guard-helicopter-in-flight-against-blue-sky-38252565/"
+      },
+      {
+        "user": "CityXcape",
+        "url": "https://www.pexels.com/video/a-close-up-shot-of-a-lifebuoy-3918100/"
+      },
+      {
+        "user": "Phyllis Lilienthal",
+        "url": "https://www.pexels.com/photo/us-coast-guard-mh-60-helicopter-in-stormy-skies-33119596/"
+      },
+      {
+        "user": "Ronald Hayward",
+        "url": "https://www.pexels.com/video/coast-guard-boat-on-the-sea-5063332/"
+      },
+      {
+        "user": "Planespotter Geneva",
+        "url": "https://www.pexels.com/photo/military-aircraft-in-flight-over-england-33102291/"
+      },
+      {
+        "user": "Tanhauser Vázquez R.",
+        "url": "https://www.pexels.com/photo/a-rescue-helicopter-over-the-sea-water-13261871/"
+      },
+      {
+        "user": "Jonathan Ludford-Brooks",
+        "url": "https://www.pexels.com/video/helicopter-delivering-cargo-to-offshore-wind-farm-31051211/"
+      },
+      {
+        "user": "Julia Barrantes",
+        "url": "https://www.pexels.com/photo/dramatic-ocean-view-at-twilight-34033513/"
+      },
+      {
+        "user": "İrem Dur",
+        "url": "https://www.pexels.com/photo/broken-window-with-view-of-abandoned-building-34686273/"
+      },
+      {
+        "user": "nova drone",
+        "url": "https://www.pexels.com/video/rnli-lifeboat-18078999/"
+      },
+      {
+        "user": "Nikita Belokhonov",
+        "url": "https://www.pexels.com/photo/wooden-sticks-on-floor-4858613/"
+      },
+      {
+        "user": "Ali   Soheil",
+        "url": "https://www.pexels.com/photo/rescue-helicopter-hovering-over-sea-with-boat-34832029/"
+      },
+      {
+        "user": "Igor Passchier",
+        "url": "https://www.pexels.com/photo/helicopter-rescue-mission-over-rotterdam-skyline-39434888/"
+      },
+      {
+        "user": "Hussain Naushad",
+        "url": "https://www.pexels.com/photo/a-flooded-village-19715451/"
+      },
+      {
+        "user": "Blaque X",
+        "url": "https://www.pexels.com/photo/underwater-photography-of-deep-sea-932638/"
+      },
+      {
+        "user": "Alexander Popadin",
+        "url": "https://www.pexels.com/photo/close-up-of-a-military-ship-docked-at-harbor-35326206/"
+      },
+      {
+        "user": "JUN HO LEE",
+        "url": "https://www.pexels.com/video/underwater-exploration-with-abandoned-bicycle-35278938/"
+      },
+      {
+        "user": "Matteo Parisi",
+        "url": "https://www.pexels.com/photo/a-ship-cruising-on-blue-sea-12243700/"
+      },
+      {
+        "user": "Kindel Media",
+        "url": "https://www.pexels.com/video/yellow-aquatic-plants-in-the-ocean-8823453/"
+      },
+      {
+        "user": "cottonbro studio",
+        "url": "https://www.pexels.com/photo/person-holding-test-tube-10481248/"
+      },
+      {
+        "user": "cottonbro studio",
+        "url": "https://www.pexels.com/photo/photo-of-man-listening-to-black-headphones-7299488/"
+      },
+      {
+        "user": "Kindel Media",
+        "url": "https://www.pexels.com/video/stack-of-paperwork-on-the-desk-7054942/"
+      },
+      {
+        "user": "Arian Fernandez",
+        "url": "https://www.pexels.com/photo/senior-man-enjoying-a-cigar-outdoors-29753689/"
+      },
+      {
+        "user": "Иван Лемехов",
+        "url": "https://www.pexels.com/photo/three-large-cargo-ships-moored-in-port-in-winter-8732309/"
+      },
+      {
+        "user": "willy one",
+        "url": "https://www.pexels.com/video/nighttime-aerial-view-of-busy-cargo-port-35907908/"
+      },
+      {
+        "user": "H Clicks",
+        "url": "https://www.pexels.com/photo/fisherman-at-work-on-boat-in-vietnam-waters-36785813/"
+      },
+      {
+        "user": "Alexander Zvir",
+        "url": "https://www.pexels.com/photo/orange-lifeboats-hanging-on-a-cruise-ship-5880913/"
+      },
+      {
+        "user": "https://kaboompics.com/",
+        "url": "https://www.pexels.com/photo/woman-hand-holding-pencil-and-showing-data-on-chart-7876498/"
+      },
+      {
+        "user": "Kampus Production",
+        "url": "https://www.pexels.com/photo/smiling-woman-in-purple-long-sleeve-shirt-with-brown-vest-7893731/"
+      },
+      {
+        "user": "Traveling on  the Go",
+        "url": "https://www.pexels.com/video/drone-footage-of-an-abandoned-village-on-an-island-14128997/"
+      },
+      {
+        "user": "Amar  Preciado",
+        "url": "https://www.pexels.com/photo/engines-of-boeing-c-17-9969362/"
+      },
+      {
+        "user": "Eric Seddon",
+        "url": "https://www.pexels.com/photo/reflections-27425507/"
+      },
+      {
+        "user": "Alin Buda",
+        "url": "https://www.pexels.com/video/ship-board-while-sailing-14566219/"
+      },
+      {
+        "user": "Oleksiy Yeshtokyn,🌻🇺🇦🌻",
+        "url": "https://www.pexels.com/photo/orange-rescue-capsule-over-green-water-29906339/"
+      },
+      {
+        "user": "Andreas Hoffmann",
+        "url": "https://www.pexels.com/photo/charleston-express-cargo-ship-in-dry-dock-39482122/"
+      },
+      {
+        "user": "Julio  Agreda",
+        "url": "https://www.pexels.com/video/a-large-ship-is-floating-in-the-water-16071601/"
+      },
+      {
+        "user": "Mikhail Nilov",
+        "url": "https://www.pexels.com/photo/chairs-in-a-conference-room-9300765/"
+      },
+      {
+        "user": "In Old News LLC",
+        "url": "https://www.pexels.com/video/supreme-court-building-in-washington-dc-29188239/"
+      },
+      {
+        "user": "Mendez",
+        "url": "https://www.pexels.com/photo/family-enjoying-a-theater-show-in-brasil-31474150/"
+      },
+      {
+        "user": "Kaybee Photography",
+        "url": "https://www.pexels.com/photo/three-military-officers-in-blue-uniforms-outdoors-33552310/"
+      },
+      {
+        "user": "id23",
+        "url": "https://www.pexels.com/photo/person-on-air-traffic-control-tower-10893728/"
+      },
+      {
+        "user": "cottonbro studio",
+        "url": "https://www.pexels.com/video/woman-looking-at-deceased-woman-picture-and-walking-away-10498293/"
+      },
+      {
+        "user": "Mo Eid",
+        "url": "https://www.pexels.com/photo/an-old-rusty-ship-on-the-sea-17865551/"
+      },
+      {
+        "user": "Glenn Langhorst",
+        "url": "https://www.pexels.com/video/cranes-and-docked-container-ships-9831955/"
+      },
+      {
+        "user": "Kaybee Photography",
+        "url": "https://www.pexels.com/photo/military-officers-in-formal-blue-uniforms-outdoors-33552311/"
+      },
+      {
+        "user": "Postcard Pictures",
+        "url": "https://www.pexels.com/photo/woman-standing-on-road-2599729/"
+      },
+      {
+        "user": "Marianna Sigov",
+        "url": "https://www.pexels.com/photo/tranquil-ocean-horizon-at-dawn-30923399/"
+      }
+    ],
+    "presenter": {
+      "mode": "full",
+      "engine": "card"
+    }
+  }
+}
