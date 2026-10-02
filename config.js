@@ -18,8 +18,8 @@ export default {
   youtubeChannelUrl: process.env.YOUTUBE_CHANNEL_URL || "",
 
   // ---- Script ----
-  targetWords: Number(process.env.TARGET_WORDS || 3900), // Urdu narration ≈147 words/min → ~27 min + host/title scenes
-  wordsPerMinute: 147,
+  targetWords: Number(process.env.TARGET_WORDS || 3600), // ≈ 27-29 min with the Salman voice + title/end scenes
+  wordsPerMinute: 135,
   chaptersPerCall: 3, // chapters written per AI request
   shortsPerDay: 3,
   // What the channel covers. The AI picks from trending Wikipedia topics that fit these.
@@ -30,8 +30,11 @@ export default {
   ],
 
   // ---- Voice (free Microsoft Edge voices) ----
-  voice: process.env.VOICE || "ur-PK-AsadNeural", // Pakistani Urdu, male (female: ur-PK-UzmaNeural)
-  speechRate: process.env.SPEECH_RATE || "+0%",
+  voice: process.env.VOICE || "ur-IN-SalmanNeural", // Indian Urdu male, closest to Hindustani explainer style (alt: ur-PK-AsadNeural)
+  speechRate: process.env.SPEECH_RATE || "+7%", // a little faster = more energetic delivery
+  speechPitch: process.env.SPEECH_PITCH || "-2%", // a little deeper
+  // "Studio voice": rumble cut, warmth, presence, de-esser and compression — like a good microphone and mixing.
+  voiceStudio: "highpass=f=80,equalizer=f=160:t=q:w=1:g=3,equalizer=f=3500:t=q:w=1.2:g=2.5,deesser=i=0.4,acompressor=threshold=0.12:ratio=3:attack=5:release=80:makeup=2",
 
   // ---- Editing style ----
   shotSeconds: 4.5, // change the camera move / picture about this often (fast, modern documentary pacing)

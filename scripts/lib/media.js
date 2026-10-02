@@ -73,7 +73,7 @@ const withTimeout = (promise, ms, what) =>
   Promise.race([promise, new Promise((_, rej) => setTimeout(() => rej(new Error(`${what} timed out`)), ms))]);
 
 export class Narrator {
-  constructor(voice = config.voice, rate = config.speechRate) { this.voice = voice; this.rate = rate; this.tts = null; }
+  constructor(voice = config.voice, rate = config.speechRate, pitch = config.speechPitch) { this.voice = voice; this.rate = rate; this.pitch = pitch; this.tts = null; }
 
   async #connect(wordBoundaries = true) {
     try { this.tts?.close(); } catch { /* already closed */ }
@@ -85,7 +85,7 @@ export class Narrator {
     // msedge-tts deletes metadata.json when no word timings arrive, and crashes if the file doesn't exist yet.
     // Creating it first turns that crash into a normal error we can retry.
     fs.writeFileSync(path.join(dir, "metadata.json"), "");
-    const { audioFilePath, metadataFilePath } = await withTimeout(this.tts.toFile(dir, speakable(text), { rate: this.rate }), 120000, "narration");
+    const { audioFilePath, metadataFilePath } = await withTimeout(this.tts.toFile(dir, speakable(text), { rate: this.rate, pitch: this.pitch }), 120000, "narration");
     let words = [];
     if (metadataFilePath && fs.existsSync(metadataFilePath)) {
       const raw = fs.readFileSync(metadataFilePath, "utf8");
@@ -290,7 +290,9 @@ export async function padAudio(input, seconds, out) {
  */
 export function audioMix({ first, sfx, music, voiceLoudness = -15 }) {
   let i = first;
-  const parts = [`[${i++}:a]loudnorm=I=${voiceLoudness}:TP=-1.5:LRA=11,aresample=48000${music ? ",asplit=2[vo][key]" : "[vo]"}`];
+  // Narration: "studio voice" processing, then loudness normalisation.
+  const studio = config.voiceStudio ? `${config.voiceStudio},` : "";
+  const parts = [`[${i++}:a]${studio}loudnorm=I=${voiceLoudness}:TP=-1.5:LRA=11,aresample=48000${music ? ",asplit=2[vo][key]" : "[vo]"}`];
   const mix = ["[vo]"];
   if (sfx) { parts.push(`[${i++}:a]volume=0.5,aresample=48000[fx]`); mix.push("[fx]"); }
   if (music) {
