@@ -26,7 +26,7 @@ export default {
   themes: [
     "unsolved mysteries", "famous disasters and what went wrong", "incredible survival stories",
     "strange historical events", "science and nature mysteries", "famous heists, scams and frauds",
-    "lost civilizations and archaeology", "space and ocean mysteries", "famous historical crimes (no gore)",
+    "lost civilizations and archaeology", "space and ocean mysteries", "engineering marvels and failures", "exploration and adventure",
   ],
 
   // ---- Voice (free Microsoft Edge voices) ----
@@ -35,6 +35,9 @@ export default {
 
   // ---- Editing style ----
   shotSeconds: 4.5, // change the camera move / picture about this often (fast, modern documentary pacing)
+  videoFirst: true, // every scene tries real stock VIDEO footage before any still picture
+  clipSeconds: 5.5, // cut to a different clip about this often
+  maxClipsPerScene: 3,
 
   // ---- Presenter: photo in assets/presenter/ → free "narrator card" (photo + voice waveform),
   //      or real lip-sync with HeyGen when HEYGEN_API_KEY is set ----

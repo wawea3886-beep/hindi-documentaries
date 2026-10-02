@@ -23,19 +23,23 @@ const STYLE = `NARRATION STYLE — Urdu mixed with English, the way popular Sout
   mini-cliffhangers between sections. Say "دوستو" at most once per chapter.
 - 100% factual: every name, date, number and event must come from the SOURCES. If sources disagree, say so.
   Theories must be labelled as theories ("کچھ experts کا ماننا ہے…"). Never invent quotes, dialogue or details.
-- Respectful to victims. No graphic or gory descriptions. No political, religious, sectarian or India–Pakistan opinions.
+- Respectful to victims. ADVERTISER-FRIENDLY: no graphic, gory or medical-injury details, no descriptions of suffering or
+  dead bodies, no profanity. Focus on what happened, why, the investigation and the lessons. No political, religious,
+  sectarian or India–Pakistan opinions.
 - Do NOT copy phrases, catchphrases or intros of any existing YouTuber.`;
 
-const VISUALS = `Every beat gets exactly one "visual" — mix them so the video feels fast and alive:
-- {"type":"clip","query":"2-4 English words to find GENERIC stock footage, e.g. 'stormy sea night', 'rescue helicopter', 'old newspaper printing'","prompt":"AI illustration to use if no clip is found"}
-  about 1 beat in 3. Never search for specific real people or logos.
-- {"type":"ai","prompt":"English description of ONE illustration: who/what/where, era details, camera angle, mood"}
-  (describe people generically — never a real person's exact likeness; no text in the image; no gore)
-- {"type":"photo","photo":"p3"} — only when that real photo matches what is being said. Each photo at most twice.
+const VISUALS = `This is a VIDEO documentary: about 3 of every 4 beats must show real MOVING FOOTAGE. Think like a documentary editor —
+what real-world B-roll matches this sentence? Every beat gets exactly one "visual":
+- {"type":"clip","query":"2-4 English words for stock VIDEO of a generic, filmable scene","prompt":"AI illustration if no footage is found"}
+  THE DEFAULT for most beats. Good queries: 'stormy ocean waves night', 'airport runway plane takeoff', 'control room monitors',
+  'rescue helicopter flying', 'old documents desk', 'city skyline night', 'scientist laboratory'. Concrete, visual, 2-4 words.
+  Never search for specific real people, logos or brand names.
+- {"type":"photo","photo":"p3"} — a real photo from the list, only when it shows exactly what is said. Each photo at most twice.
 - {"type":"map","place":"Baltic Sea","lat":58.9,"lon":21.2,"zoom":"world|continent|region|country|city","label":"short English label"}
-  when a location first matters (accurate coordinates), at most 1-2 per chapter.
-- {"type":"card","title":"28 SEPTEMBER 1994","text":"short English line"} ONLY for the most important date, number or quote —
-  at most 2 per chapter. Title max 28 characters. (Use "highlight" instead for smaller facts.)
+  when a location first matters (accurate coordinates), at most 1 per chapter.
+- {"type":"card","title":"28 SEPTEMBER 1994","text":"short English line"} only for the single most important date/number — at most 1 per chapter.
+- {"type":"ai","query":"2-4 words for footage","prompt":"one illustration"} — only for a specific historical scene that stock footage
+  cannot show, at most 2 per chapter (footage is still tried first). Describe people generically; no text; nothing graphic.
 Optional "highlight" on about 1 beat in 4: 1-4 KEY WORDS in English CAPITALS shown on screen while they are spoken
 (e.g. "989 PEOPLE ON BOARD"), max 28 characters, must state a fact from that beat.`;
 
@@ -59,7 +63,12 @@ ${trends.onThisDay.join("\n") || "(unavailable)"}
 RULES
 - Must have rich English Wikipedia coverage (a long main article plus related articles).
 - Event must be at least 2 years old (no ongoing tragedies or breaking news). Nothing about current politics, elections,
-  religion, sects, India–Pakistan conflicts or communal issues. No living private individuals. Crime only if very famous and historical.
+  religion, sects, India–Pakistan conflicts or communal issues. No living private individuals.
+- ADVERTISER-FRIENDLY (the channel must earn from ads): NO murders, serial killers, true crime, terrorism, hijackings,
+  mass shootings, wars or massacres, suicide, abuse, or stories whose core is gruesome injury/death.
+  GOOD: unsolved mysteries, science & nature, space, oceans, engineering feats and failures, exploration, survival
+  with a hopeful angle, lost history and archaeology, famous scams and heists (non-violent), accidents explained through
+  their causes and the safety lessons learned.
 - Must NOT repeat these recent topics: ${recent.join("; ") || "(none)"}
 
 Return JSON: {"candidates":[{"name":"short English topic name","category":"one of ${CATEGORIES.join("|")}",
@@ -107,8 +116,8 @@ Structure like a gripping documentary:
 
 Return JSON:
 {"youtubeTitle":"English, max 80 characters, curiosity-driven but truthful, e.g. '<Hook> | <Topic> True Story'",
-"thumbnailText":"2-4 English words in CAPITALS for the thumbnail, e.g. 'SHE SURVIVED?'",
-"thumbnailPrompt":"one dramatic image for the thumbnail: single clear subject, strong emotion, high contrast, room on the left for text",
+"thumbnailText":"2-4 English words in CAPITALS for the thumbnail, e.g. 'SHE SURVIVED?' — curiosity, never words like death, died, killed, blood, dead",
+"thumbnailPrompt":"one dramatic but ad-safe image for the thumbnail: single clear subject (a place, object or scene, no injured people, no weapons, no fire victims), high contrast, room on the left for text",
 "characters":"short consistent visual descriptions (age, clothes, era, place) of the main people/places, used for every illustration",
 "descriptionEn":"90-120 word English synopsis that makes people want to watch (no spoilers of the ending)",
 "descriptionUr":"60-90 word synopsis in Roman Urdu (English letters)",
@@ -125,7 +134,7 @@ const str = (v, max = 5000) => (typeof v === "string" && v.trim() ? v.trim().sli
 
 function normalizeVisual(v, photoIds, characters) {
   v = v && typeof v === "object" ? v : {};
-  const ai = (prompt) => ({ type: "ai", prompt: str(prompt) || characters });
+  const ai = (prompt) => ({ type: "ai", prompt: str(prompt) || characters, ...(str(v.query) ? { query: str(v.query, 60) } : {}) });
   switch (v.type) {
     case "photo": return photoIds.has(v.photo) ? { type: "photo", photo: v.photo } : ai(v.prompt);
     case "card": return str(v.title) ? { type: "card", title: str(v.title, 40), text: str(v.text, 80) } : ai(v.prompt);
@@ -315,6 +324,8 @@ You are a strict fact-checker. Below are the title, thumbnail text, descriptions
 documentary. Check every number, date, duration, name and claim against the SOURCES. Correct anything that is not
 supported (for example a wrong duration or death toll), keeping the same catchy style and language.
 Limits: youtubeTitle max 80 characters; thumbnailText 2-4 English words in CAPITALS; hook max 30 characters.
+Also keep them ADVERTISER-FRIENDLY and not misleading: no words like death, died, killed, blood, dead or gore in the
+title, thumbnail text or headlines (rephrase, e.g. "852 LIVES LOST" → "LOST IN 1 HOUR?"), and no clickbait that the video doesn't deliver.
 If something is correct, return it unchanged.
 
 ${JSON.stringify(fields, null, 1)}

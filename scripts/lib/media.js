@@ -189,7 +189,7 @@ const presenterFull = (w, h, fps, N) =>
  * - presenter: { file, offset, layout } → real presenter clip: layout "full" (talking head), "studio" (left box), "pip"
  * - overlays: [{ png, start, end }] transparent PNGs faded in/out over the whole frame
  */
-export async function renderShot({ image, clip, out, frames, fps, w, h, move, overlays = [], studio, presenter }) {
+export async function renderShot({ image, clip, clipStart = 0, out, frames, fps, w, h, move, overlays = [], studio, presenter }) {
   if (fs.existsSync(out)) return out;
   const N = frames;
   const dur = N / fps;
@@ -201,7 +201,7 @@ export async function renderShot({ image, clip, out, frames, fps, w, h, move, ov
     args.push("-ss", presenter.offset.toFixed(3), "-i", presenter.file);
     f.push(`[0:v]${presenterFull(w, h, fps, N)}[pic]`);
   } else if (clip) {
-    args.push("-stream_loop", "-1", "-i", clip);
+    args.push("-stream_loop", "-1", "-ss", clipStart.toFixed(2), "-i", clip);
     f.push(`[0:v]scale=${iw}:${ih}:force_original_aspect_ratio=increase,crop=${iw}:${ih},setsar=1,fps=${fps},eq=contrast=1.06:saturation=1.08,trim=end_frame=${N},setpts=PTS-STARTPTS[pic]`);
   } else {
     const { z0, z1, fx0, fy0, fx1, fy1 } = move;

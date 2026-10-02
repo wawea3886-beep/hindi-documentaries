@@ -37,37 +37,89 @@ export async function stockPhoto(query, out) {
   }
 }
 
-/** Download a landscape clip matching `query` to `out`. Returns { path, credit } or null. */
-export async function stockClip(query, out) {
+// ---------- Stock VIDEO (Pexels + Pixabay, both free for commercial use) ----------
+
+const searches = new Map(); // query → normalised results (each search is made once per run)
+const limited = new Set(); // sources that hit their rate limit during this run
+
+async function pexelsVideos(query) {
   const key = process.env.PEXELS_API_KEY;
-  if (!key || !query) return null;
-  if (fs.existsSync(out) && fs.existsSync(out + ".json")) return { path: out, ...JSON.parse(fs.readFileSync(out + ".json", "utf8")) };
-  try {
-    const res = await retry(async () => {
-      const r = await fetch(`https://api.pexels.com/videos/search?query=${encodeURIComponent(query)}&orientation=landscape&size=medium&per_page=15`,
-        { headers: { Authorization: key }, signal: AbortSignal.timeout(30000) });
-      if (r.status === 429) throw Object.assign(new Error("Pexels rate limit"), { quota: true });
-      if (!r.ok) throw new Error(`Pexels ${r.status}`);
-      return r.json();
-    }, { tries: 2, label: "Pexels search" });
-    const video = (res.videos || []).find((v) => !used.has(v.id) && v.duration >= 4);
-    if (!video) return null;
-    const file = (video.video_files || [])
-      .filter((f) => f.file_type === "video/mp4" && f.width >= 1280 && f.width <= 1920 && f.width > f.height)
-      .sort((a, b) => a.width - b.width)[0];
-    if (!file) return null;
-    used.add(video.id);
-    await retry(async () => {
-      const r = await fetch(file.link, { signal: AbortSignal.timeout(120000) });
-      if (!r.ok) throw new Error(`clip download ${r.status}`);
-      fs.writeFileSync(out, Buffer.from(await r.arrayBuffer()));
-    }, { tries: 2, label: "clip download" });
-    const meta = { id: video.id, credit: { user: video.user?.name || "Pexels", url: video.url } };
-    fs.writeFileSync(out + ".json", JSON.stringify(meta));
-    credits.set(video.id, meta.credit);
-    return { path: out, ...meta };
-  } catch (e) {
-    console.warn(`    clip "${query}": ${e.message.split("\n")[0]}`);
-    return null;
+  if (!key || limited.has("pexels")) return [];
+  const r = await fetch(`https://api.pexels.com/videos/search?query=${encodeURIComponent(query)}&orientation=landscape&size=medium&per_page=20`,
+    { headers: { Authorization: key }, signal: AbortSignal.timeout(30000) });
+  if (r.status === 429) { limited.add("pexels"); console.warn("    Pexels hourly limit reached — using other sources"); return []; }
+  if (!r.ok) throw new Error(`Pexels ${r.status}`);
+  return ((await r.json()).videos || []).flatMap((v) => {
+    const f = (v.video_files || []).filter((x) => x.file_type === "video/mp4" && x.width >= 1280 && x.width <= 1920 && x.width > x.height).sort((a, b) => a.width - b.width)[0];
+    return f && v.duration >= 4 ? [{ id: `px${v.id}`, duration: v.duration, url: f.link, credit: { user: v.user?.name || "Pexels", url: v.url, site: "Pexels" } }] : [];
+  });
+}
+
+async function pixabayVideos(query) {
+  const key = process.env.PIXABAY_API_KEY;
+  if (!key || limited.has("pixabay")) return [];
+  const r = await fetch(`https://pixabay.com/api/videos/?key=${encodeURIComponent(key)}&q=${encodeURIComponent(query.slice(0, 100))}&per_page=20&safesearch=true`,
+    { signal: AbortSignal.timeout(30000) });
+  if (r.status === 429) { limited.add("pixabay"); return []; }
+  if (!r.ok) throw new Error(`Pixabay ${r.status}`);
+  return ((await r.json()).hits || []).flatMap((h) => {
+    const f = [h.videos?.large, h.videos?.medium].find((x) => x?.url && x.width >= 1280 && x.width <= 1920);
+    return f && h.duration >= 4 ? [{ id: `pb${h.id}`, duration: h.duration, url: f.url, credit: { user: h.user || "Pixabay", url: h.pageURL, site: "Pixabay" } }] : [];
+  });
+}
+
+async function searchVideos(query) {
+  if (searches.has(query)) return searches.get(query);
+  let results = [];
+  for (const q of [query, query.split(" ").slice(0, 2).join(" ")]) { // full query, then a broader one
+    if (!q) continue;
+    for (const source of [pexelsVideos, pixabayVideos]) {
+      try { results.push(...(await retry(() => source(q), { tries: 2, label: "video search" }))); }
+      catch (e) { console.warn(`    video search "${q}": ${e.message.split("\n")[0]}`); }
+    }
+    if (results.length >= 3) break;
   }
+  searches.set(query, results);
+  return results;
+}
+
+/**
+ * Up to `count` DIFFERENT clips matching `query` (never one already used in this video).
+ * Returns [{ path, duration, credit }] — may be empty.
+ */
+export async function stockClips(query, count, outBase) {
+  if (!query) return [];
+  const cached = [];
+  for (let i = 0; i < count; i++) {
+    const f = `${outBase}-${i}.mp4`;
+    if (fs.existsSync(f) && fs.existsSync(f + ".json")) cached.push({ path: f, ...JSON.parse(fs.readFileSync(f + ".json", "utf8")) });
+  }
+  if (cached.length === count) return cached;
+  const picked = (await searchVideos(query)).filter((v) => !used.has(v.id)).slice(0, count);
+  const out = [];
+  for (const [i, v] of picked.entries()) {
+    used.add(v.id);
+    const f = `${outBase}-${i}.mp4`;
+    try {
+      if (!fs.existsSync(f)) {
+        await retry(async () => {
+          const r = await fetch(v.url, { signal: AbortSignal.timeout(180000) });
+          if (!r.ok) throw new Error(`clip download ${r.status}`);
+          fs.writeFileSync(f, Buffer.from(await r.arrayBuffer()));
+        }, { tries: 2, label: "clip download" });
+      }
+      const meta = { id: v.id, duration: v.duration, credit: v.credit };
+      fs.writeFileSync(f + ".json", JSON.stringify(meta));
+      credits.set(v.id, v.credit);
+      out.push({ path: f, ...meta });
+    } catch (e) {
+      console.warn(`    clip "${query}": ${e.message.split("\n")[0]}`);
+    }
+  }
+  return out;
+}
+
+/** One clip (kept for older callers). */
+export async function stockClip(query, out) {
+  return (await stockClips(query, 1, out.replace(/\.mp4$/, "")))[0] || null;
 }

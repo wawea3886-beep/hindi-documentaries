@@ -12,7 +12,7 @@ import { aiImage, Narrator, seeded, randomMove, renderShot, framePhoto, concatCo
 import { renderCard, renderCredit, renderFallback, renderThumbnail, renderHighlight, renderStudio, renderChapterOverlay } from "./lib/graphics.js";
 import { downloadPhoto } from "./lib/research.js";
 import { renderMap } from "./lib/maps.js";
-import { stockClip, stockPhoto, searchWords } from "./lib/stock.js";
+import { stockClips, stockPhoto, searchWords } from "./lib/stock.js";
 import { hostTrack } from "./lib/host.js";
 import { presenterClips, presenterMode, presenterStill, presenterEngine } from "./lib/presenter.js";
 import { sfxTrack } from "./lib/sfx.js";
@@ -101,12 +101,22 @@ export async function makeLongVideo(date = today()) {
         const v = beat.visual;
         const rand = seeded(beat.id + date);
         const isHost = bi === 0 || (ci === lastCh && bi >= ch.beats.length - 2);
-        let still = null, clip = null, kind = v.type, credit = null;
+        let still = null, clip = null, clips = [], kind = v.type, credit = null;
         const overlays = [];
 
-        if (kind === "clip") {
-          const c = await stockClip(v.query, path.join(dir, "clips", `${beat.id}.mp4`));
-          if (c) { clip = c.path; clipCredits.push(c.credit); } else kind = "ai";
+        // Narration first, so we know how long the scene is (= how many clips it needs).
+        const bdir = path.join(dir, "beats", beat.id);
+        const n = await narrator.say(beat.text, bdir);
+        const pause = bi === ch.beats.length - 1 ? 0.9 : 0.35;
+        const frames = Math.round((n.duration + pause) * FPS);
+        const secs = frames / FPS;
+
+        // VIDEO FIRST: clip scenes — and illustration scenes too — try real moving footage before any still picture.
+        if (kind === "clip" || (kind === "ai" && config.videoFirst)) {
+          const want = Math.min(config.maxClipsPerScene, Math.max(1, Math.round(secs / config.clipSeconds)));
+          clips = await stockClips(v.query || searchWords(v.prompt), want, path.join(dir, "clips", beat.id));
+          if (clips.length) { clip = clips[0].path; kind = "clip"; clips.forEach((c) => clipCredits.push(c.credit)); }
+          else kind = "ai";
         }
         if (kind === "photo") {
           const p = ep.photos.find((x) => x.id === v.photo);
@@ -138,11 +148,6 @@ export async function makeLongVideo(date = today()) {
         stats[kind] = (stats[kind] || 0) + 1;
         visuals[beat.id] = clip ? { clip } : { image: still };
 
-        const bdir = path.join(dir, "beats", beat.id);
-        const n = await narrator.say(beat.text, bdir);
-        const pause = bi === ch.beats.length - 1 ? 0.9 : 0.35;
-        const frames = Math.round((n.duration + pause) * FPS);
-        const secs = frames / FPS;
         romanTimed(beat.roman, n.words, n.duration).forEach((w) => subtitleWords.push({ ...w, start: w.start + t, end: w.end + t }));
         const pad = await padAudio(n.audio, secs, path.join(bdir, "pad.wav"));
         audio.push(pad);
@@ -155,7 +160,7 @@ export async function makeLongVideo(date = today()) {
           overlays.push({ png, start: s, end: Math.min(s + 3.2, secs - 0.2) });
           sfx.push({ t: t + s, name: "pop" });
         }
-        scenes.push({ beat, ci, bi, isHost, kind, still, clip, credit, overlays, frames, secs, t0: t, rand, bdir, voice: n.audio, studioPng, studioPngReal });
+        scenes.push({ beat, ci, bi, isHost, kind, still, clip, clips, credit, overlays, frames, secs, t0: t, rand, bdir, voice: n.audio, studioPng, studioPngReal });
         t += secs;
       }
 
@@ -199,6 +204,23 @@ export async function makeLongVideo(date = today()) {
   };
 
   // --- Phase C: turn scenes into shots.
+  /** Cut a scene into `n` shots; `make(index, frames, offsetSeconds, overlaysForThisShot)` creates each. */
+  const split = (sc, n, overlays, make) => {
+    let used = 0;
+    for (let s = 0; s < n; s++) {
+      const f = s === n - 1 ? sc.frames - used : Math.round(sc.frames / n);
+      const offset = used / FPS;
+      make(s, f, offset, overlays.map((o) => ({ ...o, start: o.start - offset, end: o.end - offset })).filter((o) => o.end > 0.3 && o.start < f / FPS));
+      used += f;
+    }
+  };
+  /** Which clip a shot uses, starting at a random point inside it so footage never looks repeated. */
+  const clipFor = (sc, s, f) => {
+    if (!sc.clips?.length) return {};
+    const c = sc.clips[s % sc.clips.length];
+    const room = Math.max(0, (c.duration || 0) - f / FPS - 0.3);
+    return { clip: c.path, clipStart: Math.round(room * sc.rand() * 100) / 100 };
+  };
   const shots = [];
   const layouts = {};
   for (const sc of scenes) {
@@ -220,26 +242,24 @@ export async function makeLongVideo(date = today()) {
         : [];
       shots.push({ ...base, out: path.join(dir, "shots", `${id}-full.mp4`), frames: sc.frames, overlays: [...banner, ...sc.overlays], presenter: presenterAt(0) });
     } else if (layout === "studio") {
-      shots.push({ ...base, out: path.join(dir, "shots", `${id}-studio.mp4`), frames: sc.frames, move: randomMove(sc.rand, 0.5), overlays: sc.overlays,
-        studio: { png: sc.studioPngReal }, presenter: presenterAt(0) });
+      const nShots = sc.clips?.length ? Math.max(1, Math.round(sc.secs / config.clipSeconds)) : 1;
+      split(sc, nShots, sc.overlays, (s, f, offset, shotOverlays) => shots.push({ ...base, ...clipFor(sc, s, f),
+        out: path.join(dir, "shots", `${id}-studio-${s}.mp4`), frames: f, move: randomMove(sc.rand, 0.5), overlays: shotOverlays,
+        studio: { png: sc.studioPngReal }, presenter: presenterAt(offset) }));
     } else if (layout === "cartoon") {
       const host = await hostTrack(sc.voice, sc.secs, sc.bdir, [...id].reduce((a, c) => a + c.charCodeAt(0), 7));
       shots.push({ ...base, out: path.join(dir, "shots", `${id}-host.mp4`), frames: sc.frames, move: randomMove(sc.rand, 0.5), overlays: sc.overlays, studio: { png: sc.studioPng, host } });
     } else {
       // Full-screen picture/clip (+ presenter box when layout is "pip"). Long still beats get several camera moves.
+      // Full-screen footage/picture (+ presenter box when layout is "pip"):
+      // clips cut every few seconds between different clips; stills get several camera moves.
       const overlays = sc.credit ? [sc.credit, ...sc.overlays] : sc.overlays;
-      const single = sc.clip || sc.kind === "card" || sc.kind === "map";
-      const nShots = single ? 1 : Math.max(1, Math.round(sc.secs / config.shotSeconds));
-      let used = 0;
-      for (let s = 0; s < nShots; s++) {
-        const f = s === nShots - 1 ? sc.frames - used : Math.round(sc.frames / nShots);
-        const offset = used / FPS;
-        const shotOverlays = overlays.map((o) => ({ ...o, start: o.start - offset, end: o.end - offset })).filter((o) => o.end > 0.3 && o.start < f / FPS);
-        const strength = sc.kind === "map" ? 0.6 : single ? 0.3 : sc.kind === "photo" ? 0.6 : 1.1;
-        shots.push({ ...base, out: path.join(dir, "shots", `${id}-${s}.mp4`), frames: f, move: randomMove(sc.rand, strength), overlays: shotOverlays,
-          presenter: layout === "pip" ? presenterAt(offset) : undefined });
-        used += f;
-      }
+      const nShots = sc.clips?.length ? Math.max(1, Math.round(sc.secs / config.clipSeconds))
+        : sc.kind === "card" || sc.kind === "map" ? 1 : Math.max(1, Math.round(sc.secs / config.shotSeconds));
+      const strength = sc.kind === "map" ? 0.6 : sc.kind === "card" ? 0.3 : sc.kind === "photo" ? 0.6 : 1.1;
+      split(sc, nShots, overlays, (s, f, offset, shotOverlays) => shots.push({ ...base, ...clipFor(sc, s, f),
+        out: path.join(dir, "shots", `${id}-${s}.mp4`), frames: f, move: randomMove(sc.rand, strength), overlays: shotOverlays,
+        presenter: layout === "pip" ? presenterAt(offset) : undefined }));
     }
   }
   console.log(`  presenter mode: ${mode} · layouts: ${Object.entries(layouts).map(([k, v]) => `${v} ${k}`).join(", ")}`);
