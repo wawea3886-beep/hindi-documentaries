@@ -1,0 +1,2529 @@
+{
+  "date": "2026-10-02",
+  "stage": "done",
+  "generatedAt": "2026-10-01T23:41:43.154Z",
+  "language": "ur",
+  "topic": {
+    "name": "Guangzhou Baiyun Airport Collisions 1990",
+    "category": "disaster",
+    "angle": "A hijacker's cockpit struggle ended with a Boeing 737 smashing into two parked airliners and killing 132 people on one chaotic morning.",
+    "why": "36th anniversary today (2 Oct 1990); a rich but rarely covered aviation disaster.",
+    "wikiTitles": [
+      "1990 Guangzhou Baiyun airport collisions",
+      "Aircraft hijacking",
+      "Guangzhou Baiyun International Airport"
+    ]
+  },
+  "sources": [
+    {
+      "title": "1990 Guangzhou Baiyun airport collisions",
+      "url": "https://en.wikipedia.org/wiki/1990_Guangzhou_Baiyun_airport_collisions"
+    },
+    {
+      "title": "Aircraft hijacking",
+      "url": "https://en.wikipedia.org/wiki/Aircraft_hijacking"
+    },
+    {
+      "title": "Guangzhou Baiyun International Airport",
+      "url": "https://en.wikipedia.org/wiki/Guangzhou_Baiyun_International_Airport"
+    }
+  ],
+  "photos": [
+    {
+      "id": "p1",
+      "title": "EC1835 C cut",
+      "description": "Robotron Personalcomputer EC 1835 Prototype (1990), recorded in \"Industriemuseum Chemnitz\", Germany",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/EC1835_C_cut.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:EC1835_C_cut.jpg",
+      "width": 1920,
+      "height": 2277,
+      "artist": "Procolotor",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "p2",
+      "title": "CAAC - Boeing 737-247 - B-2510",
+      "description": "CAAC B-2510 in May 1985",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/CAAC_-_Boeing_737-247_-_B-2510.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:CAAC_-_Boeing_737-247_-_B-2510.png",
+      "width": 1920,
+      "height": 1222,
+      "artist": "Jahhem aerofly",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "id": "p3",
+      "title": "CAAC - Boeing 707-320B - B-2402 - Guilin",
+      "description": "Photo taken at Guilin Airport back in 1983. This 707 was involved in a serious accident on October 2 1990 while parked at Guangzhou Baiyun Airport, when it was hit by a hijacked 737-200. The 737 also ",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/CAAC_-_Boeing_707-320B_-_B-2402_-_Guilin.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:CAAC_-_Boeing_707-320B_-_B-2402_-_Guilin.jpg",
+      "width": 1920,
+      "height": 1280,
+      "artist": "Dennis HKG",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "id": "p4",
+      "title": "Aviacionavion",
+      "description": "Sign based on photograph with front view of a Turkmenistan Airlines Boeing 757 landing at London Heathrow Airport, England. The registration is not known. Photographed by Adrian Pingstone in June 2004",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Aviacionavion.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Aviacionavion.png",
+      "width": 1920,
+      "height": 1920,
+      "artist": "Turkmenistan.airlines.frontview.arp.jpg: elfuser derivative work: Elfuser (talk)",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p5",
+      "title": "Sécurité Aérienne Afrique",
+      "description": "Warning poster at the entrance of an aiport somewhere in Central Africa. Picture taken in 2012.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/S%C3%A9curit%C3%A9_A%C3%A9rienne_Afrique.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:S%C3%A9curit%C3%A9_A%C3%A9rienne_Afrique.JPG",
+      "width": 1920,
+      "height": 1440,
+      "artist": "Olnnu",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "p6",
+      "title": "Security simulation at Swartkops Air Force Base1",
+      "description": "Excercise Shield 3: Security Forces demonstrate their readiness to secure airspace during the 2010 FIFA World Cup",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Security_simulation_at_Swartkops_Air_Force_Base1.jpg/1920px-Security_simulation_at_Swartkops_Air_Force_Base1.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Security_simulation_at_Swartkops_Air_Force_Base1.jpg",
+      "width": 1920,
+      "height": 1440,
+      "artist": "2010 World Cup - Shine 2010",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "id": "p7",
+      "title": "Hijacking Sign at National Airport",
+      "description": "An FAA warning at an American airport prohibiting aircraft hijacking and concealed weapons",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Hijacking_Sign_at_National_Airport.jpg/1920px-Hijacking_Sign_at_National_Airport.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Hijacking_Sign_at_National_Airport.jpg",
+      "width": 1920,
+      "height": 1270,
+      "artist": "Warren K. Leffler",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p8",
+      "title": "Canadian CF18 Hornet aircraft and Russian Su-27 aircraft are practicing procedures to transfer a simulated hijacked airplane during the NORAD Exercise VIGILANT EAGLE 13 130828-F-XX999-007",
+      "description": "Canadian CF18 Hornet aircraft from 409 Squadron in Cold Lake, Alberta and Russian Su-27 aircraft from Anadyr, Russia are practicing procedures to transfer a simulated hijacked airplane from Russian to",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Canadian_CF18_Hornet_aircraft_and_Russian_Su-27_aircraft_are_practicing_procedures_to_transfer_a_simulated_hijacked_airplane_during_the_NORAD_Exercise_VIGILANT_EAGLE_13_130828-F-XX999-007.jpg/1920px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Canadian_CF18_Hornet_aircraft_and_Russian_Su-27_aircraft_are_practicing_procedures_to_transfer_a_simulated_hijacked_airplane_during_the_NORAD_Exercise_VIGILANT_EAGLE_13_130828-F-XX999-007.jpg",
+      "width": 1920,
+      "height": 1234,
+      "artist": "Photo: Cpl. Vicky Lefrancois, DAirPA",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p9",
+      "title": "Platform 1, Baiyun Airport North Railway Station, PRDIR 20250130",
+      "description": "​珠三角城际白云机场北站1站台",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Platform_1%2C_Baiyun_Airport_North_Railway_Station%2C_PRDIR_20250130.jpg/1920px-Platform_1%2C_Baiyun_Airport_North_Railway_Station%2C_PRDIR_20250130.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Platform_1,_Baiyun_Airport_North_Railway_Station,_PRDIR_20250130.jpg",
+      "width": 1920,
+      "height": 1280,
+      "artist": "Tim Wu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p10",
+      "title": "Observation Deck (W), Terminal 3, Guangzhou Baiyun International Airport 20260713-A",
+      "description": "​广州白云国际机场3号航站楼西侧观景平台及尚未开放的瞭望塔",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Observation_Deck_%28W%29%2C_Terminal_3%2C_Guangzhou_Baiyun_International_Airport_20260713-A.jpg/1920px-Observation_Deck_%28W%29%2C_Terminal_3%2C_Guangzhou_Baiyun_International_Airport_20260713-A.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Observation_Deck_(W),_Terminal_3,_Guangzhou_Baiyun_International_Airport_20260713-A.jpg",
+      "width": 1920,
+      "height": 1280,
+      "artist": "Tim Wu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p11",
+      "title": "New Canton Airport under construction 20020829 ISS005-E-11582",
+      "description": "new Canton Airport under construction, photo taken from ISS",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/New_Canton_Airport_under_construction_20020829_ISS005-E-11582.JPG/1920px-New_Canton_Airport_under_construction_20020829_ISS005-E-11582.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:New_Canton_Airport_under_construction_20020829_ISS005-E-11582.JPG",
+      "width": 1920,
+      "height": 1307,
+      "artist": "NASA",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p12",
+      "title": "Guangzhou Baiyun International Airport Terminal 2",
+      "description": "Entrance of Guangzhou Baiyun International Airport Terminal 2",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Guangzhou_Baiyun_International_Airport_Terminal_2.jpg/1920px-Guangzhou_Baiyun_International_Airport_Terminal_2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Guangzhou_Baiyun_International_Airport_Terminal_2.jpg",
+      "width": 1920,
+      "height": 1312,
+      "artist": "Jacky Cheung",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p13",
+      "title": "Guangzhou Baiyun International Airport T2",
+      "description": "​广州白云国际机场二号航站楼出发大厅中庭",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Guangzhou_Baiyun_International_Airport_T2.jpg/1920px-Guangzhou_Baiyun_International_Airport_T2.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Guangzhou_Baiyun_International_Airport_T2.jpg",
+      "width": 1920,
+      "height": 1280,
+      "artist": "Jacky Cheung",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p14",
+      "title": "Guangzhou Baiyun International Airport Control Tower",
+      "description": "The Control Tower of Guangzhou Baiyun International Airport",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Guangzhou_Baiyun_International_Airport_Control_Tower.jpg/1920px-Guangzhou_Baiyun_International_Airport_Control_Tower.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Guangzhou_Baiyun_International_Airport_Control_Tower.jpg",
+      "width": 1920,
+      "height": 1280,
+      "artist": "Jacky Cheung",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p15",
+      "title": "Guangzhou Baiyun Airport 3",
+      "description": "The airport bus area outside the arrivals terminal of Guangzhou Baiyun Airport.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Guangzhou_Baiyun_Airport_3.jpg/1920px-Guangzhou_Baiyun_Airport_3.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Guangzhou_Baiyun_Airport_3.jpg",
+      "width": 1920,
+      "height": 1440,
+      "artist": "Chinatravelsavvy",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "p16",
+      "title": "Flying Seed Sculpture, Terminal 3, Guangzhou Baiyun International Airport 20251221-A",
+      "description": "​广州白云国际机场T3航站楼“飞行的种子”艺术装置",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Flying_Seed_Sculpture%2C_Terminal_3%2C_Guangzhou_Baiyun_International_Airport_20251221-A.jpg/1920px-Flying_Seed_Sculpture%2C_Terminal_3%2C_Guangzhou_Baiyun_International_Airport_20251221-A.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Flying_Seed_Sculpture,_Terminal_3,_Guangzhou_Baiyun_International_Airport_20251221-A.jpg",
+      "width": 1920,
+      "height": 1280,
+      "artist": "Tim Wu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p17",
+      "title": "FedEx apron (ZGGG)",
+      "description": "The FedEx apron at Guangzhou Baiyun International Airport (CAN/ZGGG).",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/FedEx_apron_%28ZGGG%29.png/1920px-FedEx_apron_%28ZGGG%29.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:FedEx_apron_(ZGGG).png",
+      "width": 1920,
+      "height": 1282,
+      "artist": "Meihe Chen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p18",
+      "title": "China edcp location map",
+      "description": "Location map of China. EquiDistantConicProjection : Central parallel : N: 36.0° N Central meridian : E: 104.0° E Standard parallels: 1: 30.0° N 2: 42.0° N Latitudes on the central meridian : top: 57.0",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/China_edcp_location_map.svg/1920px-China_edcp_location_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:China_edcp_location_map.svg",
+      "width": 1920,
+      "height": 1528,
+      "artist": "Uwe Dedering",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "p19",
+      "title": "China Guangdong adm location map",
+      "description": "Location map of Guangdong, People's Republic of China",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/China_Guangdong_adm_location_map.svg/1920px-China_Guangdong_adm_location_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:China_Guangdong_adm_location_map.svg",
+      "width": 1920,
+      "height": 1473,
+      "artist": "NordNordWest",
+      "license": "CC BY-SA 3.0 de",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en"
+    },
+    {
+      "id": "p20",
+      "title": "Check-in Counter J&K, Terminal 1, Guangzhou Baiyun International Airport 20260324",
+      "description": "​已关闭的广州白云国际机场1号航站楼J、K值机岛",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Check-in_Counter_J%26K%2C_Terminal_1%2C_Guangzhou_Baiyun_International_Airport_20260324.jpg/1920px-Check-in_Counter_J%26K%2C_Terminal_1%2C_Guangzhou_Baiyun_International_Airport_20260324.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Check-in_Counter_J%26K,_Terminal_1,_Guangzhou_Baiyun_International_Airport_20260324.jpg",
+      "width": 1920,
+      "height": 1280,
+      "artist": "Tim Wu",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p21",
+      "title": "Baiyuan Airport CAAC Chart",
+      "description": "CAAC aerodrome chart of Guangzhou Baiyun International Airport.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Baiyuan_Airport_CAAC_Chart.png/1920px-Baiyuan_Airport_CAAC_Chart.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Baiyuan_Airport_CAAC_Chart.png",
+      "width": 1920,
+      "height": 1523,
+      "artist": "Civil Aviation Administration of China",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p22",
+      "title": "Airport South Station",
+      "description": "Airport South Station",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Airport_South_Station.jpg/1920px-Airport_South_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Airport_South_Station.jpg",
+      "width": 1920,
+      "height": 1440,
+      "artist": "钉钉",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  ],
+  "youtube": {
+    "shorts": {
+      "s1": {
+        "videoId": "XdajvA_ugDc",
+        "url": "https://www.youtube.com/shorts/XdajvA_ugDc",
+        "publishAt": "2026-10-02T14:30:00.000Z",
+        "uploadedAt": "2026-10-02T00:46:43.187Z"
+      },
+      "s2": {
+        "videoId": "k-M0DiHWBFA",
+        "url": "https://www.youtube.com/shorts/k-M0DiHWBFA",
+        "publishAt": "2026-10-03T03:30:00.000Z",
+        "uploadedAt": "2026-10-02T00:46:44.910Z"
+      },
+      "s3": {
+        "videoId": "097dfWK8Qm0",
+        "url": "https://www.youtube.com/shorts/097dfWK8Qm0",
+        "publishAt": "2026-10-03T07:30:00.000Z",
+        "uploadedAt": "2026-10-02T00:46:46.747Z"
+      }
+    },
+    "long": {
+      "videoId": "g85eA2AAEFY",
+      "url": "https://www.youtube.com/watch?v=g85eA2AAEFY",
+      "publishAt": "2026-10-02T13:00:00.000Z",
+      "uploadedAt": "2026-10-02T00:46:36.799Z",
+      "thumbnail": true,
+      "captions": true
+    }
+  },
+  "meta": {
+    "youtubeTitle": "Hijacker vs Pilot: The 1990 Guangzhou Runway Disaster | True Story",
+    "slug": "2026-10-02-guangzhou-baiyun-airport-collisions-1990",
+    "thumbnailText": "THREE PLANES, ONE CRASH",
+    "thumbnailPrompt": "A Boeing 737 on its side in flames, crashed into a parked airliner on a Chinese airport apron at dawn, thick black smoke, firefighters as small silhouettes, high contrast orange and dark blue, empty dark space on the left for text",
+    "characters": "Jiang Xiaofeng: 21-year-old Chinese man, black suit, black dress shoes, black suitcase, holding plastic roses, 1990. Captain Cen Longyu: middle-aged Chinese airline pilot in a 1990 CAAC-style uniform with cap, calm and tense in the cockpit. Flight attendant: young woman in a 1990 airline uniform. Old Guangzhou Baiyun Airport: 1990 apron, control tower, mountains nearby, parked Boeing 707 and Boeing 757. Boeing 737-200 of Xiamen Airlines, Boeing 757 of CAAC. Li Peng: Premier in a dark Mao-style suit, 1990.",
+    "descriptionEn": "On the morning of 2 October 1990, a Xiamen Airlines Boeing 737 took off on a short domestic flight. Minutes later a 21-year-old passenger burst into the cockpit, claiming he carried explosives and demanding to be flown to Taiwan. For about 40 minutes the plane circled Guangzhou while the airport below was shut down and other aircraft waited on the ground. This documentary reconstructs the hijacking minute by minute, from the hijacker's background and the pilot's impossible position to the decisions made by the authorities. It examines what was said on the radio, what was done and not done, and the questions the official investigation left unanswered. A story of fear, fuel, and a runway where three aircraft were caught in the same disaster.",
+    "descriptionUr": "2 October 1990 ki subah Xiamen Airlines ka ek Boeing 737 normal parwaz par nikla. Chand minute baad ek 21 saal ke musafir ne cockpit mein ghus kar dhamaka khez maad ka dawa kiya aur Taiwan jaane ka mutalba kiya. Takreeban 40 minute tak jahaz Guangzhou ke upar chakkar lagata raha jabke neeche airport band tha aur dusre jahaz khade the. Is documentary mein hum hijacker, pilot ke faislon, radio baat cheet aur tehqiqat ke sawalon ko tafseel se dekhte hain. Poori kahani Urdu aur English mein dekhiye.",
+    "tags": [
+      "guangzhou baiyun airport collision",
+      "1990 guangzhou hijacking",
+      "xiamen airlines flight 8301",
+      "xiamen airlines hijack",
+      "jiang xiaofeng",
+      "boeing 737 hijacking",
+      "boeing 757 first hull loss",
+      "deadliest hijacking before 9/11",
+      "china plane crash documentary",
+      "aviation disasters documentary",
+      "air crash investigation urdu",
+      "plane hijack in urdu",
+      "guangzhou plane crash urdu",
+      "hijacking true story",
+      "caac flight 3523",
+      "china southwest airlines 4305",
+      "airport collision 1990",
+      "aviation history in urdu"
+    ],
+    "hashtags": [
+      "#AviationDisaster",
+      "#Hijacking",
+      "#UrduDocumentary"
+    ],
+    "metaDescription": "How a 1990 hijacking of Xiamen Airlines Flight 8301 ended in a collision with two airliners at Guangzhou Baiyun Airport and the deaths of 128 people."
+  },
+  "chapters": [
+    {
+      "titleEn": "The Runway Erupts",
+      "titleRoman": "Runway Par Qayamat",
+      "covers": "Cold open: 9:04 a.m., 2 Oct 1990, the hijacked 737 veers off the runway, hits a parked 707, then slams into a 757 and flips onto its back. 128 dead, the deadliest hijacking before 9/11. Questions: why did a plane land among parked aircraft, why were passengers not evacuated during 40 minutes of circling, who really controlled the plane? Note that the death toll of 128 includes the hijacker.",
+      "words": 220,
+      "beats": [
+        {
+          "id": "c1b1",
+          "text": "2 اکتوبر 1990، صبح 9 بج کر 4 منٹ۔ Guangzhou کے Baiyun Airport پر ایک مسافر جہاز runway پر اتر چکا ہے۔",
+          "roman": "2 October 1990, subah 9 baj kar 4 minute. Guangzhou ke Baiyun Airport par ek musafir jahaz runway par utar chuka hai.",
+          "visual": {
+            "type": "card",
+            "title": "2 OCTOBER 1990, 9:04 A.M.",
+            "text": "Old Guangzhou Baiyun Airport"
+          }
+        },
+        {
+          "id": "c1b2",
+          "text": "یہ Xiamen Airlines کا Boeing 737 ہے۔ لیکن اگلے چند لمحوں میں یہ runway چھوڑ کر apron کی طرف مڑ جاتا ہے، جہاں دو اور جہاز کھڑے ہیں۔",
+          "roman": "Yeh Xiamen Airlines ka Boeing 737 hai. Lekin agle chand lamhon mein yeh runway chhor kar apron ki taraf mur jata hai, jahan do aur jahaz khare hain.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Boeing 737-200 of Xiamen Airlines veering off a runway toward a crowded apron, 1990 old Guangzhou Baiyun Airport, control tower and mountains in the background, tense morning light, wide angle"
+          }
+        },
+        {
+          "id": "c1b3",
+          "text": "پہلے یہ parked Boeing 707 سے ٹکراتا ہے، جسے صرف معمولی نقصان پہنچتا ہے۔ پھر یہ ایک Boeing 757 سے ٹکراتا ہے، جو اڑان کے انتظار میں تھا۔",
+          "roman": "Pehle yeh parked Boeing 707 se takrata hai, jise sirf mamooli nuqsan pohanchta hai. Phir yeh ek Boeing 757 se takrata hai, jo uran ke intezar mein tha.",
+          "visual": {
+            "type": "clip",
+            "query": "airport apron smoke",
+            "prompt": "Parked Boeing 707 and Boeing 757 on the 1990 Baiyun Airport apron with a Boeing 737 sliding toward them, smoke beginning to rise, dramatic side view"
+          },
+          "highlight": "707 THEN 757"
+        },
+        {
+          "id": "c1b4",
+          "text": "ٹکراؤ کے بعد 737 الٹ جاتا ہے۔ اس حادثے میں 128 لوگ مارے گئے، اور یہ 9/11 سے پہلے کی سب سے مہلک aircraft hijacking تھی۔",
+          "roman": "Takrao ke baad 737 ulat jata hai. Is hadsay mein 128 log mare gaye, aur yeh 9/11 se pehle ki sab se muhlik aircraft hijacking thi.",
+          "visual": {
+            "type": "card",
+            "title": "128 KILLED",
+            "text": "Deadliest hijacking before 9/11"
+          }
+        },
+        {
+          "id": "c1b5",
+          "text": "ایک اہم بات پہلے ہی بتا دیں۔ 128 کی اس تعداد میں خود hijacker بھی شامل ہے، یعنی Jiang Xiaofeng۔",
+          "roman": "Ek aham baat pehle hi bata dein. 128 ki is tadad mein khud hijacker bhi shamil hai, yani Jiang Xiaofeng.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Jiang Xiaofeng: 21-year-old Chinese man in a black suit and black dress shoes holding a black suitcase and plastic roses, 1990, standing in an airport hall, muted somber tones"
+          },
+          "highlight": "128 INCLUDES HIJACKER"
+        },
+        {
+          "id": "c1b6",
+          "text": "ہلاک ہونے والوں میں Xiamen Airlines کے 737 کے 75 مسافر اور 7 crew members تھے، جبکہ 757 کے 46 مسافر بھی جان سے گئے۔",
+          "roman": "Halak hone walon mein Xiamen Airlines ke 737 ke 75 musafir aur 7 crew members thay, jabke 757 ke 46 musafir bhi jaan se gaye.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Quiet memorial scene, white flowers laid on an airport tarmac at dusk, 1990 era, respectful mood, no people close up"
+          }
+        },
+        {
+          "id": "c1b7",
+          "text": "لیکن سوال یہ ہے کہ ایک hijacked جہاز کو Baiyun پر اتارنا کیوں پڑا، اور اتر کر وہ apron کی طرف کیسے مڑ گیا؟ sources کے مطابق ایندھن بہت کم ہو چکا تھا۔",
+          "roman": "Lekin sawal yeh hai ke ek hijacked jahaz ko Baiyun par utarna kyun para, aur utar kar woh apron ki taraf kaise mur gaya? sources ke mutabiq eendhan bohat kam ho chuka tha.",
+          "visual": {
+            "type": "clip",
+            "query": "airplane landing runway",
+            "prompt": "Passenger jet descending toward a runway beside parked aircraft, 1990 airport, tense mood"
+          },
+          "factFix": "The question's premise is misleading. The sources say the plane landed on the runway because it was low on fuel and the hijacker refused a Hong Kong diversion. It only veered toward the apron after Jiang wrestled for control while taxiing. It was not landed 'among' the parked aircraft."
+        },
+        {
+          "id": "c1b8",
+          "text": "دوسرا سوال: تقریباً 40 منٹ تک جہاز آسمان میں چکر لگاتا رہا۔ اس دوران قریب کھڑے جہازوں کے مسافروں کو evacuate کیوں نہیں کیا گیا؟",
+          "roman": "Doosra sawal: taqriban 40 minute tak jahaz aasman mein chakkar lagata raha. Is dauran qareeb khare jahazon ke musafiron ko evacuate kyun nahi kiya gaya?",
+          "visual": {
+            "type": "ai",
+            "prompt": "Boeing 737 circling above Guangzhou in 1990 while a Boeing 757 waits on the apron below with its passenger windows lit, tense mood, high angle"
+          },
+          "highlight": "40 MINUTES OF CIRCLING"
+        },
+        {
+          "id": "c1b9",
+          "text": "اور تیسرا سوال سب سے بھاری ہے۔ آخری لمحوں میں جہاز کو اصل میں کون چلا رہا تھا، pilot یا hijacker؟",
+          "roman": "Aur teesra sawal sab se bhari hai. Aakhri lamhon mein jahaz ko asal mein kaun chala raha tha, pilot ya hijacker?",
+          "visual": {
+            "type": "ai",
+            "prompt": "Captain Cen Longyu: middle-aged Chinese airline pilot in a 1990 CAAC-style uniform with cap, calm and tense in the cockpit, hands on the controls, dim cockpit light"
+          }
+        },
+        {
+          "id": "c1b10",
+          "text": "آج ہم تین جہازوں، ایک hijacker اور ایک captain کی کہانی sources کی روشنی میں سمجھیں گے۔ دوستو، شروع کرتے ہیں۔",
+          "roman": "Aaj hum teen jahazon, ek hijacker aur ek captain ki kahani sources ki roshni mein samjhein ge. Dosto, shuru karte hain.",
+          "visual": {
+            "type": "clip",
+            "query": "old newspaper printing",
+            "prompt": "Old 1990 newspaper pages with blurred headlines, documentary style"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "At 9:04 on the morning of 2 October 1990, a passenger jet landed on the runway at Guangzhou's Baiyun Airport. It was a Xiamen Airlines Boeing 737. Within moments it left the runway and veered toward the apron, where two other aircraft were parked. It first struck a parked Boeing 707, which suffered only minor damage. Then it hit a Boeing 757 that was waiting to depart. After that collision, the 737 flipped over.",
+        "The disaster killed 128 people, and it was the deadliest aircraft hijacking before 9/11. One important point needs to be made at the outset: the figure of 128 includes the hijacker himself, Jiang Xiaofeng. The dead included 75 passengers and 7 crew members from the Xiamen Airlines 737, while 46 passengers on the 757 also lost their lives.",
+        "Three questions run through this story. Why did a hijacked plane have to land at Baiyun, and how did it end up turning toward the apron? According to the sources, fuel was running very low. Second, the plane circled in the sky for about 40 minutes, so why were passengers on nearby aircraft not evacuated? And the heaviest question of all: in the final moments, who was actually flying the plane, the pilot or the hijacker?",
+        "Today we look at the story of three aircraft, one hijacker and one captain, in the light of the sources. Let's begin."
+      ]
+    },
+    {
+      "titleEn": "Three Aircraft, One Apron",
+      "titleRoman": "Teen Jahaz, Ek Apron",
+      "covers": "Introduces Xiamen Airlines 737 B-2510 (previously hijacked to Taiwan in 1988), China Southwest 707 B-2402 (attempted hijack in 1989, one cleaner aboard), CAAC 757 B-2812 (newest, 110 passengers and 12 crew on board waiting for Shanghai). The old Baiyun Airport, hemmed in by buildings and mountains, opened 1932.",
+      "words": 450,
+      "beats": [
+        {
+          "id": "c2b1",
+          "text": "کہانی سمجھنے کے لیے پہلے ان تین جہازوں سے ملتے ہیں، جن کا راستہ اس صبح Baiyun Airport پر آ کر ٹکرا گیا۔",
+          "roman": "Kahani samajhne ke liye pehle in teen jahazon se milte hain, jin ka rasta is subah Baiyun Airport par aa kar takra gaya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Three airliners in a row on a 1990 airport apron at dawn, a Boeing 737, a Boeing 707 and a Boeing 757, mountains in the distance, cinematic wide shot"
+          }
+        },
+        {
+          "id": "c2b2",
+          "text": "پہلا جہاز Xiamen Airlines کی Flight 8301 تھا۔ یہ Boeing 737-247 تھا، جس کی registration B-2510 اور serial number 23189/1072 تھا۔",
+          "roman": "Pehla jahaz Xiamen Airlines ki Flight 8301 tha. Yeh Boeing 737-247 tha, jis ki registration B-2510 aur serial number 23189/1072 tha.",
+          "visual": {
+            "type": "photo",
+            "photo": "p2"
+          },
+          "highlight": "B-2510"
+        },
+        {
+          "id": "c2b3",
+          "text": "اس جہاز کی تاریخ پہلے ہی ایک hijacking سے جڑی تھی۔ 12 مئی 1988 کو Zhang Qingguo اور Long Guiyun نے چاقوؤں کے ساتھ اسے hijack کیا تھا۔",
+          "roman": "Is jahaz ki tareekh pehle hi ek hijacking se juri thi. 12 May 1988 ko Zhang Qingguo aur Long Guiyun ne chaqooon ke sath ise hijack kiya tha.",
+          "visual": {
+            "type": "card",
+            "title": "12 MAY 1988",
+            "text": "B-2510 first hijacked to Taiwan"
+          }
+        },
+        {
+          "id": "c2b4",
+          "text": "وہ جہاز Taiwan کے Taichung Ching-Chuan-Kang Airport پہنچا تھا، اور یوں وہ mainland China سے Taiwan hijack ہونے والا پہلا جہاز بن گیا۔",
+          "roman": "Woh jahaz Taiwan ke Taichung Ching-Chuan-Kang Airport pohancha tha, aur yun woh mainland China se Taiwan hijack hone wala pehla jahaz ban gaya.",
+          "visual": {
+            "type": "clip",
+            "query": "airplane flying over sea",
+            "prompt": "Airliner flying over the sea toward an island, 1988 era, golden light"
+          }
+        },
+        {
+          "id": "c2b5",
+          "text": "2 اکتوبر کو یہ جہاز Xiamen Gaoqi International Airport سے پرانے Guangzhou Baiyun Airport کے لیے روانہ ہوا۔ اس پر 93 مسافر اور 9 crew members سوار تھے۔",
+          "roman": "2 October ko yeh jahaz Xiamen Gaoqi International Airport se purane Guangzhou Baiyun Airport ke liye rawana hua. Is par 93 musafir aur 9 crew members sawar thay.",
+          "visual": {
+            "type": "map",
+            "place": "Xiamen",
+            "lat": 24.54,
+            "lon": 118.13,
+            "zoom": "region",
+            "label": "Xiamen to Guangzhou"
+          },
+          "highlight": "93 PASSENGERS, 9 CREW"
+        },
+        {
+          "id": "c2b6",
+          "text": "دوسرا جہاز China Southwest Airlines کی Flight 4305 تھا۔ یہ Boeing 707-3J6B تھا، registration B-2402، جو پہلی بار 1973 میں اڑا تھا۔",
+          "roman": "Doosra jahaz China Southwest Airlines ki Flight 4305 tha. Yeh Boeing 707-3J6B tha, registration B-2402, jo pehli baar 1973 mein uda tha.",
+          "visual": {
+            "type": "photo",
+            "photo": "p3"
+          }
+        },
+        {
+          "id": "c2b7",
+          "text": "1983 میں اسے CAAC کی Beijing Regional Administration سے Shanghai Regional Administration میں منتقل کیا گیا، اور 1985 میں Chengdu Regional Administration کو دے دیا گیا۔",
+          "roman": "1983 mein ise CAAC ki Beijing Regional Administration se Shanghai Regional Administration mein muntaqil kiya gaya, aur 1985 mein Chengdu Regional Administration ko de diya gaya.",
+          "visual": {
+            "type": "clip",
+            "query": "airport logbook paperwork",
+            "prompt": "Old aviation paperwork and aircraft logbooks on a desk, 1980s China airline office"
+          }
+        },
+        {
+          "id": "c2b8",
+          "text": "اس جہاز کے ساتھ 3 نومبر 1989 کو بھی ایک attempted hijacking ہو چکی تھی، جب یہ Harbin سے Guangzhou جا رہا تھا۔",
+          "roman": "Is jahaz ke sath 3 November 1989 ko bhi ek attempted hijacking ho chuki thi, jab yeh Harbin se Guangzhou ja raha tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Boeing 707 in flight over northern China in 1989, a tense cabin interior glimpse through the window, muted colors"
+          }
+        },
+        {
+          "id": "c2b9",
+          "text": "حادثے کی صبح یہ جہاز Chengdu Shuangliu Airport سے Baiyun پہنچا تھا۔ تمام مسافر اتر چکے تھے، اور جہاز apron پر کھڑا تھا۔",
+          "roman": "Hadsay ki subah yeh jahaz Chengdu Shuangliu Airport se Baiyun pohancha tha. Tamam musafir utar chuke thay, aur jahaz apron par khara tha.",
+          "visual": {
+            "type": "photo",
+            "photo": "p3"
+          }
+        },
+        {
+          "id": "c2b10",
+          "text": "crew بھی جا چکا تھا۔ صرف ایک شخص صفائی کے لیے جہاز پر رکا ہوا تھا۔ آگے چل کر وہی اس جہاز کا واحد زخمی بنا۔",
+          "roman": "Crew bhi ja chuka tha. Sirf ek shakhs safai ke liye jahaz par ruka hua tha. Aage chal kar wohi is jahaz ka wahid zakhmi bana.",
+          "visual": {
+            "type": "ai",
+            "prompt": "A lone cleaner in a work uniform vacuuming an empty airliner cabin, 1990, soft morning light through windows, quiet mood"
+          },
+          "highlight": "ONE CLEANER ABOARD"
+        },
+        {
+          "id": "c2b11",
+          "text": "تیسرا جہاز CAAC کی Flight 3523 تھا، ایک Boeing 757-21B، registration B-2812، serial number 24758/282۔ یہ تینوں میں سب سے نیا جہاز تھا۔",
+          "roman": "Teesra jahaz CAAC ki Flight 3523 tha, ek Boeing 757-21B, registration B-2812, serial number 24758/282. Yeh teenon mein sab se naya jahaz tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Brand new Boeing 757 of CAAC parked on the 1990 Baiyun Airport apron, gleaming fuselage, ground vehicles around it, early morning"
+          }
+        },
+        {
+          "id": "c2b12",
+          "text": "اس نے پہلی اڑان 1990 ہی میں بھری تھی۔ اس صبح اسے Shanghai Hongqiao International Airport جانا تھا۔",
+          "roman": "Is ne pehli uran 1990 hi mein bhari thi. Is subah ise Shanghai Hongqiao International Airport jana tha.",
+          "visual": {
+            "type": "clip",
+            "query": "airplane taking off",
+            "prompt": "Boeing 757 taking off from a runway at sunrise, 1990 era"
+          }
+        },
+        {
+          "id": "c2b13",
+          "text": "اس کے اندر 110 مسافر اور 12 crew members پہلے سے بیٹھے تھے۔ یعنی یہ جہاز اڑان کے انتظار میں apron پر کھڑا تھا۔",
+          "roman": "Is ke andar 110 musafir aur 12 crew members pehle se baithe thay. Yani yeh jahaz uran ke intezar mein apron par khara tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Inside a Boeing 757 cabin in 1990, passengers seated and waiting, a young flight attendant in a 1990 airline uniform walking the aisle, calm mood"
+          },
+          "highlight": "110 PASSENGERS, 12 CREW"
+        },
+        {
+          "id": "c2b14",
+          "text": "اب ذرا اس airport کو بھی دیکھ لیں۔ پرانا Baiyun Airport 1932 میں کھلا تھا، اور Guangzhou کے پھیلاؤ کے ساتھ اس کے لیے بڑھنا مشکل ہو گیا تھا۔",
+          "roman": "Ab zara is airport ko bhi dekh lein. Purana Baiyun Airport 1932 mein khula tha, aur Guangzhou ke phailao ke sath is ke liye barhna mushkil ho gaya tha.",
+          "visual": {
+            "type": "map",
+            "place": "Old Baiyun Airport, Guangzhou",
+            "lat": 23.19,
+            "lon": 113.27,
+            "zoom": "city",
+            "label": "Old Baiyun Airport"
+          },
+          "highlight": "OPENED IN 1932"
+        },
+        {
+          "id": "c2b15",
+          "text": "اس کے چاروں طرف عمارتیں اور پہاڑ تھے، اس لیے مسافروں کی بڑھتی ضرورت کے مطابق اسے پھیلایا نہیں جا سکتا تھا۔",
+          "roman": "Is ke charon taraf imaratein aur pahar thay, is liye musafiron ki barhti zaroorat ke mutabiq ise phailaya nahi ja sakta tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Old Guangzhou Baiyun Airport in 1990 hemmed in by dense buildings and nearby mountains, control tower, small apron, aerial view"
+          }
+        },
+        {
+          "id": "c2b16",
+          "text": "'Baiyun' کا مطلب چینی زبان میں 'سفید بادل' ہے، اور یہ نام Baiyun Mountain سے آیا ہے، جو اس پرانے airport کے قریب تھی۔",
+          "roman": "Baiyun ka matlab chini zaban mein safed badal hai, aur yeh naam Baiyun Mountain se aaya hai, jo is purane airport ke qareeb thi.",
+          "visual": {
+            "type": "clip",
+            "query": "mountain white clouds",
+            "prompt": "Green mountain with white clouds drifting over it near a Chinese city, soft light"
+          }
+        },
+        {
+          "id": "c2b17",
+          "text": "بعد میں 5 اگست 2004 کو نیا Baiyun Airport کھلا اور پرانا بند ہو گیا۔ مگر 1990 میں تو یہی تنگ، پہاڑوں میں گھرا airport سب کچھ تھا۔",
+          "roman": "Baad mein 5 August 2004 ko naya Baiyun Airport khula aur purana band ho gaya. Magar 1990 mein to yehi tang, paharon mein ghira airport sab kuch tha.",
+          "visual": {
+            "type": "card",
+            "title": "5 AUGUST 2004",
+            "text": "New Baiyun Airport opens, old one closes"
+          }
+        },
+        {
+          "id": "c2b18",
+          "text": "تین جہاز، تین مختلف کہانیاں۔ ایک جہاز پہلے ہی hijack ہو چکا تھا، ایک پر hijack کی کوشش ہو چکی تھی، اور ایک بالکل نیا تھا۔",
+          "roman": "Teen jahaz, teen mukhtalif kahaniyan. Ek jahaz pehle hi hijack ho chuka tha, ek par hijack ki koshish ho chuki thi, aur ek bilkul naya tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Three silhouettes of airliners, a Boeing 737, a Boeing 707 and a Boeing 757, side by side against a pale dawn sky, documentary poster style"
+          }
+        },
+        {
+          "id": "c2b19",
+          "text": "لیکن 2 اکتوبر 1990 کی صبح ان تینوں کا راستہ ایک ہی جگہ آ کر ملنے والا تھا۔ اور اس کی وجہ ایک اکیلا مسافر بنا۔",
+          "roman": "Lekin 2 October 1990 ki subah in teenon ka rasta ek hi jagah aa kar milne wala tha. Aur is ki wajah ek akela musafir bana.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Lone young Chinese man in a black suit with a black suitcase walking through a 1990 airport terminal toward a boarding gate, mysterious mood, backlit"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "To understand the story, we first need to meet the three aircraft whose paths collided at Baiyun Airport that morning. The first was Xiamen Airlines Flight 8301, a Boeing 737-247 with registration B-2510 and serial number 23189/1072. This aircraft already had a history tied to a hijacking. On 12 May 1988, Zhang Qingguo and Long Guiyun hijacked it with knives. It flew to Taiwan's Taichung Ching-Chuan-Kang Airport, becoming the first aircraft hijacked from mainland China to Taiwan. On 2 October it left Xiamen Gaoqi International Airport for the old Guangzhou Baiyun Airport, carrying 93 passengers and 9 crew members.",
+        "The second aircraft was China Southwest Airlines Flight 4305, a Boeing 707-3J6B with registration B-2402, which first flew in 1973. In 1983 it was transferred from CAAC's Beijing Regional Administration to the Shanghai Regional Administration, and in 1985 it was given to the Chengdu Regional Administration. It had also been the target of an attempted hijacking on 3 November 1989, while flying from Harbin to Guangzhou. On the morning of the disaster it had arrived at Baiyun from Chengdu Shuangliu Airport. All passengers had disembarked, the crew had left, and only one person remained aboard to clean the plane. He would later become its only injured person.",
+        "The third was CAAC Flight 3523, a Boeing 757-21B with registration B-2812 and serial number 24758/282. It was the newest of the three, having made its first flight in 1990. It was due to fly to Shanghai Hongqiao International Airport, and 110 passengers and 12 crew members were already on board. It was sitting on the apron waiting to depart.",
+        "The airport itself deserves a look. The old Baiyun Airport opened in 1932, and as Guangzhou grew, expansion became hard. It was surrounded by buildings and hills, so it could not be enlarged to meet rising passenger demand. Baiyun means white cloud in Chinese, and the name comes from Baiyun Mountain, which lay near the old airport. The new Baiyun Airport opened on 5 August 2004 and the old one closed. But in 1990 this cramped airport, hemmed in by hills, was everything.",
+        "So there were three aircraft and three different stories: one already hijacked once, one the target of an attempted hijacking, and one brand new. On the morning of 2 October 1990 their paths were about to meet in one place, and the cause was a single passenger."
+      ]
+    },
+    {
+      "titleEn": "The Man in Seat 16D",
+      "titleRoman": "Seat 16D Ka Musafir",
+      "covers": "Jiang Xiaofeng, born 1969 in Hunan, 21-year-old purchasing agent, theft arrest in 1988, fled 13 July 1990 with RMB 17,000, wanted by police. Hotel near Xiamen on 29 Sept, booked seat, black suit, suitcase, plastic roses, last to board. His motive of seeking asylum in Taiwan, in the context of a wave of China-to-Taiwan hijackings.",
+      "words": 450,
+      "beats": [
+        {
+          "id": "c3b1",
+          "text": "اب اس شخص سے ملیں جو 737 کی seat 16D پر بیٹھا تھا۔ اس کا نام Jiang Xiaofeng تھا، اور اس کی عمر صرف 21 سال تھی۔",
+          "roman": "Ab is shakhs se milen jo 737 ki seat 16D par baitha tha. Is ka naam Jiang Xiaofeng tha, aur is ki umar sirf 21 saal thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Jiang Xiaofeng: 21-year-old Chinese man, black suit, black dress shoes, black suitcase, holding plastic roses, 1990, seated by an airplane window, serious expression"
+          }
+        },
+        {
+          "id": "c3b2",
+          "text": "Jiang 11 اگست 1969 کو Hunan کے Linli County میں پیدا ہوا تھا۔ 1990 میں وہ ایک company کے لیے purchasing agent کا کام کر رہا تھا۔",
+          "roman": "Jiang 11 August 1969 ko Hunan ke Linli County mein paida hua tha. 1990 mein woh ek company ke liye purchasing agent ka kaam kar raha tha.",
+          "visual": {
+            "type": "map",
+            "place": "Linli County, Hunan",
+            "lat": 29.44,
+            "lon": 111.65,
+            "zoom": "region",
+            "label": "Linli County, Hunan"
+          }
+        },
+        {
+          "id": "c3b3",
+          "text": "اس کا ماضی صاف نہیں تھا۔ ستمبر 1988 میں اسے چوری کے الزام میں گرفتار کیا گیا تھا۔",
+          "roman": "Is ka maazi saaf nahi tha. September 1988 mein ise chori ke ilzam mein girftar kiya gaya tha.",
+          "visual": {
+            "type": "clip",
+            "query": "police station night",
+            "prompt": "Dim 1988 Chinese police station interior, desk with files, muted tones"
+          }
+        },
+        {
+          "id": "c3b4",
+          "text": "پھر 13 جولائی 1990 کو وہ company کی طرف سے سامان خریدنے کے لیے ملی ہوئی 17,000 RMB لے کر بھاگ گیا۔",
+          "roman": "Phir 13 July 1990 ko woh company ki taraf se saman kharidne ke liye mili hui 17,000 RMB le kar bhag gaya.",
+          "visual": {
+            "type": "card",
+            "title": "13 JULY 1990",
+            "text": "Fled with RMB 17,000"
+          }
+        },
+        {
+          "id": "c3b5",
+          "text": "اس واقعے کے بعد police کو اس کی تلاش تھی۔ یعنی جب وہ جہاز میں بیٹھا، تب وہ ایک wanted آدمی تھا۔",
+          "roman": "Is waqay ke baad police ko is ki talash thi. Yani jab woh jahaz mein baitha, tab woh ek wanted aadmi tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Young Chinese man in a black suit glancing over his shoulder in a crowded 1990 railway or bus station, anxious mood"
+          },
+          "highlight": "WANTED BY POLICE"
+        },
+        {
+          "id": "c3b6",
+          "text": "29 ستمبر کو Jiang نے Xiamen کے border کے قریب ایک hotel میں check-in کیا۔ اگلے دن اس نے اسی flight کی seat book کروا لی۔",
+          "roman": "29 September ko Jiang ne Xiamen ke border ke qareeb ek hotel mein check-in kiya. Agle din is ne isi flight ki seat book karwa li.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Small plain 1990 Chinese hotel room at night, a black suitcase on the bed, a young man in a black suit sitting by the window, quiet tense mood"
+          }
+        },
+        {
+          "id": "c3b7",
+          "text": "2 اکتوبر کی صبح تقریباً 6 بجے Jiang نے hotel سے check-out کیا اور airport کی طرف نکل پڑا۔",
+          "roman": "2 October ki subah taqriban 6 baje Jiang ne hotel se check-out kiya aur airport ki taraf nikal para.",
+          "visual": {
+            "type": "clip",
+            "query": "early morning street taxi",
+            "prompt": "Early morning 1990 Chinese street with a taxi heading to an airport, pale dawn light"
+          }
+        },
+        {
+          "id": "c3b8",
+          "text": "اسے black suit اور black dress shoes پہنے ہوئے دیکھا گیا۔ ہاتھ میں ایک black suitcase تھا، اور ساتھ plastic roses بھی۔",
+          "roman": "Ise black suit aur black dress shoes pehne huay dekha gaya. Hath mein ek black suitcase tha, aur sath plastic roses bhi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Jiang Xiaofeng: 21-year-old Chinese man in a black suit and black dress shoes, black suitcase in one hand, plastic roses in the other, walking through an airport entrance, 1990"
+          },
+          "highlight": "BLACK SUIT, PLASTIC ROSES"
+        },
+        {
+          "id": "c3b9",
+          "text": "یہ منظر عجیب سا ہے۔ ایک رسمی سا لباس، ایک suitcase اور نقلی پھول۔ sources یہ نہیں بتاتے کہ ان پھولوں کا مقصد کیا تھا۔",
+          "roman": "Yeh manzar ajeeb sa hai. Ek rasmi sa libas, ek suitcase aur nakli phool. sources yeh nahi batate ke in phoolon ka maqsad kya tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Close-up of a bunch of red plastic roses resting on a black suitcase in a 1990 airport waiting hall, shallow depth of field, mysterious mood"
+          }
+        },
+        {
+          "id": "c3b10",
+          "text": "Jiang سب سے آخر میں جہاز پر سوار ہوا۔ اس کی seat 16D تھی۔ Flight 8301 کی boarding صبح 6:15 پر شروع ہوئی تھی۔",
+          "roman": "Jiang sab se aakhir mein jahaz par sawar hua. Is ki seat 16D thi. Flight 8301 ki boarding subah 6:15 par shuru hui thi.",
+          "visual": {
+            "type": "card",
+            "title": "SEAT 16D",
+            "text": "Last to board, boarding began 6:15 a.m."
+          }
+        },
+        {
+          "id": "c3b11",
+          "text": "جہاز نے schedule کے مطابق 6:57 پر Xiamen سے اڑان بھری۔ یعنی کوئی تاخیر نہیں ہوئی، اور سفر وقت پر شروع ہو گیا۔",
+          "roman": "Jahaz ne schedule ke mutabiq 6:57 par Xiamen se uran bhari. Yani koi takheer nahi hui, aur safar waqt par shuru ho gaya.",
+          "visual": {
+            "type": "photo",
+            "photo": "p2"
+          },
+          "highlight": "TAKEOFF 6:57 A.M."
+        },
+        {
+          "id": "c3b12",
+          "text": "اب سب سے اہم سوال: Jiang یہ سب کیوں کر رہا تھا؟ sources کے مطابق وہ Taiwan میں political asylum لینا چاہتا تھا۔",
+          "roman": "Ab sab se aham sawal: Jiang yeh sab kyun kar raha tha? sources ke mutabiq woh Taiwan mein political asylum lena chahta tha.",
+          "visual": {
+            "type": "clip",
+            "query": "airplane window clouds",
+            "prompt": "View from an airliner window over clouds at morning, a young man's reflection in the glass, 1990"
+          },
+          "highlight": "SEEKING ASYLUM IN TAIWAN"
+        },
+        {
+          "id": "c3b13",
+          "text": "لیکن وہ police کو مطلوب بھی تھا اور company کی رقم لے کر بھاگا تھا۔ اس لیے اس کے اصل محرکات پر حتمی بات کہنا مشکل ہے۔",
+          "roman": "Lekin woh police ko matloob bhi tha aur company ki raqam le kar bhaga tha. Is liye is ke asal muharrikat par hatmi baat kehna mushkil hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Split composition: a young Chinese man in a black suit looking at a distant island across the sea on one side, a stack of banknotes on the other, 1990 illustration style, no text"
+          }
+        },
+        {
+          "id": "c3b14",
+          "text": "Jiang اکیلا نہیں تھا جس کی نظریں Taiwan پر تھیں۔ 12 مئی 1988 کو یہی 737 B-2510 پہلے ہی Taiwan hijack کیا جا چکا تھا۔",
+          "roman": "Jiang akela nahi tha jis ki nazrein Taiwan par thin. 12 May 1988 ko yehi 737 B-2510 pehle hi Taiwan hijack kiya ja chuka tha.",
+          "visual": {
+            "type": "photo",
+            "photo": "p2"
+          }
+        },
+        {
+          "id": "c3b15",
+          "text": "Aircraft hijacking پر ایک عام جائزے کے مطابق، China میں ایسے واقعات بھی ہوئے جن میں hijackers Taiwan میں political asylum چاہتے تھے۔",
+          "roman": "Aircraft hijacking par ek aam jaaizay ke mutabiq, China mein aise waqiyat bhi huay jin mein hijackers Taiwan mein political asylum chahte thay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Map-style illustration of the Taiwan Strait with a small airliner crossing from the Chinese mainland coast toward Taiwan, dusk tones, no text"
+          }
+        },
+        {
+          "id": "c3b16",
+          "text": "اسی جائزے میں لکھا ہے کہ 1993 سے 2003 کے درمیان سب سے زیادہ hijackings 1993 میں ہوئیں، اور اس کی وجہ China کے یہی واقعات بتائے گئے ہیں۔",
+          "roman": "Isi jaaizay mein likha hai ke 1993 se 2003 ke darmiyan sab se zyada hijackings 1993 mein huin, aur is ki wajah China ke yehi waqiyat bataye gaye hain.",
+          "visual": {
+            "type": "clip",
+            "query": "airport departure board",
+            "prompt": "Airport departure hall with passengers and a flight board, 1990s China, busy mood"
+          },
+          "highlight": "1993: PEAK YEAR"
+        },
+        {
+          "id": "c3b17",
+          "text": "یہ Jiang کے واقعے کے کچھ سال بعد کی بات ہے، مگر پس منظر سمجھنے میں مدد دیتی ہے۔",
+          "roman": "Yeh Jiang ke waqay ke kuch saal baad ki baat hai, magar pas manzar samajhne mein madad deti hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Calendar pages turning from 1990 to 1993 over a blurred airport background, documentary style, no text"
+          }
+        },
+        {
+          "id": "c3b18",
+          "text": "دنیا بھر میں airlines عموماً total compliance کا اصول اپناتی تھیں، یعنی hijacker کے مطالبات مان کر جہاز کو محفوظ اتارنا۔",
+          "roman": "Duniya bhar mein airlines umooman total compliance ka usool apnati thin, yani hijacker ke mutalbat maan kar jahaz ko mehfooz utarna.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Calm airline crew member in a 1990 uniform speaking to seated passengers, quiet cabin, reassuring mood"
+          },
+          "highlight": "TOTAL COMPLIANCE RULE"
+        },
+        {
+          "id": "c3b19",
+          "text": "Jiang seat 16D پر بیٹھا تھا، اس کا suitcase اوپر overhead compartment میں رکھا تھا، اور جہاز فضا میں تھا۔ اب سوال یہ تھا کہ وہ کب اٹھے گا؟",
+          "roman": "Jiang seat 16D par baitha tha, is ka suitcase upar overhead compartment mein rakha tha, aur jahaz fiza mein tha. Ab sawal yeh tha ke woh kab uthay ga?",
+          "visual": {
+            "type": "ai",
+            "prompt": "Jiang Xiaofeng: 21-year-old Chinese man in a black suit seated in row 16 of a 1990 airliner, a black suitcase in the overhead bin above him, other passengers unaware, tense mood"
+          }
+        },
+        {
+          "id": "c3b20",
+          "text": "تقریباً 7:20 پر وہ اٹھا۔ اگلے chapter میں دیکھتے ہیں کہ cockpit کے دروازے کے پیچھے کیا ہوا، اور سات کلو کا دعویٰ کیا تھا۔",
+          "roman": "Taqriban 7:20 par woh utha. Agle chapter mein dekhte hain ke cockpit ke darwaze ke peeche kya hua, aur saat kilo ka daava kya tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Closed cockpit door of a 1990 Boeing 737 seen from the cabin aisle, a young man in black rising from his seat in the background, suspenseful low light"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "Now let's meet the man in seat 16D of the 737. His name was Jiang Xiaofeng, and he was just 21 years old. He was born on 11 August 1969 in Linli County, Hunan. In 1990 he worked as a purchasing agent for a company. His past was not clean. In September 1988 he had been arrested on a theft charge. Then on 13 July 1990 he ran off with 17,000 RMB that he had been given to buy goods for the company. The police had been looking for him ever since, so when he boarded the plane he was a wanted man.",
+        "On 29 September, Jiang checked into a hotel near the border at Xiamen. The next day he booked a seat on this flight. At around 6 a.m. on 2 October he checked out of the hotel and headed for the airport. He was seen wearing a black suit and black dress shoes, carrying a black suitcase and some plastic roses. It is a strange picture: formal clothes, a suitcase and fake flowers. The sources do not say what the flowers were for. Jiang boarded last, and his seat was 16D. Boarding for Flight 8301 began at 6:15, and the plane took off from Xiamen on schedule at 6:57, so the journey started on time.",
+        "The key question is why Jiang was doing all this. According to the sources, he wanted political asylum in Taiwan. But he was also wanted by the police and had run off with company money, so it is hard to say anything definitive about his real motives.",
+        "Jiang was not the only one whose eyes were on Taiwan. On 12 May 1988, this same 737, B-2510, had already been hijacked to Taiwan. According to a general review of aircraft hijacking, China saw incidents in which hijackers wanted political asylum in Taiwan. The same review says that between 1993 and 2003 the most hijackings occurred in 1993, and attributes this to those same cases in China. That is some years after Jiang's case, but it helps explain the background.",
+        "Airlines around the world generally followed a principle of total compliance, meaning they would meet the hijacker's demands and land the plane safely. Jiang sat in seat 16D, his suitcase in the overhead compartment, the plane in the air. The question was when he would stand up. At around 7:20, he did. In the next chapter we look at what happened behind the cockpit door, and at the claim of seven kilograms."
+      ]
+    },
+    {
+      "titleEn": "Seven Kilograms of Threat",
+      "titleRoman": "Saat Kilo Ka Khatra",
+      "covers": "Boarding 6:15, takeoff 6:57, about 7:20 Jiang rushes the unlocked cockpit door, shows wires and a black box, claims 7 kg of explosives, demands Taoyuan. Captain Cen Longyu orders others out. Cockpit audio relayed to the tower. CAAC authorizes landing anywhere, Baiyun shut down. Cabin: passengers moved to the rear, locked suitcase not opened.",
+      "words": 500,
+      "beats": [
+        {
+          "id": "c4b1",
+          "text": "صبح کے 6:15 پر Xiamen Airlines Flight 8301 کی boarding شروع ہوئی۔ جہاز Xiamen Gaoqi International Airport سے Guangzhou کے پرانے Baiyun Airport کی طرف جانے والا تھا۔",
+          "roman": "Subah ke 6:15 par Xiamen Airlines Flight 8301 ki boarding shuru hui. Jahaz Xiamen Gaoqi International Airport se Guangzhou ke purane Baiyun Airport ki taraf jaane wala tha.",
+          "visual": {
+            "type": "map",
+            "place": "Xiamen",
+            "lat": 24.54,
+            "lon": 118.13,
+            "zoom": "region",
+            "label": "Xiamen, departure city"
+          }
+        },
+        {
+          "id": "c4b2",
+          "text": "جہاز پر 93 passengers اور 9 crew members سوار تھے۔ Flight ٹھیک 6:57 پر، یعنی اپنے وقت پر، اڑ گئی۔ بظاہر یہ ایک عام صبح تھی۔",
+          "roman": "Jahaz par 93 passengers aur 9 crew members sawar thay. Flight theek 6:57 par, yani apne waqt par, ud gayi. Bazahir yeh ek aam subah thi.",
+          "visual": {
+            "type": "photo",
+            "photo": "p2"
+          },
+          "highlight": "93 PASSENGERS, 9 CREW"
+        },
+        {
+          "id": "c4b3",
+          "text": "تقریباً 7:20 پر seat 16D سے ایک نوجوان اٹھا۔ یہ Jiang Xiaofeng تھا۔ اس کے ہاتھ میں سگریٹ کی ڈبی جتنا کالا plastic box تھا۔",
+          "roman": "Taqreeban 7:20 par seat 16D se ek naujawan utha. Yeh Jiang Xiaofeng tha. Us ke haath mein cigarette ki dibbi jitna kala plastic box tha.",
+          "visual": {
+            "type": "card",
+            "title": "ABOUT 7:20 A.M.",
+            "text": "Jiang leaves seat 16D and rushes the cockpit"
+          }
+        },
+        {
+          "id": "c4b4",
+          "text": "وہ سیدھا cockpit کی طرف دوڑا اور دروازہ زور زور سے پیٹا۔ پھر دروازہ کھل گیا، کیونکہ sources کے مطابق اس وقت وہ locked نہیں تھا۔",
+          "roman": "Woh seedha cockpit ki taraf dauda aur darwaza zor zor se peeta. Phir darwaza khul gaya, kyunke sources ke mutabiq us waqt woh locked nahin tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "1990 airliner cabin, young Chinese man in black suit and black dress shoes hurrying down the aisle toward a cockpit door, rear camera angle, tense mood, no text"
+          },
+          "highlight": "COCKPIT DOOR NOT LOCKED"
+        },
+        {
+          "id": "c4b5",
+          "text": "یہاں ایک بات یاد رکھیں۔ امریکہ میں FAA نے 1964 میں ہی حکم دیا تھا کہ commercial طیاروں کے cockpit door پرواز کے دوران locked رکھے جائیں۔",
+          "roman": "Yahan ek baat yaad rakhen. America mein FAA ne 1964 mein hi hukm diya tha ke commercial tayyaron ke cockpit door parwaz ke dauran locked rakhe jayen.",
+          "visual": {
+            "type": "photo",
+            "photo": "p7"
+          }
+        },
+        {
+          "id": "c4b6",
+          "text": "مگر Flight 8301 میں دروازہ کھلا نکلا۔ اندر ایسا شخص پہنچا جس کے جسم پر، بعد کے autopsy کے مطابق، کوئی دھماکہ خیز مواد نہیں تھا۔",
+          "roman": "Magar Flight 8301 mein darwaza khula nikla. Andar aisa shakhs pohncha jis ke jism par, baad ke autopsy ke mutabiq, koi dhamaka khez mawad nahin tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Open cockpit doorway of a 1990 Boeing 737, dim light, silhouette of a young man in a black suit standing at the threshold, captain seated ahead, cinematic, no text"
+          }
+        },
+        {
+          "id": "c4b7",
+          "text": "Cockpit کے اندر اس نے ہاتھ میں کچھ تاریں دکھائیں اور دعویٰ کیا کہ اس کے پاس 7 kilograms explosives ہیں۔",
+          "roman": "Cockpit ke andar us ne haath mein kuch taarein dikhayin aur daawa kiya ke us ke paas 7 kilograms explosives hain.",
+          "visual": {
+            "type": "card",
+            "title": "THE CLAIM: 7 KG",
+            "text": "No explosives were found on Jiang's body"
+          }
+        },
+        {
+          "id": "c4b8",
+          "text": "اس کا مطالبہ صاف تھا۔ جہاز کو Taiwan کے Taoyuan لے جایا جائے۔ اور اگر مطالبہ نہ مانا گیا تو اس نے دھمکی دی کہ سب ایک ساتھ مریں گے۔",
+          "roman": "Us ka mutalba saaf tha. Jahaz ko Taiwan ke Taoyuan le jaya jaye. Aur agar mutalba na maana gaya to us ne dhamki di ke sab ek saath marenge.",
+          "visual": {
+            "type": "clip",
+            "query": "airplane flying over sea",
+            "prompt": "Passenger jet flying over the sea toward the horizon at dawn, wide aerial view"
+          },
+          "highlight": "DEMAND: TAOYUAN, TAIWAN"
+        },
+        {
+          "id": "c4b9",
+          "text": "اس نے حکم دیا کہ captain Cen Longyu کے سوا باقی سب cockpit سے باہر نکل جائیں۔ Captain نے بات مانی اور cockpit خالی کر دیا۔",
+          "roman": "Us ne hukm diya ke captain Cen Longyu ke siwa baaqi sab cockpit se bahar nikal jayen. Captain ne baat maani aur cockpit khali kar diya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Captain Cen Longyu, middle-aged Chinese airline pilot in a 1990 CAAC-style uniform with cap, calm and tense, seated at the controls of a 737 cockpit, side view, warm cockpit light"
+          }
+        },
+        {
+          "id": "c4b10",
+          "text": "اب cockpit میں صرف دو لوگ تھے: 21 سالہ Jiang اور captain Cen Longyu۔ پیچھے cabin میں مسافر اور باقی crew انتظار میں تھے۔",
+          "roman": "Ab cockpit mein sirf do log thay: 21 salah Jiang aur captain Cen Longyu. Peeche cabin mein musafir aur baaqi crew intezar mein thay.",
+          "visual": {
+            "type": "clip",
+            "query": "airplane cockpit instruments",
+            "prompt": "Close view of aircraft cockpit instruments and windshield with clouds, 1990 era"
+          }
+        },
+        {
+          "id": "c4b11",
+          "text": "ایک اہم تفصیل یہ ہے کہ cockpit کی آواز radio communication system کے ذریعے control tower تک پہنچ رہی تھی۔ یعنی زمین پر لوگ صورتحال جان رہے تھے۔",
+          "roman": "Aik aham tafseel yeh hai ke cockpit ki awaaz radio communication system ke zariye control tower tak pohnch rahi thi. Yani zameen par log sooratehaal jaan rahe thay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Air traffic controllers in a 1990 Chinese airport control room wearing headsets, listening intently to a radio speaker, dim room, tense mood"
+          },
+          "highlight": "AUDIO RELAYED TO THE TOWER"
+        },
+        {
+          "id": "c4b12",
+          "text": "Hijacking کی تصدیق ہوتے ہی Civil Aviation Administration کے Central South Regional Bureau نے جہاز کو کسی بھی airport پر اترنے کی اجازت دے دی، domestic ہو یا international۔",
+          "roman": "Hijacking ki tasdeeq hote hi Civil Aviation Administration ke Central South Regional Bureau ne jahaz ko kisi bhi airport par utarne ki ijazat de di, domestic ho ya international.",
+          "visual": {
+            "type": "ai",
+            "prompt": "1990 Chinese aviation officials in a regional bureau office around a desk with telephones and a wall map, serious faces, no text"
+          }
+        },
+        {
+          "id": "c4b13",
+          "text": "ساتھ ہی Guangzhou Baiyun International Airport بند کر دیا گیا۔ ہر takeoff اور landing روک دی گئی۔ سوال یہ ہے کہ کیا واقعی پورا airport خالی ہو چکا تھا؟",
+          "roman": "Saath hi Guangzhou Baiyun International Airport band kar diya gaya. Har takeoff aur landing rok di gayi. Sawal yeh hai ke kya waqai poora airport khali ho chuka tha?",
+          "visual": {
+            "type": "ai",
+            "prompt": "Old Guangzhou Baiyun Airport 1990, quiet apron with a parked Boeing 707 and a Boeing 757, control tower and mountains in the background, overcast morning"
+          },
+          "highlight": "AIRPORT SHUT DOWN"
+        },
+        {
+          "id": "c4b14",
+          "text": "اسی دوران cabin میں flight attendants نے مسافروں کو بتایا کہ جہاز hijack ہو چکا ہے۔ اس کے بعد ہر لمحہ بھاری ہوتا گیا۔",
+          "roman": "Isi dauran cabin mein flight attendants ne musafiron ko bataya ke jahaz hijack ho chuka hai. Is ke baad har lamha bhaari hota gaya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Young woman flight attendant in a 1990 airline uniform speaking quietly to seated passengers in a Boeing 737 cabin, worried faces, soft light"
+          }
+        },
+        {
+          "id": "c4b15",
+          "text": "20 منٹ بعد، hijacker کی اجازت سے، ایک crew member نے پردہ گرایا، اور آگے کی rows کے 20 سے زیادہ مسافر پچھلے حصے میں منتقل ہوئے۔",
+          "roman": "20 minute baad, hijacker ki ijazat se, ek crew member ne parda giraya, aur aage ki rows ke 20 se zyada musafir pichhle hisse mein muntaqil hue.",
+          "visual": {
+            "type": "clip",
+            "query": "airplane cabin passengers",
+            "prompt": "Passengers moving toward the rear of a 1990 airliner cabin past a closed curtain, subdued light"
+          },
+          "highlight": "20+ PASSENGERS MOVED TO REAR"
+        },
+        {
+          "id": "c4b16",
+          "text": "Survivors کے مطابق crew یہ جاننا چاہتی تھی کہ Jiang کے suitcase میں واقعی explosives ہیں یا نہیں۔ آپس میں مشورہ ہوا۔",
+          "roman": "Survivors ke mutabiq crew yeh jaanna chahti thi ke Jiang ke suitcase mein waqai explosives hain ya nahin. Aapas mein mashwara hua.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Two flight attendants in 1990 uniforms whispering together in an aircraft galley, glancing toward the front, tense mood"
+          }
+        },
+        {
+          "id": "c4b17",
+          "text": "پھر ایک female flight attendant نے overhead compartment سے suitcase نکالا۔ مگر وہ locked تھا، اور آخرکار اسے کھولا نہیں گیا۔",
+          "roman": "Phir ek female flight attendant ne overhead compartment se suitcase nikala. Magar woh locked tha, aur aakhirkar use khola nahin gaya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Young female flight attendant lifting a black suitcase down from an overhead compartment in a 1990 airliner, hesitant expression, close-up"
+          },
+          "highlight": "LOCKED SUITCASE NOT OPENED"
+        },
+        {
+          "id": "c4b18",
+          "text": "اگر suitcase کھل جاتا تو شاید کچھ پتا چلتا، مگر یہ صرف اندازہ ہے۔ حقیقت یہ ہے کہ crew کے پاس خطرہ پرکھنے کا یقینی طریقہ نہیں تھا۔",
+          "roman": "Agar suitcase khul jata to shayad kuch pata chalta, magar yeh sirf andaza hai. Haqeeqat yeh hai ke crew ke paas khatra parakhne ka yaqeeni tareeqa nahin tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Closed black suitcase on an airliner seat with a bunch of plastic roses beside it, dramatic lighting, still life, no text"
+          }
+        },
+        {
+          "id": "c4b19",
+          "text": "Captain Cen Longyu اب ایسے شخص کے ساتھ اکیلا تھا جو دھماکے کی دھمکی دے رہا تھا۔ اگلا فیصلہ کیا ہونا تھا، یہ کوئی نہیں جانتا تھا۔",
+          "roman": "Captain Cen Longyu ab aise shakhs ke saath akela tha jo dhamake ki dhamki de raha tha. Agla faisla kya hona tha, yeh koi nahin jaanta tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Captain Cen Longyu in 1990 CAAC-style uniform and cap gripping the control yoke, young man in black suit standing behind him out of focus, claustrophobic cockpit, tense"
+          }
+        },
+        {
+          "id": "c4b20",
+          "text": "سوال یہ تھا کہ Taiwan کا راستہ کتنا دور تھا اور جہاز میں کتنا fuel تھا؟ یہی سوال آگے سب سے بڑا بن جانے والا تھا۔",
+          "roman": "Sawal yeh tha ke Taiwan ka rasta kitna door tha aur jahaz mein kitna fuel tha? Yahi sawal aage sab se bada ban jane wala tha.",
+          "visual": {
+            "type": "clip",
+            "query": "fuel gauge cockpit",
+            "prompt": "Aircraft fuel gauge needle low in a vintage cockpit, close-up"
+          }
+        },
+        {
+          "id": "c4b21",
+          "text": "دوستو، 7:20 پر جو دروازہ کھلا، اس کے بعد پونے دو گھنٹے کی کشمکش شروع ہوئی۔ جہاز اب کہاں گیا اور کیسے اترا؟ یہی اگلے حصے میں دیکھتے ہیں۔",
+          "roman": "Dosto, 7:20 par jo darwaza khula, us ke baad paune do ghante ki kashmakash shuru hui. Jahaz ab kahan gaya aur kaise utra? Yahi agle hisse mein dekhte hain.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Boeing 737-200 of Xiamen Airlines seen from below flying over Guangdong hills in morning haze, dramatic sky, wide shot"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "Boarding for Xiamen Airlines Flight 8301 began at 6:15 a.m. The plane was to fly from Xiamen Gaoqi International Airport to the old Baiyun Airport in Guangzhou, with 93 passengers and 9 crew members aboard. It took off at exactly 6:57, on time. On the surface it was an ordinary morning.",
+        "At around 7:20, a young man rose from seat 16D. It was Jiang Xiaofeng. He held a black plastic box about the size of a cigarette pack. He ran straight to the cockpit and pounded on the door. Then the door opened, because according to the sources it was not locked at the time. Worth remembering here: in America, the FAA had ordered in 1964 that cockpit doors on commercial aircraft be kept locked during flight. On Flight 8301 the door opened. The man who got in had no explosive material on his body, according to a later autopsy.",
+        "Inside the cockpit he showed some wires and claimed to have 7 kilograms of explosives. His demand was clear: the plane must be flown to Taoyuan in Taiwan. If the demand was not met, he threatened that everyone would die together. He ordered everyone except Captain Cen Longyu out of the cockpit, and the captain complied and cleared it. Now only two people were inside: 21-year-old Jiang and Captain Cen Longyu. Back in the cabin, the passengers and the rest of the crew waited.",
+        "One important detail is that sound from the cockpit was reaching the control tower through the radio communication system, so people on the ground knew what was happening. Once the hijacking was confirmed, the Central South Regional Bureau of the Civil Aviation Administration authorized the plane to land at any airport, domestic or international. Guangzhou Baiyun International Airport was also closed, and every takeoff and landing was halted. Was the whole airport truly empty by then?",
+        "Meanwhile, flight attendants told the passengers in the cabin that the plane had been hijacked. After that every moment grew heavier. Twenty minutes later, with the hijacker's permission, a crew member drew a curtain, and more than 20 passengers from the front rows moved to the back. According to survivors, the crew wanted to know whether Jiang's suitcase really held explosives. They conferred, and then a female flight attendant took the suitcase down from the overhead compartment. But it was locked and in the end was not opened. Had it been opened, perhaps something would have been learned, but that is only a guess. The fact is that the crew had no reliable way of judging the danger.",
+        "Captain Cen Longyu was now alone with a man threatening to set off a bomb. No one knew what the next decision would be. The question was how far the road to Taiwan was and how much fuel the plane had. That question would soon become the biggest of all. After the door opened at 7:20, a struggle of nearly two hours began. Where did the plane go, and how did it land? That is what we look at next."
+      ]
+    },
+    {
+      "titleEn": "Circling Above Guangzhou",
+      "titleRoman": "Guangzhou Ke Upar Chakkar",
+      "covers": "Plane circles Foshan Shadi and then Baiyun at about 300 metres. 8:34 captain reports low fuel and asks to divert to Kai Tak; approved but Jiang refuses and threatens to detonate. Radio goes silent. NYT report that authorities tried to trick the hijacker into believing the plane was at an international airport. Xinhua gave no explanation. 757 crew listening on radio, the 757 stayed on the apron with passengers aboard.",
+      "words": 500,
+      "beats": [
+        {
+          "id": "c5b1",
+          "text": "جیسے ہی جہاز Guangdong کی فضائی حدود میں داخل ہوا، اس نے پہلے Foshan Shadi Airport کے اوپر چکر لگایا۔ اس کے بعد رخ Guangzhou کی طرف ہوا۔",
+          "roman": "Jaise hi jahaz Guangdong ki fazai hudood mein dakhil hua, us ne pehle Foshan Shadi Airport ke upar chakkar lagaya. Is ke baad rukh Guangzhou ki taraf hua.",
+          "visual": {
+            "type": "map",
+            "place": "Foshan",
+            "lat": 23.08,
+            "lon": 113.07,
+            "zoom": "region",
+            "label": "Foshan Shadi, then Guangzhou"
+          }
+        },
+        {
+          "id": "c5b2",
+          "text": "Guangzhou پہنچ کر جہاز Baiyun Airport کے اوپر تقریباً 300 meters کی بلندی پر holding pattern میں گھومنے لگا۔ نیچے وہی apron تھا جہاں دو جہاز کھڑے تھے۔",
+          "roman": "Guangzhou pohanch kar jahaz Baiyun Airport ke upar taqreeban 300 meters ki bulandi par holding pattern mein ghoomne laga. Neeche wahi apron tha jahan do jahaz khade thay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Boeing 737-200 of Xiamen Airlines circling low above old Guangzhou Baiyun Airport in 1990, parked Boeing 707 and Boeing 757 visible on the apron below, mountains behind, overcast sky, aerial view"
+          },
+          "highlight": "CIRCLING AT ABOUT 300 M"
+        },
+        {
+          "id": "c5b3",
+          "text": "8:34 پر captain نے Guangzhou tower کو بتایا کہ fuel کم ہے۔ اس نے Hong Kong کے Kai Tak پر refuel کی اجازت مانگی، پھر Taiwan کے لیے۔",
+          "roman": "8:34 par captain ne Guangzhou tower ko bataya ke fuel kam hai. Us ne Hong Kong ke Kai Tak par refuel ki ijazat mangi, phir Taiwan ke liye.",
+          "visual": {
+            "type": "card",
+            "title": "8:34 A.M.",
+            "text": "Captain reports low fuel, asks for Kai Tak"
+          }
+        },
+        {
+          "id": "c5b4",
+          "text": "Guangzhou Civil Aviation Administration اور control tower نے یہ درخواست منظور کر لی۔ مگر Jiang نے Hong Kong میں اترنے سے صاف انکار کر دیا۔",
+          "roman": "Guangzhou Civil Aviation Administration aur control tower ne yeh darkhwast manzoor kar li. Magar Jiang ne Hong Kong mein utarne se saaf inkaar kar diya.",
+          "visual": {
+            "type": "map",
+            "place": "Kai Tak Airport, Hong Kong",
+            "lat": 22.33,
+            "lon": 114.2,
+            "zoom": "region",
+            "label": "Kai Tak, Hong Kong"
+          },
+          "highlight": "JIANG REFUSED HONG KONG"
+        },
+        {
+          "id": "c5b5",
+          "text": "Jiang نے دھمکی دی کہ اگر جہاز کو Hong Kong میں اتارا گیا تو وہ جہاز اڑا دے گا۔ اس کے بعد flight سے کوئی اور رابطہ نہیں ہوا۔",
+          "roman": "Jiang ne dhamki di ke agar jahaz ko Hong Kong mein utara gaya to woh jahaz uda dega. Is ke baad flight se koi aur rabta nahin hua.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Young Chinese man in black suit in a cockpit leaning toward a seated pilot, pilot's cap visible, dim tense light, side angle, no text"
+          }
+        },
+        {
+          "id": "c5b6",
+          "text": "Radio خاموش ہو گیا۔ Control tower کے پاس اب صرف ایک چیز بچی تھی: آسمان میں چکر لگاتا جہاز، اور سوال۔",
+          "roman": "Radio khamosh ho gaya. Control tower ke paas ab sirf ek cheez bachi thi: aasman mein chakkar lagata jahaz, aur sawal.",
+          "visual": {
+            "type": "clip",
+            "query": "radar screen night",
+            "prompt": "Old radar screen with a single blip circling in a dark control room"
+          }
+        },
+        {
+          "id": "c5b7",
+          "text": "Tower کے لیے سب سے مشکل سوال یہ تھا کہ جہاز کو کہاں اتارا جائے۔ ایک طرف fuel کم ہو رہا تھا، دوسری طرف hijacker کی دھمکی تھی۔",
+          "roman": "Tower ke liye sab se mushkil sawal yeh tha ke jahaz ko kahan utara jaye. Ek taraf fuel kam ho raha tha, dusri taraf hijacker ki dhamki thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Air traffic controller in 1990 Chinese control tower looking out the window at a circling airliner, hand on headset, worried expression"
+          }
+        },
+        {
+          "id": "c5b8",
+          "text": "Captain Guangzhou کے اوپر چکر لگاتا رہا اور Jiang کو سمجھانے کی کوشش کرتا رہا۔ آخرکار fuel خطرناک حد تک کم ہو گیا اور اسے جہاز اتارنا پڑا۔",
+          "roman": "Captain Guangzhou ke upar chakkar lagata raha aur Jiang ko samjhane ki koshish karta raha. Aakhirkar fuel khatarnak had tak kam ho gaya aur use jahaz utarna pada.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Captain Cen Longyu in 1990 CAAC-style uniform speaking calmly toward someone off-frame in the cockpit, tired and tense, warm light on his face"
+          },
+          "highlight": "PILOT TRIED TO REASON"
+        },
+        {
+          "id": "c5b9",
+          "text": "Xinhua News Agency کی رپورٹس میں یہ نہیں بتایا گیا کہ pilot نے Jiang کا مطالبہ کیوں نہیں مانا۔ یہ خاموشی آج بھی سوال چھوڑ جاتی ہے۔",
+          "roman": "Xinhua News Agency ki reports mein yeh nahin bataya gaya ke pilot ne Jiang ka mutalba kyun nahin maana. Yeh khamoshi aaj bhi sawal chhod jati hai.",
+          "visual": {
+            "type": "clip",
+            "query": "old newspaper printing",
+            "prompt": "Old newspaper presses printing front pages, 1990 style, close-up of rolling paper"
+          }
+        },
+        {
+          "id": "c5b10",
+          "text": "اب The New York Times کی ایک رپورٹ دیکھیں۔ اس کے مطابق حکام نے hijacker کو یقین دلانے کی کوشش کی کہ جہاز international airport پر اتر رہا ہے۔",
+          "roman": "Ab The New York Times ki ek report dekhen. Is ke mutabiq hukkam ne hijacker ko yaqeen dilane ki koshish ki ke jahaz international airport par utar raha hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Folded vintage newspaper on a desk with a magnifying glass over a column of print, soft lamp light, no readable text"
+          },
+          "highlight": "NYT: AUTHORITIES TRIED TO DECEIV"
+        },
+        {
+          "id": "c5b11",
+          "text": "رپورٹ کے مطابق اصل میں pilot کو Taiwan کے بجائے Baiyun Airport پر اتارنے کی ہدایت دی جا رہی تھی۔ یاد رہے، یہ ایک اخباری رپورٹ ہے۔",
+          "roman": "Report ke mutabiq asal mein pilot ko Taiwan ke bajaye Baiyun Airport par utarne ki hidayat di ja rahi thi. Yaad rahe, yeh ek akhbari report hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "1990 Chinese officials around a table with a map and telephones making a quiet decision, serious expressions, dim office"
+          }
+        },
+        {
+          "id": "c5b12",
+          "text": "یعنی کم از کم اس رپورٹ کے مطابق فیصلہ یہ تھا کہ جہاز Baiyun پر اترے گا۔ پھر سوال بنتا ہے: apron پر کھڑے جہازوں کا کیا ہو گا؟",
+          "roman": "Yani kam az kam is report ke mutabiq faisla yeh tha ke jahaz Baiyun par utrega. Phir sawal banta hai: apron par khade jahazon ka kya hoga?",
+          "visual": {
+            "type": "ai",
+            "prompt": "Old Guangzhou Baiyun Airport apron 1990, parked Boeing 707 and Boeing 757 close to the taxiway, ground vehicles idle, control tower in distance"
+          }
+        },
+        {
+          "id": "c5b13",
+          "text": "CAAC Flight 3523 میں 110 passengers اور 12 crew پہلے ہی سوار تھے۔ جہاز Shanghai Hongqiao کے لیے روانگی کا منتظر تھا۔",
+          "roman": "CAAC Flight 3523 mein 110 passengers aur 12 crew pehle hi sawar thay. Jahaz Shanghai Hongqiao ke liye rawangi ka muntazir tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Boeing 757 of CAAC waiting on the apron of old Guangzhou Baiyun Airport in 1990, passenger windows lit, mountains in background, early morning"
+          },
+          "highlight": "110 PASSENGERS, 12 CREW ABOARD"
+        },
+        {
+          "id": "c5b14",
+          "text": "اس 757 کے crew نے cockpit میں radio communication کے ذریعے hijacking کی صورتحال سنی ہوئی تھی۔ یعنی وہ صورتحال سے باخبر تھے۔",
+          "roman": "Us 757 ke crew ne cockpit mein radio communication ke zariye hijacking ki sooratehaal suni hui thi. Yani woh sooratehaal se bakhabar thay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Two pilots in 1990 CAAC-style uniforms in a Boeing 757 cockpit listening to a radio speaker, serious faces, parked on apron"
+          }
+        },
+        {
+          "id": "c5b15",
+          "text": "Source کے مطابق، اسی وجہ سے 757 کے تمام 12 crew members بچ گئے۔ مگر cabin میں بیٹھے 110 passengers کے بارے میں سوال باقی رہتا ہے۔",
+          "roman": "Source ke mutabiq, isi wajah se 757 ke tamam 12 crew members bach gaye. Magar cabin mein baithe 110 passengers ke bare mein sawal baaqi rehta hai.",
+          "visual": {
+            "type": "clip",
+            "query": "airplane cabin seats empty",
+            "prompt": "Rows of airliner seats with passengers seated quietly, view down the aisle, 1990 era"
+          }
+        },
+        {
+          "id": "c5b16",
+          "text": "10 October کی preliminary report نے یہ وضاحت نہیں کی کہ 40 منٹ کے چکروں کے دوران نزدیکی جہازوں کے مسافر کیوں نہیں اتارے گئے۔",
+          "roman": "10 October ki preliminary report ne yeh wazahat nahin ki ke 40 minute ke chakkron ke dauran nazdeeki jahazon ke musafir kyun nahin utare gaye.",
+          "visual": {
+            "type": "card",
+            "title": "40 MINUTES OF CIRCLING",
+            "text": "No explanation for no evacuation"
+          }
+        },
+        {
+          "id": "c5b17",
+          "text": "ہمارے sources میں 40 منٹ کے چکروں کا ذکر ہے، جبکہ hijack سے landing تک تقریباً پونے دو گھنٹے گزرے۔ Sources اس فرق کی وضاحت نہیں کرتے۔",
+          "roman": "Hamare sources mein 40 minute ke chakkron ka zikr hai, jabke hijack se landing tak taqreeban paune do ghante guzre. Sources is farq ki wazahat nahin karte.",
+          "visual": {
+            "type": "clip",
+            "query": "clock ticking close up",
+            "prompt": "Wall clock close-up with moving hands in a dim control room"
+          }
+        },
+        {
+          "id": "c5b18",
+          "text": "ہمارے دوسرے source کے مطابق hijack کی صورت میں کوئی ایک set of rules نہیں ہوتا۔ Air traffic controllers سے توقع ہوتی ہے کہ وہ اپنی best judgement استعمال کریں۔",
+          "roman": "Hamare dusre source ke mutabiq hijack ki soorat mein koi ek set of rules nahin hota. Air traffic controllers se tawaqqo hoti hai ke woh apni best judgement istemal karein.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Air traffic controllers at radar consoles with headsets, concentrating, late 1980s control room, no text"
+          }
+        },
+        {
+          "id": "c5b19",
+          "text": "اسی source کے مطابق controllers سے یہ بھی توقع ہوتی ہے کہ وہ communication کم رکھیں اور ممکنہ landing کے لیے runway خالی کرائیں۔ یہ اصول عمومی ہیں۔",
+          "roman": "Isi source ke mutabiq controllers se yeh bhi tawaqqo hoti hai ke woh communication kam rakhein aur mumkina landing ke liye runway khali karayen. Yeh usool umoomi hain.",
+          "visual": {
+            "type": "clip",
+            "query": "empty airport runway",
+            "prompt": "Empty airport runway at morning with lights, wide shot"
+          },
+          "highlight": "CLEAR RUNWAY FOR LANDING"
+        },
+        {
+          "id": "c5b20",
+          "text": "تو 9:04 کے قریب جہاز کے پاس وقت ختم ہو رہا تھا۔ اگلے منٹوں میں ایسا کیا ہونے والا تھا جس نے تین جہازوں کو جوڑ دیا؟",
+          "roman": "To 9:04 ke qareeb jahaz ke paas waqt khatam ho raha tha. Agle minton mein aisa kya hone wala tha jis ne teen jahazon ko jod diya?",
+          "visual": {
+            "type": "ai",
+            "prompt": "Boeing 737-200 descending toward the runway of old Guangzhou Baiyun Airport, landing gear down, hazy morning, parked aircraft visible at the edge of the apron"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "As soon as the plane entered Guangdong airspace, it first circled over Foshan Shadi Airport. Then it turned toward Guangzhou. Over Guangzhou it began circling in a holding pattern above Baiyun Airport at an altitude of roughly 300 meters. Below was the same apron where two aircraft stood parked.",
+        "At 8:34 the captain told Guangzhou tower that fuel was low. He asked for permission to refuel at Hong Kong's Kai Tak, and then for Taiwan. The Guangzhou Civil Aviation Administration and the control tower approved the request. But Jiang flatly refused to land in Hong Kong. He threatened to blow up the plane if it was landed there. After that there was no further contact with the flight, and the radio went silent. All the tower had left was a plane circling in the sky, and questions.",
+        "The hardest question for the tower was where to land the plane. Fuel was running down on one side, and the hijacker's threat stood on the other. The captain kept circling over Guangzhou and trying to persuade Jiang. In the end fuel fell to a dangerous level and he had to land. Reports from the Xinhua News Agency did not say why the pilot did not meet Jiang's demand. That silence still leaves a question.",
+        "Now consider a report from The New York Times. According to it, officials tried to convince the hijacker that the plane was landing at an international airport. The report says the pilot was in fact being directed to land at Baiyun Airport rather than going to Taiwan. This is a newspaper report, so it should be treated as such. At least according to this report, the decision was that the plane would land at Baiyun.",
+        "Then the question arises: what about the aircraft on the apron? CAAC Flight 3523 already had 110 passengers and 12 crew aboard, waiting to depart for Shanghai Hongqiao. The crew of that 757 had heard the hijacking situation over the cockpit radio, so they were aware of it. According to a source, this is why all 12 crew members of the 757 survived. But the question remains about the 110 passengers sitting in the cabin. The preliminary report of 10 October did not explain why passengers on nearby aircraft were not evacuated during the 40 minutes of circling. Our sources mention 40 minutes of circling, while nearly two hours passed from the hijack to the landing. The sources do not explain this difference.",
+        "According to our other source, there is no single set of rules for a hijacking. Air traffic controllers are expected to use their best judgment. The same source says controllers are expected to keep communication to a minimum and to clear a runway for a possible landing. These are general principles. So at around 9:04 the plane was running out of time. What was about to happen in the next minutes that would join three aircraft together?"
+      ]
+    },
+    {
+      "titleEn": "Four Minutes Past Nine",
+      "titleRoman": "Nau Bajkar Chaar Minute",
+      "covers": "9:04 landing, taxiing about 1,080 m, Jiang wrestles for control, veers right, briefly lifts off, tail hits a service vehicle, shears the nose of the 707, hits the 757's upper fuselage and splits it, the left engine detaches, 300 m further the 737 rolls and breaks into four sections. All three aircraft burn.",
+      "words": 600,
+      "beats": [
+        {
+          "id": "c6b1",
+          "text": "9:04 پر Flight 8301 Baiyun Airport کے runway پر اتری۔ پہیے زمین سے لگے، اور ایک لمحے کے لیے لگا کہ سب سے بڑا خطرہ ٹل گیا ہے۔",
+          "roman": "9:04 par Flight 8301 Baiyun Airport ke runway par utri. Pahiye zameen se lage, aur ek lamhe ke liye laga ke sab se bada khatra tal gaya hai.",
+          "visual": {
+            "type": "card",
+            "title": "9:04 A.M.",
+            "text": "Flight 8301 lands at Baiyun Airport"
+          }
+        },
+        {
+          "id": "c6b2",
+          "text": "جہاز تقریباً 1,080 meters تک taxi کرتا رہا۔ تبھی sources کے مطابق Jiang نے pilot سے جہاز کا control چھین لیا۔",
+          "roman": "Jahaz taqreeban 1,080 meters tak taxi karta raha. Tabhi sources ke mutabiq Jiang ne pilot se jahaz ka control chheen liya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Boeing 737-200 of Xiamen Airlines taxiing fast along a runway at old Guangzhou Baiyun Airport in 1990, slightly unstable, aerial three-quarter view"
+          },
+          "highlight": "TAXIED ABOUT 1,080 M"
+        },
+        {
+          "id": "c6b3",
+          "text": "جہاز runway سے دائیں طرف ہٹ گیا اور apron کی طرف بڑھنے لگا۔ وہی apron جہاں دو جہاز پہلے سے کھڑے تھے۔",
+          "roman": "Jahaz runway se dayen taraf hat gaya aur apron ki taraf barhne laga. Wahi apron jahan do jahaz pehle se khade thay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Top-down aerial view of a Boeing 737 veering right off a runway toward an apron with a parked Boeing 707 and Boeing 757, old Guangzhou airport 1990"
+          }
+        },
+        {
+          "id": "c6b4",
+          "text": "پھر ایک عجیب لمحہ آیا۔ جہاز کی ناک اوپر اٹھی اور وہ ذرا دیر کے لیے دوبارہ زمین سے اٹھ گیا۔",
+          "roman": "Phir ek ajeeb lamha aaya. Jahaz ki naak upar uthi aur woh zara der ke liye dobara zameen se uth gaya.",
+          "visual": {
+            "type": "clip",
+            "query": "airplane nose lifting runway",
+            "prompt": "Airliner lifting its nose just above the runway, dramatic low angle"
+          }
+        },
+        {
+          "id": "c6b5",
+          "text": "اسی دوران جہاز کی دم ایک ground service vehicle سے ٹکرائی۔ یہ ٹکراؤ بڑے حادثے کا پہلا مرحلہ تھا۔",
+          "roman": "Isi dauran jahaz ki dum ek ground service vehicle se takrai. Yeh takrao bade hadse ka pehla marhala tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Tail of a Boeing 737 clipping a small airport ground service truck on an apron, 1990, dust rising, side view, no gore"
+          }
+        },
+        {
+          "id": "c6b6",
+          "text": "پہلا بڑا ٹکراؤ China Southwest Airlines Flight 4305 سے ہوا، یعنی Boeing 707، registration B-2402۔ یہ جہاز Chengdu سے ابھی ابھی اترا تھا۔",
+          "roman": "Pehla bada takrao China Southwest Airlines Flight 4305 se hua, yani Boeing 707, registration B-2402. Yeh jahaz Chengdu se abhi abhi utra tha.",
+          "visual": {
+            "type": "photo",
+            "photo": "p3"
+          },
+          "highlight": "BOEING 707, B-2402"
+        },
+        {
+          "id": "c6b7",
+          "text": "707 پر اس وقت صرف ایک شخص موجود تھا جو صفائی کے لیے رکا ہوا تھا۔ باقی crew جا چکا تھا اور passengers اتر چکے تھے۔",
+          "roman": "707 par us waqt sirf ek shakhs maujood tha jo safai ke liye ruka hua tha. Baaqi crew ja chuka tha aur passengers utar chuke thay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Interior of a parked Boeing 707 with empty seats and a lone cleaner in the aisle with a cleaning cart, quiet morning light, 1990"
+          }
+        },
+        {
+          "id": "c6b8",
+          "text": "اس ٹکراؤ میں 707 کو صرف معمولی نقصان پہنچا۔ Source کے مطابق ہائی جیک شدہ 737 کی ناک کٹ گئی اور cockpit میں موجود pilot کو ہلکی چوٹ آئی۔",
+          "roman": "Is takrao mein 707 ko sirf maamooli nuqsan pohncha. Source ke mutabiq hijack shuda 737 ki naak kat gayi aur cockpit mein maujood pilot ko halki chot aayi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Nose section of a parked Boeing 707 damaged after a collision on an apron, smoke in the distance, wide shot, no people, no gore"
+          },
+          "factFix": "The source says the collision sheared off the nose of the hijacked aircraft (the 737), slightly injuring the pilot in its cockpit. S1 says the 707 suffered only minor damage and its only injured person was the crew member who stayed behind to clean. The beat wrongly says the 707's nose was cut off and gives the pilot injury as if it were on the 707."
+        },
+        {
+          "id": "c6b9",
+          "text": "اب 737 رکا نہیں۔ وہ آگے بڑھتا رہا، اور اس کے سامنے CAAC Flight 3523 کھڑی تھی، وہ Boeing 757 جو Shanghai کی روانگی کا انتظار کر رہی تھی۔",
+          "roman": "Ab 737 ruka nahin. Woh aage barhta raha, aur us ke samne CAAC Flight 3523 khadi thi, woh Boeing 757 jo Shanghai ki rawangi ka intezar kar rahi thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Boeing 757 of CAAC waiting on an apron seen from the front as a Boeing 737 approaches from the side at speed, 1990 Guangzhou, tense wide shot"
+          }
+        },
+        {
+          "id": "c6b10",
+          "text": "یہی وہ جہاز تھا جس میں 110 passengers اور 12 crew پہلے سے سوار تھے۔ اور اسی کی طرف 737 بڑھ رہا تھا۔",
+          "roman": "Yahi woh jahaz tha jis mein 110 passengers aur 12 crew pehle se sawar thay. Aur isi ki taraf 737 barh raha tha.",
+          "visual": {
+            "type": "clip",
+            "query": "airport apron aircraft night",
+            "prompt": "Parked airliner on an apron with lit windows, wide cinematic shot"
+          }
+        },
+        {
+          "id": "c6b11",
+          "text": "737 نے 757 کے اوپری fuselage سے ٹکر ماری۔ اس زوردار ٹکراؤ سے 757 دو حصوں میں ٹوٹ گیا۔",
+          "roman": "737 ne 757 ke upri fuselage se takar mari. Is zordar takrao se 757 do hisson mein toot gaya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Boeing 737 striking the upper fuselage of a Boeing 757 on an apron, impact moment, dust and debris, stylized and non-graphic, 1990 Guangzhou airport"
+          },
+          "highlight": "757 SPLIT INTO TWO PARTS"
+        },
+        {
+          "id": "c6b12",
+          "text": "اس کا بایاں engine بھی الگ ہو کر گر گیا۔ یہ 757 1990 میں ہی پہلی بار اڑا تھا اور تینوں جہازوں میں سب سے نیا تھا۔",
+          "roman": "Us ka bayan engine bhi alag ho kar gir gaya. Yeh 757 1990 mein hi pehli baar uda tha aur teenon jahazon mein sab se naya tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Detached jet engine lying on tarmac beside a broken Boeing 757 fuselage, dusty air, 1990 airport apron, wide non-graphic shot"
+          }
+        },
+        {
+          "id": "c6b13",
+          "text": "737 ابھی بھی رکا نہیں تھا۔ مزید 300 meters مشرق کی طرف جانے کے بعد وہ زمین پر آ گرا، لڑھکا، اور چار بڑے حصوں میں ٹوٹ گیا۔",
+          "roman": "737 abhi bhi ruka nahin tha. Mazeed 300 meters mashriq ki taraf jane ke baad woh zameen par aa gira, ludka, aur chaar bade hisson mein toot gaya.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Boeing 737-200 wreckage broken into four large sections scattered across an airport field, smoke rising, aerial view, 1990, non-graphic"
+          },
+          "highlight": "BROKE INTO FOUR SECTIONS"
+        },
+        {
+          "id": "c6b14",
+          "text": "ایک source کے مطابق جہاز الٹ بھی گیا تھا۔ ان لمحوں کی تفصیل sources میں بہت مختصر ملتی ہے۔",
+          "roman": "Ek source ke mutabiq jahaz ulat bhi gaya tha. In lamhon ki tafseel sources mein bahut mukhtasar milti hai.",
+          "visual": {
+            "type": "clip",
+            "query": "airport smoke aerial",
+            "prompt": "Aerial view of smoke rising from an airport apron, dramatic overcast sky"
+          }
+        },
+        {
+          "id": "c6b15",
+          "text": "ذرا اس تضاد پر غور کریں۔ Jiang political asylum کی تلاش میں Taiwan جانا چاہتا تھا، مگر اس کا سفر Guangzhou کے apron پر ختم ہوا۔",
+          "roman": "Zara is tazad par ghaur karen. Jiang political asylum ki talash mein Taiwan jana chahta tha, magar us ka safar Guangzhou ke apron par khatam hua.",
+          "visual": {
+            "type": "map",
+            "place": "Guangzhou",
+            "lat": 23.17,
+            "lon": 113.27,
+            "zoom": "city",
+            "label": "Old Baiyun Airport, Guangzhou"
+          }
+        },
+        {
+          "id": "c6b16",
+          "text": "اس کے بعد تینوں جہازوں میں آگ لگ گئی۔ Baiyun Airport کا apron، جو چند منٹ پہلے ایک عام صبح کا منظر تھا، اب ایک emergency scene بن چکا تھا۔",
+          "roman": "Is ke baad teenon jahazon mein aag lag gayi. Baiyun Airport ka apron, jo chand minute pehle ek aam subah ka manzar tha, ab ek emergency scene ban chuka tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Three damaged aircraft burning on an airport apron seen from a distance, thick black smoke, fire trucks small in the foreground, 1990 Guangzhou, mountains behind, non-graphic"
+          },
+          "highlight": "ALL THREE AIRCRAFT BURNED"
+        },
+        {
+          "id": "c6b17",
+          "text": "اب ذرا اس سارے سلسلے کو وقت کی ترتیب میں دیکھتے ہیں۔ 6:57 پر takeoff، تقریباً 7:20 پر hijack، 8:34 پر fuel کی اطلاع، اور 9:04 پر landing۔",
+          "roman": "Ab zara is saare silsile ko waqt ki tarteeb mein dekhte hain. 6:57 par takeoff, taqreeban 7:20 par hijack, 8:34 par fuel ki ittela, aur 9:04 par landing.",
+          "visual": {
+            "type": "clip",
+            "query": "timeline clock hands",
+            "prompt": "Vintage clock face with hands moving quickly, dark background"
+          }
+        },
+        {
+          "id": "c6b18",
+          "text": "اعداد دیکھیں تو landing کے بعد تقریباً 1,080 meters کا taxi، پھر 757 سے ٹکراؤ، اور اس کے بعد مزید 300 meters۔ اتنے کم فاصلے میں تین جہاز متاثر ہوئے۔",
+          "roman": "Aadad dekhen to landing ke baad taqreeban 1,080 meters ka taxi, phir 757 se takrao, aur us ke baad mazeed 300 meters. Itne kam fasle mein teen jahaz mutasir hue.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Schematic-style aerial illustration of an airport runway and apron showing a curved path from the runway to a parked 707 and 757, old Guangzhou airport, muted colors, no text"
+          }
+        },
+        {
+          "id": "c6b19",
+          "text": "ذہن میں رکھیں، 737 کے cockpit میں Jiang اور captain Cen Longyu دونوں تھے۔ بعد میں دونوں کی باقیات cockpit کے ملبے سے ملیں۔",
+          "roman": "Zehen mein rakhen, 737 ke cockpit mein Jiang aur captain Cen Longyu dono thay. Baad mein dono ki baqiyat cockpit ke malbe se milin.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Broken cockpit section of a Boeing 737 in a field with investigators in 1990 Chinese work clothes standing at a respectful distance, somber mood, no gore"
+          }
+        },
+        {
+          "id": "c6b20",
+          "text": "اس جہاز، B-2510، کی تاریخ پہلے سے جڑی تھی۔ 12 May 1988 کو یہ پہلے بھی Taiwan hijack ہو چکا تھا، اور اب اسی کا سفر ختم ہو رہا تھا۔",
+          "roman": "Is jahaz, B-2510, ki tareekh pehle se judi thi. 12 May 1988 ko yeh pehle bhi Taiwan hijack ho chuka tha, aur ab isi ka safar khatam ho raha tha.",
+          "visual": {
+            "type": "photo",
+            "photo": "p2"
+          }
+        },
+        {
+          "id": "c6b21",
+          "text": "تو سوال پھر وہی ہے: اس لمحے جہاز پر اصل control کس کے پاس تھا؟ Sources اس کی تفصیل نہیں دیتے کہ cockpit میں آخری منٹوں میں کیا ہوا۔",
+          "roman": "To sawal phir wahi hai: us lamhe jahaz par asal control kis ke paas tha? Sources is ki tafseel nahin dete ke cockpit mein aakhri minton mein kya hua.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Two hands, one in a pilot's uniform sleeve and one in a black suit sleeve, both gripping an aircraft control yoke in a dim cockpit, close-up, dramatic"
+          }
+        },
+        {
+          "id": "c6b22",
+          "text": "ایک اور اہم بات: Boeing 757 کی تاریخ میں یہ پہلا hull loss اور پہلا fatal حادثہ تھا۔",
+          "roman": "Ek aur aham baat: Boeing 757 ki tareekh mein yeh pehla hull loss aur pehla fatal hadsa tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Boeing 757 tail section lying broken on tarmac under grey sky, 1990, somber still frame, no people, no gore"
+          },
+          "highlight": "FIRST 757 HULL LOSS"
+        },
+        {
+          "id": "c6b23",
+          "text": "اس حادثے میں کل 128 افراد جاں بحق ہوئے، جن میں hijacker Jiang بھی شامل تھا۔ September 11 کے حملوں سے پہلے یہ سب سے مہلک hijacking تھی۔",
+          "roman": "Is hadse mein kul 128 afraad jaan bahaq hue, jin mein hijacker Jiang bhi shamil tha. September 11 ke hamlon se pehle yeh sab se muhlik hijacking thi.",
+          "visual": {
+            "type": "card",
+            "title": "128 PEOPLE KILLED",
+            "text": "Deadliest hijacking before 9/11, includes the hijacker"
+          }
+        },
+        {
+          "id": "c6b24",
+          "text": "بعد میں autopsy نے تصدیق کی کہ Jiang کے جسم پر کوئی دھماکہ خیز مواد نہیں تھا۔ مگر اس دعوے کی قیمت بہت بھاری نکلی۔",
+          "roman": "Baad mein autopsy ne tasdeeq ki ke Jiang ke jism par koi dhamaka khez mawad nahin tha. Magar is dawe ki qeemat bohat bhaari nikli.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Black plastic box and loose wires lying on a plain table under a lamp, investigation evidence style, dark background, no text"
+          },
+          "highlight": "AUTOPSY: NO EXPLOSIVES"
+        },
+        {
+          "id": "c6b25",
+          "text": "آگ بجھانے کے لیے قریب موجود firefighters حرکت میں آ گئے۔ اگلے منٹ کتنے فیصلہ کن ثابت ہوئے؟ یہ ہم اگلے chapter میں دیکھیں گے۔",
+          "roman": "Aag bujhane ke liye qareeb maujood firefighters harkat mein aa gaye. Agle minute kitne faisla kun sabit hue? Yeh hum agle chapter mein dekhenge.",
+          "visual": {
+            "type": "clip",
+            "query": "airport fire trucks rushing",
+            "prompt": "Airport fire trucks speeding across an apron toward smoke, dramatic wide shot"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "At 9:04 Flight 8301 touched down on the runway at Baiyun Airport. The wheels met the ground, and for a moment it seemed the greatest danger had passed. The plane taxied for about 1,080 meters. Then, according to the sources, Jiang seized control of the plane from the pilot. The aircraft moved off the runway to the right and headed toward the apron, the same apron where two aircraft were already parked.",
+        "Then came a strange moment. The plane's nose rose and it lifted off the ground again briefly. During this, the plane's tail struck a ground service vehicle. This was the first stage of the larger crash. The first major collision was with China Southwest Airlines Flight 4305, the Boeing 707, registration B-2402, which had just arrived from Chengdu. Only one person was aboard the 707, a man who had stayed to clean. The rest of the crew had gone and the passengers had disembarked. The 707 suffered only minor damage in the collision. According to a source, the nose of the hijacked 737 was cut off and the pilot in the cockpit was lightly injured.",
+        "The 737 did not stop. It kept going, and in front of it stood CAAC Flight 3523, the Boeing 757 waiting to leave for Shanghai. This was the plane with 110 passengers and 12 crew on board, and the 737 was heading straight for it. The 737 struck the upper fuselage of the 757. The force of the impact broke the 757 into two pieces, and its left engine fell away. This 757 had first flown in 1990 and was the newest of the three.",
+        "The 737 still had not stopped. After going another 300 meters east, it fell to the ground, skidded and broke into four large pieces. According to one source, the plane also flipped over. The sources give very little detail about these moments. Consider the irony: Jiang wanted to go to Taiwan in search of political asylum, but his journey ended on the apron in Guangzhou. After this, all three aircraft caught fire. The apron at Baiyun Airport, a normal morning scene minutes earlier, had become an emergency scene.",
+        "Let's put the sequence in order of time: takeoff at 6:57, hijack at around 7:20, the fuel report at 8:34 and landing at 9:04. After landing came about 1,080 meters of taxiing, then the collision with the 757, and then a further 300 meters. Three aircraft were affected in a very short span. Keep in mind that both Jiang and Captain Cen Longyu were in the 737 cockpit, and later the remains of both were found in the cockpit wreckage. The history of this aircraft, B-2510, was already tied to hijacking. On 12 May 1988 it had been hijacked to Taiwan, and now its own journey was ending.",
+        "So the question is the same as before: who really had control of the plane at that moment? The sources do not give details of what happened in the cockpit in the final minutes.",
+        "One more important point is that this was the Boeing 757's first hull loss and first fatal accident. In total 128 people died, including the hijacker Jiang, and it was the deadliest hijacking before the September 11 attacks. The autopsy later confirmed that Jiang's body carried no explosive material. Yet the price of that claim turned out to be enormous. Firefighters nearby went into action. How decisive were the next minutes? We see that in the next chapter."
+      ]
+    },
+    {
+      "titleEn": "Fire, Rescue and the Human Toll",
+      "titleRoman": "Aag, Bachao Aur Insani Nuqsan",
+      "covers": "Official account: fire controlled in 12 seconds, extinguished in two minutes, 54 rescued. Casualties: 7 of 9 crew and 75 of 93 on the 737; 46 of 110 on the 757, five died in hospital; all 12 757 crew survived; one cleaner injured on the 707. 30 Taiwanese including a 10-member tour group, victims from US, Sweden, Japan, Hong Kong, Macau. Debris cleared in 10 hours, airport reopened the next day.",
+      "words": 500,
+      "beats": [
+        {
+          "id": "c7b1",
+          "text": "آگ بجھانے کے لیے قریب موجود firefighters فوراً حرکت میں آ گئے۔ تینوں جہازوں میں آگ لگ چکی تھی، اور ہر سیکنڈ قیمتی تھا۔",
+          "roman": "Aag bujhane ke liye qareeb mojood firefighters foran harkat mein aa gaye. Teeno jahazon mein aag lag chuki thi, aur har second qeemti tha.",
+          "visual": {
+            "type": "clip",
+            "query": "airport fire trucks",
+            "prompt": "1990 airport fire trucks racing across an apron toward smoke, wide shot, urgent mood, no gore"
+          }
+        },
+        {
+          "id": "c7b2",
+          "text": "سرکاری بیان کے مطابق firefighters نے آگ 12 سیکنڈ میں قابو میں کر لی۔ اور دو منٹ کے اندر آگ پوری طرح بجھا دی گئی۔",
+          "roman": "Sarkari bayan ke mutabiq firefighters ne aag 12 second mein qaboo mein kar li. Aur do minute ke andar aag poori tarah bujha di gayi.",
+          "visual": {
+            "type": "card",
+            "title": "12 SECONDS",
+            "text": "Official account: fire under control in 12 seconds, out in two minutes"
+          }
+        },
+        {
+          "id": "c7b3",
+          "text": "ان کوششوں سے 54 مسافروں کو بچا لیا گیا۔ یہ عدد بھی سرکاری accounts سے لیا گیا ہے۔",
+          "roman": "In koshishon se 54 musafiron ko bacha liya gaya. Yeh adad bhi sarkari accounts se liya gaya hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Rescue workers in 1990-era uniforms helping passengers away from smoking airliner wreckage on an airport apron, dusk-like grey light, respectful, no gore"
+          },
+          "highlight": "54 RESCUED"
+        },
+        {
+          "id": "c7b4",
+          "text": "سرکاری بیانات کے مطابق آگ بہت جلد قابو میں آ گئی، اور اسی دوران 54 مسافروں کو بچایا گیا۔ یہ تفصیل اس باب کا اہم انسانی پہلو ہے۔",
+          "roman": "Sarkari bayanat ke mutabiq aag bohat jald qaboo mein aa gayi, aur isi dauran 54 musafiron ko bachaya gaya. Yeh tafseel is baab ka aham insani pehlu hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Close-up of a wristwatch on an airport apron with blurred smoke and emergency vehicles behind, somber mood, 1990 setting"
+          },
+          "factFix": "The claim that these minutes made 'a lifetime of difference' and are the chapter's 'real human aspect' is an invented, editorial claim. The sources only give the 12-second and two-minute official figures."
+        },
+        {
+          "id": "c7b5",
+          "text": "12 سیکنڈ اور دو منٹ کے یہ اعداد سرکاری accounts کے ہیں۔ دیے گئے sources میں کوئی آزاد تصدیق نہیں ملتی، اس لیے انہیں احتیاط سے لینا بہتر ہے۔",
+          "roman": "12 second aur do minute ke yeh aadad sarkari accounts ke hain. Diye gaye sources mein koi azad tasdeeq nahin milti, is liye unhein ehtiyat se lena behtar hai.",
+          "visual": {
+            "type": "clip",
+            "query": "old newspaper printing",
+            "prompt": "Old press printing newspapers in 1990, close-up of rolling sheets, documentary mood"
+          }
+        },
+        {
+          "id": "c7b6",
+          "text": "اب انسانی نقصان کی تفصیل دیکھتے ہیں۔ Xiamen Airlines کے 737 میں 9 crew members اور 93 مسافر سوار تھے، یعنی کل 102 لوگ۔",
+          "roman": "Ab insani nuqsan ki tafseel dekhte hain. Xiamen Airlines ke 737 mein 9 crew members aur 93 musafir sawar thay, yaani kul 102 log.",
+          "visual": {
+            "type": "photo",
+            "photo": "p2"
+          }
+        },
+        {
+          "id": "c7b7",
+          "text": "ان میں سے 7 crew members اور 75 مسافر جاں بحق ہوئے۔ یعنی اس جہاز پر سوار زیادہ تر لوگ زندہ نہ بچ سکے۔",
+          "roman": "In mein se 7 crew members aur 75 musafir jaan bahaq hue. Yaani is jahaz par sawar zyada tar log zinda na bach sake.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Broken sections of a Boeing 737-200 of Xiamen Airlines resting on grass beside an airport apron, overcast sky, wide respectful shot, no bodies, no gore"
+          },
+          "highlight": "7 CREW, 75 PASSENGERS"
+        },
+        {
+          "id": "c7b8",
+          "text": "ان 75 مسافروں میں 30 Taiwanese، 4 Hong Kong کے، 1 Macau کا اور 1 American شامل تھا۔ ہر عدد کے پیچھے ایک پورا خاندان تھا۔",
+          "roman": "In 75 musafiron mein 30 Taiwanese, 4 Hong Kong ke, 1 Macau ka aur 1 American shamil tha. Har adad ke peechay ek poora khandan tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Empty airport departure hall seats with a single travel bag left behind, soft light, melancholic mood, 1990 style interior"
+          }
+        },
+        {
+          "id": "c7b9",
+          "text": "اب 757 کی بات کرتے ہیں۔ CAAC Flight 3523 کے 110 مسافروں میں سے 46 جاں بحق ہوئے، جبکہ 12 کے 12 crew members بچ گئے۔",
+          "roman": "Ab 757 ki baat karte hain. CAAC Flight 3523 ke 110 musafiron mein se 46 jaan bahaq hue, jabke 12 ke 12 crew members bach gaye.",
+          "visual": {
+            "type": "photo",
+            "photo": "p4"
+          },
+          "highlight": "46 OF 110 DIED"
+        },
+        {
+          "id": "c7b10",
+          "text": "ان 46 اموات میں سے زیادہ تر لوگ فوراً جاں بحق ہو گئے۔ مزید 5 لوگ ہسپتال لے جانے کے بعد زخموں کی تاب نہ لا سکے۔",
+          "roman": "In 46 amwaat mein se zyada tar log foran jaan bahaq ho gaye. Mazeed 5 log hospital le jane ke baad zakhmon ki taab na la sake.",
+          "visual": {
+            "type": "clip",
+            "query": "ambulance hospital night",
+            "prompt": "Ambulances arriving at a hospital entrance in 1990 China, evening light, urgent but respectful"
+          }
+        },
+        {
+          "id": "c7b11",
+          "text": "12 crew members کیوں بچے؟ source کے مطابق وہ collision سے پہلے cockpit میں radio پر hijacking کی صورتحال سن رہے تھے۔ یہی وجہ بتائی گئی ہے۔",
+          "roman": "12 crew members kyun bache? source ke mutabiq woh collision se pehle cockpit mein radio par hijacking ki soorat-e-haal sun rahe thay. Yahi wajah batayi gayi hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Boeing 757 cockpit interior in 1990 with two pilots listening intently to a radio headset, tense calm mood, side view"
+          }
+        },
+        {
+          "id": "c7b12",
+          "text": "707 پر سب سے کم نقصان ہوا۔ صرف ایک crew member زخمی ہوا، جو صفائی کے لیے جہاز میں رکا ہوا تھا۔",
+          "roman": "707 par sab se kam nuqsan hua. Sirf ek crew member zakhmi hua, jo safai ke liye jahaz mein ruka hua tha.",
+          "visual": {
+            "type": "photo",
+            "photo": "p3"
+          }
+        },
+        {
+          "id": "c7b13",
+          "text": "ایک جگہ source میں لکھا ہے کہ Hong Kong کے 5 اور Macau کے 2 مسافر بھی ہلاک ہوئے۔ یہ تفصیل دوسرے اعداد سے مطابقت نہیں رکھتی۔",
+          "roman": "Ek jagah source mein likha hai ke Hong Kong ke 5 aur Macau ke 2 musafir bhi halaak hue. Yeh tafseel doosre aadad se mutabiqat nahin rakhti.",
+          "visual": {
+            "type": "ai",
+            "prompt": "A researcher's desk with two conflicting printed passenger lists and a pen, warm lamp light, documentary style, no text readable"
+          },
+          "highlight": "SOURCES DISAGREE"
+        },
+        {
+          "id": "c7b14",
+          "text": "اس لیے سب سے مضبوط عدد وہی ہے جو بار بار ملتا ہے: کل 128 اموات، جن میں hijacker Jiang بھی شامل تھا۔",
+          "roman": "Is liye sab se mazboot adad wohi hai jo baar baar milta hai: kul 128 amwaat, jin mein hijacker Jiang bhi shamil tha.",
+          "visual": {
+            "type": "card",
+            "title": "128 DEAD",
+            "text": "Total deaths, including the hijacker"
+          }
+        },
+        {
+          "id": "c7b15",
+          "text": "لیکن اس حادثے کا سب سے دردناک پہلو Taiwan سے آئے سیاحوں کا تھا۔ ایک tour group کے 10 کے 10 ارکان جاں بحق ہو گئے۔",
+          "roman": "Lekin is hadse ka sab se dardnak pehlu Taiwan se aaye sayyahon ka tha. Ek tour group ke 10 ke 10 arkaan jaan bahaq ho gaye.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Group of ten tourists with small travel bags walking through an airport terminal in 1990, seen from behind, warm nostalgic light, gentle mood"
+          },
+          "highlight": "10-MEMBER TOUR GROUP"
+        },
+        {
+          "id": "c7b16",
+          "text": "کل 30 Taiwanese مسافر جاں بحق ہوئے۔ 1980 کی دہائی کے آخر میں mainland China کے دورے کھلنے کے بعد Taiwanese سیاحوں کا یہ سب سے مہلک واقعہ تھا۔",
+          "roman": "Kul 30 Taiwanese musafir jaan bahaq hue. 1980 ki dahai ke aakhir mein mainland China ke daure khulne ke baad Taiwanese sayyahon ka yeh sab se muhlik waqia tha.",
+          "visual": {
+            "type": "map",
+            "place": "Taiwan and mainland China",
+            "lat": 24.5,
+            "lon": 118,
+            "zoom": "region",
+            "label": "Taiwan - Mainland China"
+          }
+        },
+        {
+          "id": "c7b17",
+          "text": "مرنے والوں میں صرف چین کے لوگ نہیں تھے۔ United States، Sweden، Japan، Taiwan، Hong Kong اور Macau سے آئے مسافر بھی اس سانحے سے متاثر ہوئے۔",
+          "roman": "Marne walon mein sirf China ke log nahin thay. United States, Sweden, Japan, Taiwan, Hong Kong aur Macau se aaye musafir bhi is sanihaye se mutasir hue.",
+          "visual": {
+            "type": "clip",
+            "query": "world map flags",
+            "prompt": "Stylised world map with glowing points over China, Taiwan, Japan, Sweden and the United States, calm documentary graphic"
+          }
+        },
+        {
+          "id": "c7b18",
+          "text": "ایک Swedish businessman ان چند لوگوں میں شامل تھا جو زندہ بچ گئے۔ ایسی ہر کہانی ہمیں یاد دلاتی ہے کہ یہ سانحہ کتنی قومیتوں تک پہنچا۔",
+          "roman": "Ek Swedish businessman un chand logon mein shamil tha jo zinda bach gaye. Aisi har kahani hamein yaad dilati hai ke yeh saniha kitni qaumiyaton tak pahuncha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Middle-aged European businessman in a suit sitting wrapped in a blanket on a hospital bench, 1990, quiet reflective mood, generic face"
+          }
+        },
+        {
+          "id": "c7b19",
+          "text": "اس دن کو 1990 کا سب سے مہلک aviation incident کہا جاتا ہے۔ اور hijacking کے لحاظ سے یہ 9/11 سے پہلے کا سب سے بڑا سانحہ تھا۔",
+          "roman": "Is din ko 1990 ka sab se muhlik aviation incident kaha jata hai. Aur hijacking ke lihaz se yeh 9/11 se pehle ka sab se bara saniha tha.",
+          "visual": {
+            "type": "clip",
+            "query": "airport runway aerial",
+            "prompt": "Aerial view of an old airport runway and apron at morning, hazy, documentary tone"
+          },
+          "highlight": "DEADLIEST OF 1990"
+        },
+        {
+          "id": "c7b20",
+          "text": "حادثے کے بعد airport پر کیا ہوا؟ Guangzhou کی emergency rescue team نے ملبہ ہٹانے کا کام مکمل کیا، اور یہ حادثے کے دس گھنٹے سے زیادہ بعد ہوا۔",
+          "roman": "Hadse ke baad airport par kya hua? Guangzhou ki emergency rescue team ne malba hatane ka kaam mukammal kiya, aur yeh hadse ke das ghante se zyada baad hua.",
+          "visual": {
+            "type": "map",
+            "place": "Old Guangzhou Baiyun Airport",
+            "lat": 23.18,
+            "lon": 113.26,
+            "zoom": "city",
+            "label": "Old Baiyun Airport, Guangzhou"
+          }
+        },
+        {
+          "id": "c7b21",
+          "text": "دوستو، اگلے دن airport دوبارہ کھل گیا۔ جہازوں کی آگ تو بجھ چکی تھی، مگر اس صبح کے سوالوں کی آگ ابھی بھڑکنے والی تھی۔",
+          "roman": "Dosto, agle din airport dobara khul gaya. Jahazon ki aag to bujh chuki thi, magar is subah ke sawalon ki aag abhi bhadakne wali thi.",
+          "visual": {
+            "type": "photo",
+            "photo": "p14"
+          },
+          "highlight": "AIRPORT REOPENED NEXT DAY"
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "Firefighters nearby moved into action immediately. All three aircraft were on fire, and every second counted. According to the official statement, the firefighters brought the fire under control in 12 seconds and put it out completely within two minutes. Through these efforts 54 passengers were rescued. This figure also comes from official accounts. According to official statements the fire was brought under control very quickly, and 54 passengers were rescued during that time. This is an important human side of the chapter. But the figures of 12 seconds and two minutes come from official accounts. The sources we were given contain no independent confirmation, so it is better to treat them with caution.",
+        "Now the human toll. The Xiamen Airlines 737 carried 9 crew members and 93 passengers, 102 people in all. Of these, 7 crew members and 75 passengers died, so most of those aboard did not survive. The 75 passengers included 30 Taiwanese, 4 from Hong Kong, 1 from Macau and 1 American. Behind every number was a whole family.",
+        "Now the 757. Of the 110 passengers on CAAC Flight 3523, 46 died, while all 12 crew members survived. Most of the 46 died immediately. Another 5 died of their injuries after being taken to hospital. Why did the 12 crew members survive? According to a source, they had been listening to the hijacking situation on the cockpit radio before the collision. That is the reason given. The 707 suffered the least. Only one crew member was injured, the one who had stayed on the plane to clean.",
+        "One source says 5 Hong Kong and 2 Macau passengers also died. This detail does not agree with the other figures. So the most solid figure is the one found again and again: 128 deaths in total, including the hijacker Jiang.",
+        "But the most painful part of the disaster involved tourists from Taiwan. All 10 members of one tour group died. In total 30 Taiwanese passengers were killed. It was the deadliest incident for Taiwanese tourists since mainland China opened to visits in the late 1980s. Those who died were not only from China. Passengers from the United States, Sweden, Japan, Taiwan, Hong Kong and Macau were also affected by the tragedy. A Swedish businessman was among the few who survived. Every such story reminds us how many nationalities the tragedy reached.",
+        "The day is described as the deadliest aviation incident of 1990. In terms of hijackings, it was the worst disaster before 9/11. What happened at the airport afterward? Guangzhou's emergency rescue team completed the clearing of the wreckage, which took more than ten hours after the crash. The next day the airport reopened. The fires on the aircraft were out, but the fire of the questions raised that morning was only about to flare up."
+      ]
+    },
+    {
+      "titleEn": "What Went Wrong?",
+      "titleRoman": "Kya Ghalat Hua?",
+      "covers": "Li Peng flies in at 2:10 p.m.; investigation team led by Chen Kaizhi. Captain Cen and Jiang found in cockpit wreckage; autopsy: no explosives. 10 Oct preliminary report: procedural failures, lower-level staff dismissed, but no explanation for no evacuation of nearby aircraft during the 40 minutes. Analysis of causes: unlocked cockpit door, possible deception, fuel shortage, the choice to land with aircraft on the apron. Also context from S2: total compliance doctrine, the FAA 1964 locked-door rule, 1993 peak in China-Taiwan hijackings.",
+      "words": 400,
+      "beats": [
+        {
+          "id": "c8b1",
+          "text": "حادثے کے دن دوپہر 2:10 بجے Premier Li Peng Beijing سے Guangzhou کے لیے روانہ ہوئے۔ انہوں نے موقع دیکھا اور ہسپتال میں زخمیوں سے ملے۔",
+          "roman": "Hadse ke din dopahar 2:10 baje Premier Li Peng Beijing se Guangzhou ke liye rawana hue. Unhon ne mauqa dekha aur hospital mein zakhmiyon se mile.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Chinese Premier in a dark Mao-style suit, 1990, stepping off an official plane with aides, generic face, overcast sky, formal documentary mood"
+          },
+          "highlight": "2:10 P.M. LI PENG FLIES TO GUANG",
+          "factFix": "The highlight says Li Peng 'arrives' at 2:10 p.m. The source says he flew from Beijing to Guangzhou at 2:10 p.m., and gives no arrival time."
+        },
+        {
+          "id": "c8b2",
+          "text": "مرکزی حکومت نے جلد ہی ایک investigation team بنا دی۔ مقامی سطح پر aftermath سنبھالنے کے لیے ایک task force بھی بنی، جس کی قیادت Chen Kaizhi کر رہے تھے۔",
+          "roman": "Markazi hukumat ne jald hi ek investigation team bana di. Maqami satah par aftermath sambhalne ke liye ek task force bhi bani, jis ki qiyadat Chen Kaizhi kar rahe thay.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Officials in plain 1990 Chinese clothing around a table with maps and papers in a government meeting room, serious mood"
+          }
+        },
+        {
+          "id": "c8b3",
+          "text": "اب سب سے بڑا سوال: cockpit میں کیا ملا؟ Captain Cen Longyu اور Jiang Xiaofeng کی باقیات cockpit کے ملبے سے ملیں۔",
+          "roman": "Ab sab se bara sawal: cockpit mein kya mila? Captain Cen Longyu aur Jiang Xiaofeng ki baqiyat cockpit ke malbe se milin.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Captain Cen Longyu, middle-aged Chinese airline pilot in 1990 CAAC-style uniform with cap, seated in cockpit, calm and tense, soft light, respectful"
+          }
+        },
+        {
+          "id": "c8b4",
+          "text": "Jiang نے 7 kilograms دھماکہ خیز مواد کا دعویٰ کیا تھا۔ مگر autopsy سے ثابت ہوا کہ اس کے جسم پر ایسا کوئی مواد موجود نہیں تھا۔",
+          "roman": "Jiang ne 7 kilograms dhamaka khez mawad ka daawa kiya tha. Magar autopsy se sabit hua ke is ke jism par aisa koi mawad mojood nahin tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Jiang Xiaofeng, 21-year-old Chinese man, black suit, black dress shoes, black suitcase, holding plastic roses, 1990, standing alone in an airport hall, empty feeling"
+          },
+          "highlight": "NO EXPLOSIVES FOUND"
+        },
+        {
+          "id": "c8b5",
+          "text": "10 October کو حکام نے preliminary نتائج جاری کیے۔ انہوں نے مانا کہ hijacking سے نمٹنے کے طریقہ کار میں procedural failures ہوئیں۔",
+          "roman": "10 October ko hukkam ne preliminary nataij jari kiye. Unhon ne mana ke hijacking se nimatne ke tareeqa kar mein procedural failures huin.",
+          "visual": {
+            "type": "card",
+            "title": "10 OCTOBER 1990",
+            "text": "Preliminary results admit procedural failures"
+          }
+        },
+        {
+          "id": "c8b6",
+          "text": "اعلان ہوا کہ airport اور متعلقہ airlines کے کئی lower-level employees کو برطرف کیا جائے گا۔ مگر بڑے سوال پھر بھی باقی رہے۔",
+          "roman": "Elaan hua ke airport aur mutaliqa airlines ke kai lower-level employees ko bartaraf kiya jayega. Magar bare sawal phir bhi baqi rahe.",
+          "visual": {
+            "type": "clip",
+            "query": "office documents stamped",
+            "prompt": "Official documents being stamped on a desk in a 1990 Chinese government office"
+          }
+        },
+        {
+          "id": "c8b7",
+          "text": "لیکن رپورٹ ایک بنیادی سوال کا جواب نہیں دیتی تھی۔ 40 منٹ کے چکروں کے دوران قریبی جہازوں کے مسافروں کو evacuate کیوں نہیں کیا گیا؟",
+          "roman": "Lekin report ek bunyadi sawal ka jawab nahin deti thi. 40 minute ke chakkron ke dauran qareebi jahazon ke musafiron ko evacuate kyun nahin kiya gaya?",
+          "visual": {
+            "type": "ai",
+            "prompt": "Parked Boeing 757 of CAAC on the old Guangzhou Baiyun apron with a boarding stair, passengers visible in windows, control tower and mountains behind, tense still mood"
+          },
+          "highlight": "40 MINUTES, NO EVACUATION"
+        },
+        {
+          "id": "c8b8",
+          "text": "اب causes کا تجزیہ کرتے ہیں۔ پہلی بات unlocked cockpit door ہے۔ sources کے مطابق Jiang نے دروازہ زور سے کھٹکھٹایا اور کھول لیا، کیونکہ وہ locked نہیں تھا۔",
+          "roman": "Ab causes ka tajziya karte hain. Pehli baat unlocked cockpit door hai. sources ke mutabiq Jiang ne darwaza zor se khatkhataya aur khol liya, kyunke woh locked nahin tha.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Close view of an unlocked airliner cockpit door slightly ajar, 1990 interior, dim cabin light, suspenseful"
+          }
+        },
+        {
+          "id": "c8b9",
+          "text": "ایک دوسرے source کے مطابق FAA نے 1964 میں rule بنایا کہ commercial aircraft کے cockpit doors پرواز کے دوران locked رکھے جائیں۔ یہ امریکی rule تھا۔",
+          "roman": "Ek doosre source ke mutabiq FAA ne 1964 mein rule banaya ke commercial aircraft ke cockpit doors parwaz ke dauran locked rakhe jayen. Yeh Amriki rule tha.",
+          "visual": {
+            "type": "photo",
+            "photo": "p7"
+          },
+          "highlight": "FAA 1964 LOCKED DOOR RULE"
+        },
+        {
+          "id": "c8b10",
+          "text": "دوسری بات total compliance کا اصول تھا۔ airlines crew کو سکھاتی تھیں کہ hijacker کے مطالبات مانیں، کیونکہ مقصد جہاز کو محفوظ اتارنا اور معاملہ security forces پر چھوڑنا تھا۔",
+          "roman": "Doosri baat total compliance ka usool tha. airlines crew ko sikhati thin ke hijacker ke mutalibat manen, kyunke maqsad jahaz ko mehfooz utarna aur muamla security forces par chhodna tha.",
+          "visual": {
+            "type": "clip",
+            "query": "flight attendant cabin",
+            "prompt": "Young flight attendant in 1990 airline uniform calmly speaking to seated passengers in a cabin"
+          }
+        },
+        {
+          "id": "c8b11",
+          "text": "Flight 8301 میں یہ اصول پوری طرح لاگو ہوا یا نہیں، یہ sources واضح نہیں کرتے۔ Xinhua نے بھی نہیں بتایا کہ pilot نے Jiang کا مطالبہ کیوں نہیں مانا۔",
+          "roman": "Flight 8301 mein yeh usool poori tarah lagu hua ya nahin, yeh sources wazeh nahin karte. Xinhua ne bhi nahin bataya ke pilot ne Jiang ka mutalba kyun nahin mana.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Question mark shadow falling across a cockpit window with clouds outside, 1990 Boeing 737 cockpit, moody"
+          }
+        },
+        {
+          "id": "c8b12",
+          "text": "تیسری بات possible deception ہے۔ New York Times کے مطابق حکام نے hijacker کو یہ باور کرانے کی کوشش کی کہ جہاز کسی international airport پر اتر رہا ہے۔",
+          "roman": "Teesri baat possible deception hai. New York Times ke mutabiq hukkam ne hijacker ko yeh baawar karane ki koshish ki ke jahaz kisi international airport par utar raha hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Air traffic controllers in 1990 control tower at night speaking quietly into radios, radar glow on faces, secretive tense mood"
+          }
+        },
+        {
+          "id": "c8b13",
+          "text": "چوتھی بات fuel shortage تھی۔ sources کے مطابق جہاز کو خطرناک حد تک کم fuel کی وجہ سے آخرکار land کرنا پڑا۔",
+          "roman": "Chauthi baat fuel shortage thi. sources ke mutabiq jahaz ko khatarnak hadd tak kam fuel ki wajah se aakhir kar land karna para.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Fuel gauge needle near empty glowing in an airliner cockpit panel, close-up, tense mood"
+          },
+          "highlight": "DANGEROUSLY LOW FUEL"
+        },
+        {
+          "id": "c8b14",
+          "text": "پانچویں بات apron کی ہے۔ airport بند تھا مگر 757 مسافروں سمیت کھڑا رہا۔ اس کا جواب رپورٹ نے نہیں دیا۔",
+          "roman": "Panchwin baat apron ki hai. airport band tha magar 757 musafiron samet khara raha. Is ka jawab report ne nahin diya.",
+          "visual": {
+            "type": "photo",
+            "photo": "p21"
+          }
+        },
+        {
+          "id": "c8b15",
+          "text": "ایک اور context: 1993 سے 2003 کے درمیان سب سے زیادہ hijackings 1993 میں ہوئیں۔ source اس کی وجہ China کے واقعات بتاتا ہے۔",
+          "roman": "Ek aur context: 1993 se 2003 ke darmiyan sab se zyada hijackings 1993 mein huin. source is ki wajah China ke waqiyat batata hai.",
+          "visual": {
+            "type": "clip",
+            "query": "airport security check",
+            "prompt": "Airport security officers checking luggage in the 1990s, documentary look"
+          },
+          "highlight": "1993 HIJACKING PEAK"
+        },
+        {
+          "id": "c8b16",
+          "text": "یہ وہ واقعات تھے جن میں hijackers Taiwan میں سیاسی پناہ لینا چاہتے تھے۔ Jiang کی کہانی اسی بڑے رجحان کا ایک خوفناک باب تھی۔",
+          "roman": "Yeh woh waqiyat thay jin mein hijackers Taiwan mein siyasi panah lena chahte thay. Jiang ki kahani isi bare rujhan ka ek khaufnak baab thi.",
+          "visual": {
+            "type": "map",
+            "place": "Taiwan Strait",
+            "lat": 24,
+            "lon": 119.5,
+            "zoom": "region",
+            "label": "Taiwan Strait"
+          }
+        },
+        {
+          "id": "c8b17",
+          "text": "تو آخر میں سوال یہی رہتا ہے: کیا اس سانحے کے بعد کچھ بدلا؟ اگلے chapter میں ہم نتائج اور سبق دیکھیں گے۔",
+          "roman": "To aakhir mein sawal yehi rehta hai: kya is sanihaye ke baad kuch badla? Agle chapter mein hum nataij aur sabaq dekhenge.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Empty runway at dawn with fog and a single lit control tower in the distance, contemplative mood, 1990 Guangzhou"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "At 2:10 on the afternoon of the crash, Premier Li Peng left Beijing for Guangzhou. He viewed the scene and visited the injured in hospital. The central government soon set up an investigation team. A local task force was also formed to handle the aftermath, led by Chen Kaizhi.",
+        "The biggest question: what was found in the cockpit? The remains of Captain Cen Longyu and Jiang Xiaofeng were found in the cockpit wreckage. Jiang had claimed to have 7 kilograms of explosives, but the autopsy showed that no such material was on his body. On 10 October, officials released preliminary findings. They admitted that there had been procedural failures in how the hijacking was handled. It was announced that a number of lower-level employees of the airport and the airlines concerned would be dismissed. Yet big questions remained. The report did not answer one basic question: why were passengers on nearby aircraft not evacuated during the 40 minutes of circling?",
+        "Now let's analyze the causes. The first is the unlocked cockpit door. According to the sources, Jiang pounded on the door and opened it because it was not locked. According to another source, the FAA made a rule in 1964 that cockpit doors on commercial aircraft be kept locked during flight. That was an American rule.",
+        "The second was the principle of total compliance. Airlines taught crews to meet a hijacker's demands, since the aim was to land safely and leave the matter to security forces. Whether this principle was fully applied on Flight 8301, the sources do not make clear. Xinhua also did not say why the pilot did not meet Jiang's demand.",
+        "The third is possible deception. According to The New York Times, officials tried to make the hijacker believe the plane was landing at an international airport. The fourth was the fuel shortage. According to the sources, the plane finally had to land because fuel had fallen to a dangerous level. The fifth concerns the apron. The airport was closed, yet the 757 stayed there with its passengers. The report did not answer this.",
+        "One more piece of context: between 1993 and 2003 the most hijackings occurred in 1993, and the source attributes this to cases in China. These were cases in which hijackers wanted political asylum in Taiwan. Jiang's story was a terrible chapter in that larger trend. So the question that remains is whether anything changed after this tragedy. In the next chapter we look at the results and the lessons."
+      ]
+    },
+    {
+      "titleEn": "What Changed, and Your Part",
+      "titleRoman": "Kya Badla Aur Aap Ka Kirdar",
+      "covers": "Conclusion: Asian Games security tightening, policy shift to protecting passengers and aircraft instead of confronting hijackers, all three aircraft written off, 757 insurance payout US$55.599 million, wreckage (engine, tire, left landing gear) in the museum east of the new Baiyun Airport, which opened in 2004. First hull loss of a 757. Open questions and lessons, then a request to like, subscribe and comment.",
+      "words": 280,
+      "beats": [
+        {
+          "id": "c9b1",
+          "text": "جب یہ حادثہ ہوا، Beijing میں Asian Games جاری تھے۔ حکام کو خدشہ تھا کہ مزید دھماکوں یا hijackings سے یہ event متاثر ہو سکتا ہے۔",
+          "roman": "Jab yeh hadsa hua, Beijing mein Asian Games jari thay. Hukkam ko khadsha tha ke mazeed dhamakon ya hijackings se yeh event mutasir ho sakta hai.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Large stadium in Beijing in 1990 during a sports festival, flags and crowds, wide exterior shot, daytime"
+          },
+          "highlight": "BEIJING ASIAN GAMES"
+        },
+        {
+          "id": "c9b2",
+          "text": "نتیجہ یہ نکلا کہ ملک بھر کے airports پر security نمایاں طور پر سخت کر دی گئی۔ مقصد ایسے واقعات کو دوبارہ ہونے سے روکنا تھا۔",
+          "roman": "Nateeja yeh nikla ke mulk bhar ke airports par security numayan tor par sakht kar di gayi. Maqsad aise waqiyat ko dobara hone se rokna tha.",
+          "visual": {
+            "type": "clip",
+            "query": "airport security guards",
+            "prompt": "Security guards watching passengers at a Chinese airport check-in hall, 1990s"
+          }
+        },
+        {
+          "id": "c9b3",
+          "text": "سب سے اہم تبدیلی سوچ میں آئی۔ پہلے crew اور مسافروں کو hijackers کا سامنا کرنے کی ترغیب ملتی تھی، مگر اب ترجیح مسافروں اور جہاز کی حفاظت تھی۔",
+          "roman": "Sab se aham tabdeeli soch mein aayi. Pehle crew aur musafiron ko hijackers ka samna karne ki targheeb milti thi, magar ab tarjeeh musafiron aur jahaz ki hifazat thi.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Young flight attendant in a 1990 airline uniform calmly guiding seated passengers, protective mood, warm cabin light"
+          }
+        },
+        {
+          "id": "c9b4",
+          "text": "تینوں جہاز total loss قرار دیے گئے۔ CAAC کا 757 ایک Guangzhou کی insurance company سے insured تھا، اور اسے US$55.599 million ادا کیے گئے۔",
+          "roman": "Teeno jahaz total loss qarar diye gaye. CAAC ka 757 ek Guangzhou ki insurance company se insured tha, aur use US$55.599 million ada kiye gaye.",
+          "visual": {
+            "type": "card",
+            "title": "US$55.599 MILLION",
+            "text": "Insurance payout for the CAAC Boeing 757"
+          }
+        },
+        {
+          "id": "c9b5",
+          "text": "اس وقت یہ رقم تقریباً 290 million RMB کے برابر تھی۔ اور Boeing 757 کی تاریخ میں یہ پہلا hull loss اور پہلا fatal حادثہ بھی تھا۔",
+          "roman": "Us waqt yeh raqam taqriban 290 million RMB ke barabar thi. Aur Boeing 757 ki tareekh mein yeh pehla hull loss aur pehla fatal hadsa bhi tha.",
+          "visual": {
+            "type": "photo",
+            "photo": "p4"
+          },
+          "highlight": "FIRST 757 HULL LOSS"
+        },
+        {
+          "id": "c9b6",
+          "text": "آج اس حادثے کی صرف چند نشانیاں باقی ہیں: ایک engine، ایک tire اور left landing gear۔ یہ اجزا aviation museum میں عوام کے لیے رکھے گئے ہیں۔",
+          "roman": "Aaj is hadse ki sirf chand nishaniyan baqi hain: ek engine, ek tire aur left landing gear. Yeh ajza aviation museum mein awam ke liye rakhe gaye hain.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Museum display of an airliner jet engine, a large tire and a landing gear leg under soft spotlights, quiet hall, respectful mood"
+          },
+          "highlight": "ENGINE, TIRE, LANDING GEAR"
+        },
+        {
+          "id": "c9b7",
+          "text": "یہ museum Guangzhou Baiyun International Airport کے مشرق میں ہے۔ پرانا airport، جو 1932 میں کھلا تھا، 5 August 2004 کو بند ہو گیا اور نیا airport کھل گیا۔",
+          "roman": "Yeh museum Guangzhou Baiyun International Airport ke mashriq mein hai. Purana airport, jo 1932 mein khula tha, 5 August 2004 ko band ho gaya aur naya airport khul gaya.",
+          "visual": {
+            "type": "map",
+            "place": "Guangzhou Baiyun International Airport",
+            "lat": 23.39,
+            "lon": 113.3,
+            "zoom": "city",
+            "label": "New Baiyun Airport, opened 2004"
+          },
+          "factFix": "The sources only say the museum is east of Guangzhou Baiyun International Airport. They do not say 'new' airport, and the old airport closed in 2004, so the beat's 'new' is unsupported."
+        },
+        {
+          "id": "c9b8",
+          "text": "اب کچھ سوال کھلے رہ گئے ہیں۔ 40 منٹ کے چکروں کے دوران نزدیکی جہازوں کو evacuate کیوں نہیں کیا گیا؟ رپورٹ نے اس کا جواب نہیں دیا۔",
+          "roman": "Ab kuch sawal khule reh gaye hain. 40 minute ke chakkron ke dauran nazdeeki jahazon ko evacuate kyun nahin kiya gaya? Report ne is ka jawab nahin diya.",
+          "visual": {
+            "type": "photo",
+            "photo": "p11"
+          }
+        },
+        {
+          "id": "c9b9",
+          "text": "سبق کیا ہے؟ ایک یہ کہ واضح قواعد اور مضبوط تیاری بحران میں زندگیاں بچاتی ہے۔ دوسرا یہ کہ ایسے فیصلوں میں مسافروں کی حفاظت سب سے پہلے ہونی چاہیے۔",
+          "roman": "Sabaq kya hai? Ek yeh ke wazeh qawaid aur mazboot tayyari bohran mein zindagiyan bachati hai. Doosra yeh ke aise faislon mein musafiron ki hifazat sab se pehle honi chahiye.",
+          "visual": {
+            "type": "clip",
+            "query": "airport sunrise runway",
+            "prompt": "Sunrise over a quiet airport runway, calm hopeful mood"
+          }
+        },
+        {
+          "id": "c9b10",
+          "text": "اور آپ کا کردار؟ ان 128 لوگوں کو یاد رکھیں، سوال پوچھتے رہیں، اور ایسی کہانیاں بغیر افواہوں کے آگے پہنچائیں۔",
+          "roman": "Aur aap ka kirdar? In 128 logon ko yaad rakhen, sawal poochte rahen, aur aisi kahaniyan baghair afwahon ke aage pahunchayen.",
+          "visual": {
+            "type": "ai",
+            "prompt": "A candle lit beside a small paper airplane on a dark table, gentle remembrance mood, no text"
+          }
+        },
+        {
+          "id": "c9b11",
+          "text": "آپ کے خیال میں سب سے بڑی غلطی کیا تھی؟ comments میں ضرور بتائیں، video کو like کریں اور channel کو subscribe کرنا نہ بھولیں۔",
+          "roman": "Aap ke khayal mein sab se bari ghalti kya thi? comments mein zaroor batayen, video ko like karen aur channel ko subscribe karna na bhoolen.",
+          "visual": {
+            "type": "ai",
+            "prompt": "Viewer's hand holding a smartphone showing a blank comment box in a dim room, warm screen glow, friendly mood"
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "When the disaster happened, the Asian Games were under way in Beijing. Officials feared that further bombings or hijackings could affect the event. As a result, security at airports across the country was tightened markedly. The aim was to prevent such incidents from happening again. The most important change was in thinking. Previously crews and passengers had been encouraged to confront hijackers, but now the priority was the safety of passengers and the aircraft.",
+        "All three aircraft were declared total losses. The CAAC 757 was insured with a Guangzhou insurance company, which paid US$55.599 million. At the time, that was roughly 290 million RMB. It was also the first hull loss and first fatal accident in the history of the Boeing 757.",
+        "Today only a few traces of the disaster remain: an engine, a tire and a left landing gear. These parts are on public display in an aviation museum located east of Guangzhou Baiyun International Airport. The old airport, which opened in 1932, closed on 5 August 2004 and the new one opened.",
+        "Some questions remain open. Why were nearby aircraft not evacuated during the 40 minutes of circling? The report did not answer this. What are the lessons? One is that clear rules and strong preparation save lives in a crisis. Another is that in such decisions the safety of passengers must come first.",
+        "And what is your part? Remember the 128 people, keep asking questions, and pass on stories like this without spreading rumors. What do you think was the biggest mistake? Tell us in the comments, like the video and don't forget to subscribe to the channel."
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "id": "s1",
+      "chapter": 3,
+      "titleEn": "The Unlocked Cockpit Door: Flight 8301's 7 kg Threat",
+      "hook": "Seat 16D ka raaz",
+      "text": "کیا ایک چھوٹا سا ڈبہ اور چند تاریں پورے جہاز کو قابو میں لے سکتی ہیں؟ 2 October 1990 کی صبح Xiamen Airlines Flight 8301 صبح 6:57 پر وقت پر اڑی۔ جہاز پر 93 passengers اور 9 crew members تھے۔ تقریباً 7:20 پر seat 16D سے ایک نوجوان اٹھا۔ اس کا نام Jiang Xiaofeng تھا، عمر صرف 21 سال۔ اس کے ہاتھ میں سگریٹ کی ڈبی جتنا کالا plastic box تھا۔ وہ سیدھا cockpit کی طرف دوڑا اور دروازہ پیٹا۔ Sources کے مطابق دروازہ locked نہیں تھا، اس لیے کھل گیا۔ اندر جا کر اس نے تاریں دکھائیں اور دعویٰ کیا کہ اس کے پاس 7 kilograms explosives ہیں۔ مطالبہ تھا کہ جہاز Taiwan Taoyuan جائے۔ کیا یہ دعویٰ سچ تھا؟ پوری کہانی ہمارے channel پر دیکھیں۔",
+      "roman": "Kya ek chhota sa dabba aur chand taren poore jahaz ko qaboo mein le sakti hain? 2 October 1990 ki subah Xiamen Airlines Flight 8301 subah 6:57 par waqt par urri. Jahaz par 93 passengers aur 9 crew members thay. Taqreeban 7:20 par seat 16D se ek naujawan utha. Is ka naam Jiang Xiaofeng tha, umar sirf 21 saal. Is ke haath mein cigarette ki dibbi jitna kala plastic box tha. Woh seedha cockpit ki taraf dauda aur darwaza peeta. Sources ke mutabiq darwaza locked nahin tha, is liye khul gaya. Andar ja kar is ne taren dikhayin aur daawa kiya ke is ke paas 7 kilograms explosives hain. Mutalba tha ke jahaz Taiwan Taoyuan jaye. Kya yeh daawa sach tha? Poori kahani hamare channel par dekhein.",
+      "descriptionEn": "On 2 October 1990, a passenger in seat 16D walked into an unlocked cockpit on Xiamen Airlines Flight 8301.\nWhat happened next led to the deadliest hijacking before 9/11.",
+      "tags": [
+        "1990 Guangzhou",
+        "Xiamen Airlines",
+        "Flight 8301",
+        "hijacking",
+        "aviation history",
+        "Baiyun Airport",
+        "Boeing 737",
+        "true story",
+        "air disaster",
+        "urdu documentary"
+      ],
+      "render": {
+        "duration": 54.734
+      }
+    },
+    {
+      "id": "s2",
+      "chapter": 5,
+      "titleEn": "Landed Safely, Then Everything Went Wrong at Baiyun Airport",
+      "hook": "9:04 par kya hua?",
+      "text": "جہاز زمین پر اتر چکا تھا، اور لگتا تھا خطرہ ٹل گیا۔ 9:04 پر Flight 8301 Baiyun Airport کے runway پر اتری۔ تقریباً 1,080 meters taxi کرنے کے بعد sources کے مطابق Jiang نے pilot سے control چھین لیا۔ جہاز runway سے دائیں طرف ہٹا اور apron کی طرف بڑھا، جہاں دو جہاز کھڑے تھے۔ ایک لمحے کے لیے اس کی ناک اوپر اٹھی اور یہ دوبارہ زمین سے اٹھ گیا۔ اس کی دم ایک ground service vehicle سے ٹکرائی۔ پھر یہ China Southwest Airlines کے parked Boeing 707 سے ٹکرایا، جسے صرف معمولی نقصان پہنچا۔ اور آگے ایک Boeing 757 کھڑا تھا، جو Shanghai کے لیے اڑان کا انتظار کر رہا تھا۔ آگے کیا ہوا؟ پوری کہانی ہمارے channel پر دیکھیں۔",
+      "roman": "Jahaz zameen par utar chuka tha, aur lagta tha khatra tal gaya. 9:04 par Flight 8301 Baiyun Airport ke runway par utri. Taqreeban 1,080 meters taxi karne ke baad sources ke mutabiq Jiang ne pilot se control chheen liya. Jahaz runway se dayen taraf hata aur apron ki taraf barha, jahan do jahaz khare thay. Ek lamhe ke liye is ki naak upar uthi aur yeh dobara zameen se uth gaya. Is ki dum ek ground service vehicle se takrai. Phir yeh China Southwest Airlines ke parked Boeing 707 se takraya, jise sirf mamooli nuqsan pohanchta. Aur aage ek Boeing 757 khara tha, jo Shanghai ke liye uran ka intezar kar raha tha. Aage kya hua? Poori kahani hamare channel par dekhein.",
+      "descriptionEn": "At 9:04 a.m. on 2 October 1990, a hijacked Boeing 737 landed at Guangzhou and veered toward two parked aircraft.\nThe collisions killed 128 people.",
+      "tags": [
+        "Guangzhou runway",
+        "Baiyun Airport",
+        "Flight 8301",
+        "Boeing 757",
+        "Boeing 707",
+        "1990 hijacking",
+        "aviation disaster",
+        "air crash",
+        "true story",
+        "urdu documentary"
+      ],
+      "render": {
+        "duration": 51.01
+      }
+    },
+    {
+      "id": "s3",
+      "chapter": 7,
+      "titleEn": "Did the Hijacker Really Have 7 kg of Explosives?",
+      "hook": "Bomb tha ya jhoot?",
+      "text": "Hijacker نے 7 kilograms دھماکہ خیز مواد کا دعویٰ کیا تھا۔ کیا یہ سچ تھا؟ حادثے کے بعد ایک اہم سوال یہی تھا۔ Cockpit کے ملبے سے Captain Cen Longyu اور Jiang Xiaofeng کی باقیات ملیں۔ Autopsy سے ثابت ہوا کہ Jiang کے جسم پر ایسا کوئی مواد موجود نہیں تھا۔ حادثے کے دن Premier Li Peng Beijing سے Guangzhou پہنچے۔ 10 October کو preliminary نتائج آئے۔ حکام نے hijacking سے نمٹنے میں procedural failures مان لیے اور کچھ lower-level employees کو نکالنے کا اعلان کیا۔ لیکن ایک سوال کا جواب report میں نہیں تھا: 40 minutes چکر کے دوران پاس کھڑے جہازوں کے مسافروں کو کیوں نہیں نکالا گیا؟ پوری کہانی ہمارے channel پر دیکھیں۔",
+      "roman": "Hijacker ne 7 kilograms dhamaka khez mawad ka daawa kiya tha. Kya yeh sach tha? Hadse ke baad ek aham sawal yahi tha. Cockpit ke malbe se Captain Cen Longyu aur Jiang Xiaofeng ki baqiyat mili. Autopsy se sabit hua ke Jiang ke jism par aisa koi mawad mojood nahin tha. Hadse ke din Premier Li Peng Beijing se Guangzhou pohanche. 10 October ko preliminary nataij aaye. Hukkam ne hijacking se nimatne mein procedural failures maan liye aur kuch lower-level employees ko nikalne ka elaan kiya. Lekin ek sawal ka jawab report mein nahin tha: 40 minutes chakkar ke dauran paas khare jahazon ke musafiron ko kyun nahin nikala gaya? Poori kahani hamare channel par dekhein.",
+      "descriptionEn": "An autopsy showed the 1990 Guangzhou hijacker had no explosives, despite his claim of 7 kg.\nThe investigation also left one big question unanswered.",
+      "tags": [
+        "Guangzhou 1990",
+        "hijacker",
+        "autopsy",
+        "investigation",
+        "Flight 8301",
+        "Baiyun Airport",
+        "aviation safety",
+        "true crime",
+        "history",
+        "urdu documentary"
+      ],
+      "render": {
+        "duration": 45.734
+      }
+    }
+  ],
+  "metaChecked": true,
+  "wordCount": 4172,
+  "render": {
+    "duration": 1730.2,
+    "chapters": [
+      {
+        "start": 0,
+        "titleEn": "The Runway Erupts",
+        "titleRoman": "Runway Par Qayamat"
+      },
+      {
+        "start": 105.59999999999998,
+        "titleEn": "Three Aircraft, One Apron",
+        "titleRoman": "Teen Jahaz, Ek Apron"
+      },
+      {
+        "start": 306.64,
+        "titleEn": "The Man in Seat 16D",
+        "titleRoman": "Seat 16D Ka Musafir"
+      },
+      {
+        "start": 500,
+        "titleEn": "Seven Kilograms of Threat",
+        "titleRoman": "Saat Kilo Ka Khatra"
+      },
+      {
+        "start": 722.9200000000001,
+        "titleEn": "Circling Above Guangzhou",
+        "titleRoman": "Guangzhou Ke Upar Chakkar"
+      },
+      {
+        "start": 935.0400000000001,
+        "titleEn": "Four Minutes Past Nine",
+        "titleRoman": "Nau Bajkar Chaar Minute"
+      },
+      {
+        "start": 1199.2,
+        "titleEn": "Fire, Rescue and the Human Toll",
+        "titleRoman": "Aag, Bachao Aur Insani Nuqsan"
+      },
+      {
+        "start": 1413.8000000000002,
+        "titleEn": "What Went Wrong?",
+        "titleRoman": "Kya Ghalat Hua?"
+      },
+      {
+        "start": 1597.1999999999998,
+        "titleEn": "What Changed, and Your Part",
+        "titleRoman": "Kya Badla Aur Aap Ka Kirdar"
+      }
+    ],
+    "chapterImages": [
+      {
+        "file": "ch1.jpg",
+        "photo": null,
+        "kind": "ai"
+      },
+      {
+        "file": "ch2.jpg",
+        "photo": null,
+        "kind": "ai"
+      },
+      {
+        "file": "ch3.jpg",
+        "photo": null,
+        "kind": "ai"
+      },
+      {
+        "file": "ch4.jpg",
+        "photo": null,
+        "kind": "map"
+      },
+      {
+        "file": "ch5.jpg",
+        "photo": null,
+        "kind": "map"
+      },
+      {
+        "file": "ch6.jpg",
+        "photo": null,
+        "kind": "ai"
+      },
+      {
+        "file": "ch7.jpg",
+        "photo": null,
+        "kind": "ai"
+      },
+      {
+        "file": "ch8.jpg",
+        "photo": null,
+        "kind": "ai"
+      },
+      {
+        "file": "ch9.jpg",
+        "photo": null,
+        "kind": "ai"
+      }
+    ],
+    "pictures": {
+      "ai": 70,
+      "stock": 15,
+      "clip": 35,
+      "photo": 17,
+      "map": 11,
+      "card": 16,
+      "reused": 0,
+      "fallback": 0
+    },
+    "renderedAt": "2026-10-02T00:43:26.001Z",
+    "clipCredits": [
+      {
+        "user": "Salva F. Ayala",
+        "url": "https://www.pexels.com/video/propeller-plane-landing-10406882/"
+      },
+      {
+        "user": "Hampie",
+        "url": "https://www.pexels.com/video/ita-airways-aircraft-make-a-smooth-landing-at-schiphol-airport-18248318/"
+      },
+      {
+        "user": "Everett Bumstead",
+        "url": "https://www.pexels.com/video/industrial-printing-press-in-operation-with-machinery-29906415/"
+      },
+      {
+        "user": "Pixabay",
+        "url": "https://www.pexels.com/video/view-from-airplane-856010/"
+      },
+      {
+        "user": "ArtHouse Studio",
+        "url": "https://www.pexels.com/video/a-person-working-with-paperworks-8478951/"
+      },
+      {
+        "user": "Alireza Akhlaghi",
+        "url": "https://www.pexels.com/video/a-plane-taking-off-on-a-cloudy-day-11130977/"
+      },
+      {
+        "user": "Lukáš Vaňátko",
+        "url": "https://www.pexels.com/video/fog-and-white-clouds-in-a-mountain-landscape-12858363/"
+      },
+      {
+        "user": "cottonbro studio",
+        "url": "https://www.pexels.com/video/two-police-officers-outside-car-10466488/"
+      },
+      {
+        "user": "Pixabay",
+        "url": "https://www.pexels.com/video/video-of-cars-passing-855737/"
+      },
+      {
+        "user": "Camilo Calderón",
+        "url": "https://www.pexels.com/video/airplane-wing-while-flying-in-the-sky-6472910/"
+      },
+      {
+        "user": "K",
+        "url": "https://www.pexels.com/video/flight-information-display-at-modern-airport-37130582/"
+      },
+      {
+        "user": "Mohsin  Ahmad Khan",
+        "url": "https://www.pexels.com/video/aerial-view-from-airplane-wing-in-flight-34283393/"
+      },
+      {
+        "user": "Luis Quintero",
+        "url": "https://www.pexels.com/video/the-cockpit-of-a-helicopter-with-gauges-and-controls-15462822/"
+      },
+      {
+        "user": "K",
+        "url": "https://www.pexels.com/video/passenger-boarding-in-airplane-cabin-interior-37177216/"
+      },
+      {
+        "user": "Erik Mclean",
+        "url": "https://www.pexels.com/video/close-up-of-black-car-13643097/"
+      },
+      {
+        "user": "cottonbro studio",
+        "url": "https://www.pexels.com/video/man-playing-ukulele-6892914/"
+      },
+      {
+        "user": "Everett Bumstead",
+        "url": "https://www.pexels.com/video/industrial-printing-press-producing-paper-sheets-29975898/"
+      },
+      {
+        "user": "Alexandr Shorban",
+        "url": "https://www.pexels.com/video/the-interior-of-an-airplane-with-blue-seats-9512140/"
+      },
+      {
+        "user": "Pixabay",
+        "url": "https://www.pexels.com/video/close-up-video-of-a-clock-855782/"
+      },
+      {
+        "user": "Jorge Pantaleon",
+        "url": "https://www.pexels.com/video/aerial-view-of-expansive-airport-runway-landscape-35924402/"
+      },
+      {
+        "user": "Alexandr Shorban",
+        "url": "https://www.pexels.com/video/airplane-being-towed-on-airport-taxiway-9512146/"
+      },
+      {
+        "user": "Joerg Mangelsen",
+        "url": "https://www.pexels.com/video/lufthansa-airplane-at-night-on-wet-tarmac-34218917/"
+      },
+      {
+        "user": "Sean P. Twomey",
+        "url": "https://www.pexels.com/video/high-speed-jet-airshow-with-stunning-maneuvers-28981834/"
+      },
+      {
+        "user": "emirkhan bal",
+        "url": "https://www.pexels.com/video/close-up-of-a-clock-9160920/"
+      },
+      {
+        "user": "Joerg Mangelsen",
+        "url": "https://www.pexels.com/video/a-fire-truck-spraying-water-on-a-runway-15448013/"
+      },
+      {
+        "user": "ranjeet .",
+        "url": "https://www.pexels.com/video/airport-fire-trucks-and-ambulance-in-action-36536955/"
+      },
+      {
+        "user": "Somogro Bangladesh",
+        "url": "https://www.pexels.com/video/high-speed-newspaper-printing-process-close-up-38826405/"
+      },
+      {
+        "user": "Alan W",
+        "url": "https://www.pexels.com/video/a-paramedic-closing-the-back-door-of-an-ambulance-vehicle-10161809/"
+      },
+      {
+        "user": "Marina Leonova",
+        "url": "https://www.pexels.com/video/maps-creation-made-of-cork-7601997/"
+      },
+      {
+        "user": "K",
+        "url": "https://www.pexels.com/video/commercial-airplanes-on-runway-at-busy-airport-33676368/"
+      },
+      {
+        "user": "Serena Xu",
+        "url": "https://www.pexels.com/photo/night-view-of-tiananmen-gate-in-beijing-31427555/"
+      },
+      {
+        "user": "J.D. Books",
+        "url": "https://www.pexels.com/photo/chinese-national-emblem-on-modern-building-facade-32512900/"
+      },
+      {
+        "user": "Ruslan Masharipov",
+        "url": "https://www.pexels.com/photo/man-steering-motorboat-17871927/"
+      },
+      {
+        "user": "Vind 🌙",
+        "url": "https://www.pexels.com/photo/craftsman-at-work-in-his-workshop-16589937/"
+      },
+      {
+        "user": "Pavel Danilyuk",
+        "url": "https://www.pexels.com/video/employees-stamping-and-writing-on-the-papers-7593780/"
+      },
+      {
+        "user": "Drinu Cutajar",
+        "url": "https://www.pexels.com/photo/dhl-cargo-plane-on-airport-runway-in-sunny-weather-29358895/"
+      },
+      {
+        "user": "Dan Wright",
+        "url": "https://www.pexels.com/photo/jet2-holidays-airplane-landing-close-up-37172041/"
+      },
+      {
+        "user": "Altaf Shah",
+        "url": "https://www.pexels.com/video/in-flight-safety-demonstration-aboard-airplane-31923712/"
+      },
+      {
+        "user": "Ann H",
+        "url": "https://www.pexels.com/photo/question-and-answer-letters-and-an-exclamation-and-question-marks-11183364/"
+      },
+      {
+        "user": "Nikita  Grishin",
+        "url": "https://www.pexels.com/photo/man-flying-an-aircraft-11581856/"
+      },
+      {
+        "user": "Abdulvahap Demir",
+        "url": "https://www.pexels.com/photo/fuel-and-temperature-gauges-on-a-black-panel-board-12509457/"
+      },
+      {
+        "user": "K",
+        "url": "https://www.pexels.com/video/busy-airport-terminal-security-checkpoint-scene-32654547/"
+      },
+      {
+        "user": "Tom Fisk",
+        "url": "https://www.pexels.com/photo/white-airliner-2730174/"
+      },
+      {
+        "user": "Andrew Seto",
+        "url": "https://www.pexels.com/photo/an-empty-stadium-with-red-seats-5597361/"
+      },
+      {
+        "user": "Oğuzhan Kara",
+        "url": "https://www.pexels.com/video/aviation-show-security-guard-and-skies-39609963/"
+      },
+      {
+        "user": "RDNE Stock project",
+        "url": "https://www.pexels.com/photo/photo-of-flight-attendants-smiling-5778311/"
+      },
+      {
+        "user": "Soly Moses",
+        "url": "https://www.pexels.com/photo/historic-fighter-plane-display-with-commercial-jet-39057149/"
+      },
+      {
+        "user": "Earth Photart",
+        "url": "https://www.pexels.com/video/sunrise-at-an-airport-runway-with-airplanes-34921346/"
+      },
+      {
+        "user": "betül nur akyürek",
+        "url": "https://www.pexels.com/photo/cozy-candlelit-corner-with-warm-ambiance-39547648/"
+      },
+      {
+        "user": "K.",
+        "url": "https://www.pexels.com/photo/searching-for-photos-on-the-website-17793440/"
+      }
+    ],
+    "presenter": {
+      "mode": "full",
+      "engine": "card"
+    }
+  }
+}
