@@ -309,6 +309,11 @@ export async function makeLongVideo(date = today()) {
   if (!music) console.log("  (no background music — add royalty-free tracks to assets/music/)");
   await mux({ video, narration, sfx: effects, music, out: final, cwd: dir });
 
+  // Free disk space before the 4K step: the individual shots and the silent video are no longer needed
+  // (the clips stay — the Shorts reuse them).
+  fs.rmSync(path.join(dir, "shots"), { recursive: true, force: true });
+  fs.rmSync(video, { force: true });
+
   // 4K master for YouTube: high-quality upscale + light sharpening. YouTube processes 4K uploads with its best
   // codecs (VP9/AV1), so the video looks sharper even for people watching in 1080p.
   if (config.output4k) {

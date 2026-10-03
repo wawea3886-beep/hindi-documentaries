@@ -44,6 +44,12 @@ jobs:
       PRESENTER_FACE_Y: ${{ vars.PRESENTER_FACE_Y }}
       OUTPUT_4K: ${{ vars.OUTPUT_4K }}
     steps:
+      - name: Free disk space (HD clips + 4K master need room)
+        if: github.event_name != 'push'
+        run: |
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /opt/hostedtoolcache/CodeQL /usr/local/share/boost || true
+          df -h / | tail -1
+
       - uses: actions/checkout@v4
 
       - uses: actions/setup-node@v4
