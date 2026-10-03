@@ -2246,7 +2246,7 @@
         "Urdu documentary"
       ],
       "render": {
-        "duration": 54.134
+        "duration": 54.4
       }
     },
     {
@@ -2270,7 +2270,7 @@
         "Urdu documentary"
       ],
       "render": {
-        "duration": 53.136
+        "duration": 53.304
       }
     },
     {
@@ -2294,14 +2294,14 @@
         "Urdu documentary"
       ],
       "render": {
-        "duration": 48.867
+        "duration": 49.272
       }
     }
   ],
   "metaChecked": true,
   "wordCount": 4206,
   "render": {
-    "duration": 1790.68,
+    "duration": 1825.76,
     "chapters": [
       {
         "start": 0,
@@ -2309,37 +2309,37 @@
         "titleRoman": "Wo Launch Jiski Tafseel Koi Bata Nahi Sakta"
       },
       {
-        "start": 103.36,
+        "start": 106.91999999999999,
         "titleEn": "Built in Columbia's Shadow",
         "titleRoman": "Columbia Ke Saaye Mein Bana Jahaz"
       },
       {
-        "start": 322.32000000000005,
+        "start": 332.24000000000007,
         "titleEn": "Mission 51-J: A Secret on Day One",
         "titleRoman": "Mission 51-J: Pehle Din Hi Ek Raaz"
       },
       {
-        "start": 559.5200000000001,
+        "start": 575.76,
         "titleEn": "Fifty Days, Then Silence",
         "titleRoman": "Pachas Din Aur Phir Khamoshi"
       },
       {
-        "start": 802.6,
+        "start": 822.44,
         "titleEn": "Close Call: The Tiles of STS-27",
         "titleRoman": "Qareeb Se Bacha: STS-27 Ki Tiles"
       },
       {
-        "start": 1028.96,
+        "start": 1050.08,
         "titleEn": "Probes, Observatories and a Telescope",
         "titleRoman": "Probes, Observatories Aur Ek Telescope"
       },
       {
-        "start": 1276.9999999999998,
+        "start": 1301.7200000000003,
         "titleEn": "Mir, the Space Station and a Few Strange Problems",
         "titleRoman": "Mir, Space Station Aur Kuch Ajeeb Masail"
       },
       {
-        "start": 1536.48,
+        "start": 1565.9200000000003,
         "titleEn": "The Last Flight and What Remains",
         "titleRoman": "Aakhri Parwaz Aur Jo Baqi Hai"
       }
@@ -2396,7 +2396,7 @@
       "reused": 0,
       "fallback": 0
     },
-    "renderedAt": "2026-10-02T14:37:32.035Z",
+    "renderedAt": "2026-10-03T00:09:05.406Z",
     "clipCredits": [
       {
         "user": "Kindel Media",
@@ -2599,13 +2599,13 @@
         "site": "Pexels"
       },
       {
-        "user": "Lars H Knudsen",
-        "url": "https://www.pexels.com/video/sailboat-on-the-sea-7649033/",
+        "user": "Daniel Narinian",
+        "url": "https://www.pexels.com/video/birds-eye-view-of-sailboats-on-sea-11880095/",
         "site": "Pexels"
       },
       {
-        "user": "Daniel Narinian",
-        "url": "https://www.pexels.com/video/birds-eye-view-of-sailboats-on-sea-11880095/",
+        "user": "Lars H Knudsen",
+        "url": "https://www.pexels.com/video/sailboat-on-the-sea-7649033/",
         "site": "Pexels"
       },
       {
@@ -2624,6 +2624,11 @@
         "site": "Pexels"
       },
       {
+        "user": "Pavel Danilyuk",
+        "url": "https://www.pexels.com/video/shot-of-a-school-of-fish-underwater-7318092/",
+        "site": "Pexels"
+      },
+      {
         "user": "Vincuk Konan",
         "url": "https://www.pexels.com/video/close-up-on-hand-stamping-on-box-10578405/",
         "site": "Pexels"
@@ -2634,13 +2639,13 @@
         "site": "Pexels"
       },
       {
-        "user": "Andretti Brown",
-        "url": "https://www.pexels.com/video/american-flag-over-raleigh-state-capitol-building-34779888/",
+        "user": "K",
+        "url": "https://www.pexels.com/video/flags-of-the-ukraine-and-the-usa-fly-in-front-of-a-tall-building-26986484/",
         "site": "Pexels"
       },
       {
-        "user": "K",
-        "url": "https://www.pexels.com/video/flags-of-the-ukraine-and-the-usa-fly-in-front-of-a-tall-building-26986484/",
+        "user": "Andretti Brown",
+        "url": "https://www.pexels.com/video/american-flag-over-raleigh-state-capitol-building-34779888/",
         "site": "Pexels"
       },
       {
@@ -2819,6 +2824,11 @@
         "site": "Pexels"
       },
       {
+        "user": "Armend Istrefi",
+        "url": "https://www.pexels.com/video/close-up-on-clock-on-green-background-10432925/",
+        "site": "Pexels"
+      },
+      {
         "user": "Vinay",
         "url": "https://www.pexels.com/video/a-dark-storm-cloud-is-seen-in-the-sky-17311357/",
         "site": "Pexels"
@@ -2874,8 +2884,8 @@
         "site": "Pexels"
       },
       {
-        "user": "Shafiq 🇺🇸",
-        "url": "https://www.pexels.com/video/american-flag-flies-in-desert-landscape-30197365/",
+        "user": "Mario Spencer",
+        "url": "https://www.pexels.com/video/costa-rican-flag-waving-outside-modern-building-39932460/",
         "site": "Pexels"
       },
       {
@@ -3009,13 +3019,13 @@
         "site": "Pexels"
       },
       {
-        "user": "Kindel Media",
-        "url": "https://www.pexels.com/video/kids-playing-spaceship-at-the-park-7106705/",
+        "user": "Pixabay",
+        "url": "https://www.pexels.com/video/space-shuttle-taking-off-854253/",
         "site": "Pexels"
       },
       {
-        "user": "Pixabay",
-        "url": "https://www.pexels.com/video/space-shuttle-taking-off-854253/",
+        "user": "Kindel Media",
+        "url": "https://www.pexels.com/video/kids-playing-spaceship-at-the-park-7106705/",
         "site": "Pexels"
       },
       {
@@ -3069,18 +3079,18 @@
         "site": "Pexels"
       },
       {
-        "user": "Nino Souza",
-        "url": "https://www.pexels.com/video/people-works-on-a-broadcast-of-an-event-2890236/",
-        "site": "Pexels"
-      },
-      {
-        "user": "Arnold Hazisllari",
-        "url": "https://www.pexels.com/video/music-producer-working-19463238/",
+        "user": "Kiwi and Camera",
+        "url": "https://www.pexels.com/video/modern-control-room-monitoring-operations-38779102/",
         "site": "Pexels"
       },
       {
         "user": "Kiwi and Camera",
         "url": "https://www.pexels.com/video/advanced-traffic-management-control-room-38779109/",
+        "site": "Pexels"
+      },
+      {
+        "user": "Arnold Hazisllari",
+        "url": "https://www.pexels.com/video/music-producer-working-19463238/",
         "site": "Pexels"
       },
       {
@@ -3099,8 +3109,8 @@
         "site": "Pexels"
       },
       {
-        "user": "Salva F. Ayala",
-        "url": "https://www.pexels.com/video/airplane-landing-over-cars-10406880/",
+        "user": "Roberto Chavez",
+        "url": "https://www.pexels.com/video/video-of-a-plane-landing-1319747/",
         "site": "Pexels"
       },
       {
@@ -3235,7 +3245,7 @@
       },
       {
         "user": "Adis Resic",
-        "url": "https://www.pexels.com/video/futuristic-spaceships-orbiting-earth-in-space-38426444/",
+        "url": "https://www.pexels.com/video/futuristic-spaceship-orbiting-earth-34932151/",
         "site": "Pexels"
       },
       {
@@ -3298,8 +3308,8 @@
         "site": "Pexels"
       },
       {
-        "user": "Vincuk Konan",
-        "url": "https://www.pexels.com/video/close-up-on-man-looking-through-microscope-10603048/",
+        "user": "CESAR CASANOVA",
+        "url": "https://www.pexels.com/video/a-person-using-a-microscope-6531437/",
         "site": "Pexels"
       },
       {
@@ -3527,13 +3537,13 @@
         "site": "Pexels"
       },
       {
-        "user": "Kiwi and Camera",
-        "url": "https://www.pexels.com/video/high-tech-control-room-with-traffic-monitoring-38779099/",
+        "user": "Nino Souza",
+        "url": "https://www.pexels.com/video/people-works-on-a-broadcast-of-an-event-2890236/",
         "site": "Pexels"
       },
       {
         "user": "Kiwi and Camera",
-        "url": "https://www.pexels.com/video/modern-control-room-monitoring-operations-38779102/",
+        "url": "https://www.pexels.com/video/high-tech-control-room-with-traffic-monitoring-38779099/",
         "site": "Pexels"
       },
       {
@@ -3557,13 +3567,13 @@
         "site": "Pexels"
       },
       {
-        "user": "cottonbro studio",
-        "url": "https://www.pexels.com/video/a-man-disassembling-metal-parts-7568445/",
+        "user": "Artem Podrez",
+        "url": "https://www.pexels.com/video/mechanic-working-on-an-engine-8986876/",
         "site": "Pexels"
       },
       {
-        "user": "Artem Podrez",
-        "url": "https://www.pexels.com/video/mechanic-working-on-an-engine-8986876/",
+        "user": "cottonbro studio",
+        "url": "https://www.pexels.com/video/a-man-disassembling-metal-parts-7568445/",
         "site": "Pexels"
       },
       {
@@ -3682,13 +3692,13 @@
         "site": "Pexels"
       },
       {
-        "user": "Nino Souza",
-        "url": "https://www.pexels.com/video/close-up-of-gadgets-and-control-panels-used-by-technical-people-in-a-control-room-2889410/",
+        "user": "RDNE Stock project",
+        "url": "https://www.pexels.com/video/video-of-a-music-studio-8197913/",
         "site": "Pexels"
       },
       {
-        "user": "RDNE Stock project",
-        "url": "https://www.pexels.com/video/video-of-a-music-studio-8197913/",
+        "user": "Nino Souza",
+        "url": "https://www.pexels.com/video/close-up-of-gadgets-and-control-panels-used-by-technical-people-in-a-control-room-2889410/",
         "site": "Pexels"
       },
       {
@@ -3703,7 +3713,7 @@
       },
       {
         "user": "Adis Resic",
-        "url": "https://www.pexels.com/video/futuristic-spaceship-orbiting-earth-34932151/",
+        "url": "https://www.pexels.com/video/futuristic-spaceships-orbiting-earth-in-space-38426444/",
         "site": "Pexels"
       },
       {
