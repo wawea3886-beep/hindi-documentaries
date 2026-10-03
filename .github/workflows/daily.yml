@@ -42,6 +42,7 @@ jobs:
       PRESENTER_MODE: ${{ vars.PRESENTER_MODE }}
       PRESENTER_MAX_MINUTES: ${{ vars.PRESENTER_MAX_MINUTES }}
       PRESENTER_FACE_Y: ${{ vars.PRESENTER_FACE_Y }}
+      OUTPUT_4K: ${{ vars.OUTPUT_4K }}
     steps:
       - uses: actions/checkout@v4
 

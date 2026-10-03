@@ -30,7 +30,7 @@ async function verticalShot({ image, clip }, out, frames, move) {
       `zoompan=z='${z0}+(${z1 - z0})*on/${frames}':x='(${fx0}+(${fx1 - fx0})*on/${frames})*(iw-iw/zoom)':y='(${fy0}+(${fy1 - fy0})*on/${frames})*(ih-ih/zoom)':d=${frames}:s=${W}x${IMG_H}:fps=${FPS}[fg]`;
   }
   await ffmpeg([...args, "-filter_complex", `${fg};[bg][fg]overlay=0:${IMG_Y}:shortest=1,format=yuv420p[v]`,
-    "-map", "[v]", "-frames:v", String(frames), "-r", String(FPS), "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-an", out]);
+    "-map", "[v]", "-frames:v", String(frames), "-r", String(FPS), "-c:v", "libx264", "-preset", "veryfast", "-crf", "17", "-an", out]);
   return out;
 }
 
@@ -113,7 +113,7 @@ async function makeShort(ep, short, visuals, narrator) {
   await ffmpeg([...args, "-filter_complex",
     `[0:v][1:v]overlay=0:0:shortest=1[b];${captions};${audio}`,
     "-map", "[v]", "-map", "[a]", "-t", duration.toFixed(3), "-r", String(FPS),
-    "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", "short.mp4"], { cwd: dir });
+    "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", "short.mp4"], { cwd: dir });
 
   short.render = { duration: await mediaDuration(out) };
   console.log(`    ✔ ${short.render.duration.toFixed(1)}s`);

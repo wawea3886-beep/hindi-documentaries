@@ -110,7 +110,8 @@ export async function uploadAll(date = today(), { dryRun = hasFlag("dry-run") } 
   console.log(`⬆ YouTube uploads for ${date}${dryRun ? " (dry run)" : ""}`);
 
   // ---- Long video ----
-  const longFile = workDir(date, "long", "long.mp4");
+  // Upload the 4K master when there is one (YouTube gives 4K uploads its best quality processing).
+  const longFile = fs.existsSync(workDir(date, "long", "long-4k.mp4")) ? workDir(date, "long", "long-4k.mp4") : workDir(date, "long", "long.mp4");
   const longAt = ep.youtube.long?.publishAt || scheduleTime(date, config.longPublishUTC);
   const tags = ep.meta.tags;
   if (dryRun) {

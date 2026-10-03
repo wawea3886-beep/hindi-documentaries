@@ -253,7 +253,7 @@ export async function renderShot({ image, clip, clipStart = 0, out, frames, fps,
   });
   f.push(`[v${overlays.length}]format=yuv420p[vout]`);
   await ffmpeg([...args, "-filter_complex", f.join(";"), "-map", "[vout]", "-frames:v", String(N), "-r", String(fps),
-    "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-g", String(fps * 2), "-an", out]);
+    "-c:v", "libx264", "-preset", "veryfast", "-crf", "17", "-g", String(fps * 2), "-an", out]);
   return out;
 }
 

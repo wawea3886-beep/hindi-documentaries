@@ -52,6 +52,7 @@ export default {
     scam: ["money counting", "stock market screen", "office night"],
   },
   maxClipsPerScene: 3,
+  output4k: process.env.OUTPUT_4K !== "false", // upload a 4K (3840x2160) master of the long video
 
   // ---- Presenter: photo in assets/presenter/ → free "narrator card" (photo + voice waveform),
   //      or real lip-sync with HeyGen when HEYGEN_API_KEY is set ----

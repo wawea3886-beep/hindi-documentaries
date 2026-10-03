@@ -308,6 +308,21 @@ export async function makeLongVideo(date = today()) {
   const music = await musicBed(ROOT, t, path.join(dir, "music"), date);
   if (!music) console.log("  (no background music — add royalty-free tracks to assets/music/)");
   await mux({ video, narration, sfx: effects, music, out: final, cwd: dir });
+
+  // 4K master for YouTube: high-quality upscale + light sharpening. YouTube processes 4K uploads with its best
+  // codecs (VP9/AV1), so the video looks sharper even for people watching in 1080p.
+  if (config.output4k) {
+    const t4 = Date.now();
+    try {
+      await ffmpeg(["-i", "long.mp4", "-vf", "scale=3840:2160:flags=lanczos,unsharp=5:5:0.5:5:5:0,format=yuv420p",
+        "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-maxrate", "45M", "-bufsize", "90M", "-g", "50",
+        "-c:a", "copy", "-movflags", "+faststart", "long-4k.mp4"], { cwd: dir });
+      console.log(`  ✔ 4K master: ${(fs.statSync(path.join(dir, "long-4k.mp4")).size / 1e9).toFixed(2)} GB in ${Math.round((Date.now() - t4) / 60000)} min`);
+    } catch (e) {
+      fs.rmSync(path.join(dir, "long-4k.mp4"), { force: true }); // never upload a half-written file
+      console.warn(`  ⚠ 4K master failed (${e.message.split("\n")[0]}) — uploading the HD version instead`);
+    }
+  }
   fs.writeFileSync(path.join(dir, "captions.srt"), srt(toCues(subtitleWords)));
   fs.writeFileSync(path.join(dir, "visuals.json"), JSON.stringify(visuals));
 

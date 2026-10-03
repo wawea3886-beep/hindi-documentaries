@@ -50,7 +50,7 @@ async function pexelsVideos(query) {
   if (r.status === 429) { limited.add("pexels"); console.warn("    Pexels hourly limit reached — using other sources"); return []; }
   if (!r.ok) throw new Error(`Pexels ${r.status}`);
   return ((await r.json()).videos || []).flatMap((v) => {
-    const f = (v.video_files || []).filter((x) => x.file_type === "video/mp4" && x.width >= 1280 && x.width <= 1920 && x.width > x.height).sort((a, b) => a.width - b.width)[0];
+    const f = (v.video_files || []).filter((x) => x.file_type === "video/mp4" && x.width >= 1280 && x.width <= 1920 && x.width > x.height).sort((a, b) => b.width - a.width || (b.fps || 0) - (a.fps || 0))[0]; // best quality up to Full HD
     return f && v.duration >= 4 ? [{ id: `px${v.id}`, duration: v.duration, url: f.link, credit: { user: v.user?.name || "Pexels", url: v.url, site: "Pexels" } }] : [];
   });
 }
