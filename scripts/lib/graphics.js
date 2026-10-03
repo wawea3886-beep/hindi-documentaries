@@ -220,7 +220,8 @@ export async function renderFallback(label, out, { w = 1920, h = 1080 } = {}) {
 }
 
 /** YouTube thumbnail 1280x720: dramatic picture + huge 2-line text + the presenter (photo) or the animated host. */
-export async function renderThumbnail({ image, text, host = true, photo = null }, out) {
+export async function renderThumbnail({ image, text, host = true, photo = null, cutout = null }, out) {
+  if (cutout && fs.existsSync(cutout)) return explainerThumbnail({ image, text, cutout }, out);
   const w = 1280, h = 720;
   const c = createCanvas(w, h), ctx = c.getContext("2d");
   ctx.fillStyle = "#111";
@@ -271,6 +272,91 @@ export async function renderThumbnail({ image, text, host = true, photo = null }
       outlined(ctx, l, 60, y, "#fff", "#000", 8);
     } else outlined(ctx, l, 60, y, YELLOW, "#000", 12);
     y += 165;
+  });
+  return save(c, out);
+}
+
+/**
+ * Big-explainer-channel thumbnail: vivid topic picture, the presenter cut out large on the right with a white rim,
+ * and 1-3 huge words at the top — the last part in a red box.
+ */
+async function explainerThumbnail({ image, text, cutout }, out) {
+  const w = 1280, h = 720;
+  const c = createCanvas(w, h), ctx = c.getContext("2d");
+  ctx.fillStyle = "#101418";
+  ctx.fillRect(0, 0, w, h);
+  if (image && fs.existsSync(image)) {
+    const bg = await loadImage(fs.readFileSync(image));
+    const s = Math.max(w / bg.width, h / bg.height);
+    // Tall photos: keep the upper part (faces/subjects), not the middle.
+    const y = bg.height > bg.width ? (h - bg.height * s) * 0.12 : (h - bg.height * s) / 2;
+    ctx.save();
+    ctx.filter = "saturate(1.45) contrast(1.18) brightness(1.02)";
+    ctx.drawImage(bg, (w - bg.width * s) / 2, y, bg.width * s, bg.height * s);
+    ctx.restore();
+  }
+  // Vignette + darker top band so the words always read.
+  const v = ctx.createRadialGradient(w * 0.38, h * 0.6, h * 0.25, w * 0.45, h * 0.55, w * 0.85);
+  v.addColorStop(0, "rgba(0,0,0,0)");
+  v.addColorStop(1, "rgba(0,0,0,0.6)");
+  ctx.fillStyle = v;
+  ctx.fillRect(0, 0, w, h);
+  const top = ctx.createLinearGradient(0, 0, 0, h * 0.5);
+  top.addColorStop(0, "rgba(0,0,0,0.55)");
+  top.addColorStop(1, "rgba(0,0,0,0)");
+  ctx.fillStyle = top;
+  ctx.fillRect(0, 0, w, h * 0.5);
+
+  // Presenter: large on the right, white rim + shadow so he pops off the background.
+  const person = await loadImage(fs.readFileSync(cutout));
+  const ph = h * 1.08, pw = (person.width / person.height) * ph;
+  const px = w - pw * 0.9, py = h * 0.04;
+  const rim = createCanvas(Math.ceil(pw), Math.ceil(ph)), r = rim.getContext("2d");
+  r.drawImage(person, 0, 0, pw, ph);
+  r.globalCompositeOperation = "source-in";
+  r.fillStyle = "#ffffff";
+  r.fillRect(0, 0, pw, ph);
+  ctx.save();
+  ctx.shadowColor = "rgba(0,0,0,0.85)";
+  ctx.shadowBlur = 45;
+  for (const [dx, dy] of [[-6, 0], [6, 0], [0, -6], [0, 6], [-4, -4], [4, -4]]) ctx.drawImage(rim, px + dx, py + dy);
+  ctx.restore();
+  ctx.save();
+  ctx.filter = "contrast(1.08) saturate(1.1)";
+  ctx.drawImage(person, px, py, pw, ph);
+  ctx.restore();
+
+  // Words: line 1 white, last line white-on-red box (or yellow when it's a single short word).
+  const words = (text || "").toUpperCase().split(/\s+/).filter(Boolean).slice(0, 5);
+  const lines = words.length >= 3 ? [words.slice(0, Math.ceil(words.length / 2)).join(" "), words.slice(Math.ceil(words.length / 2)).join(" ")]
+    : words.length === 2 ? [words[0], words[1]] : words;
+  const maxW = px - 60;
+  ctx.textBaseline = "alphabetic";
+  let y = 30;
+  lines.forEach((l, i) => {
+    const last = i === lines.length - 1 && lines.length > 1;
+    const f = fit(ctx, l, (px2) => headFont(l, px2), last ? 150 : 170, 70, maxW - (last ? 40 : 0), 1);
+    ctx.font = headFont(l, f.px);
+    y += f.px * (i === 0 ? 1.0 : 1.08);
+    if (last) {
+      const tw = ctx.measureText(l).width;
+      ctx.save();
+      ctx.translate(40, y);
+      ctx.rotate(-0.02);
+      ctx.fillStyle = RED;
+      ctx.shadowColor = "rgba(0,0,0,0.6)";
+      ctx.shadowBlur = 20;
+      ctx.fillRect(-12, -f.px * 0.9, tw + 44, f.px * 1.06);
+      ctx.restore();
+      outlined(ctx, l, 50, y, "#fff", "rgba(0,0,0,0.65)", 6);
+    } else {
+      ctx.save();
+      ctx.shadowColor = "rgba(0,0,0,0.8)";
+      ctx.shadowBlur = 25;
+      outlined(ctx, l, 40, y, lines.length === 1 ? YELLOW : "#fff", "#000", 14);
+      ctx.restore();
+    }
+    y += 12;
   });
   return save(c, out);
 }

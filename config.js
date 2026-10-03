@@ -39,7 +39,18 @@ export default {
   // ---- Editing style ----
   shotSeconds: 4.5, // change the camera move / picture about this often (fast, modern documentary pacing)
   videoFirst: true, // every scene tries real stock VIDEO footage before any still picture
+  noStills: true, // no photos or illustrations in the video (only footage, plus a few maps and date cards)
   clipSeconds: 5.5, // cut to a different clip about this often
+  // When a scene's own search finds no footage: atmospheric searches that fit the topic's category.
+  moodQueries: {
+    mystery: ["foggy forest night", "old documents desk", "night sky stars timelapse"],
+    disaster: ["storm clouds timelapse", "dark ocean waves", "emergency lights night"],
+    survival: ["dense jungle aerial", "mountain wilderness", "person walking alone"],
+    history: ["old city aerial", "ancient ruins", "vintage film texture"],
+    science: ["laboratory research", "earth from space", "microscope science"],
+    crime: ["city night street", "police lights night", "old documents desk"],
+    scam: ["money counting", "stock market screen", "office night"],
+  },
   maxClipsPerScene: 3,
 
   // ---- Presenter: photo in assets/presenter/ → free "narrator card" (photo + voice waveform),

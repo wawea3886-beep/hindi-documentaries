@@ -14,7 +14,7 @@ import { downloadPhoto } from "./lib/research.js";
 import { renderMap } from "./lib/maps.js";
 import { stockClips, stockPhoto, searchWords } from "./lib/stock.js";
 import { hostTrack } from "./lib/host.js";
-import { presenterClips, presenterMode, presenterStill, presenterEngine } from "./lib/presenter.js";
+import { presenterClips, presenterMode, presenterStill, presenterEngine, presenterCutout } from "./lib/presenter.js";
 import { sfxTrack } from "./lib/sfx.js";
 
 const FPS = 25, W = 1920, H = 1080;
@@ -58,6 +58,28 @@ function toCues(words) {
   return cues;
 }
 
+/**
+ * A dramatic background for the thumbnail when there's no AI picture: the best real photo of the topic
+ * (no diagrams, maps or logos; landscape preferred), else a stock photo, else a frame from the footage.
+ */
+async function thumbnailBackground(ep, dir, scenes) {
+  const dull = /diagram|map|logo|chart|seal|announcement|portrait|signature|plan|graph|table|cutaway|patch|insignia|emblem|crest|flag|document|letter|page|schematic|drawing/i;
+  const want = new Set(searchWords(ep.meta.thumbnailPrompt || "").split(" ").concat(searchWords(ep.topic.name).split(" ")).filter((w) => w.length > 3));
+  const score = (p) => (p.width >= p.height ? 2 : 0) + [...want].filter((w) => `${p.title} ${p.description}`.toLowerCase().includes(w)).length;
+  for (const p of [...ep.photos].filter((x) => !dull.test(`${x.title} ${x.description}`)).sort((a, b) => score(b) - score(a)).slice(0, 3)) {
+    try { const f = path.join(dir, "photos", `${p.id}-thumb.img`); await downloadPhoto(p, f); return f; } catch { /* next */ }
+  }
+  const stock = await stockPhoto(searchWords(ep.meta.thumbnailPrompt || ep.topic.name), path.join(dir, "img", "thumb-stock.jpg"));
+  if (stock) return stock.path;
+  const sc = scenes.find((s) => s.clip);
+  if (sc) {
+    const f = path.join(dir, "img", "thumb-frame.jpg");
+    await ffmpeg(["-ss", "1", "-i", sc.clip, "-frames:v", "1", "-q:v", "2", f]).catch(() => {});
+    if (fs.existsSync(f)) return f;
+  }
+  return null;
+}
+
 export async function makeLongVideo(date = today()) {
   const ep = readEpisode(date);
   if (ep?.stage !== "done") throw new Error(`Script for ${date} is not finished. Run write-episode first.`);
@@ -74,7 +96,7 @@ export async function makeLongVideo(date = today()) {
 
   const narrator = new Narrator();
   const stats = { ai: 0, stock: 0, clip: 0, photo: 0, map: 0, card: 0, reused: 0, fallback: 0 };
-  const lastImages = [], aiImages = [];
+  const lastImages = [], aiImages = [], episodeClips = [];
   const visuals = {}; // beatId → { image } | { clip } (the Shorts reuse these)
   const scenes = [], audio = [], subtitleWords = [], chapterStarts = [], chapterPads = [], sfx = [], clipCredits = [];
   const lastCh = ep.chapters.length - 1;
@@ -114,8 +136,18 @@ export async function makeLongVideo(date = today()) {
         // VIDEO FIRST: clip scenes — and illustration scenes too — try real moving footage before any still picture.
         if (kind === "clip" || (kind === "ai" && config.videoFirst)) {
           const want = Math.min(config.maxClipsPerScene, Math.max(1, Math.round(secs / config.clipSeconds)));
-          clips = await stockClips(v.query || searchWords(v.prompt), want, path.join(dir, "clips", beat.id));
-          if (clips.length) { clip = clips[0].path; kind = "clip"; clips.forEach((c) => clipCredits.push(c.credit)); }
+          const query = v.query || searchWords(v.prompt);
+          // 1. the planned search, 2. a broader one, 3. a mood search for the topic's category
+          for (const q of [query, query.split(" ").slice(-2).join(" "), ...(config.moodQueries[ep.topic.category] || config.moodQueries.history)]) {
+            if (!q || clips.length) continue;
+            clips = await stockClips(q, want, path.join(dir, "clips", `${beat.id}-${clips.length}${q === query ? "" : "b"}`));
+          }
+          // 4. no new footage: reuse different moments of clips already in this video (never a still picture).
+          if (!clips.length && config.noStills && episodeClips.length) {
+            clips = Array.from({ length: Math.min(want, episodeClips.length) }, () => episodeClips[Math.floor(rand() * episodeClips.length)]);
+            stats.reusedClip = (stats.reusedClip || 0) + 1;
+          } else clips.forEach((c) => { clipCredits.push(c.credit); episodeClips.push(c); });
+          if (clips.length) { clip = clips[0].path; kind = "clip"; }
           else kind = "ai";
         }
         if (kind === "photo") {
@@ -280,7 +312,9 @@ export async function makeLongVideo(date = today()) {
   fs.writeFileSync(path.join(dir, "visuals.json"), JSON.stringify(visuals));
 
   const still = mode !== "off" ? await presenterStill(dir) : null;
-  await renderThumbnail({ image: thumbOk ? thumbSrc : lastImages[0], text: ep.meta.thumbnailText, photo: still, host: mode === "off" },
+  const cutout = mode !== "off" && presenterCutout();
+  const thumbBg = thumbOk ? thumbSrc : await thumbnailBackground(ep, dir, scenes);
+  await renderThumbnail({ image: thumbBg || lastImages[0], text: ep.meta.thumbnailText, photo: still, cutout, host: mode === "off" },
     path.join(dir, "thumbnail.jpg"));
 
   // Small copies for the website.

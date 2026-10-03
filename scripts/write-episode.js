@@ -7,6 +7,8 @@ import config from "../config.js";
 import { llmJSON, provider, listFrom } from "./lib/llm.js";
 import { trendingTopics, fetchArticle, fetchPhotos } from "./lib/research.js";
 import { today, readEpisode, writeEpisode, allEpisodes, slugify, hasFlag, isMain } from "./lib/util.js";
+import { searchWords } from "./lib/stock.js";
+import { trendingTags } from "./lib/trends.js";
 
 const MAX_SOURCE_CHARS = 90000;
 const CATEGORIES = ["mystery", "disaster", "survival", "history", "science", "crime", "scam"];
@@ -28,18 +30,17 @@ const STYLE = `NARRATION STYLE — Urdu mixed with English, the way popular Sout
   sectarian or India–Pakistan opinions.
 - Do NOT copy phrases, catchphrases or intros of any existing YouTuber.`;
 
-const VISUALS = `This is a VIDEO documentary: about 3 of every 4 beats must show real MOVING FOOTAGE. Think like a documentary editor —
-what real-world B-roll matches this sentence? Every beat gets exactly one "visual":
-- {"type":"clip","query":"2-4 English words for stock VIDEO of a generic, filmable scene","prompt":"AI illustration if no footage is found"}
-  THE DEFAULT for most beats. Good queries: 'stormy ocean waves night', 'airport runway plane takeoff', 'control room monitors',
-  'rescue helicopter flying', 'old documents desk', 'city skyline night', 'scientist laboratory'. Concrete, visual, 2-4 words.
-  Never search for specific real people, logos or brand names.
-- {"type":"photo","photo":"p3"} — a real photo from the list, only when it shows exactly what is said. Each photo at most twice.
+const VISUALS = `This is a VIDEO documentary — NO still pictures. At least 9 of every 10 beats must be real MOVING FOOTAGE.
+Think like a documentary editor: what real-world B-roll matches this sentence? Every beat gets exactly one "visual":
+- {"type":"clip","query":"2-4 English words for stock VIDEO of a generic, filmable scene"} — for almost every beat.
+  Good queries: 'stormy ocean waves night', 'airport runway plane takeoff', 'control room monitors', 'rescue helicopter flying',
+  'old documents desk', 'city skyline night', 'scientist laboratory', 'rocket launch smoke'. Concrete, visual, 2-4 words,
+  and vary them — don't repeat the same query. Never search for specific real people, logos or brand names.
 - {"type":"map","place":"Baltic Sea","lat":58.9,"lon":21.2,"zoom":"world|continent|region|country|city","label":"short English label"}
-  when a location first matters (accurate coordinates), at most 1 per chapter.
-- {"type":"card","title":"28 SEPTEMBER 1994","text":"short English line"} only for the single most important date/number — at most 1 per chapter.
-- {"type":"ai","query":"2-4 words for footage","prompt":"one illustration"} — only for a specific historical scene that stock footage
-  cannot show, at most 2 per chapter (footage is still tried first). Describe people generically; no text; nothing graphic.
+  only when a location first matters (accurate coordinates) — at most 4 in the whole video.
+- {"type":"card","title":"28 SEPTEMBER 1994","text":"short English line"} only for the single most important date or number —
+  at most 4 in the whole video.
+Do NOT use photos or illustrations.
 Optional "highlight" on about 1 beat in 4: 1-4 KEY WORDS in English CAPITALS shown on screen while they are spoken
 (e.g. "989 PEOPLE ON BOARD"), max 28 characters, must state a fact from that beat.`;
 
@@ -122,6 +123,7 @@ Return JSON:
 "descriptionEn":"90-120 word English synopsis that makes people want to watch (no spoilers of the ending)",
 "descriptionUr":"60-90 word synopsis in Roman Urdu (English letters)",
 "tags":["20 search tags mixing English and Roman Urdu, e.g. 'ms estonia documentary', 'ms estonia in urdu'"],
+"searchNames":["2-3 SHORT names people type into YouTube search for this topic, e.g. 'el faro', 'ss el faro', 'hurricane joaquin'"],
 "hashtags":["3 hashtags without spaces, starting with #"],
 "metaDescription":"150-160 character English summary for Google",
 "chapters":[{"titleEn":"English chapter title","titleRoman":"the same title in Roman Urdu","covers":"which facts/events from the sources this chapter covers","words":300}]}`;
@@ -135,6 +137,11 @@ const str = (v, max = 5000) => (typeof v === "string" && v.trim() ? v.trim().sli
 function normalizeVisual(v, photoIds, characters) {
   v = v && typeof v === "object" ? v : {};
   const ai = (prompt) => ({ type: "ai", prompt: str(prompt) || characters, ...(str(v.query) ? { query: str(v.query, 60) } : {}) });
+  // Video only: anything planned as a photo or illustration becomes a footage search.
+  if (config.noStills && (v.type === "photo" || v.type === "ai" || !v.type)) {
+    const query = str(v.query, 60) || searchWords(str(v.prompt) || str(v.description) || characters);
+    return { type: "clip", query, prompt: str(v.prompt) || characters };
+  }
   switch (v.type) {
     case "photo": return photoIds.has(v.photo) ? { type: "photo", photo: v.photo } : ai(v.prompt);
     case "card": return str(v.title) ? { type: "card", title: str(v.title, 40), text: str(v.text, 80) } : ai(v.prompt);
@@ -437,6 +444,7 @@ export async function writeScript(date = today(), { force = hasFlag("force"), mo
       youtubeTitle: str(o.youtubeTitle, 95), slug: `${date}-${slugify(ep.topic.name)}`,
       thumbnailText: o.thumbnailText, thumbnailPrompt: o.thumbnailPrompt, characters: o.characters,
       descriptionEn: o.descriptionEn, descriptionUr: o.descriptionUr, tags: cleanTags(o.tags),
+      searchNames: listFrom(o, "searchNames").map(String).filter((s) => s.length > 2).slice(0, 3),
       hashtags: (o.hashtags || []).map((h) => "#" + String(h).replace(/[#\s]/g, "")).slice(0, 3), metaDescription: o.metaDescription,
     };
     ep.chapters = o.chapters.slice(0, 10).map((c) => ({ titleEn: str(c.titleEn), titleRoman: str(c.titleRoman), covers: c.covers, words: Number(c.words) || 350 }));
@@ -477,6 +485,15 @@ export async function writeScript(date = today(), { force = hasFlag("force"), mo
     await checkMetadata(ep, sources);
     ep.metaChecked = true;
     writeEpisode(ep);
+  }
+  // Trending tags: what people are actually typing into YouTube search about this topic right now.
+  if (!ep.meta.trendingTags) {
+    const seeds = [...(ep.meta.searchNames || []), ...ep.topic.wikiTitles.slice(0, 2).map((t) => t.replace(/\(.*?\)/g, "")), ep.topic.name.replace(/^the\s+/i, "").replace(/\(.*?\)/g, "")];
+    const trending = await trendingTags(seeds);
+    ep.meta.trendingTags = trending.slice(0, 15);
+    ep.meta.tags = cleanTags([...trending.slice(0, 12), ...ep.meta.tags]);
+    writeEpisode(ep);
+    console.log(`  ✔ Trending tags (${trending.length} found): ${trending.slice(0, 8).join(" | ")}`);
   }
   const beats = ep.chapters.flatMap((c) => c.beats);
   const noRoman = beats.filter((b) => !b.roman).length;

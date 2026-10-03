@@ -13,8 +13,14 @@ const key = () => process.env.HEYGEN_API_KEY;
 export function presenterPhoto() {
   const dir = path.join(ROOT, "assets/presenter");
   if (!fs.existsSync(dir)) return null;
-  const f = fs.readdirSync(dir).find((n) => /\.(jpe?g|png)$/i.test(n));
+  const f = fs.readdirSync(dir).find((n) => /\.(jpe?g|png)$/i.test(n) && !/^cutout/i.test(n)); // the cutout is only for thumbnails
   return f ? path.join(dir, f) : null;
+}
+
+/** The presenter cut out from his background (for thumbnails) — made once with scripts/make-presenter-cutout.js. */
+export function presenterCutout() {
+  const f = path.join(ROOT, "assets/presenter/cutout.png");
+  return fs.existsSync(f) ? f : null;
 }
 
 /** A HeyGen Photo Avatar made in the HeyGen dashboard (keeps the photo off the public GitHub project). */
