@@ -1,0 +1,2121 @@
+{
+  "date": "2026-10-18",
+  "stage": "done",
+  "generatedAt": "2026-10-17T21:59:53.603Z",
+  "language": "ur",
+  "topic": {
+    "name": "Venera 4: The First Probe to Reach Another Planet's Atmosphere",
+    "category": "science",
+    "angle": "In 1967 a Soviet probe plunged into Venus and sent back data that rewrote what we knew about our hellish sister planet, even though its readings were misread at first.",
+    "why": "Anniversary today: Venera 4 reached Venus on 18 October 1967.",
+    "wikiTitles": [
+      "Venera 4",
+      "Venera program",
+      "Venus",
+      "Mariner 5",
+      "Atmosphere of Venus"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Venera 4",
+      "url": "https://en.wikipedia.org/wiki/Venera_4"
+    },
+    {
+      "title": "Venera program",
+      "url": "https://en.wikipedia.org/wiki/Venera_program"
+    },
+    {
+      "title": "Venus",
+      "url": "https://en.wikipedia.org/wiki/Venus"
+    },
+    {
+      "title": "Mariner 5",
+      "url": "https://en.wikipedia.org/wiki/Mariner_5"
+    },
+    {
+      "title": "Atmosphere of Venus",
+      "url": "https://en.wikipedia.org/wiki/Atmosphere_of_Venus"
+    }
+  ],
+  "photos": [
+    {
+      "id": "p1",
+      "title": "Venera 4 (MMA 2011) (1)",
+      "description": "Mockup (1:3) of the spacecraft Venera 4 at Memorial Museum of Astronautics (Moscow).",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Venera_4_%28MMA_2011%29_%281%29.JPG/1920px-Venera_4_%28MMA_2011%29_%281%29.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Venera_4_(MMA_2011)_(1).JPG",
+      "width": 1920,
+      "height": 2880,
+      "artist": "Armael",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "id": "p2",
+      "title": "Venera-4 capsule in museum",
+      "description": "Capsule of Venera-4 in Memorial Museum of Astronautics",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Venera-4_capsule_in_museum.JPG/1920px-Venera-4_capsule_in_museum.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Venera-4_capsule_in_museum.JPG",
+      "width": 1920,
+      "height": 1280,
+      "artist": "Rave",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "p3",
+      "title": "The Soviet Union 1968 CPA 3623 stamp (Venera 4 Space probe)",
+      "description": "USSR stamp: Venera 4 Space Probe. Series: National Cosmonautics Day",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/The_Soviet_Union_1968_CPA_3623_stamp_%28Venera_4_Space_probe%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:The_Soviet_Union_1968_CPA_3623_stamp_(Venera_4_Space_probe).jpg",
+      "width": 1920,
+      "height": 1940,
+      "artist": "USSR Post",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p4",
+      "title": "Maat Mons on Venus",
+      "description": "Maat Mons is displayed in this three-dimensional perspective view of the surface of Venus. The viewpoint is located 560 kilometers (347 miles) north of Maat Mons at an elevation of 1.7 kilometers (1 m",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Maat_Mons_on_Venus.jpg/1920px-Maat_Mons_on_Venus.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Maat_Mons_on_Venus.jpg",
+      "width": 1920,
+      "height": 1536,
+      "artist": "NASA - Jet Propulsion Laboratory",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p5",
+      "title": "MESSENGER - Venus 630 nm stretch",
+      "description": "\"During the MESSENGER mission's second flyby of Venus, the Wide Angle Camera (WAC) of the Mercury Dual Imaging System (MDIS) acquired images through all of its 11 narrow-band color filters of the appr",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/MESSENGER_-_Venus_630_nm_stretch.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:MESSENGER_-_Venus_630_nm_stretch.jpg",
+      "width": 1920,
+      "height": 1920,
+      "artist": "NASA / JHU/APL",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p6",
+      "title": "Venus from Mariner 10",
+      "description": "As it sped away from Venus, NASA's Mariner 10 spacecraft captured this seemingly peaceful view of a planet the size of Earth, wrapped in a dense, global cloud layer. But, contrary to its serene appear",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Venus_from_Mariner_10.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Venus_from_Mariner_10.jpg",
+      "width": 1920,
+      "height": 1920,
+      "artist": "NASA/JPL-Caltech",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p7",
+      "title": "VenusTopoVenera",
+      "description": "Venera topography data displayed on a Winkel Tripel projection unsing GMT. Data from http://pds-geophys.wustl.edu/venera and gridded with Grass.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/VenusTopoVenera.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:VenusTopoVenera.jpg",
+      "width": 1920,
+      "height": 1357,
+      "artist": "Zamonin",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "p8",
+      "title": "VenusLanderTopo",
+      "description": "Position of Venera landing sites superimposed on combined Magellan/Pioneer/Venera topography data in Winkel Tripel projection using Grass GIS and PyGMT. Red dots denote sites returning images, black c",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/VenusLanderTopo.png/1920px-VenusLanderTopo.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:VenusLanderTopo.png",
+      "width": 1920,
+      "height": 1381,
+      "artist": "Zamonin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p9",
+      "title": "Venera 9 Space Probe 01",
+      "description": "Replica of Venera 9 space probe on display at the K. E. Tsiolkovsky Museum of the History of Cosmonautics",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Venera_9_Space_Probe_01.jpg/1920px-Venera_9_Space_Probe_01.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Venera_9_Space_Probe_01.jpg",
+      "width": 1920,
+      "height": 2263,
+      "artist": "Stolbovsky",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+    },
+    {
+      "id": "p10",
+      "title": "Venera 1 (a) (Memorial Museum of Astronautics)",
+      "description": "Mockup (1:1) of the spacecraft Venera 1 at Memorial Museum of Astronautics (Moscow).",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Venera_1_%28a%29_%28Memorial_Museum_of_Astronautics%29.JPG/1920px-Venera_1_%28a%29_%28Memorial_Museum_of_Astronautics%29.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Venera_1_(a)_(Memorial_Museum_of_Astronautics).JPG",
+      "width": 1920,
+      "height": 2880,
+      "artist": "Armael",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "id": "p11",
+      "title": "Venera-7 spuskaemiy apparat",
+      "description": "15.12.1970 перша м'яка посадка на поверхню Венери",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Venera-7_spuskaemiy_apparat.jpg/1920px-Venera-7_spuskaemiy_apparat.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Venera-7_spuskaemiy_apparat.jpg",
+      "width": 1920,
+      "height": 2560,
+      "artist": "Emerezhko",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p12",
+      "title": "Venera-7",
+      "description": "Descent vehicle of the Venera-7. Lavochkin Scientific Production Association. Russia, Moscow, BDNKh, Pavilion № 32 \"Cosmos\".",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Venera-7.jpg/1920px-Venera-7.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Venera-7.jpg",
+      "width": 1920,
+      "height": 1909,
+      "artist": "Stanislav Kozlovskiy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p13",
+      "title": "Vega model - Udvar-Hazy Center",
+      "description": "Vega solar system probe bus and landing apparatus (model) - Udvar-Hazy Center, Dulles International Airport, Chantilly, Virginia, USA.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Vega_model_-_Udvar-Hazy_Center.JPG/1920px-Vega_model_-_Udvar-Hazy_Center.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Vega_model_-_Udvar-Hazy_Center.JPG",
+      "width": 1920,
+      "height": 1440,
+      "artist": "Daderot",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p14",
+      "title": "Space probe Venera on the venus surface (artist recreation)",
+      "description": "Art recreation about one of the space probe from Venera program of Soviet Union on the venus surface.",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Space_probe_Venera_on_the_venus_surface_%28artist_recreation%29.jpg/1920px-Space_probe_Venera_on_the_venus_surface_%28artist_recreation%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Space_probe_Venera_on_the_venus_surface_(artist_recreation).jpg",
+      "width": 1920,
+      "height": 694,
+      "artist": "wewewegrafikbaydeh (Reimund Bertrams)",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "id": "p15",
+      "title": "Mars-Venera station liquid-based engine (2004)",
+      "description": "Liquid rocket engine of the automatic interplanetary station \"Mars-Venus\". 2004. Production of the Chemical Engineering Design Bureau named after. A.M. Isaev - branch of the Research and Production Ce",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Mars-Venera_station_liquid-based_engine_%282004%29.jpg/1920px-Mars-Venera_station_liquid-based_engine_%282004%29.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Mars-Venera_station_liquid-based_engine_(2004).jpg",
+      "width": 1920,
+      "height": 2433,
+      "artist": "shakko",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "p16",
+      "title": "Foto de Venera 9",
+      "description": "Photography of Venusian surface by Venera 9.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Foto_de_Venera_9.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Foto_de_Venera_9.png",
+      "width": 1920,
+      "height": 402,
+      "artist": "Ted Stryk",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p17",
+      "title": "Cut-away model of a Soviet Venera 12 lander",
+      "description": "A life-size, cut-away model of a Venera type Venus lander on display in one of the pavilions of the Exhibition of Achievements of the National Economy.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Cut-away_model_of_a_Soviet_Venera_12_lander.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Cut-away_model_of_a_Soviet_Venera_12_lander.jpg",
+      "width": 1920,
+      "height": 2855,
+      "artist": "Don S. Montgomery, U.S. Navy (Ret.)",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p18",
+      "title": "\"Венера-10\"",
+      "description": "\"Венера-10\"",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/%22%D0%92%D0%B5%D0%BD%D0%B5%D1%80%D0%B0-10%22.jpg/1920px-%22%D0%92%D0%B5%D0%BD%D0%B5%D1%80%D0%B0-10%22.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:%22%D0%92%D0%B5%D0%BD%D0%B5%D1%80%D0%B0-10%22.jpg",
+      "width": 1920,
+      "height": 1079,
+      "artist": "Bekhruzbek Ochilov",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    {
+      "id": "p19",
+      "title": "Venus pentagram",
+      "description": "The planet Venus orbits just over 13 times for every 8 orbits of the Earth, creating a pentagrammic pattern of inferior conjunctions. Each successive inferior conjunction occurs after about 1.6 Earth ",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Venus_pentagram.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Venus_pentagram.png",
+      "width": 1920,
+      "height": 1783,
+      "artist": "Own work by Tomruen",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p20",
+      "title": "Venus Tablet of Ammisaduqa",
+      "description": "Venus Tablet of Ammisaduqa. Neo-Assyrian period.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Venus_Tablet_of_Ammisaduqa.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Venus_Tablet_of_Ammisaduqa.jpg",
+      "width": 1920,
+      "height": 3237,
+      "artist": "Unknown",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "p21",
+      "title": "Venus Drawing",
+      "description": "Sketchings of the 1769 Venus Transit",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Venus_Drawing.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Venus_Drawing.jpg",
+      "width": 1920,
+      "height": 2352,
+      "artist": "Captain James Cook and Charles Green",
+      "license": "Public domain",
+      "licenseUrl": ""
+    },
+    {
+      "id": "p22",
+      "title": "Venus - December 23 2016",
+      "description": "Processed using ultraviolet (365nm &amp; 283nm) filtered images of Venus taken by Akatsuki on December 23 2016. JAXA/ISAS/DARTS/Kevin M. Gill",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Venus_-_December_23_2016.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Venus_-_December_23_2016.png",
+      "width": 1920,
+      "height": 1920,
+      "artist": "Kevin M. Gill",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    },
+    {
+      "id": "p23",
+      "title": "Venus-pacific-levelled",
+      "description": "Venus reflected on the Pacific Ocean.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Venus-pacific-levelled.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Venus-pacific-levelled.jpg",
+      "width": 1920,
+      "height": 1199,
+      "artist": "Brocken Inaglory",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "p24",
+      "title": "Venus-ParkerSolarProbe-July2020",
+      "description": "Planet Venus - Viewed by the Parker Solar Probe - July 2020 https://www.nasa.gov/feature/goddard/2021/parker-solar-probe-offers-a-stunning-view-of-venus NASA’s Parker Solar Probe had an up-close view ",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Venus-ParkerSolarProbe-July2020.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Venus-ParkerSolarProbe-July2020.jpg",
+      "width": 1920,
+      "height": 2215,
+      "artist": "NASA/Johns Hopkins APL/Naval Research Laboratory/Guillermo Stenborg and Brendan ",
+      "license": "Public domain",
+      "licenseUrl": ""
+    }
+  ],
+  "youtube": {},
+  "meta": {
+    "youtubeTitle": "The Probe That Fell Into Hell | Venera 4 True Story",
+    "slug": "2026-10-18-venera-4-the-first-probe-to-reach-another-planets-atmosphere",
+    "thumbnailText": "HELL PLANET",
+    "thumbnailPrompt": "A small spherical Soviet-era space capsule hanging from a parachute inside thick orange-yellow Venus clouds, glowing heat shield, dark dramatic sky, high contrast, empty dark space on the left for text",
+    "characters": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s.",
+    "descriptionEn": "On 18 October 1967 a small Soviet capsule fell into the clouds of Venus. For 93 minutes it descended, parachuting through the atmosphere and measuring a world no probe had ever analysed from the inside. What it found shocked scientists: a crushing atmosphere of carbon dioxide, a surprisingly weak magnetic field and almost no water. Yet the story did not end cleanly. Mission teams first announced that the probe had reached the surface, then a radar puzzle and a flyby from an American spacecraft revealed the truth. Discover how Venera 4 was built, how it survived entry, what it sent home, and how a misread signal changed the way we understand our hellish sister planet.",
+    "descriptionUr": "18 October 1967 ko ek chhota Soviet capsule Venus ke badlon mein gir gaya. 93 minute tak woh parachute ke saath utarta raha aur aisi duniya ko andar se naapta raha jahan pehle koi probe tajziya nahi kar saka tha. Jo data aya usne scientists ko hairan kar diya: bhaari carbon dioxide wali fizaa, kamzor magnetic field aur na-ke-barabar pani. Lekin kahani itni seedhi nahi thi. Pehle ailaan hua ke probe sathh tak pahunch gaya, phir radar ki ghalat fehmi aur Mariner 5 ke data ne sach saamne rakha. Dekhiye Venera 4 ki poori kahani.",
+    "tags": [
+      "venera 4",
+      "venera 4 metal shells",
+      "venera 4 launch",
+      "venera 4 in urdu translation",
+      "venera 4 explained in hindi",
+      "venera 4 story in hindi",
+      "venus probe 1967 explained in hindi",
+      "venus probe 1967 story in hindi",
+      "venus probe 1967 storyline",
+      "venera program",
+      "venera 4 documentary",
+      "venera 4 in urdu",
+      "venus probe",
+      "soviet space probe",
+      "first probe venus atmosphere",
+      "venus atmosphere",
+      "venus documentary urdu",
+      "venus hell planet",
+      "mariner 5",
+      "soviet space program",
+      "space documentary urdu",
+      "venus ki fiza",
+      "venus kya hai"
+    ],
+    "searchNames": [
+      "venera 4",
+      "venus probe 1967",
+      "venera program"
+    ],
+    "hashtags": [
+      "#Venera4",
+      "#Venus",
+      "#SpaceHistory"
+    ],
+    "metaDescription": "In 1967 Soviet probe Venera 4 plunged into Venus, measured its crushing atmosphere, and was first misread. The true story of the mission that rewrote Venus.",
+    "trendingTags": [
+      "venera 4",
+      "venera 4 metal shells",
+      "venera 4 launch",
+      "venera 4 in urdu translation",
+      "venera 4 explained in hindi",
+      "venera 4 story in hindi",
+      "venus probe 1967 explained in hindi",
+      "venus probe 1967 story in hindi",
+      "venus probe 1967 storyline",
+      "venera program"
+    ]
+  },
+  "chapters": [
+    {
+      "titleEn": "Falling Into the Clouds",
+      "titleRoman": "Badlon Mein Girna",
+      "covers": "Cold open: 18 October 1967 entry, heat shield at 11,000 °C, 300 G deceleration, parachute opens, data begins. Big questions: what is Venus really like, did the probe reach the surface, why was the first claim wrong?",
+      "words": 220,
+      "beats": [
+        {
+          "id": "c1b1",
+          "text": "18 اکتوبر 1967۔ ایک چھوٹا سا Soviet capsule Venus کے بادلوں کی طرف تیزی سے گر رہا ہے، اس کا نام Venera 4 ہے۔",
+          "roman": "18 October 1967. Ek chhota sa Soviet capsule Venus ke badlon ki taraf tezi se gir raha hai, is ka naam Venera 4 hai.",
+          "visual": {
+            "type": "clip",
+            "query": "orange clouds sky",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c1b2",
+          "text": "داخل ہوتے ہی اس کی heat shield کا درجہ حرارت 11,000 °C تک پہنچ گیا، اور capsule کی رفتار تیزی سے گھٹنے لگی۔",
+          "roman": "Dakhil hote hi is ki heat shield ka darja hararat 11,000 °C tak pahunch gaya, aur capsule ki raftar tezi se ghatne lagi.",
+          "visual": {
+            "type": "clip",
+            "query": "meteor burning atmosphere",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "11,000 °C"
+        },
+        {
+          "id": "c1b3",
+          "text": "اسی دوران ایک لمحہ ایسا بھی آیا جب اندر deceleration 300 G تک جا پہنچی۔ یعنی زمین کی کشش سے تین سو گنا زیادہ زور۔",
+          "roman": "Isi dauran aik lamha aisa bhi aaya jab andar deceleration 300 G tak ja pahunchi. Yani zameen ki kashish se teen sau guna ziyada zor.",
+          "visual": {
+            "type": "clip",
+            "query": "centrifuge test machine",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "300 G"
+        },
+        {
+          "id": "c1b4",
+          "text": "پھر تقریباً 52 کلومیٹر کی بلندی پر parachute کھلا، اور ایک تاریخی لمحہ شروع ہوا: کسی دوسرے سیارے کے اندر سے پہلی بار data زمین کی طرف آنے لگا۔",
+          "roman": "Phir taqriban 52 kilometre ki bulandi par parachute khula, aur aik tareekhi lamha shuru hua: kisi dusre sayyare ke andar se pehli bar data zameen ki taraf aane laga.",
+          "visual": {
+            "type": "clip",
+            "query": "parachute descending sky",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c1b5",
+          "text": "Venera 4 وہ پہلا spacecraft تھا جو کسی دوسرے سیارے کے atmosphere میں داخل ہو کر بچ نکلا۔ لیکن سوال یہ تھا کہ آگے کیا ہونے والا ہے۔",
+          "roman": "Venera 4 wo pehla spacecraft tha jo kisi dusre sayyare ke atmosphere mein dakhil ho kar bach nikla. Lekin sawal ye tha ke aage kya hone wala hai.",
+          "visual": {
+            "type": "clip",
+            "query": "spacecraft in space",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c1b6",
+          "text": "آج ہم اسی سفر کی پوری کہانی سنائیں گے۔ اس میں تین بڑے سوال ہیں، اور تینوں آپ کو سوچنے پر مجبور کر دیں گے۔",
+          "roman": "Aaj hum isi safar ki poori kahani sunayen ge. Is mein teen bare sawal hain, aur teenon aap ko sochne par majboor kar den ge.",
+          "visual": {
+            "type": "clip",
+            "query": "old documents desk",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c1b7",
+          "text": "پہلا سوال: Venus اصل میں کیسی جگہ ہے؟ بادلوں کے نیچے کا درجہ حرارت کیا ہے، ہوا کتنی بھاری ہے، اور اس میں کون سی گیسیں ہیں؟",
+          "roman": "Pehla sawal: Venus asal mein kaisi jagah hai? Badlon ke neeche ka darja hararat kya hai, hawa kitni bhaari hai, aur is mein kaun si gaisain hain?",
+          "visual": {
+            "type": "clip",
+            "query": "thick clouds timelapse",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c1b8",
+          "text": "دوسرا سوال: کیا یہ probe واقعی سیارے کی سطح تک پہنچا؟ شروع میں Soviet ٹیم کا جواب ہاں تھا۔ مگر کیا یہ جواب درست تھا؟",
+          "roman": "Dusra sawal: Kya ye probe waqai sayyare ki satah tak pahuncha? Shuru mein Soviet team ka jawab haan tha. Magar kya ye jawab durust tha?",
+          "visual": {
+            "type": "clip",
+            "query": "control room monitors",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c1b9",
+          "text": "اور تیسرا سوال: وہ پہلا دعویٰ غلط کیوں نکلا؟ اس کے پیچھے ایک چھوٹی سی technical غلط فہمی تھی، جس نے پورے نتیجے کو الٹ دیا۔",
+          "roman": "Aur teesra sawal: Wo pehla dawa ghalat kyun nikla? Is ke peechhe aik chhoti si technical ghalat fehmi thi, jis ne poore nateeje ko ulat diya.",
+          "visual": {
+            "type": "clip",
+            "query": "scientist chalkboard equations",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "On 18 October 1967, a small Soviet capsule called Venera 4 was plunging toward the clouds of Venus. As it entered the atmosphere, its heat shield reached 11,000 °C and the capsule began to slow rapidly. At one moment the deceleration inside hit 300 G, or three hundred times the pull of Earth's gravity.",
+        "Then, at an altitude of about 52 kilometres, the parachute opened. A historic moment began: for the first time, data was flowing back to Earth from inside another planet's atmosphere. Venera 4 was the first spacecraft to enter the atmosphere of another planet and survive. But the question was what would happen next.",
+        "This article tells the full story of that journey, built around three big questions. First: what kind of place is Venus? What is the temperature beneath the clouds, how heavy is the air, and which gases does it contain? Second: did the probe actually reach the planet's surface? The Soviet team's first answer was yes, but was it correct?",
+        "The third question is why that first claim turned out to be wrong. Behind it lay a small technical misunderstanding, one that turned the whole conclusion upside down."
+      ]
+    },
+    {
+      "titleEn": "Earth's Mysterious Twin",
+      "titleRoman": "Zameen Ki Pur-israar Behen",
+      "covers": "Venus context: similar size to Earth, cloud-covered, surface unknown, early speculation and science fiction, estimated pressures ranged from a few to hundreds of atmospheres, past Venera failures (Venera 1 telemetry loss, Venera 2, Venera 3 crash with no data), Mariner 2 in 1962.",
+      "words": 450,
+      "beats": [
+        {
+          "id": "c2b1",
+          "text": "Venus کو اکثر زمین کی sister یا twin کہا جاتا ہے۔ اس کا diameter 12,103.6 کلومیٹر ہے، یعنی زمین سے صرف 638.4 کلومیٹر کم۔",
+          "roman": "Venus ko aksar zameen ki sister ya twin kaha jata hai. Is ka diameter 12,103.6 kilometre hai, yani zameen se sirf 638.4 kilometre kam.",
+          "visual": {
+            "type": "clip",
+            "query": "planet earth rotating",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c2b2",
+          "text": "اس کی mass زمین کا 81.5 فیصد ہے۔ اتنی مشابہت دیکھ کر کچھ لوگ سوچتے تھے کہ وہاں کے حالات بھی شاید زمین جیسے ہوں گے۔",
+          "roman": "Is ki mass zameen ka 81.5 faisad hai. Itni mushabihat dekh kar kuch log sochte thay ke wahan ke halaat bhi shayad zameen jaise hon ge.",
+          "visual": {
+            "type": "clip",
+            "query": "tropical beach paradise",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "81.5% OF EARTH'S MASS"
+        },
+        {
+          "id": "c2b3",
+          "text": "مسئلہ یہ تھا کہ Venus کو پوری طرح گھنے بادلوں نے ڈھانپ رکھا ہے۔ telescope سے دیکھیں تو سطح کا کوئی نشان نظر نہیں آتا۔",
+          "roman": "Masla ye tha ke Venus ko poori tarah ghane badlon ne dhanp rakha hai. Telescope se dekhen to satah ka koi nishan nazar nahi aata.",
+          "visual": {
+            "type": "clip",
+            "query": "telescope night sky",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c2b4",
+          "text": "1920s میں ultraviolet تصویروں سے کچھ تفصیل نظر آئی، لیکن اس سے بھی یہ پتا نہیں چلا کہ بادلوں کے نیچے زمین کیسی ہے۔",
+          "roman": "1920s mein ultraviolet tasveeron se kuch tafseel nazar aayi, lekin is se bhi ye pata nahi chala ke badlon ke neeche zameen kaisi hai.",
+          "visual": {
+            "type": "clip",
+            "query": "vintage observatory telescope",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c2b5",
+          "text": "یہاں تک کہ Venus کے گھومنے کی رفتار بھی ایک معمہ تھی۔ بعد میں 1950s کے کام سے پتا چلا کہ یہ سیارہ الٹی سمت میں گھومتا ہے۔",
+          "roman": "Yahan tak ke Venus ke ghoomne ki raftar bhi aik muamma thi. Baad mein 1950s ke kaam se pata chala ke ye sayyara ulti simt mein ghoomta hai.",
+          "visual": {
+            "type": "clip",
+            "query": "planet spinning space",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c2b6",
+          "text": "جب سائنس خاموش ہو تو کہانیاں بولتی ہیں۔ 1930s سے 1950s تک science fiction میں Venus کو اکثر گرم مگر رہنے کے قابل جگہ دکھایا گیا۔",
+          "roman": "Jab science khamosh ho to kahaniyan bolti hain. 1930s se 1950s tak science fiction mein Venus ko aksar garam magar rehne ke qabil jagah dikhaya gaya.",
+          "visual": {
+            "type": "clip",
+            "query": "retro science fiction books",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c2b7",
+          "text": "لیکن سائنس دانوں کے پاس اصل اعداد و شمار نہیں تھے۔ Venus کی سطح پر pressure کتنا ہے؟ اندازے چند atmospheres سے لے کر سینکڑوں atmospheres تک پھیلے تھے۔",
+          "roman": "Lekin science danon ke paas asal aadad o shumar nahi thay. Venus ki satah par pressure kitna hai? Andaze chand atmospheres se le kar sainkdon atmospheres tak phailay thay.",
+          "visual": {
+            "type": "clip",
+            "query": "pressure gauge dial",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "FEW TO HUNDREDS OF ATM"
+        },
+        {
+          "id": "c2b8",
+          "text": "ذرا سوچیں، اگر آپ کو ایک ایسا capsule بنانا ہو جو شاید چند atmospheres میں چلے، یا شاید سینکڑوں میں، تو آپ اسے کتنا مضبوط بنائیں گے؟",
+          "roman": "Zara sochen, agar aap ko aik aisa capsule banana ho jo shayad chand atmospheres mein chale, ya shayad sainkdon mein, to aap use kitna mazboot banayen ge?",
+          "visual": {
+            "type": "clip",
+            "query": "engineer designing blueprint",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c2b9",
+          "text": "یہی مشکل Soviet engineers کے سامنے تھی، اور شروع کے سفر آسان نہیں تھے۔ پہلی کوشش 4 February 1961 کو ہوئی۔",
+          "roman": "Yahi mushkil Soviet engineers ke samne thi, aur shuru ke safar aasan nahi thay. Pehli koshish 4 February 1961 ko hui.",
+          "visual": {
+            "type": "clip",
+            "query": "1960s engineers meeting",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c2b10",
+          "text": "وہ probe Earth orbit چھوڑ نہ سکا۔ اسے Tyazhely Sputnik یعنی Heavy Satellite کے نام سے اعلان کیا گیا، کیونکہ اس وقت ناکام مشن announce نہیں کیے جاتے تھے۔",
+          "roman": "Wo probe Earth orbit chhor na saka. Use Tyazhely Sputnik yani Heavy Satellite ke naam se elan kiya gaya, kyunke us waqt nakam missions announce nahi kiye jate thay.",
+          "visual": {
+            "type": "clip",
+            "query": "rocket launch smoke",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c2b11",
+          "text": "پھر 12 February 1961 کو Venera 1 روانہ ہوئی۔ لیکن سات دن بعد اس کی telemetry ناکام ہو گئی اور رابطہ ٹوٹ گیا۔",
+          "roman": "Phir 12 February 1961 ko Venera 1 rawana hui. Lekin saat din baad is ki telemetry nakam ho gayi aur rabta toot gaya.",
+          "visual": {
+            "type": "clip",
+            "query": "radio antenna dish night",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c2b12",
+          "text": "ایک اندازے کے مطابق وہ Venus سے تقریباً 100,000 کلومیٹر کے فاصلے سے گزری، اور آج بھی Sun کے گرد چکر لگا رہی ہے۔",
+          "roman": "Aik andaze ke mutabiq wo Venus se taqriban 100,000 kilometre ke faasle se guzri, aur aaj bhi Sun ke gird chakkar laga rahi hai.",
+          "visual": {
+            "type": "clip",
+            "query": "sun space orbit",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c2b13",
+          "text": "12 November 1965 کو Venera 2 روانہ ہوئی۔ اس کا انجام بھی ملتا جلتا تھا: Earth orbit چھوڑنے کے بعد اس کی telemetry بھی خراب ہو گئی۔",
+          "roman": "12 November 1965 ko Venera 2 rawana hui. Is ka anjaam bhi milta julta tha: Earth orbit chhorne ke baad is ki telemetry bhi kharab ho gayi.",
+          "visual": {
+            "type": "clip",
+            "query": "rocket ascending sky",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c2b14",
+          "text": "Venera 3 کی باری آئی۔ 1 March 1966 کو وہ Venus کی سطح سے ٹکرائی، یوں انسان کی بنائی ہوئی پہلی چیز دوسرے سیارے تک پہنچی۔",
+          "roman": "Venera 3 ki bari aayi. 1 March 1966 ko wo Venus ki satah se takrayi, yun insan ki banayi hui pehli cheez dusre sayyare tak pahunchi.",
+          "visual": {
+            "type": "clip",
+            "query": "satellite orbiting planet",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "IMPACT 1 MARCH 1966"
+        },
+        {
+          "id": "c2b15",
+          "text": "مگر اس کے سائنسی instruments atmosphere میں داخل ہوتے ہی ناکام ہو گئے، اس لیے ایک بھی measurement واپس نہیں آیا۔ ایک بڑا موقع data کے بغیر ختم ہو گیا۔",
+          "roman": "Magar is ke saintifik instruments atmosphere mein dakhil hote hi nakam ho gaye, is liye aik bhi measurement wapas nahi aaya. Aik bara moqa data ke baghair khatam ho gaya.",
+          "visual": {
+            "type": "clip",
+            "query": "blank computer screen static",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c2b16",
+          "text": "اسی دوران United States کے Mariner 2 نے 14 December 1962 کو Venus کے پاس سے گزر کر پہلا کامیاب interplanetary mission مکمل کیا۔",
+          "roman": "Isi dauran United States ke Mariner 2 ne 14 December 1962 ko Venus ke paas se guzar kar pehla kamyab interplanetary mission mukammal kiya.",
+          "visual": {
+            "type": "clip",
+            "query": "spacecraft solar panels space",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c2b17",
+          "text": "وہ Venus کی سطح سے 34,833 کلومیٹر کی بلندی پر گزرا اور atmosphere کے بارے میں data جمع کیا۔ مگر flyby سے سطح کے اندر جھانکنا ممکن نہیں تھا۔",
+          "roman": "Wo Venus ki satah se 34,833 kilometre ki bulandi par guzra aur atmosphere ke bare mein data jama kiya. Magar flyby se satah ke andar jhankna mumkin nahi tha.",
+          "visual": {
+            "type": "clip",
+            "query": "planet flyby animation",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c2b18",
+          "text": "ابھی تک کوئی probe بادلوں کے اندر سے اپنی پیمائش زمین تک نہیں بھیج سکا تھا۔ سوال سادہ تھا: وہاں ہوا کتنی گرم ہے، اور کتنی بھاری؟",
+          "roman": "Abhi tak koi probe badlon ke andar se apni paimaish zameen tak nahi bhej saka tha. Sawal sada tha: wahan hawa kitni garam hai, aur kitni bhaari?",
+          "visual": {
+            "type": "clip",
+            "query": "dense fog clouds",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c2b19",
+          "text": "Venera 4 کی ٹیم کو اسی سوال کا جواب ڈھونڈنا تھا۔ اس کے لیے ایک ایسا capsule چاہیے تھا جو نامعلوم حالات میں زندہ رہ سکے۔",
+          "roman": "Venera 4 ki team ko isi sawal ka jawab dhoondna tha. Is ke liye aik aisa capsule chahiye tha jo namaloom halaat mein zinda reh sake.",
+          "visual": {
+            "type": "clip",
+            "query": "metal sphere workshop",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "Venus is often called Earth's sister or twin. Its diameter is 12,103.6 kilometres, only 638.4 kilometres less than Earth's, and its mass is 81.5 percent of Earth's. Given such similarities, some people thought conditions there might resemble those on Earth.",
+        "The problem was that thick clouds cover Venus completely. Through a telescope, no surface features can be seen. In the 1920s, ultraviolet images revealed some detail, but even that did not show what lay under the clouds. Even the planet's rotation was a mystery. Work in the 1950s later showed that it spins in the opposite direction.",
+        "Where science is silent, stories speak. From the 1930s to the 1950s, science fiction often portrayed Venus as hot but habitable. Scientists, however, lacked real numbers. Estimates of surface pressure ranged from a few atmospheres to hundreds. Imagine having to build a capsule that might operate in a few atmospheres, or in hundreds. How strong would you make it? This was the dilemma facing Soviet engineers, and the early flights were not easy.",
+        "The first attempt came on 4 February 1961, and that probe could not leave Earth orbit. It was announced as Tyazhely Sputnik, or Heavy Satellite, because failed missions were not announced at the time. Venera 1 launched on 12 February 1961, but seven days later its telemetry failed and contact was lost. By one estimate it passed about 100,000 kilometres from Venus and still orbits the Sun today.",
+        "Venera 2 launched on 12 November 1965 and met a similar fate: after leaving Earth orbit, its telemetry failed. Then came Venera 3. On 1 March 1966 it struck the surface of Venus, so the first human-made object reached another planet. But its scientific instruments failed as it entered the atmosphere, so not a single measurement came back. A great opportunity ended without data.",
+        "Meanwhile, the United States' Mariner 2 flew past Venus on 14 December 1962, completing the first successful interplanetary mission. It passed 34,833 kilometres from the planet and collected atmospheric data. But a flyby could not look inside the atmosphere, and no probe had yet sent measurements from within the clouds back to Earth.",
+        "The question was simple: how hot and how heavy is the air there? The Venera 4 team had to answer it, and for that they needed a capsule that could survive unknown conditions."
+      ]
+    },
+    {
+      "titleEn": "Building a Capsule for the Unknown",
+      "titleRoman": "Anjaan Ke Liye Capsule",
+      "covers": "Design: carrier spacecraft 3.5 m tall, instruments, 383 kg 1 m capsule, improved heat shield, gas cooling, tests (25 atm, 450 g centrifuge, cracked components replaced), parachute to 450 °C, battery for 100 minutes, 922 MHz transmitters, sterilization, sugar lock for water landing.",
+      "words": 500,
+      "beats": [
+        {
+          "id": "c3b1",
+          "text": "اب آتے ہیں اس مشین کی طرف جو Venus کے لیے بنائی گئی۔ Venera 4 دراصل دو حصوں کا نام تھا: ایک carrier spacecraft اور ایک landing capsule۔",
+          "roman": "Ab aate hain us machine ki taraf jo Venus ke liye banayi gayi. Venera 4 darasal do hisson ka naam tha: aik carrier spacecraft aur aik landing capsule.",
+          "visual": {
+            "type": "clip",
+            "query": "spacecraft assembly clean room",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c3b2",
+          "text": "Carrier spacecraft کی اونچائی 3.5 میٹر تھی۔ اس کے solar panels کی چوڑائی 4 میٹر اور رقبہ 2.5 مربع میٹر تھا۔",
+          "roman": "Carrier spacecraft ki unchai 3.5 meter thi. Is ke solar panels ki chorai 4 meter aur raqba 2.5 murabba meter tha.",
+          "visual": {
+            "type": "clip",
+            "query": "solar panels satellite",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "3.5 M TALL"
+        },
+        {
+          "id": "c3b3",
+          "text": "اس پر 2 میٹر لمبا magnetometer لگا تھا، ساتھ ایک ion detector، ایک cosmic ray detector، اور ایک ultraviolet spectrometer جو hydrogen اور oxygen گیسیں پہچان سکتا تھا۔",
+          "roman": "Is par 2 meter lamba magnetometer laga tha, sath aik ion detector, aik cosmic ray detector, aur aik ultraviolet spectrometer jo hydrogen aur oxygen gaisain pehchan sakta tha.",
+          "visual": {
+            "type": "clip",
+            "query": "scientific instruments laboratory",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c3b4",
+          "text": "پیچھے والے حصے میں liquid-fuel thruster تھا تاکہ راستے میں course درست کیا جا سکے۔ زمین سے 127 مختلف commands بھیجے جا سکتے تھے۔",
+          "roman": "Pichhle hisse mein liquid-fuel thruster tha takay raste mein course durust kiya ja sake. Zameen se 127 mukhtalif commands bheje ja sakte thay.",
+          "visual": {
+            "type": "clip",
+            "query": "rocket engine test fire",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c3b5",
+          "text": "منصوبہ یہ تھا کہ Venus پہنچ کر یہ carrier capsule کو چھوڑ دے گا اور خود ٹوٹ کر بکھر جائے گا۔ اصل کہانی capsule کی تھی۔",
+          "roman": "Mansooba ye tha ke Venus pahunch kar ye carrier capsule ko chhor dega aur khud toot kar bikhar jaye ga. Asal kahani capsule ki thi.",
+          "visual": {
+            "type": "clip",
+            "query": "satellite deploying space",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c3b6",
+          "text": "یہ capsule تقریباً گول تھا، اس کا diameter 1 میٹر اور وزن 383 کلوگرام تھا۔ اصل ذمہ داری اس کی heat shield پر تھی۔",
+          "roman": "Ye capsule taqriban gol tha, is ka diameter 1 meter aur wazan 383 kilogram tha. Asal zimmedari is ki heat shield par thi.",
+          "visual": {
+            "type": "card",
+            "title": "383 KG",
+            "text": "Landing capsule, 1 metre wide"
+          }
+        },
+        {
+          "id": "c3b7",
+          "text": "پچھلی ناکام Venera probes کے مقابلے میں اس کی heat shield بہتر بنائی گئی، جو 11,000 °C تک کا درجہ حرارت برداشت کر سکتی تھی۔",
+          "roman": "Pichhli nakam Venera probes ke muqable mein is ki heat shield behtar banayi gayi, jo 11,000 °C tak ka darja hararat bardasht kar sakti thi.",
+          "visual": {
+            "type": "clip",
+            "query": "welding sparks metal",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c3b8",
+          "text": "ٹھنڈا رکھنے کا نظام بھی بدلا گیا۔ پہلے liquid پر مبنی cooling design تھا، مگر اس بار ایک سادہ اور زیادہ قابلِ بھروسہ gas system لگایا گیا۔",
+          "roman": "Thanda rakhne ka nizam bhi badla gaya. Pehle liquid par mabni cooling design tha, magar is bar aik sada aur ziyada qabil-e-bharosa gas system lagaya gaya.",
+          "visual": {
+            "type": "clip",
+            "query": "cooling pipes industrial",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c3b9",
+          "text": "پھر آزمائش کا مرحلہ آیا۔ capsule کو تین منفرد testing installations میں پرکھا گیا، جہاں اسے زیادہ درجہ حرارت، دباؤ اور تیزی سے بڑھتی رفتار کا سامنا کرنا پڑا۔",
+          "roman": "Phir aazmaish ka marhala aaya. Capsule ko teen munfarid testing installations mein parkha gaya, jahan use ziyada darja hararat, dabao aur tezi se barhti raftar ka samna karna para.",
+          "visual": {
+            "type": "clip",
+            "query": "engineers testing equipment",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c3b10",
+          "text": "ایک high-temperature vacuum system میں اوپری atmosphere جیسے حالات بنائے گئے تاکہ دیکھا جا سکے کہ capsule کی heat resistance کتنی ہے۔",
+          "roman": "Aik high-temperature vacuum system mein upri atmosphere jaise halaat banaye gaye takay dekha ja sake ke capsule ki heat resistance kitni hai.",
+          "visual": {
+            "type": "clip",
+            "query": "vacuum chamber laboratory",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c3b11",
+          "text": "پھر capsule پر 25 atmospheres تک دباؤ ڈالا گیا۔ یاد رکھیں، اس وقت کوئی نہیں جانتا تھا کہ Venus کی سطح پر اصل pressure کتنا ہے۔",
+          "roman": "Phir capsule par 25 atmospheres tak dabao dala gaya. Yaad rakhen, us waqt koi nahi janta tha ke Venus ki satah par asal pressure kitna hai.",
+          "visual": {
+            "type": "clip",
+            "query": "pressure chamber steel",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "25 ATMOSPHERES TEST"
+        },
+        {
+          "id": "c3b12",
+          "text": "آخر میں centrifuge میں اسے 450 g تک کی acceleration دی گئی۔ اس test میں electronic components اور cable brackets میں دراڑیں پڑ گئیں۔",
+          "roman": "Akhir mein centrifuge mein use 450 g tak ki acceleration di gayi. Is test mein electronic components aur cable brackets mein dararen par gayin.",
+          "visual": {
+            "type": "clip",
+            "query": "spinning centrifuge machine",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c3b13",
+          "text": "یہ پرزے launch سے کچھ پہلے بدل دیے گئے۔ وقت بہت کم تھا، کیونکہ launch window چھوٹ جاتی تو سفر کے لیے مناسب دن ہاتھ سے نکل جاتے۔",
+          "roman": "Ye purze launch se kuch pehle badal diye gaye. Waqt bohat kam tha, kyunke launch window chhoot jati to safar ke liye munasib din hath se nikal jate.",
+          "visual": {
+            "type": "clip",
+            "query": "electronics circuit repair",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c3b14",
+          "text": "ڈیزائنرز نے ایک اور امکان بھی سوچا: اگر capsule پانی پر اترا تو؟ اس لیے وہ پانی پر تیر سکتا تھا۔",
+          "roman": "Designers ne aik aur imkan bhi socha: agar capsule pani par utra to? Is liye wo pani par tair sakta tha.",
+          "visual": {
+            "type": "clip",
+            "query": "ocean waves floating",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c3b15",
+          "text": "اس کا lock چینی سے بنایا گیا تھا۔ پانی لگتے ہی چینی گھل جاتی اور transmitter کے antennas آزاد ہو جاتے۔",
+          "roman": "Is ka lock chini se banaya gaya tha. Pani lagte hi chini ghul jati aur transmitter ke antennas azad ho jate.",
+          "visual": {
+            "type": "clip",
+            "query": "sugar dissolving water",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "SUGAR LOCK"
+        },
+        {
+          "id": "c3b16",
+          "text": "اس میں ایک نیا vibration-damping system بھی تھا، اور اس کا parachute 450 °C تک کی گرمی برداشت کر سکتا تھا۔",
+          "roman": "Is mein aik naya vibration-damping system bhi tha, aur is ka parachute 450 °C tak ki garmi bardasht kar sakta tha.",
+          "visual": {
+            "type": "clip",
+            "query": "parachute fabric sewing",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c3b17",
+          "text": "Capsule کے اندر altimeter، thermal control، thermometer، barometer، hydrometer اور gas analysis کے آلات موجود تھے۔ یعنی ایک چھوٹی سی سائنسی laboratory۔",
+          "roman": "Capsule ke andar altimeter, thermal control, thermometer, barometer, hydrometer aur gas analysis ke aalat maujood thay. Yani aik chhoti si scientific laboratory.",
+          "visual": {
+            "type": "clip",
+            "query": "scientist laboratory instruments",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c3b18",
+          "text": "data بھیجنے کے لیے دو transmitters تھے، جو 922 MHz پر کام کرتے تھے۔ رفتار صرف 1 bit فی سیکنڈ تھی، اور ہر 48 سیکنڈ بعد نئی measurement بھیجی جاتی۔",
+          "roman": "Data bhejne ke liye do transmitters thay, jo 922 MHz par kaam karte thay. Raftar sirf 1 bit fi second thi, aur har 48 second baad nayi measurement bheji jati.",
+          "visual": {
+            "type": "clip",
+            "query": "radio transmitter signal waves",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "922 MHZ, 1 BIT/S"
+        },
+        {
+          "id": "c3b19",
+          "text": "یہ transmitters parachute کھلتے ہی چالو ہونے تھے، جب باہر کا pressure 0.6 atmosphere تک پہنچے۔ اندازہ تھا کہ یہ تقریباً 26 کلومیٹر کی بلندی پر ہوگا۔",
+          "roman": "Ye transmitters parachute khulte hi chalu hone thay, jab bahar ka pressure 0.6 atmosphere tak pahunche. Andaza tha ke ye taqriban 26 kilometre ki bulandi par hoga.",
+          "visual": {
+            "type": "clip",
+            "query": "altimeter dial cockpit",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c3b20",
+          "text": "Capsule میں ایک rechargeable battery تھی جو 100 منٹ تک آلات چلا سکتی تھی۔ سفر کے دوران اسے carrier کے solar panels سے charged رکھا گیا۔",
+          "roman": "Capsule mein aik rechargeable battery thi jo 100 minute tak aalat chala sakti thi. Safar ke dauran use carrier ke solar panels se charged rakha gaya.",
+          "visual": {
+            "type": "clip",
+            "query": "battery charging electronics",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "100 MINUTES BATTERY"
+        },
+        {
+          "id": "c3b21",
+          "text": "آخر میں پورے station کو sterilize کیا گیا تاکہ Venus تک biological contamination نہ پہنچے۔ اب مشین تیار تھی۔ کیا وہ وقت پر روانہ ہو پائے گی؟",
+          "roman": "Akhir mein poore station ko sterilize kiya gaya takay Venus tak biological contamination na pahunche. Ab machine tayyar thi. Kya wo waqt par rawana ho paye gi?",
+          "visual": {
+            "type": "clip",
+            "query": "clean room technician suit",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "Venera 4 was actually the name for two parts: a carrier spacecraft and a landing capsule. The carrier stood 3.5 metres tall, with solar panels 4 metres across and an area of 2.5 square metres. It carried a 2-metre magnetometer, an ion detector, a cosmic ray detector, and an ultraviolet spectrometer that could detect hydrogen and oxygen gases.",
+        "At the rear was a liquid-fuel thruster for course corrections along the way, and 127 different commands could be sent from Earth. The plan was that on reaching Venus, the carrier would release the capsule and break apart.",
+        "The real story was the capsule. It was roughly spherical, 1 metre in diameter and weighing 383 kilograms. The heat shield carried the main burden. It was improved over earlier Venera probes and could withstand up to 11,000 °C. The cooling system changed too: instead of a liquid-based design, a simpler and more reliable gas system was used.",
+        "Then came testing. The capsule was tried in three separate installations, facing higher temperatures, pressure and rapidly increasing speed. A high-temperature vacuum system recreated upper-atmosphere conditions to check its heat resistance. Pressure of up to 25 atmospheres was then applied, though nobody knew the real surface pressure of Venus. Finally, a centrifuge subjected it to acceleration of up to 450 g. In that test, cracks appeared in electronic components and cable brackets. Those parts were replaced shortly before launch. Time was short, because missing the launch window would mean losing the right days for the journey.",
+        "The designers also considered what would happen if the capsule landed on water. It could float, and its lock was made of sugar. On contact with water the sugar would dissolve and free the transmitter antennas. It also had a new vibration-damping system, and its parachute could withstand up to 450 °C.",
+        "Inside were an altimeter, thermal control, thermometer, barometer, hydrometer and gas analysis instruments: in effect a small scientific laboratory. Two transmitters working at 922 MHz sent data at just 1 bit per second, with a new measurement every 48 seconds. They were to switch on as the parachute opened, when outside pressure reached 0.6 atmosphere, expected at roughly 26 kilometres altitude.",
+        "A rechargeable battery could power the instruments for 100 minutes, and the carrier's solar panels kept it charged during the journey. Finally, the whole station was sterilised to prevent biological contamination of Venus. The machine was ready. Would it leave on time?"
+      ]
+    },
+    {
+      "titleEn": "Launch and the Tight Window",
+      "titleRoman": "Launch Aur Tang Waqt",
+      "covers": "12 June 1967 Molniya-M launch from Baikonur, launch window pressure, Kosmos 167 twin failing to leave Earth orbit on 17 June, course correction 29 July at 12 million km, second correction cancelled, months of cruise.",
+      "words": 400,
+      "beats": [
+        {
+          "id": "c4b1",
+          "text": "12 جون 1967 کا دن آیا۔ Baikonur Cosmodrome سے ایک Molniya-M rocket نے اڑان بھری، اور اس کے اوپر لگا تھا Venera 4۔",
+          "roman": "12 Jun 1967 ka din aaya. Baikonur Cosmodrome se aik Molniya-M rocket ne udaan bhari, aur is ke upar laga tha Venera 4.",
+          "visual": {
+            "type": "map",
+            "place": "Baikonur Cosmodrome",
+            "lat": 45.92,
+            "lon": 63.34,
+            "zoom": "region",
+            "label": "Baikonur Cosmodrome"
+          },
+          "highlight": "12 JUNE 1967 LAUNCH"
+        },
+        {
+          "id": "c4b2",
+          "text": "لیکن اتنی جلدی کیوں؟ وجہ تھی launch window۔ یہ سال کے چند دن ہوتے ہیں جب Earth سے دوسرے سیارے تک کا راستہ سب سے کم توانائی مانگتا ہے۔",
+          "roman": "Lekin itni jaldi kyun? Wajah thi launch window. Yeh saal ke chand din hote hain jab Earth se doosre sayyare tak ka raasta sab se kam tawanai mangta hai.",
+          "visual": {
+            "type": "clip",
+            "query": "calendar pages turning",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c4b3",
+          "text": "Venus اور Earth تقریباً ہر 1.6 سال بعد ایک دوسرے کے قریب آتے ہیں۔ اگر یہ موقع نکل جاتا، تو انتظار بہت لمبا ہو جاتا۔",
+          "roman": "Venus aur Earth taqreeban har 1.6 saal baad aik doosre ke qareeb aate hain. Agar yeh mauqa nikal jata, to intezar bohat lamba ho jata.",
+          "visual": {
+            "type": "clip",
+            "query": "planets space orbit",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c4b4",
+          "text": "اسی لیے وقت بہت تنگ تھا۔ یاد ہے centrifuge test میں electronics اور cable brackets میں دراڑیں پڑ گئی تھیں؟ انہیں launch سے کچھ ہی پہلے بدلا گیا۔",
+          "roman": "Isi liye waqt bohat tang tha. Yaad hai centrifuge test mein electronics aur cable brackets mein dararen par gayi thin? Unhein launch se kuch hi pehle badla gaya.",
+          "visual": {
+            "type": "clip",
+            "query": "electronics circuit board",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c4b5",
+          "text": "Rocket بلند ہوا اور Venera 4 سفر پر نکل پڑا۔ مگر یہ ایک اکیلا مشن نہیں تھا۔ Soviet ٹیم نے دو تقریباً ایک جیسے 4V-1 probes تیار کیے تھے۔",
+          "roman": "Rocket buland hua aur Venera 4 safar par nikal para. Magar yeh aik akela mission nahi tha. Soviet team ne do taqreeban aik jaise 4V-1 probes tayyar kiye thay.",
+          "visual": {
+            "type": "clip",
+            "query": "rocket launch smoke",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c4b6",
+          "text": "17 جون کو دوسرا probe روانہ ہوا۔ اسے Kosmos 167 کہا گیا۔ مگر وہ low Earth orbit سے آگے نہ جا سکا۔",
+          "roman": "17 Jun ko doosra probe rawana hua. Isay Kosmos 167 kaha gaya. Magar woh low Earth orbit se aage na ja saka.",
+          "visual": {
+            "type": "clip",
+            "query": "rocket engine flames",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "KOSMOS 167 FAILED"
+        },
+        {
+          "id": "c4b7",
+          "text": "یعنی جوڑی میں سے ایک ناکام ہو چکا تھا۔ اب ساری امیدیں Venera 4 پر تھیں، جو Earth سے دور اکیلا Venus کی طرف بڑھ رہا تھا۔",
+          "roman": "Yani jori mein se aik nakam ho chuka tha. Ab saari umeeden Venera 4 par thin, jo Earth se door akela Venus ki taraf barh raha tha.",
+          "visual": {
+            "type": "clip",
+            "query": "stars deep space",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c4b8",
+          "text": "دو دن بعد America نے بھی اپنا Mariner 5 بھیجا۔ وہ 14 جون 1967 کو Cape Canaveral سے روانہ ہوا، اور اس کا ہدف بھی Venus تھا۔",
+          "roman": "Do din baad America ne bhi apna Mariner 5 bheja. Woh 14 Jun 1967 ko Cape Canaveral se rawana hua, aur is ka hadaf bhi Venus tha.",
+          "visual": {
+            "type": "clip",
+            "query": "launch pad rocket",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c4b9",
+          "text": "دونوں spacecraft ایک ہی سیارے کی طرف جا رہے تھے۔ آگے چل کر ان دونوں کا data ایک ساتھ پرکھا جانے والا تھا۔",
+          "roman": "Donon spacecraft aik hi sayyare ki taraf ja rahe thay. Aage chal kar in donon ka data aik saath parkha jane wala tha.",
+          "visual": {
+            "type": "clip",
+            "query": "satellite orbiting earth",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c4b10",
+          "text": "اب شروع ہوا لمبا سفر۔ Carrier spacecraft کے solar panels capsule کی battery کو charge رکھ رہے تھے، اور magnetometer جیسے آلات خلا کی پیمائش کر رہے تھے۔",
+          "roman": "Ab shuru hua lamba safar. Carrier spacecraft ke solar panels capsule ki battery ko charge rakh rahe thay, aur magnetometer jaise aalaat khala ki paimaish kar rahe thay.",
+          "visual": {
+            "type": "clip",
+            "query": "solar panels space",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c4b11",
+          "text": "مگر سفر کے دوران ایک بڑا مسئلہ تھا۔ سمت میں معمولی سی غلطی بھی لاکھوں کلومیٹر آگے جا کر بہت بڑی بن جاتی ہے۔",
+          "roman": "Magar safar ke dauran aik bara masla tha. Simt mein mamooli si ghalti bhi lakhon kilometre aage ja kar bohat bari ban jati hai.",
+          "visual": {
+            "type": "clip",
+            "query": "night sky telescope",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c4b12",
+          "text": "29 جولائی کو، جب probe Earth سے 12,000,000 کلومیٹر دور تھا، کنٹرول ٹیم نے ایک course correction کی۔ اس کے بغیر Venera 4 Venus کو مس کر دیتا۔",
+          "roman": "29 July ko, jab probe Earth se 12,000,000 kilometre door tha, control team ne aik course correction ki. Is ke baghair Venera 4 Venus ko miss kar deta.",
+          "visual": {
+            "type": "clip",
+            "query": "control room monitors",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "12 MILLION KM AWAY"
+        },
+        {
+          "id": "c4b13",
+          "text": "اصل میں دو corrections کا منصوبہ تھا۔ Station زمین سے بھیجے گئے 127 مختلف commands وصول کر کے ان پر عمل کر سکتا تھا۔",
+          "roman": "Asal mein do corrections ka mansooba tha. Station zameen se bheje gaye 127 mukhtalif commands wasool kar ke un par amal kar sakta tha.",
+          "visual": {
+            "type": "clip",
+            "query": "radio antenna dish",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c4b14",
+          "text": "لیکن پہلی correction ہی اتنی درست نکلی کہ دوسری منسوخ کر دی گئی۔ ایک خراب شروعات کے بعد یہ ایک اچھی خبر تھی۔",
+          "roman": "Lekin pehli correction hi itni durust nikli ke doosri mansookh kar di gayi. Aik kharab shuruaat ke baad yeh aik achhi khabar thi.",
+          "visual": {
+            "type": "clip",
+            "query": "engineers reviewing charts",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c4b15",
+          "text": "اب مہینوں تک انتظار تھا۔ Probe خاموشی سے خلا میں سفر کرتا رہا، اور 18 اکتوبر کی تاریخ آہستہ آہستہ قریب آتی گئی۔",
+          "roman": "Ab mahinon tak intezar tha. Probe khamoshi se khala mein safar karta raha, aur 18 October ki tareekh aahista aahista qareeb aati gayi.",
+          "visual": {
+            "type": "clip",
+            "query": "old documents desk",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "factFix": "The detail that engineers tracked the probe's path on paper charts is invented. No source says how the trajectory was monitored. The source only says the probe flew on after the correction until the Venus entry."
+        },
+        {
+          "id": "c4b16",
+          "text": "Plan یہ تھا کہ carrier کے آلات Venus کے atmosphere میں داخل ہونے تک کام کرتے رہیں۔ پھر وہ capsule کو چھوڑ کر ٹوٹ جائے گا۔",
+          "roman": "Plan yeh tha ke carrier ke aalaat Venus ke atmosphere mein daakhil hone tak kaam karte rahen. Phir woh capsule ko chhor kar toot jayega.",
+          "visual": {
+            "type": "clip",
+            "query": "spacecraft separating orbit",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c4b17",
+          "text": "18 اکتوبر 1967 قریب آ رہا تھا۔ ایک چھوٹا سا گولہ ایک نامعلوم دنیا میں اترنے کو تیار تھا۔ کیا وہ بچ پائے گا؟",
+          "roman": "18 October 1967 qareeb aa raha tha. Aik chhota sa gola aik namaloom duniya mein utarne ko tayyar tha. Kya woh bach paye ga?",
+          "visual": {
+            "type": "clip",
+            "query": "orange clouds planet",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "On 12 June 1967 a Molniya-M rocket lifted off from the Baikonur Cosmodrome with Venera 4 on top. Why the rush? The reason was the launch window: the few days of the year when the route from Earth to another planet needs the least energy. Venus and Earth come close to each other about every 1.6 years, and missing the chance would mean a very long wait.",
+        "That is why time was so tight. Remember the cracked electronics and cable brackets from the centrifuge test? They were replaced just before launch. The rocket rose and Venera 4 set off.",
+        "It was not a lone mission, though. The Soviet team had prepared two nearly identical 4V-1 probes. The second launched on 17 June and was named Kosmos 167, but it never got beyond low Earth orbit. One of the pair had already failed, and all hopes rested on Venera 4, travelling alone toward Venus.",
+        "Two days later, America sent its own Mariner 5, launched from Cape Canaveral on 14 June 1967 and also bound for Venus. Both spacecraft were heading for the same planet, and their data would later be examined together.",
+        "The long journey began. The carrier's solar panels kept the capsule's battery charged, while instruments such as the magnetometer measured space. But there was a big problem: even a tiny error in direction becomes enormous after millions of kilometres. On 29 July, with the probe 12,000,000 kilometres from Earth, the control team made a course correction. Without it, Venera 4 would have missed Venus.",
+        "Two corrections had been planned, and the station could receive and carry out 127 different commands from Earth. But the first correction was so accurate that the second was cancelled. After a poor start, this was good news.",
+        "Then came months of waiting. The probe travelled silently through space as 18 October slowly drew closer. The plan was for the carrier's instruments to work until entering Venus's atmosphere, then release the capsule and break apart. A small sphere was about to descend into an unknown world. Would it survive?"
+      ]
+    },
+    {
+      "titleEn": "93 Minutes of Descent",
+      "titleRoman": "93 Minute Ka Safar",
+      "covers": "18 October 1967 entry near 19°N 38°E; parachute at ~52 km; transmissions every 48 seconds at 1 bit/s; 33 °C at 52 km rising to 262 °C and 22 atm at 26 km; internal temperature −8 °C; signal ends; reception including Jodrell Bank.",
+      "words": 500,
+      "beats": [
+        {
+          "id": "c5b1",
+          "text": "18 اکتوبر 1967۔ Carrier spacecraft نے اپنا کام پورا کیا اور capsule کو الگ کر دیا۔ اب Venera 4 کا lander Venus کے atmosphere میں داخل ہو رہا تھا۔",
+          "roman": "18 October 1967. Carrier spacecraft ne apna kaam poora kiya aur capsule ko alag kar diya. Ab Venera 4 ka lander Venus ke atmosphere mein daakhil ho raha tha.",
+          "visual": {
+            "type": "card",
+            "title": "18 OCTOBER 1967",
+            "text": "Venera 4 enters Venus's atmosphere"
+          }
+        },
+        {
+          "id": "c5b2",
+          "text": "اس کی متوقع landing جگہ تقریباً 19 ڈگری North اور 38 ڈگری East کے قریب تھی۔ یہ اس وقت کا ایک تخمینہ تھا۔",
+          "roman": "Is ki mutawaqqe landing jagah taqreeban 19 degree North aur 38 degree East ke qareeb thi. Yeh us waqt ka aik takhmeena tha.",
+          "visual": {
+            "type": "clip",
+            "query": "dark clouds aerial",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c5b3",
+          "text": "پھر آیا سب سے خطرناک مرحلہ۔ Capsule تیزی سے نیچے آ رہا تھا، اور heat shield کا temperature 11,000 ڈگری Celsius تک جا پہنچا۔",
+          "roman": "Phir aaya sab se khatarnak marhala. Capsule tezi se neeche aa raha tha, aur heat shield ka temperature 11,000 degree Celsius tak ja pahuncha.",
+          "visual": {
+            "type": "clip",
+            "query": "fire flames burning",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "11,000 °C HEAT SHIELD"
+        },
+        {
+          "id": "c5b4",
+          "text": "ایک موقع پر capsule کی رفتار گھٹنے کی شدت 300 G تک پہنچ گئی۔ یعنی اپنے وزن سے 300 گنا زور۔ سوچیں، اندر آلات پر کیا گزر رہی ہوگی!",
+          "roman": "Aik mauqe par capsule ki raftaar ghatne ki shiddat 300 G tak pahunch gayi. Yani apne wazan se 300 guna zor. Sochein, andar aalaat par kya guzar rahi hogi!",
+          "visual": {
+            "type": "clip",
+            "query": "centrifuge machine spinning",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "300 G DECELERATION"
+        },
+        {
+          "id": "c5b5",
+          "text": "ٹیسٹ میں capsule کو 450 g تک آزمایا گیا تھا۔ اب یہی امتحان لیب میں نہیں، ایک اجنبی آسمان میں ہو رہا تھا۔",
+          "roman": "Test mein capsule ko 450 g tak aazmaya gaya tha. Ab yahi imtihan lab mein nahi, aik ajnabi aasman mein ho raha tha.",
+          "visual": {
+            "type": "clip",
+            "query": "laboratory testing equipment",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c5b6",
+          "text": "Capsule بچ گیا۔ Venera 4 دوسرے سیارے کے atmosphere میں داخلے کے بعد زندہ رہنے والا پہلا spacecraft بن گیا۔",
+          "roman": "Capsule bach gaya. Venera 4 doosre sayyare ke atmosphere mein daakhle ke baad zinda rehne wala pehla spacecraft ban gaya.",
+          "visual": {
+            "type": "clip",
+            "query": "parachute descending sky",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "FIRST TO SURVIVE ENTRY"
+        },
+        {
+          "id": "c5b7",
+          "text": "تقریباً 52 کلومیٹر کی بلندی پر parachute کھل گیا۔ اسی لمحے transmitters چالو ہوئے اور capsule نے pressure، temperature اور gas composition کا data بھیجنا شروع کر دیا۔",
+          "roman": "Taqreeban 52 kilometre ki bulandi par parachute khul gaya. Isi lamhe transmitters chaalu hue aur capsule ne pressure, temperature aur gas composition ka data bhejna shuru kar diya.",
+          "visual": {
+            "type": "clip",
+            "query": "parachute opening sky",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "PARACHUTE AT 52 KM"
+        },
+        {
+          "id": "c5b8",
+          "text": "منصوبے میں اس کا اندازہ تقریباً 26 کلومیٹر کی بلندی تھا۔ حقیقت میں parachute اس سے تقریباً دگنی اونچائی پر کھلا۔ Venus اندازوں سے مختلف نکل رہا تھا۔",
+          "roman": "Mansoobe mein is ka andaza taqreeban 26 kilometre ki bulandi tha. Haqeeqat mein parachute is se taqreeban dugni unchai par khula. Venus andazon se mukhtalif nikal raha tha.",
+          "visual": {
+            "type": "clip",
+            "query": "foggy clouds descending",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c5b9",
+          "text": "Data کی رفتار بہت سست تھی، صرف 1 bit فی سیکنڈ۔ ہر 48 سیکنڈ بعد ایک نئی measurement زمین کی طرف روانہ ہوتی تھی۔",
+          "roman": "Data ki raftaar bohat sust thi, sirf 1 bit fi second. Har 48 second baad aik nayi measurement zameen ki taraf rawana hoti thi.",
+          "visual": {
+            "type": "clip",
+            "query": "digital data stream",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c5b10",
+          "text": "یہ signals 922 MHz پر آ رہے تھے۔ انہیں کئی stations نے وصول کیا، جن میں England کی Jodrell Bank Observatory بھی شامل تھی۔",
+          "roman": "Yeh signals 922 MHz par aa rahe thay. Unhein kai stations ne wasool kiya, jin mein England ki Jodrell Bank Observatory bhi shamil thi.",
+          "visual": {
+            "type": "clip",
+            "query": "radio telescope dish",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c5b11",
+          "text": "سوچیں، دور خلا سے آنے والا ایک انتہائی سست سگنل، اور زمین پر بڑے dishes اسے پکڑنے کی کوشش میں۔ ہر نیا bit ایک نئی دنیا کھول رہا تھا۔",
+          "roman": "Sochein, door khala se aane wala aik intehai sust signal, aur zameen par bare dishes ise pakarne ki koshish mein. Har naya bit aik nayi duniya khol raha tha.",
+          "visual": {
+            "type": "clip",
+            "query": "satellite dish night",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c5b12",
+          "text": "پہلا پیغام نسبتاً نرم تھا۔ 52 کلومیٹر کی بلندی پر temperature 33 ڈگری Celsius تھا، اور pressure 1 standard atmosphere سے بھی کم۔",
+          "roman": "Pehla paigham nisbatan narm tha. 52 kilometre ki bulandi par temperature 33 degree Celsius tha, aur pressure 1 standard atmosphere se bhi kam.",
+          "visual": {
+            "type": "clip",
+            "query": "thermometer temperature gauge",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "33 °C AT 52 KM"
+        },
+        {
+          "id": "c5b13",
+          "text": "مگر capsule جیسے جیسے نیچے اترتا گیا، ہر پیمائش میں temperature اور pressure بڑھتے گئے۔ Atmosphere کی گھنی تہیں پرانے اندازوں سے بالکل مختلف کہانی سنا رہی تھیں۔",
+          "roman": "Magar capsule jaise jaise neeche utarta gaya, har paimaish mein temperature aur pressure barhte gaye. Atmosphere ki ghani tahein purane andazon se bilkul mukhtalif kahani suna rahi thin.",
+          "visual": {
+            "type": "clip",
+            "query": "heat haze desert",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c5b14",
+          "text": "اس دوران capsule کے اندر کا temperature -8 ڈگری Celsius پر رکھا گیا۔ باہر کی گرمی بڑھ رہی تھی، مگر اندر کا temperature control اپنا کام کر رہا تھا۔",
+          "roman": "Is dauran capsule ke andar ka temperature -8 degree Celsius par rakha gaya. Bahar ki garmi barh rahi thi, magar andar ka temperature control apna kaam kar raha tha.",
+          "visual": {
+            "type": "clip",
+            "query": "cooling fan machinery",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c5b15",
+          "text": "پوری descent تقریباً 93 منٹ چلی۔ اس میں parachute کھلنے کے بعد کا حصہ تقریباً 26 کلومیٹر کا تھا، اور اسی حصے میں مسلسل نیا data آتا رہا۔",
+          "roman": "Poori descent taqreeban 93 minute chali. Is mein parachute khulne ke baad ka hissa taqreeban 26 kilometre ka tha, aur isi hisse mein musalsal naya data aata raha.",
+          "visual": {
+            "type": "clip",
+            "query": "clock ticking time",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "93-MINUTE DESCENT"
+        },
+        {
+          "id": "c5b16",
+          "text": "پھر آخری پیمائش آئی۔ اترائی کے ان 26 کلومیٹر کے آخر تک temperature 262 ڈگری Celsius ہو چکا تھا، اور pressure 22 standard atmospheres۔",
+          "roman": "Phir aakhri paimaish aayi. Utrai ke in 26 kilometre ke aakhir tak temperature 262 degree Celsius ho chuka tha, aur pressure 22 standard atmospheres.",
+          "visual": {
+            "type": "clip",
+            "query": "pressure gauge needle",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "262 °C, 22 ATM"
+        },
+        {
+          "id": "c5b17",
+          "text": "یعنی 33 ڈگری سے 262 ڈگری، اور 1 atmosphere سے کم سے 22 atmospheres۔ Venus کا اصلی چہرہ سامنے آ رہا تھا۔",
+          "roman": "Yani 33 degree se 262 degree, aur 1 atmosphere se kam se 22 atmospheres. Venus ka asli chehra samne aa raha tha.",
+          "visual": {
+            "type": "clip",
+            "query": "orange smoke haze",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c5b18",
+          "text": "اور پھر سگنل بند ہو گیا۔ آخری bit آیا اور خاموشی چھا گئی۔ ٹیم کے پاس اب صرف وہی numbers تھے جو آ چکے تھے۔",
+          "roman": "Aur phir signal band ho gaya. Aakhri bit aaya aur khamoshi chha gayi. Team ke paas ab sirf wahi numbers thay jo aa chuke thay.",
+          "visual": {
+            "type": "clip",
+            "query": "static noise screen",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c5b19",
+          "text": "Battery 100 منٹ کے لیے بنی تھی، اور descent 93 منٹ کی رہی۔ مگر ایک اور سوال باقی تھا: capsule آخر کس بلندی پر تھا؟",
+          "roman": "Battery 100 minute ke liye bani thi, aur descent 93 minute ki rahi. Magar aik aur sawal baqi tha: capsule aakhir kis bulandi par tha?",
+          "visual": {
+            "type": "clip",
+            "query": "battery charging",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c5b20",
+          "text": "فی الحال اتنا کافی تھا کہ ایک دوسرے سیارے کے اندر سے پہلی بار data زمین پر پہنچ چکا تھا۔ اب سوال یہ تھا کہ numbers کیا کہتے ہیں۔",
+          "roman": "Filhaal itna kafi tha ke aik doosre sayyare ke andar se pehli baar data zameen par pahunch chuka tha. Ab sawal yeh tha ke numbers kya kehte hain.",
+          "visual": {
+            "type": "clip",
+            "query": "scientists data screens",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "On 18 October 1967 the carrier spacecraft finished its work and released the capsule. The Venera 4 lander began entering the atmosphere of Venus. Its expected landing site, a estimate at the time, was around 19 degrees North and 38 degrees East.",
+        "Then came the most dangerous phase. The capsule fell quickly and the heat shield reached 11,000 degrees Celsius. At one point the deceleration reached 300 G, three hundred times its own weight. Imagine what the instruments were going through. The capsule had been tested to 450 g, but now the test was not in a lab but in an alien sky. The capsule survived, and Venera 4 became the first spacecraft to survive entry into another planet's atmosphere.",
+        "At about 52 kilometres the parachute opened. The transmitters switched on and the capsule began sending pressure, temperature and gas composition data. The plan had expected this at about 26 kilometres. In reality the parachute opened at roughly twice that height. Venus was turning out to differ from the estimates.",
+        "Data came at just 1 bit per second, with a new measurement every 48 seconds, at 922 MHz. Several stations received it, including England's Jodrell Bank Observatory. Picture an extremely faint signal from deep space and large dishes on Earth straining to catch it. Each new bit opened a new world.",
+        "The first message was relatively mild. At 52 kilometres the temperature was 33 degrees Celsius and the pressure was less than 1 standard atmosphere. But as the capsule sank, every measurement showed temperature and pressure rising. The thick layers of atmosphere told a story very different from the old estimates. Inside the capsule the temperature was held at -8 degrees Celsius, and its temperature control kept working as the heat outside grew.",
+        "The whole descent lasted about 93 minutes. The part after the parachute opened covered about 26 kilometres, and new data kept arriving throughout. Then came the final measurement. By the end of those 26 kilometres the temperature had reached 262 degrees Celsius and the pressure 22 standard atmospheres: from 33 degrees to 262, and from less than 1 atmosphere to 22. The true face of Venus was emerging.",
+        "Then the signal stopped. The last bit arrived and silence fell. The team had only the numbers that had come in. The battery was built for 100 minutes and the descent lasted 93. One question remained: at what altitude was the capsule, really? For now it was enough that data had reached Earth from inside another planet for the first time. The question was what the numbers meant."
+      ]
+    },
+    {
+      "titleEn": "What the Data Said",
+      "titleRoman": "Data Ne Kya Bataya",
+      "covers": "Atmosphere 90–93% CO2, 7% nitrogen, 0.4–0.8% oxygen, 0.1–1.6% water vapor; CO2/N2 ratio of 13 contested by some scientists; weak magnetic field (3000 times weaker), no radiation belts, hydrogen corona 1000 times less dense, no atomic oxygen; water lost long ago; dense and hot atmosphere.",
+      "words": 450,
+      "beats": [
+        {
+          "id": "c6b1",
+          "text": "Venera 4 کے آلات نے Venus کے atmosphere کو پہلی بار اندر سے ناپا تھا۔ سوال یہ تھا کہ یہ ہوا کس چیز سے بنی ہے؟",
+          "roman": "Venera 4 ke aalaat ne Venus ke atmosphere ko pehli baar andar se naapa tha. Sawal yeh tha ke yeh hawa kis cheez se bani hai?",
+          "visual": {
+            "type": "clip",
+            "query": "scientist laboratory analysis",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c6b2",
+          "text": "جواب تھا: 90 سے 93 فیصد carbon dioxide۔ تقریباً 7 فیصد nitrogen۔ Oxygen صرف 0.4 سے 0.8 فیصد، اور water vapor 0.1 سے 1.6 فیصد۔",
+          "roman": "Jawab tha: 90 se 93 feesad carbon dioxide. Taqreeban 7 feesad nitrogen. Oxygen sirf 0.4 se 0.8 feesad, aur water vapor 0.1 se 1.6 feesad.",
+          "visual": {
+            "type": "clip",
+            "query": "gas bubbles chemistry",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "90-93% CARBON DIOXIDE"
+        },
+        {
+          "id": "c6b3",
+          "text": "یعنی Venus کی ہوا زیادہ تر وہی گیس ہے جو ہم سانس کے ساتھ باہر نکالتے ہیں۔ Oxygen اتنی کم تھی کہ وہاں سانس لینے کا سوال نہیں اٹھتا۔",
+          "roman": "Yani Venus ki hawa zyada tar wahi gas hai jo hum saans ke saath bahar nikalte hain. Oxygen itni kam thi ke wahan saans lene ka sawal nahi uthta.",
+          "visual": {
+            "type": "clip",
+            "query": "smoke swirling slow",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c6b4",
+          "text": "یہاں ایک دلچسپ بات ہے۔ Carbon dioxide اور nitrogen کا تناسب تقریباً 13 تھا۔ بعض حلقوں میں تو اس کے الٹ تناسب کی توقع تھی۔",
+          "roman": "Yahan aik dilchasp baat hai. Carbon dioxide aur nitrogen ka tanasub taqreeban 13 tha. Baaz halqon mein to is ke ulta tanasub ki tawaqqo thi.",
+          "visual": {
+            "type": "clip",
+            "query": "numbers chalkboard mathematics",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c6b5",
+          "text": "اتنا بڑا فرق تھا کہ کچھ scientists نے ان observations کو ہی چیلنج کر دیا۔ ایک نئی دنیا کا پہلا ناپ، اور پہلا ہی ناپ متنازع!",
+          "roman": "Itna bara farq tha ke kuch scientists ne in observations ko hi challenge kar diya. Aik nayi duniya ka pehla naap, aur pehla hi naap mutanaza!",
+          "visual": {
+            "type": "clip",
+            "query": "scientists debating meeting",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c6b6",
+          "text": "Sources میں تھوڑا فرق ہے۔ ایک جگہ CO2 90 سے 93 فیصد لکھی ہے، دوسری جگہ تقریباً 95 فیصد، جبکہ آج کی قدر 96.5 فیصد ہے۔",
+          "roman": "Sources mein thora farq hai. Aik jagah CO2 90 se 93 feesad likhi hai, doosri jagah taqreeban 95 feesad, jabke aaj ki qadar 96.5 feesad hai.",
+          "visual": {
+            "type": "clip",
+            "query": "reading research papers",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c6b7",
+          "text": "اب بات magnetic field کی۔ Carrier میں 2 میٹر لمبا magnetometer لگا تھا، یعنی magnetic field ناپنے والا آلہ۔",
+          "roman": "Ab baat magnetic field ki. Carrier mein 2 meter lamba magnetometer laga tha, yani magnetic field naapne wala aala.",
+          "visual": {
+            "type": "clip",
+            "query": "compass magnetic needle",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c6b8",
+          "text": "Station نے Venus کا magnetic field بہت کمزور پایا۔ Earth کے مقابلے میں یہ تقریباً 3000 گنا کمزور تھا۔",
+          "roman": "Station ne Venus ka magnetic field bohat kamzor paya. Earth ke muqable mein yeh taqreeban 3000 guna kamzor tha.",
+          "visual": {
+            "type": "clip",
+            "query": "magnet iron filings",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "3000X WEAKER FIELD"
+        },
+        {
+          "id": "c6b9",
+          "text": "کوئی radiation belt بھی نہیں ملی۔ بعد میں سمجھا گیا کہ Venus کا چھوٹا magnetosphere solar wind کی وجہ سے بنتا ہے، کسی اندرونی dynamo سے نہیں۔",
+          "roman": "Koi radiation belt bhi nahi mili. Baad mein samjha gaya ke Venus ka chhota magnetosphere solar wind ki wajah se banta hai, kisi andaruni dynamo se nahi.",
+          "visual": {
+            "type": "clip",
+            "query": "solar flare sun",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c6b10",
+          "text": "Hydrogen اور oxygen ڈھونڈنے کا کام carrier spacecraft کے ultraviolet spectrometer کا تھا، جو ان دونوں گیسوں کو پہچان سکتا تھا۔",
+          "roman": "Hydrogen aur oxygen dhoondne ka kaam carrier spacecraft ke ultraviolet spectrometer ka tha, jo in donon gason ko pehchan sakta tha.",
+          "visual": {
+            "type": "clip",
+            "query": "light prism spectrum",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c6b11",
+          "text": "Hydrogen corona بھی Earth کے مقابلے میں 1000 گنا کم گھنا نکلا۔ اور atomic oxygen بالکل نہیں ملی۔ Outer atmosphere میں hydrogen بہت کم تھی۔",
+          "roman": "Hydrogen corona bhi Earth ke muqable mein 1000 guna kam ghana nikla. Aur atomic oxygen bilkul nahi mili. Outer atmosphere mein hydrogen bohat kam thi.",
+          "visual": {
+            "type": "clip",
+            "query": "starfield dark space",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c6b12",
+          "text": "ان سب نتائج کا ایک ہی اشارہ تھا۔ اگر Venus پر کبھی پانی تھا، تو وہ بہت پہلے سیارے سے نکل چکا ہوگا۔",
+          "roman": "In sab nataij ka aik hi ishara tha. Agar Venus par kabhi pani tha, to woh bohat pehle sayyare se nikal chuka hoga.",
+          "visual": {
+            "type": "clip",
+            "query": "dry cracked earth",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "WATER LOST LONG AGO"
+        },
+        {
+          "id": "c6b13",
+          "text": "یہ نتیجہ غیر متوقع تھا، کیونکہ Venus پر گھنے بادل چھائے رہتے ہیں۔ اتنے بادلوں کے نیچے اتنی کم نمی؟",
+          "roman": "Yeh nateeja ghair mutawaqqe tha, kyunke Venus par ghane baadal chhaye rehte hain. Itne baadlon ke neeche itni kam nami?",
+          "visual": {
+            "type": "clip",
+            "query": "thick clouds timelapse",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c6b14",
+          "text": "آج ہم جانتے ہیں کہ وہ بادل اصل میں sulfuric acid کے ہیں۔ کچھ studies کا خیال ہے کہ اربوں سال پہلے Venus پر مائع پانی ہو سکتا تھا۔",
+          "roman": "Aaj hum jaante hain ke woh baadal asal mein sulfuric acid ke hain. Kuch studies ka khayal hai ke arbon saal pehle Venus par maye pani ho sakta tha.",
+          "visual": {
+            "type": "clip",
+            "query": "acid chemical beaker",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c6b15",
+          "text": "پہلی بار براہ راست پیمائش نے دکھایا کہ Venus انتہائی گرم ہے اور اس کی ہوا اندازوں سے کہیں زیادہ گھنی ہے۔",
+          "roman": "Pehli baar barah raast paimaish ne dikhaya ke Venus intehai garam hai aur is ki hawa andazon se kahin zyada ghani hai.",
+          "visual": {
+            "type": "clip",
+            "query": "volcano lava glowing",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c6b16",
+          "text": "Capsule 25 atmospheres تک کے لیے ٹیسٹ ہوا تھا۔ ناپا گیا دباؤ 22 تک پہنچ چکا تھا، اور آگے کیا ہے، کوئی نہیں جانتا تھا۔",
+          "roman": "Capsule 25 atmospheres tak ke liye test hua tha. Naapa gaya dabao 22 tak pahunch chuka tha, aur aage kya hai, koi nahi janta tha.",
+          "visual": {
+            "type": "clip",
+            "query": "pressure gauge metal",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c6b17",
+          "text": "ایک source کے مطابق Venera 4 نے دکھایا کہ سطح کا temperature Mariner 2 کے اندازے سے زیادہ، تقریباً 500 ڈگری Celsius کے قریب ہے۔",
+          "roman": "Aik source ke mutabiq Venera 4 ne dikhaya ke satah ka temperature Mariner 2 ke andaze se zyada, taqreeban 500 degree Celsius ke qareeb hai.",
+          "visual": {
+            "type": "clip",
+            "query": "thermometer red hot",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c6b18",
+          "text": "Venera 4 کا یہ data اتنا اہم نکلا کہ اسی سے Venera 7 کا ڈیزائن بنانے میں مدد ملی۔ انجینئرز اب بہتر جانتے تھے کہ سامنے کیسی دنیا ہے۔",
+          "roman": "Venera 4 ka yeh data itna aham nikla ke isi se Venera 7 ka design banane mein madad mili. Engineers ab behtar jaante thay ke samne kaisi duniya hai.",
+          "visual": {
+            "type": "clip",
+            "query": "engineers blueprint table",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c6b19",
+          "text": "لیکن ایک الجھا ہوا سوال باقی تھا۔ Soviet ٹیم کا ابتدائی اعلان کیا تھا؟ کیا Venera 4 واقعی Venus کی سطح تک پہنچا؟",
+          "roman": "Lekin aik uljha hua sawal baqi tha. Soviet team ka ibtidai elaan kya tha? Kya Venera 4 waqai Venus ki satah tak pahuncha?",
+          "visual": {
+            "type": "clip",
+            "query": "mission control room",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "Venera 4's instruments had measured the atmosphere of Venus from the inside for the first time. What is this air made of? The answer: 90 to 93 percent carbon dioxide, about 7 percent nitrogen, oxygen of only 0.4 to 0.8 percent, and water vapor of 0.1 to 1.6 percent. Venus's air is mostly the gas we breathe out, and with so little oxygen, breathing there is out of the question.",
+        "There was an interesting detail. The ratio of carbon dioxide to nitrogen was about 13. Some circles had expected the opposite ratio. The difference was so large that some scientists challenged the observations themselves. The first measurement of a new world, and already disputed! Sources differ slightly: one gives CO2 as 90 to 93 percent, another about 95 percent, while today's accepted value is 96.5 percent.",
+        "Next, the magnetic field. The carrier had a 2-metre magnetometer to measure it. The station found Venus's magnetic field very weak, about 3000 times weaker than Earth's, and no radiation belt. It was later understood that Venus's small magnetosphere is created by the solar wind, not by an internal dynamo.",
+        "Finding hydrogen and oxygen was the job of the carrier's ultraviolet spectrometer. The hydrogen corona turned out to be 1000 times less dense than Earth's, and no atomic oxygen was found. There was very little hydrogen in the outer atmosphere. All these results pointed one way: if Venus ever had water, it must have left the planet long ago.",
+        "This was unexpected, since Venus is covered by thick clouds. So little moisture beneath so many clouds? Today we know those clouds are actually sulfuric acid. Some studies suggest that liquid water may have existed on Venus billions of years ago.",
+        "For the first time, direct measurement showed that Venus is extremely hot and its air far denser than estimated. The capsule had been tested to 25 atmospheres. The measured pressure reached 22, and nobody knew what lay beyond. According to one source, Venera 4 showed that the surface temperature was higher than Mariner 2's estimate, close to 500 degrees Celsius. The data was so valuable that it helped shape the design of Venera 7, and engineers now knew better what kind of world lay ahead.",
+        "But a confusing question remained. What was the Soviet team's initial announcement? Did Venera 4 really reach the surface of Venus?"
+      ]
+    },
+    {
+      "titleEn": "The Misread Signal",
+      "titleRoman": "Ghalat Parha Gaya Signal",
+      "covers": "Radar altimeter at 770 MHz with 30 km ambiguity; first return at ~55 km misread as 26 km; Soviets announced reaching surface; dismissed as inconsistent with planetary diameter and low pressure readings; Mariner 5 flew by the next day (19 October, 3,990 km) and its radio occultation showed surface pressure 75–100 atm, far beyond 25 atm hull strength; claim retracted.",
+      "words": 500,
+      "beats": [
+        {
+          "id": "c7b1",
+          "text": "تو Soviet ٹیم کا پہلا اعلان کیا تھا؟ اور وہ اعلان غلط کیوں نکلا؟ اس کہانی کی جڑ ایک چھوٹے سے آلے میں چھپی ہے۔",
+          "roman": "Tou Soviet team ka pehla elaan kya tha? Aur woh elaan ghalat kyun nikla? Is kahani ki jarr ek chhote se aale mein chhupi hai.",
+          "visual": {
+            "type": "clip",
+            "query": "old documents desk",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c7b2",
+          "text": "Capsule کے اندر ایک radar altimeter لگا تھا۔ اس کا کام تھا سطح سے فاصلہ ناپنا۔ یہ 770 MHz کی frequency پر کام کرتا تھا۔",
+          "roman": "Capsule ke andar ek radar altimeter laga tha. Is ka kaam tha satah se faasla naapna. Yeh 770 MHz ki frequency par kaam karta tha.",
+          "visual": {
+            "type": "clip",
+            "query": "radar antenna dish",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c7b3",
+          "text": "اصول سادہ تھا۔ آلہ signal بھیجتا ہے، نیچے سے لوٹنے والی گونج پکڑتا ہے، اور اسی سے اونچائی کا اندازہ لگاتا ہے۔ لیکن اس آلے میں ایک کمزوری تھی۔",
+          "roman": "Usool saada tha. Aala signal bhejta hai, neeche se lautne wali goonj pakarta hai, aur isi se unchai ka andaza lagata hai. Lekin is aale mein ek kamzori thi.",
+          "visual": {
+            "type": "clip",
+            "query": "radar screen blinking",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c7b4",
+          "text": "اس altimeter میں 30 کلومیٹر کا ابہام تھا۔ یعنی ایک ہی signal X اونچائی پر بھی آ سکتا تھا، X جمع 30 پر بھی، اور X جمع 60 کلومیٹر پر بھی۔",
+          "roman": "Is altimeter mein 30 kilometre ka ibham tha. Yaani ek hi signal X unchai par bhi aa sakta tha, X jama 30 par bhi, aur X jama 60 kilometre par bhi.",
+          "visual": {
+            "type": "clip",
+            "query": "mathematics equations blackboard",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "30 KM AMBIGUITY"
+        },
+        {
+          "id": "c7b5",
+          "text": "مسئلہ یہ تھا کہ اس وقت کسی کو معلوم نہیں تھا کہ Venus کے بادلوں کی اوپری تہہ سطح سے کتنی اونچی ہے۔ اندازہ لگانا مشکل تھا۔",
+          "roman": "Masla yeh tha ke us waqt kisi ko maloom nahin tha ke Venus ke badlon ki upri tah satah se kitni unchi hai. Andaza lagana mushkil tha.",
+          "visual": {
+            "type": "clip",
+            "query": "thick clouds timelapse",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c7b6",
+          "text": "پھر altimeter نے پہلی بار ایک return دیا۔ ٹیم نے اسے 26 کلومیٹر کی اونچائی سمجھا۔ آج کا خیال ہے کہ اصل اونچائی تقریباً 55 کلومیٹر تھی۔",
+          "roman": "Phir altimeter ne pehli baar ek return diya. Team ne isay 26 kilometre ki unchai samjha. Aaj ka khayal hai ke asal unchai taqriban 55 kilometre thi.",
+          "visual": {
+            "type": "clip",
+            "query": "engineers reading charts",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "55 KM ACTUAL"
+        },
+        {
+          "id": "c7b7",
+          "text": "اس غلط reading کی بنیاد پر Soviet ٹیم نے ابتدا میں اعلان کیا کہ probe سطح تک اتر گیا ہے۔ یہ ایک بہت بڑی خبر ہوتی۔",
+          "roman": "Is ghalat reading ki bunyad par Soviet team ne ibtida mein elaan kiya ke probe satah tak utar gaya hai. Yeh ek bahut bari khabar hoti.",
+          "visual": {
+            "type": "clip",
+            "query": "newspaper printing press",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c7b8",
+          "text": "دنیا کا پہلا spacecraft، جو کسی دوسرے سیارے کی سطح تک سلامت پہنچا ہو۔ لیکن کیا واقعی ایسا ہوا تھا؟ کچھ ہی دیر میں شکوک پیدا ہونے لگے۔",
+          "roman": "Duniya ka pehla spacecraft, jo kisi doosre sayyare ki satah tak salamat pohancha ho. Lekin kya waqai aisa hua tha? Kuch hi der mein shukook paida hone lage.",
+          "visual": {
+            "type": "clip",
+            "query": "spacecraft orbiting planet",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c7b9",
+          "text": "یہ نتیجہ بہت جلد رد کر دیا گیا۔ پہلی وجہ یہ تھی کہ یہ بات radar سے ناپے گئے سیارے کے diameter سے میل نہیں کھاتی تھی۔",
+          "roman": "Yeh nateeja bahut jald radd kar diya gaya. Pehli wajah yeh thi ke yeh baat radar se naape gaye sayyare ke diameter se mail nahin khati thi.",
+          "visual": {
+            "type": "clip",
+            "query": "scientist laboratory",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c7b10",
+          "text": "دوسری وجہ capsule کی اپنی pressure readings تھیں۔ وہ اُن models سے بہت کم تھیں، جو اس وقت Venus کے ماحول کے لیے نئے نئے بنائے گئے تھے۔",
+          "roman": "Doosri wajah capsule ki apni pressure readings thin. Woh un models se bahut kam thin, jo us waqt Venus ke mahol ke liye naye naye banaye gaye thay.",
+          "visual": {
+            "type": "clip",
+            "query": "pressure gauge dial",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "PRESSURE TOO LOW"
+        },
+        {
+          "id": "c7b11",
+          "text": "یعنی اگر سطح پر پہنچ گیا ہوتا، تو دباؤ کہیں زیادہ ہونا چاہیے تھا۔ دو چیزیں آپس میں ٹکرا رہی تھیں۔ کوئی ایک بات ضرور غلط تھی۔",
+          "roman": "Yaani agar satah par pohanch gaya hota, tou dabao kahin zyada hona chahiye tha. Do cheezein aapas mein takra rahi thin. Koi ek baat zaroor ghalat thi.",
+          "visual": {
+            "type": "clip",
+            "query": "conference room discussion",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c7b12",
+          "text": "اسی دوران ایک دوسرا spacecraft Venus کے پاس پہنچ رہا تھا۔ وہ تھا امریکہ کا Mariner 5۔ اور اس کا وقت بالکل ٹھیک تھا۔",
+          "roman": "Isi dauran ek doosra spacecraft Venus ke paas pohanch raha tha. Woh tha America ka Mariner 5. Aur is ka waqt bilkul theek tha.",
+          "visual": {
+            "type": "clip",
+            "query": "earth from space",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c7b13",
+          "text": "Mariner 5 نے 19 اکتوبر 1967 کو Venus کے پاس سے flyby کیا۔ اس کا فاصلہ 3,990 کلومیٹر تھا، یعنی Venera 4 کے اگلے ہی دن۔",
+          "roman": "Mariner 5 ne 19 October 1967 ko Venus ke paas se flyby kiya. Is ka faasla 3,990 kilometre tha, yaani Venera 4 ke agle hi din.",
+          "visual": {
+            "type": "clip",
+            "query": "spacecraft flying space",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "3,990 KM FLYBY"
+        },
+        {
+          "id": "c7b14",
+          "text": "Mariner 5 میں radio occultation کا تجربہ تھا۔ جب spacecraft سیارے کے پیچھے سے گزرتا ہے، تو اس کا radio signal Venus کے ماحول سے ہو کر آتا ہے۔",
+          "roman": "Mariner 5 mein radio occultation ka tajurba tha. Jab spacecraft sayyare ke peechay se guzarta hai, tou us ka radio signal Venus ke mahol se ho kar aata hai.",
+          "visual": {
+            "type": "clip",
+            "query": "radio telescope dish",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c7b15",
+          "text": "دونوں کا data ساتھ رکھ کر دوبارہ analysis ہوا، تو پتا چلا کہ سطح کا pressure 75 سے 100 atmospheres ہے۔",
+          "roman": "Dono ka data saath rakh kar dobara analysis hua, tou pata chala ke satah ka pressure 75 se 100 atmospheres hai.",
+          "visual": {
+            "type": "clip",
+            "query": "data charts computer",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "75–100 ATMOSPHERES"
+        },
+        {
+          "id": "c7b16",
+          "text": "اب یاد کریں کہ Venera 4 کے capsule کی hull strength صرف 25 atmospheres تھی۔ یعنی سطح کا دباؤ اس سے تین سے چار گنا زیادہ تھا۔",
+          "roman": "Ab yaad karein ke Venera 4 ke capsule ki hull strength sirf 25 atmospheres thi. Yaani satah ka dabao is se teen se chaar guna zyada tha.",
+          "visual": {
+            "type": "clip",
+            "query": "industrial pressure chamber",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c7b17",
+          "text": "یعنی capsule سطح تک پہنچنے سے بہت پہلے ہی دباؤ سے کچل جاتا۔ سادہ لفظوں میں، Venera 4 کو اتنی گہرائی تک جانے کے لیے بنایا ہی نہیں گیا تھا۔",
+          "roman": "Yaani capsule satah tak pohanchne se bahut pehle hi dabao se kuchal jata. Saada lafzon mein, Venera 4 ko itni gehrai tak jane ke liye banaya hi nahin gaya tha.",
+          "visual": {
+            "type": "clip",
+            "query": "deep ocean underwater",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c7b18",
+          "text": "تو Soviet ٹیم نے اپنا ابتدائی دعویٰ واپس لے لیا۔ ایک سائنسی ٹیم کے لیے یہ آسان نہیں ہوتا، مگر یہی سائنس کی اصل طاقت ہے۔",
+          "roman": "Tou Soviet team ne apna ibtidai daawa wapas le liya. Ek science team ke liye yeh aasan nahin hota, magar yehi science ki asal taqat hai.",
+          "visual": {
+            "type": "clip",
+            "query": "press conference microphones",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c7b19",
+          "text": "پھر بھی ایک سوال باقی ہے۔ اگر capsule سطح پر نہیں پہنچا، تو 22 atmospheres اور 262 ڈگری Celsius کی readings کہاں کی تھیں؟",
+          "roman": "Phir bhi ek sawal baqi hai. Agar capsule satah par nahin pohancha, tou 22 atmospheres aur 262 degree Celsius ki readings kahan ki thin?",
+          "visual": {
+            "type": "clip",
+            "query": "thermometer heat gauge",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c7b20",
+          "text": "جواب یہ ہے کہ وہ readings اس مقام کی تھیں جہاں signal ختم ہوا، سطح کی نہیں۔ سطح اس سے کہیں نیچے، کہیں زیادہ گرم اور بھاری ماحول میں تھی۔",
+          "roman": "Jawab yeh hai ke woh readings us maqam ki thin jahan signal khatam hua, satah ki nahin. Satah is se kahin neeche, kahin zyada garam aur bhaari mahol mein thi.",
+          "visual": {
+            "type": "clip",
+            "query": "volcanic orange landscape",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "So what was the Soviet team's first announcement, and why did it turn out wrong? The root of the story lies in one small instrument. Inside the capsule was a radar altimeter, whose job was to measure distance from the surface. It worked at 770 MHz. The principle was simple: the device sends a signal, catches the echo returning from below, and estimates altitude from that.",
+        "But the instrument had a weakness: a 30-kilometre ambiguity. The same signal could mean altitude X, or X plus 30, or X plus 60 kilometres. The trouble was that nobody then knew how high Venus's cloud tops were above the surface, so it was hard to judge.",
+        "When the altimeter gave its first return, the team read it as an altitude of 26 kilometres. Today it is thought the real altitude was about 55 kilometres. On the basis of this wrong reading, the Soviet team initially announced that the probe had reached the surface. That would have been huge news: the first spacecraft to reach another planet's surface intact.",
+        "But had it really happened? Doubts soon arose, and the result was quickly rejected. The first reason was that it did not match the planet's diameter as measured by radar. The second was the capsule's own pressure readings, which were far lower than the models newly made for Venus's environment. If it had reached the surface, the pressure should have been much higher. Two things were colliding, so one of them had to be wrong.",
+        "Meanwhile another spacecraft was nearing Venus: America's Mariner 5, and its timing was perfect. Mariner 5 flew past Venus on 19 October 1967, the day after Venera 4, at a distance of 3,990 kilometres. It carried a radio occultation experiment: when the spacecraft passes behind the planet, its radio signal travels through Venus's atmosphere.",
+        "When the two sets of data were analysed together, the surface pressure came out at 75 to 100 atmospheres. Remember that the hull of the Venera 4 capsule was strong for only 25 atmospheres. The surface pressure was three to four times that, so the capsule would have been crushed long before reaching the surface. Put simply, Venera 4 was never built to go that deep.",
+        "So the Soviet team withdrew its initial claim. That is not easy for a science team, but it is the real strength of science.",
+        "Still, one question remains. If the capsule did not reach the surface, where did the readings of 22 atmospheres and 262 degrees Celsius come from? The answer is that they were readings from the place where the signal ended, not the surface. The surface lay far below, in a much hotter and heavier environment."
+      ]
+    },
+    {
+      "titleEn": "A Joint Answer Across the Cold War",
+      "titleRoman": "Do Mulkon Ka Mushtarka Jawab",
+      "covers": "1969 COSPAR combined Soviet–American working group; Venus surface ~hot, atmosphere denser than expected; modern values 464 °C, 93 bar; Venera 5 and 6 redesigned as atmospheric probes (53 and 51 minutes); Venera 7 soft landing 15 December 1970 with 465 °C, 90 atm; sugar lock abandoned; later Venera missions through images in 1975 and radar mapping; lessons about checking assumptions; open questions on Venus's past water and possible life in clouds; request to like and subscribe.",
+      "words": 580,
+      "beats": [
+        {
+          "id": "c8b1",
+          "text": "1969 میں COSPAR کے تحت ایک مشترکہ Soviet–American working group نے Venera 4 اور Mariner 5 کا data ساتھ ملا کر پڑھا۔",
+          "roman": "1969 mein COSPAR ke tehat ek mushtarka Soviet–American working group ne Venera 4 aur Mariner 5 ka data saath mila kar parha.",
+          "visual": {
+            "type": "clip",
+            "query": "scientists meeting table",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c8b2",
+          "text": "یہ Cold War کا زمانہ تھا، مگر سائنس نے دو مخالف کیمپوں کو ایک میز پر بٹھا دیا۔ یہ early space cooperation کی ایک مثال تھی۔",
+          "roman": "Yeh Cold War ka zamana tha, magar science ne do mukhalif camps ko ek maiz par bitha diya. Yeh early space cooperation ki ek misaal thi.",
+          "visual": {
+            "type": "clip",
+            "query": "diplomats meeting table",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c8b3",
+          "text": "نتیجہ صاف تھا۔ Venus کی سطح بہت گرم ہے، اور اس کا ماحول اندازوں سے کہیں زیادہ گھنا ہے۔",
+          "roman": "Nateeja saaf tha. Venus ki satah bahut garam hai, aur is ka mahol andazon se kahin zyada ghana hai.",
+          "visual": {
+            "type": "clip",
+            "query": "orange clouds planet",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c8b4",
+          "text": "آج کی measurements کے مطابق سطح کا اوسط temperature 464 ڈگری Celsius اور pressure 93 bar ہے۔ Venera 4 کی آخری reading 262 ڈگری Celsius اور 22 atmospheres تھی، یعنی سطح کا دباؤ اس سے چار گنا سے زیادہ ہے۔",
+          "roman": "Aaj ki measurements ke mutabiq satah ka ausat temperature 464 degree Celsius aur pressure 93 bar hai. Venera 4 ki aakhri reading 262 degree Celsius aur 22 atmospheres thi, yaani satah ka dabao is se chaar guna se zyada hai.",
+          "visual": {
+            "type": "clip",
+            "query": "molten lava flowing",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "464 °C, 93 BAR",
+          "factFix": "The claim 'more than four times Venera 4's last reading' holds only for pressure (93 bar vs 22 atm). The temperature (464 °C vs 262 °C) is not four times higher. The sentence is ambiguous and misleading."
+        },
+        {
+          "id": "c8b5",
+          "text": "اس کے بعد Soviet انجینئرز نے حکمتِ عملی بدلی۔ وہ سمجھ گئے کہ Venera 3 سے 6 کے probes سطح کا دباؤ برداشت کرنے کے لیے بنے ہی نہیں تھے۔",
+          "roman": "Is ke baad Soviet engineers ne hikmat-e-amli badli. Woh samajh gaye ke Venera 3 se 6 ke probes satah ka dabao bardasht karne ke liye bane hi nahin thay.",
+          "visual": {
+            "type": "clip",
+            "query": "engineers blueprint drafting",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c8b6",
+          "text": "اس لیے Venera 5 اور 6 کو atmospheric probes بنایا گیا۔ وہ ماحول میں داخل ہونے سے پہلے اپنا تقریباً آدھا payload الگ کر دیتے تھے۔",
+          "roman": "Is liye Venera 5 aur 6 ko atmospheric probes banaya gaya. Woh mahol mein dakhil hone se pehle apna taqriban aadha payload alag kar dete thay.",
+          "visual": {
+            "type": "clip",
+            "query": "parachute descending sky",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c8b7",
+          "text": "Venera 5 نے 53 منٹ اور Venera 6 نے 51 منٹ کا data بھیجا۔ دونوں parachute سے آہستہ نیچے اترتے رہے، یہاں تک کہ batteries ختم ہو گئیں۔",
+          "roman": "Venera 5 ne 53 minute aur Venera 6 ne 51 minute ka data bheja. Dono parachute se aahista neeche utarte rahe, yahan tak ke batteries khatam ho gayin.",
+          "visual": {
+            "type": "clip",
+            "query": "battery charging indicator",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "53 AND 51 MINUTES"
+        },
+        {
+          "id": "c8b8",
+          "text": "پھر آیا Venera 7۔ اگست 1970 میں launch ہونے والا یہ پہلا probe تھا، جسے Venus کی سطح کے حالات برداشت کرنے اور soft landing کے لیے بنایا گیا۔",
+          "roman": "Phir aaya Venera 7. August 1970 mein launch hone wala yeh pehla probe tha, jisay Venus ki satah ke halaat bardasht karne aur soft landing ke liye banaya gaya.",
+          "visual": {
+            "type": "clip",
+            "query": "rocket launch smoke",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c8b9",
+          "text": "اسے ضرورت سے زیادہ مضبوط بنایا گیا تھا۔ 15 دسمبر 1970 کو یہ سطح پر اترا، اگرچہ parachute آخری لمحوں میں فیل ہو گیا اور یہ الٹ گیا۔",
+          "roman": "Isay zaroorat se zyada mazboot banaya gaya tha. 15 December 1970 ko yeh satah par utra, agarchay parachute aakhri lamhon mein fail ho gaya aur yeh ulat gaya.",
+          "visual": {
+            "type": "clip",
+            "query": "desert dust storm",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c8b10",
+          "text": "Signal کمزور تھا، مگر 23 منٹ تک آتا رہا۔ یوں یہ کسی دوسرے سیارے کی سطح سے data بھیجنے والا پہلا انسانی probe بن گیا۔",
+          "roman": "Signal kamzor tha, magar 23 minute tak aata raha. Yun yeh kisi doosre sayyare ki satah se data bhejne wala pehla insani probe ban gaya.",
+          "visual": {
+            "type": "card",
+            "title": "15 DECEMBER 1970",
+            "text": "Venera 7: first data from another planet's surface"
+          }
+        },
+        {
+          "id": "c8b11",
+          "text": "Venera 7 کے switchboard میں خرابی تھی اور وہ temperature بھیجنے والی position پر اٹک گیا تھا۔ پھر بھی سائنسدانوں نے temperature data سے pressure کا اندازہ نکال لیا۔",
+          "roman": "Venera 7 ke switchboard mein kharabi thi aur woh temperature bhejne wali position par atak gaya tha. Phir bhi scientists ne temperature data se pressure ka andaza nikal liya.",
+          "visual": {
+            "type": "clip",
+            "query": "electrical panel switches",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c8b12",
+          "text": "نتیجہ تھا 465 ڈگری Celsius کا temperature اور 90 atmospheres کا اندازہ۔ یہ سطح سے لی گئی پہلی براہِ راست measurements تھیں، اور آج کی values کے بہت قریب ہیں۔",
+          "roman": "Nateeja tha 465 degree Celsius ka temperature aur 90 atmospheres ka andaza. Yeh satah se li gayi pehli barah-e-raast measurements thin, aur aaj ki values ke bahut qareeb hain.",
+          "visual": {
+            "type": "clip",
+            "query": "digital temperature display",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "465 °C, 90 ATM"
+        },
+        {
+          "id": "c8b13",
+          "text": "اب sugar lock کا کیا ہوا؟ Venus پر نمی بہت کم نکلی، اس لیے پانی میں اترنے والا یہ نظام بعد کے probes میں چھوڑ دیا گیا۔",
+          "roman": "Ab sugar lock ka kya hua? Venus par nami bahut kam nikli, is liye paani mein utarne wala yeh nizam baad ke probes mein chhor diya gaya.",
+          "visual": {
+            "type": "clip",
+            "query": "sugar cubes water",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c8b14",
+          "text": "آگے کی کہانی اور حیرت انگیز ہے۔ 8 جون 1975 کو Venera 9 نے کسی دوسرے سیارے کی سطح کی پہلی تصویریں زمین تک بھیجیں۔",
+          "roman": "Aage ki kahani aur hairat angez hai. 8 June 1975 ko Venera 9 ne kisi doosre sayyare ki satah ki pehli tasveerein zameen tak bhejin.",
+          "visual": {
+            "type": "clip",
+            "query": "old camera photograph",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c8b15",
+          "text": "1981 میں Venera 13 نے آواز record کی۔ 1983 میں Venera 15 اور 16 نے radar سے شمالی نصف کرہ کے بڑے حصے کا نقشہ بنایا۔",
+          "roman": "1981 mein Venera 13 ne awaaz record ki. 1983 mein Venera 15 aur 16 ne radar se shimali nisf kura ke bare hisse ka naqsha banaya.",
+          "visual": {
+            "type": "clip",
+            "query": "radar satellite mapping",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c8b16",
+          "text": "اس پوری کہانی کا سبق کیا ہے؟ پہلا سبق یہ کہ اپنے assumptions کو بار بار check کرو۔ ایک ناپ، جو غلط سمجھی گئی، پورے نتیجے کو بدل سکتی ہے۔",
+          "roman": "Is poori kahani ka sabaq kya hai? Pehla sabaq yeh ke apne assumptions ko baar baar check karo. Ek naap, jo ghalat samjhi gayi, poore nateeje ko badal sakti hai.",
+          "visual": {
+            "type": "clip",
+            "query": "chalkboard formulas",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c8b17",
+          "text": "دوسرا سبق یہ کہ الگ الگ ذرائع کا data ملانا ضروری ہے۔ Venera 4 اور Mariner 5 کو ساتھ رکھنے سے ابتدائی دعوے کی درستگی پرکھی جا سکی۔",
+          "roman": "Doosra sabaq yeh ke alag alag zaraye ka data milana zaroori hai. Venera 4 aur Mariner 5 ko saath rakhne se ibtidai daawe ki durustgi parkhi ja saki.",
+          "visual": {
+            "type": "clip",
+            "query": "international scientists meeting",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c8b18",
+          "text": "اور تیسرا سبق یہ کہ ناکامی بھی علم دیتی ہے۔ Venera 4 سطح پر نہیں اترا، مگر اس نے وہ سوال دیے جن سے اگلے مشن بنے۔",
+          "roman": "Aur teesra sabaq yeh ke nakami bhi ilm deti hai. Venera 4 satah par nahin utra, magar us ne woh sawal diye jin se agle mission bane.",
+          "visual": {
+            "type": "clip",
+            "query": "space rocket assembly",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c8b19",
+          "text": "لیکن Venus اب بھی راز رکھتا ہے۔ کچھ studies کے مطابق اربوں سال پہلے اس پر مائع پانی ہو سکتا تھا، پھر runaway greenhouse effect نے سب بدل دیا۔",
+          "roman": "Lekin Venus ab bhi raaz rakhta hai. Kuch studies ke mutabiq arbon saal pehle us par maye paani ho sakta tha, phir runaway greenhouse effect ne sab badal diya.",
+          "visual": {
+            "type": "clip",
+            "query": "ocean waves sunset",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c8b20",
+          "text": "ایک اور سوال تو اور بھی چونکا دینے والا ہے۔ سطح سے تقریباً 50 کلومیٹر اوپر pressure اور temperature Earth کی سطح جیسے ہیں۔ تو کیا وہاں زندگی ممکن ہے؟",
+          "roman": "Ek aur sawal tou aur bhi chaunka dene wala hai. Satah se taqriban 50 kilometre upar pressure aur temperature Earth ki satah jaise hain. Tou kya wahan zindagi mumkin hai?",
+          "visual": {
+            "type": "clip",
+            "query": "clouds above atmosphere",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c8b21",
+          "text": "کچھ experts کا ماننا ہے کہ وہاں بادلوں میں extremophile microorganisms ہو سکتے ہیں۔ یہ صرف قیاس ہے۔ 2020 میں phosphine کا دعویٰ بھی بعد کی تحقیق میں متنازع نکلا۔",
+          "roman": "Kuch experts ka manna hai ke wahan badlon mein extremophile microorganisms ho sakte hain. Yeh sirf qayas hai. 2020 mein phosphine ka daawa bhi baad ki tehqeeq mein mutanaza nikla.",
+          "visual": {
+            "type": "clip",
+            "query": "microscope bacteria",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        },
+        {
+          "id": "c8b22",
+          "text": "Venera 4 کا Venus کے ماحول میں اترنا صرف 93 منٹ کا تھا، مگر اس نے ہمیں سکھایا کہ نئی دنیا کو سمجھنے کے لیے صبر، تعاون اور سچ بولنے کا حوصلہ چاہیے۔",
+          "roman": "Venera 4 ka Venus ke mahol mein utarna sirf 93 minute ka tha, magar us ne hamein sikhaya ke nayi duniya ko samajhne ke liye sabr, taawun aur sach bolne ka hausla chahiye.",
+          "visual": {
+            "type": "clip",
+            "query": "stars night sky",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          },
+          "highlight": "93 MINUTE DESCENT",
+          "factFix": "Venera 4's whole journey was not 93 minutes. It was launched on 12 June and arrived on 18 October 1967. Only the atmospheric descent lasted 93 minutes."
+        },
+        {
+          "id": "c8b23",
+          "text": "دوستو، کہانی پسند آئی ہو تو video کو like کریں، channel کو subscribe کریں، اور comment میں بتائیں کہ اگلا مشن کون سا دیکھنا چاہیں گے۔",
+          "roman": "Dosto, kahani pasand aayi ho tou video ko like karein, channel ko subscribe karein, aur comment mein batayein ke agla mission kaun sa dekhna chahenge.",
+          "visual": {
+            "type": "clip",
+            "query": "telescope observatory night",
+            "prompt": "Venera 4 lander: nearly spherical metal capsule, 1 metre wide, with parachute, 1967 Soviet space-age design. Carrier spacecraft: 3.5 m tall with 4 m solar panels and a long magnetometer boom. Soviet mission control engineers: men in 1960s suits and white shirts, Baikonur and Crimea-era control rooms with paper charts. Venus: orange-yellow thick clouds, sulfuric acid haze, glowing hot surface. Jodrell Bank radio telescope in England, 1960s."
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "In 1969, under COSPAR, a joint Soviet–American working group studied the data from Venera 4 and Mariner 5 together. It was the Cold War, yet science sat two opposing camps at one table, an example of early space cooperation.",
+        "The result was clear. The surface of Venus is very hot and its environment far denser than estimated. By today's measurements, the average surface temperature is 464 degrees Celsius and the pressure 93 bar. Venera 4's last reading was 262 degrees Celsius and 22 atmospheres, so the surface pressure is more than four times that.",
+        "After this, Soviet engineers changed their strategy. They realised that the Venera 3 to 6 probes had not been built to withstand surface pressure. So Venera 5 and 6 were made atmospheric probes, shedding about half their payload before entering the atmosphere. Venera 5 sent data for 53 minutes and Venera 6 for 51 minutes. Both drifted slowly down on parachutes until their batteries ran out.",
+        "Then came Venera 7, launched in August 1970, the first probe designed to withstand surface conditions and make a soft landing. It was built stronger than necessary. On 15 December 1970 it reached the surface, although the parachute failed at the last moments and it tipped over. The signal was weak but kept coming for 23 minutes. It became the first human probe to send data from the surface of another planet.",
+        "Venera 7's switchboard was faulty and it got stuck in the temperature-sending position. Even so, scientists estimated the pressure from the temperature data. The result was 465 degrees Celsius and an estimated 90 atmospheres. These were the first direct measurements from the surface, and are very close to today's values.",
+        "And what of the sugar lock? Moisture on Venus turned out to be very low, so this water-triggered system was dropped from later probes.",
+        "The story that follows is even more astonishing. On 8 June 1975, Venera 9 sent the first pictures from the surface of another planet to Earth. In 1981, Venera 13 recorded sound. In 1983, Venera 15 and 16 used radar to map a large part of the northern hemisphere.",
+        "What is the lesson of this whole story? The first: keep checking your assumptions. One misread measurement can change the whole conclusion. The second: combining data from different sources is essential. Putting Venera 4 and Mariner 5 together made it possible to test the initial claim. And the third: failure teaches too. Venera 4 did not land on the surface, but it raised the questions that led to the next missions.",
+        "Yet Venus still keeps its secrets. According to some studies, liquid water may have existed there billions of years ago, before a runaway greenhouse effect changed everything. Another question is even more startling. About 50 kilometres above the surface, pressure and temperature are like those on Earth's surface. So could life be possible there? Some experts believe extremophile microorganisms might exist in the clouds. This is only speculation, and the 2020 phosphine claim was also disputed in later research.",
+        "Venera 4's descent into Venus's atmosphere lasted only 93 minutes, but it taught us that understanding new worlds takes patience, cooperation and the courage to tell the truth. Friends, if you enjoyed the story, like the video, subscribe to the channel, and tell us in the comments which mission you would like to see next."
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "id": "s1",
+      "chapter": 0,
+      "titleEn": "The Probe That Survived 11,000 °C Over Venus",
+      "hook": "11,000 °C کی آگ میں",
+      "text": "ایک چھوٹا سا capsule 11,000 °C کی آگ میں گر رہا تھا۔ کیا وہ بچ پاتا؟ تاریخ تھی 18 October 1967، اور اس capsule کا نام Venera 4 تھا۔ جب وہ Venus کے atmosphere میں داخل ہوا تو اس کی heat shield کا temperature 11,000 °C تک پہنچ گیا۔ ایک لمحے پر deceleration 300 G تک گئی، یعنی اپنے وزن سے 300 گنا زور۔ پھر تقریباً 52 کلومیٹر کی بلندی پر parachute کھلا۔ اور تاریخ میں پہلی بار کسی دوسرے سیارے کے اندر سے data زمین کی طرف آنے لگا۔ Venera 4 وہ پہلا spacecraft بنا جو کسی دوسرے سیارے کے atmosphere میں داخل ہو کر بچ نکلا۔ یہ سفر 93 minutes جاری رہا۔ لیکن نیچے کیا انتظار کر رہا تھا؟ آخری reading میں 262 °C اور 22 atmospheres تھے، اور پھر signal رک گیا۔ آخر آگے کیا ہوا؟ پوری کہانی ہمارے channel پر دیکھیں۔",
+      "roman": "Ek chhota sa capsule 11,000 °C ki aag mein gir raha tha. Kya woh bach pata? Tareekh thi 18 October 1967, aur is capsule ka naam Venera 4 tha. Jab woh Venus ke atmosphere mein dakhil hua to is ki heat shield ka temperature 11,000 °C tak pahunch gaya. Ek lamhe par deceleration 300 G tak gayi, yani apne wazan se 300 guna zor. Phir taqriban 52 kilometre ki bulandi par parachute khula. Aur tareekh mein pehli bar kisi dusre sayyare ke andar se data zameen ki taraf aane laga. Venera 4 woh pehla spacecraft bana jo kisi dusre sayyare ke atmosphere mein dakhil ho kar bach nikla. Yeh safar 93 minutes jari raha. Lekin neeche kya intezar kar raha tha? Aakhri reading mein 262 °C aur 22 atmospheres thay, aur phir signal ruk gaya. Aakhir aage kya hua? Poori kahani hamare channel par dekhein.",
+      "descriptionEn": "On 18 October 1967, Venera 4 became the first spacecraft to survive entry into another planet's atmosphere.\nIts heat shield hit 11,000 °C and it returned data during a 93-minute descent.",
+      "tags": [
+        "Venera4",
+        "Venus",
+        "SpaceHistory",
+        "SovietSpace",
+        "Urdu",
+        "SpaceDocumentary",
+        "Planets",
+        "Science",
+        "History1967",
+        "Shorts"
+      ]
+    },
+    {
+      "id": "s2",
+      "chapter": 5,
+      "titleEn": "Venus Air Measured for the First Time: Scientists Doubted It",
+      "hook": "پہلی پیمائش پر بحث",
+      "text": "Venus کی ہوا میں سانس لینا کیسا ہوتا؟ Venera 4 نے پہلی بار اس ہوا کو اندر سے ناپا۔ نتیجہ حیران کن تھا۔ 90 سے 93 فیصد carbon dioxide۔ تقریباً 7 فیصد nitrogen۔ Oxygen صرف 0.4 سے 0.8 فیصد، اور water vapor 0.1 سے 1.6 فیصد۔ یعنی وہاں سانس لینے کا سوال ہی نہیں تھا۔ دوستو، اصل جھٹکا کچھ اور تھا۔ Carbon dioxide اور nitrogen کا تناسب تقریباً 13 نکلا۔ کچھ حلقوں میں اس کا الٹ تناسب متوقع تھا۔ فرق اتنا بڑا تھا کہ کچھ scientists نے ان observations کو ہی challenge کر دیا۔ ایک نئی دنیا کی پہلی پیمائش، اور پہلی ہی پیمائش پر بحث! مزید یہ کہ نہ کوئی radiation belt ملا، نہ atomic oxygen۔ تو کیا آخرکار یہ نتیجے درست ثابت ہوئے؟ پوری کہانی ہمارے channel پر دیکھیں۔",
+      "roman": "Venus ki hawa mein saans lena kaisa hota? Venera 4 ne pehli bar is hawa ko andar se napa. Nateeja hairan kun tha. 90 se 93 feesad carbon dioxide. Taqriban 7 feesad nitrogen. Oxygen sirf 0.4 se 0.8 feesad, aur water vapor 0.1 se 1.6 feesad. Yani wahan saans lene ka sawal hi nahi tha. Dostो, asal jhatka kuch aur tha. Carbon dioxide aur nitrogen ka tanasub taqriban 13 nikla. Kuch halqon mein is ka ulta tanasub mutawaqqa tha. Farq itna bara tha ke kuch scientists ne in observations ko hi challenge kar diya. Ek nayi duniya ki pehli paimaish, aur pehli hi paimaish par bahes! Mazeed yeh ke na koi radiation belt mila, na atomic oxygen. To kya aakhirkar yeh nateeje durust sabit hue? Poori kahani hamare channel par dekhein.",
+      "descriptionEn": "Venera 4 measured the Venusian atmosphere from inside: 90–93% carbon dioxide and about 7% nitrogen.\nThe CO2-to-nitrogen ratio of about 13 was so surprising that some scientists contested it.",
+      "tags": [
+        "Venera4",
+        "Venus",
+        "Atmosphere",
+        "CarbonDioxide",
+        "SpaceHistory",
+        "Urdu",
+        "Science",
+        "SovietSpace",
+        "SpaceDocumentary",
+        "Shorts"
+      ]
+    },
+    {
+      "id": "s3",
+      "chapter": 6,
+      "titleEn": "The Radar Mistake That Fooled Soviet Scientists on Venus",
+      "hook": "ایک غلط فہمی، غلط اعلان",
+      "text": "ایک چھوٹی سی غلط فہمی نے Soviet scientists سے غلط اعلان کروا دیا۔ Venera 4 کے capsule میں 770 MHz کا radar altimeter لگا تھا۔ مسئلہ یہ تھا کہ اس میں 30 کلومیٹر کا ابہام تھا۔ یعنی ایک ہی signal X پر بھی آ سکتا تھا، X جمع 30 پر بھی، اور X جمع 60 پر بھی۔ اس وقت کسی کو معلوم نہیں تھا کہ Venus کے بادلوں کی اوپری تہہ سطح سے کتنی اونچی ہے۔ پہلا radar return دراصل تقریباً 55 کلومیٹر کی بلندی کا تھا، مگر اسے 26 کلومیٹر سمجھ لیا گیا۔ اسی بنیاد پر Soviet team نے ابتدا میں اعلان کیا کہ probe سطح تک پہنچ گیا۔ سوچیں، کتنا بڑا دعویٰ تھا! مگر یہ نتیجہ جلد ہی رد کر دیا گیا۔ آخر کیوں؟ پوری کہانی ہمارے channel پر دیکھیں۔",
+      "roman": "Ek chhoti si ghalat fehmi ne Soviet scientists se ghalat elaan karwa diya. Venera 4 ke capsule mein 770 MHz ka radar altimeter laga tha. Masla yeh tha ke is mein 30 kilometre ka ibham tha. Yani ek hi signal X par bhi aa sakta tha, X jama 30 par bhi, aur X jama 60 par bhi. Us waqt kisi ko maloom nahi tha ke Venus ke badlon ki upri tah satah se kitni unchi hai. Pehla radar return darasal taqriban 55 kilometre ki bulandi ka tha, magar ise 26 kilometre samajh liya gaya. Isi bunyad par Soviet team ne ibtida mein elaan kiya ke probe satah tak pahunch gaya. Sochein, kitna bara dawa tha! Magar yeh nateeja jald hi radd kar diya gaya. Aakhir kyun? Poori kahani hamare channel par dekhein.",
+      "descriptionEn": "Venera 4's radar altimeter had a 30 km ambiguity, so a return from about 55 km was read as 26 km.\nThe Soviet team first announced the probe reached the surface, but the claim was soon dismissed.",
+      "tags": [
+        "Venera4",
+        "Venus",
+        "RadarAltimeter",
+        "SpaceMystery",
+        "SovietSpace",
+        "Urdu",
+        "SpaceHistory",
+        "Science",
+        "SpaceDocumentary",
+        "Shorts"
+      ]
+    }
+  ],
+  "metaChecked": true,
+  "wordCount": 3845
+}
