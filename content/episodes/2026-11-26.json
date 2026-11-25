@@ -1,0 +1,1925 @@
+{
+  "date": "2026-11-26",
+  "stage": "done",
+  "generatedAt": "2026-11-25T03:24:07.366Z",
+  "language": "ur",
+  "topic": {
+    "name": "Southern Television Broadcast Hijack 1977: Vrillon and the Ashtar Galactic Command",
+    "category": "mystery",
+    "angle": "In 1977 a voice claiming to be an alien called Vrillon cut into British TV news for six minutes, and the culprit was never identified.",
+    "why": "Anniversary today (1977-11-26).",
+    "wikiTitles": [
+      "Southern Television broadcast interruption",
+      "Max Headroom signal hijackings",
+      "Ashtar",
+      "Television transmitter"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Southern Television broadcast interruption",
+      "url": "https://en.wikipedia.org/wiki/Southern_Television_broadcast_interruption"
+    },
+    {
+      "title": "Max Headroom signal hijackings",
+      "url": "https://en.wikipedia.org/wiki/Max_Headroom_signal_hijackings"
+    },
+    {
+      "title": "Ashtar",
+      "url": "https://en.wikipedia.org/wiki/Ashtar"
+    },
+    {
+      "title": "Television transmitter",
+      "url": "https://en.wikipedia.org/wiki/Television_transmitter"
+    }
+  ],
+  "photos": [
+    {
+      "id": "p1",
+      "title": "HanningtonTransmitter",
+      "description": "Transmitter Mast, Hannington, Hampshire",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/HanningtonTransmitter.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:HanningtonTransmitter.jpg",
+      "width": 1920,
+      "height": 1440,
+      "artist": "Roberto Casula Rcasula 19:13, 11 March 2007 (UTC)",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+    },
+    {
+      "id": "p2",
+      "title": "TARDIS-trans",
+      "description": "Transparentised version of Image:TARDIS.jpg. Licensing it under the same license so as to avoid issues.",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/TARDIS-trans.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:TARDIS-trans.png",
+      "width": 1920,
+      "height": 2688,
+      "artist": "The original uploader was Sceptre at English Wikipedia.",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5"
+    },
+    {
+      "id": "p3",
+      "title": "Te Aroha television transmitter",
+      "description": "Te Aroha television transmitter opened in December 1965",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Te_Aroha_television_transmitter.jpg/1920px-Te_Aroha_television_transmitter.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:Te_Aroha_television_transmitter.jpg",
+      "width": 1920,
+      "height": 1440,
+      "artist": "Johnragla",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    {
+      "id": "p4",
+      "title": "Karaman Karadağ transmitting station, Turkey",
+      "description": "A typical TV station in Karadağ, Karaman, Turkey",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Karaman_Karada%C4%9F_transmitting_station%2C_Turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "page": "https://commons.wikimedia.org/wiki/File:Karaman_Karada%C4%9F_transmitting_station,_Turkey.jpg",
+      "width": 1920,
+      "height": 2646,
+      "artist": "Nedim Ardoğa",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    {
+      "id": "p5",
+      "title": "04041jfChurches Buildings West North Avenue Roads Edsa Barangays Quezon Cityfvf 04",
+      "description": "ABS-CBN Broadcasting Center and Eugenio Lopez, Jr. Communications Center, Mother Ignacia Avenue, Sgt. Esguerra Avenue and Eugenio Lopez Avenue, Quezon City, Barangay South Triangle, Quezon City, Distr",
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/04041jfChurches_Buildings_West_North_Avenue_Roads_Edsa_Barangays_Quezon_Cityfvf_04.JPG/1920px-04041jfChurches_Buildings_West_North_Avenue_Roads_Edsa_Barangays_Quezon_Cityfvf_04.JPG?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "page": "https://commons.wikimedia.org/wiki/File:04041jfChurches_Buildings_West_North_Avenue_Roads_Edsa_Barangays_Quezon_Cityfvf_04.JPG",
+      "width": 1920,
+      "height": 2560,
+      "artist": "Judgefloro",
+      "license": "Public domain",
+      "licenseUrl": ""
+    }
+  ],
+  "youtube": {},
+  "meta": {
+    "youtubeTitle": "The Alien Voice That Hijacked British TV | Southern Television 1977 True Story",
+    "slug": "2026-11-26-southern-television-broadcast-hijack-1977-vrillon-and-the-ashtar-galac",
+    "thumbnailText": "VRILLON SPEAKS",
+    "thumbnailPrompt": "A vintage 1970s CRT television in a dark living room, screen glowing with distorted green static and a jagged signal wave, dramatic high-contrast lighting, empty space on the left for text, no people",
+    "characters": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment.",
+    "descriptionEn": "On 26 November 1977, during a calm Saturday evening news bulletin in southern England, the sound on TV sets fed by the Hannington transmitter suddenly vanished. In its place came a deep buzz and a distorted voice claiming to speak for the Ashtar Galactic Command, warning humanity to give up its weapons and live in peace. Southern Television did not even know it was happening until the phones began to ring. How did a stranger take over a broadcast tower? What exactly did the message say, and why did newspapers report it so differently? And was the culprit ever found? Watch the full story of the Southern Television broadcast hijack.",
+    "descriptionUr": "26 November 1977 ko England ke south mein aam sa Saturday shaam ka news bulletin chal raha tha ke achanak TV ki awaaz ghayab ho gayi aur ek bhari, bigri hui awaaz sunai di jo khud ko Ashtar Galactic Command ka numainda Vrillon keh rahi thi. Is video mein hum dekhenge ke yeh kaise hua, paigham mein kya tha, logon ka kya reaction raha, aur kya kabhi koi pakra gaya. Poori kahani Urdu aur English mein dekhiye.",
+    "tags": [
+      "vrillon ashtar galactic command",
+      "vrillon 1977 live broadcast english subtitles",
+      "vrillon voice",
+      "vrillon 1977 live broadcast",
+      "vrillon 1977",
+      "vrillon 1977 original",
+      "vrillon peach 1977",
+      "vrillon message 1977",
+      "vrillon ashtar",
+      "vrillon message",
+      "vrillon ashtar command",
+      "vrillon",
+      "southern television hijack",
+      "ashtar galactic command",
+      "1977 tv hijack",
+      "broadcast signal intrusion",
+      "vrillon in urdu",
+      "alien tv hijack",
+      "hannington transmitter",
+      "goofy gophers",
+      "pirate broadcast uk",
+      "ufo mystery",
+      "unsolved mysteries"
+    ],
+    "searchNames": [
+      "vrillon",
+      "southern television hijack",
+      "ashtar galactic command"
+    ],
+    "hashtags": [
+      "#Vrillon",
+      "#TVHijack",
+      "#UnsolvedMystery"
+    ],
+    "metaDescription": "In 1977 a voice calling itself Vrillon hijacked Southern Television news with an alien peace message. Learn how it happened and why no culprit was found.",
+    "trendingTags": [
+      "vrillon ashtar galactic command",
+      "vrillon 1977 live broadcast english subtitles",
+      "vrillon voice",
+      "vrillon 1977 live broadcast",
+      "vrillon 1977",
+      "vrillon 1977 original",
+      "vrillon peach 1977",
+      "vrillon message 1977",
+      "vrillon ashtar",
+      "vrillon message",
+      "vrillon ashtar command",
+      "vrillon",
+      "voice of vrillon",
+      "southern television broadcast interruption",
+      "southern television hijack"
+    ]
+  },
+  "chapters": [
+    {
+      "titleEn": "The Voice That Cut In",
+      "titleRoman": "Wo Awaaz Jo Achanak Aayi",
+      "covers": "Cold open: 5:10pm GMT Saturday 26 Nov 1977, ITN news on Rhodesia, audio replaced by buzz and distorted voice of Vrillon; questions: who, how, was it ever solved",
+      "words": 220,
+      "beats": [
+        {
+          "id": "c1b1",
+          "text": "26 نومبر 1977، ہفتے کی شام۔ گھڑی میں 5:10 p.m. GMT ہو رہے تھے، اور southern England کے کئی گھروں میں TV چل رہا تھا۔",
+          "roman": "26 November 1977, hafte ki shaam. Ghari mein 5:10 p.m. GMT ho rahe thay, aur southern England ke kai gharon mein TV chal raha tha.",
+          "visual": {
+            "type": "card",
+            "title": "26 NOVEMBER 1977",
+            "text": "Saturday, 5:10 p.m. GMT"
+          }
+        },
+        {
+          "id": "c1b2",
+          "text": "ITN پر news summary چل رہی تھی۔ موضوع تھا Rhodesian Bush War، یعنی آج کے Zimbabwe میں ہونے والی جنگ کی تازہ خبریں۔",
+          "roman": "ITN par news summary chal rahi thi. Mauzu tha Rhodesian Bush War, yani aaj ke Zimbabwe mein hone wali jang ki taza khabrein.",
+          "visual": {
+            "type": "clip",
+            "query": "vintage television news",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c1b3",
+          "text": "پھر اچانک news کی آواز غائب ہو گئی۔ اس کی جگہ ایک گہری buzz سنائی دی، اور اس کے بعد ایک بگڑی ہوئی مردانہ آواز آئی۔",
+          "roman": "Phir achanak news ki awaaz ghaib ho gayi. Is ki jagah ek gehri buzz sunai di, aur is ke baad ek bigri hui mardana awaaz aayi.",
+          "visual": {
+            "type": "clip",
+            "query": "audio waveform glowing",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "AUDIO REPLACED BY BUZZ"
+        },
+        {
+          "id": "c1b4",
+          "text": "آواز نے خود کو Vrillon بتایا۔ دعویٰ تھا کہ وہ Ashtar Galactic Command کا نمائندہ ہے، اور زمین کے پاس وقت بہت کم ہے۔",
+          "roman": "Awaaz ne khud ko Vrillon bataya. Dawa tha ke woh Ashtar Galactic Command ka numainda hai, aur zameen ke paas waqt bohat kam hai.",
+          "visual": {
+            "type": "clip",
+            "query": "night sky stars",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c1b5",
+          "text": "پیغام تقریباً چار منٹ چلا۔ کل ملا کر یہ مداخلت ساڑھے پانچ منٹ تک رہی، پھر نشریات اپنے شیڈول پر لوٹ آئیں۔",
+          "roman": "Paigham taqriban chaar minute chala. Kul mila kar yeh mudakhilat sarhe paanch minute tak rahi, phir nashriyat apne schedule par laut aayin.",
+          "visual": {
+            "type": "clip",
+            "query": "old clock ticking",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "5.5 MINUTES"
+        },
+        {
+          "id": "c1b6",
+          "text": "Screen پر اس وقت ایک 1947 کا cartoon چل رہا تھا۔ یہ تھا Goofy Gophers، اور اسی کے ساتھ شام معمول پر آ گئی۔",
+          "roman": "Screen par us waqt ek 1947 ka cartoon chal raha tha. Yeh tha Goofy Gophers, aur isi ke sath sham mamool par aa gayi.",
+          "visual": {
+            "type": "clip",
+            "query": "retro cartoon television",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c1b7",
+          "text": "لیکن سوال یہ ہے کہ یہ آواز آئی کہاں سے؟ کیا کوئی واقعی اتنے طاقتور signal تک پہنچ گیا تھا جو کئی علاقوں کے TV پر چھا جائے؟",
+          "roman": "Lekin sawal yeh hai ke yeh awaaz aayi kahan se? Kya koi waqai itne taqatwar signal tak pohanch gaya tha jo kai ilaqon ke TV par chha jaye?",
+          "visual": {
+            "type": "clip",
+            "query": "radio antenna tower",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c1b8",
+          "text": "یہ کام کس نے کیا؟ کیسے کیا؟ اور سب سے بڑا سوال، کیا آج تک اس واقعے کا کوئی حتمی جواب مل سکا؟",
+          "roman": "Yeh kaam kis ne kiya? Kaise kiya? Aur sab se bara sawal, kya aaj tak is waqiye ka koi hatmi jawab mil saka?",
+          "visual": {
+            "type": "clip",
+            "query": "static noise screen",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c1b9",
+          "text": "دوستو، یہ Southern Television broadcast interruption کی کہانی ہے۔ ایک ایسی کہانی جس میں technology، خوف اور ایک نہ پکڑے جانے والا hoaxer سب شامل ہیں۔",
+          "roman": "Doston, yeh Southern Television broadcast interruption ki kahani hai. Ek aisi kahani jis mein technology, khauf aur ek na pakray jane wala hoaxer sab shamil hain.",
+          "visual": {
+            "type": "clip",
+            "query": "mystery dark room television",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c1b10",
+          "text": "چلیے، اسی شام میں واپس چلتے ہیں اور دیکھتے ہیں کہ اس وقت southern England میں کیا ہو رہا تھا۔",
+          "roman": "Chaliye, isi sham mein wapas chalte hain aur dekhte hain ke us waqt southern England mein kya ho raha tha.",
+          "visual": {
+            "type": "clip",
+            "query": "english countryside november",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "On the evening of Saturday, 26 November 1977, at 5:10 p.m. GMT, many homes in southern England had their televisions on. ITN was running a news summary about the Rhodesian Bush War, the conflict in what is now Zimbabwe. Then the newsreader's voice suddenly vanished. A deep buzz replaced it, followed by a distorted male voice. The voice called itself Vrillon and claimed to be a representative of the Ashtar Galactic Command. It said that time was running short for Earth.",
+        "The message lasted about four minutes. In total, the interruption ran for roughly five and a half minutes, after which the broadcast returned to its schedule. On screen at that moment was a 1947 cartoon, The Goofy Gophers, and the evening went back to normal.",
+        "But where did the voice come from? Had someone really reached a signal powerful enough to take over television sets across several areas? Who did it, and how? And, most of all, has the incident ever been given a definitive answer?",
+        "This is the story of the Southern Television broadcast interruption. It involves technology, fear and a hoaxer who was never caught. Let's go back to that evening and see what was happening in southern England."
+      ]
+    },
+    {
+      "titleEn": "A Saturday Evening in Southern England",
+      "titleRoman": "Southern England Mein Ek Saturday Shaam",
+      "covers": "Context: Southern Television, ITN's Ivor Mills, Rhodesian Bush War bulletin, Hannington transmitter reach, viewers at home",
+      "words": 380,
+      "beats": [
+        {
+          "id": "c2b1",
+          "text": "چلیے منظر سمجھتے ہیں۔ نومبر 1977 کی ایک ہفتے کی شام ہے، اور southern England کے لوگ TV پر خبریں اور پروگرام دیکھ رہے ہیں۔",
+          "roman": "Chaliye manzar samajhte hain. November 1977 ki ek hafte ki sham hai, aur southern England ke log TV par khabrein aur program dekh rahe hain.",
+          "visual": {
+            "type": "clip",
+            "query": "family watching television",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c2b2",
+          "text": "اس علاقے میں Southern Television کی نشریات دیکھی جا رہی تھیں۔ واقعہ southern England کے کچھ حصوں میں پیش آیا، پورے Britain میں نہیں۔",
+          "roman": "Is ilaqe mein Southern Television ki nashriyat dekhi ja rahi thin. Waqia southern England ke kuch hisson mein pesh aaya, pure Britain mein nahin.",
+          "visual": {
+            "type": "clip",
+            "query": "british town evening",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c2b3",
+          "text": "5:10 p.m. GMT پر ITN کے Ivor Mills ایک news summary پیش کر رہے تھے۔ موضوع Rhodesian Bush War میں ہونے والی تازہ پیش رفت تھا۔",
+          "roman": "5:10 p.m. GMT par ITN ke Ivor Mills ek news summary pesh kar rahe thay. Mauzu Rhodesian Bush War mein hone wali taza pesh raft tha.",
+          "visual": {
+            "type": "clip",
+            "query": "news studio desk",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "IVOR MILLS, ITN"
+        },
+        {
+          "id": "c2b4",
+          "text": "Rhodesian Bush War آج کے Zimbabwe کے علاقے کی جنگ تھی۔ یہ ایک معمول کا bulletin تھا، اور Southern Television کو بھی آنے والے لمحوں کی خبر نہیں تھی۔",
+          "roman": "Rhodesian Bush War aaj ke Zimbabwe ke ilaqe ki jang thi. Yeh ek mamool ka bulletin tha, aur Southern Television ko bhi aane wale lamhon ki khabar nahin thi.",
+          "visual": {
+            "type": "clip",
+            "query": "broadcast control room",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c2b5",
+          "text": "اب ایک سوال۔ TV کی آواز اور تصویر آپ کے گھر تک کیسے پہنچتی ہے؟ اس کا جواب اس پوری کہانی کی چابی ہے۔",
+          "roman": "Ab ek sawal. TV ki awaaz aur tasveer aap ke ghar tak kaise pohanchti hai? Is ka jawab is poori kahani ki chabi hai.",
+          "visual": {
+            "type": "clip",
+            "query": "rooftop television aerial",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c2b6",
+          "text": "ایک television transmitter ایسا electronic device ہے جو radio waves کے ذریعے video signal بھیجتا ہے۔ ساتھ میں ایک synchronized audio channel بھی ہوتا ہے۔",
+          "roman": "Ek television transmitter aisa electronic device hai jo radio waves ke zariye video signal bhejta hai. Sath mein ek synchronized audio channel bhi hota hai.",
+          "visual": {
+            "type": "clip",
+            "query": "transmitter equipment racks",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c2b7",
+          "text": "یہ waves آپ کے گھر کے TV تک پہنچتی ہیں اور وہ انہیں تصویر اور آواز میں بدل دیتا ہے۔ ان transmitters کو حکومتوں سے licence لینا پڑتا ہے۔",
+          "roman": "Yeh waves aap ke ghar ke TV tak pohanchti hain aur woh unhein tasveer aur awaaz mein badal deta hai. In transmitters ko hukumaton se licence lena parta hai.",
+          "visual": {
+            "type": "clip",
+            "query": "radio waves antenna",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c2b8",
+          "text": "یہ signals VHF اور UHF bands پر چلتے ہیں۔ چونکہ یہ line of sight میں سفر کرتے ہیں، اس لیے reception عموماً 40 سے 60 میل تک محدود رہتی ہے۔",
+          "roman": "Yeh signals VHF aur UHF bands par chalte hain. Chunke yeh line of sight mein safar karte hain, is liye reception umooman 40 se 60 meel tak mehdood rehti hai.",
+          "visual": {
+            "type": "clip",
+            "query": "hilltop radio mast",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "40–60 MILE RANGE"
+        },
+        {
+          "id": "c2b9",
+          "text": "اس کہانی میں اہم transmitter تھا Hannington transmitter۔ یہ Hampshire کے شمالی علاقے میں تھا اور Independent Broadcasting Authority کی ملکیت تھا۔",
+          "roman": "Is kahani mein ahem transmitter tha Hannington transmitter. Yeh Hampshire ke shimali ilaqe mein tha aur Independent Broadcasting Authority ki milkiyat tha.",
+          "visual": {
+            "type": "map",
+            "place": "Hannington, Hampshire",
+            "lat": 51.3,
+            "lon": -1.15,
+            "zoom": "region",
+            "label": "Hannington, North Hampshire"
+          }
+        },
+        {
+          "id": "c2b10",
+          "text": "جن viewers کو TV کی آواز Hannington transmitter سے ملتی تھی، صرف انہی کی آواز میں خلل آیا۔ یعنی اثر محدود علاقے تک تھا۔",
+          "roman": "Jin viewers ko TV ki awaaz Hannington transmitter se milti thi, sirf unhi ki awaaz mein khalal aaya. Yani asar mehdood ilaqe tak tha.",
+          "visual": {
+            "type": "clip",
+            "query": "foggy rural hills",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c2b11",
+          "text": "اور یہ خلل کیسا تھا؟ آواز ایک گہری buzz میں بدلی، اور پھر ایک بگڑی ہوئی مردانہ آواز نے تقریباً چار منٹ تک پیغام دیا۔",
+          "roman": "Aur yeh khalal kaisa tha? Awaaz ek gehri buzz mein badli, aur phir ek bigri hui mardana awaaz ne taqriban chaar minute tak paigham diya.",
+          "visual": {
+            "type": "clip",
+            "query": "sound wave oscilloscope",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c2b12",
+          "text": "اس پیغام کے الفاظ ہم آگے سنیں گے۔ پہلے یہ سوچیں کہ جو لوگ اس وقت TV کے سامنے تھے، ان پر کیا گزری ہوگی۔",
+          "roman": "Is paigham ke alfaz hum aage sunenge. Pehle yeh sochein ke jo log us waqt TV ke samne thay, un par kya guzri hogi.",
+          "visual": {
+            "type": "clip",
+            "query": "living room evening lamp",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c2b13",
+          "text": "Southern Television کے اپنے لوگ بھی اس وقت لاعلم تھے۔ انہیں تب پتا چلا جب viewers نے call کرنا شروع کیا۔",
+          "roman": "Southern Television ke apne log bhi us waqt la-ilm thay. Unhein tab pata chala jab viewers ne call karna shuru kiya.",
+          "visual": {
+            "type": "clip",
+            "query": "vintage telephone ringing",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c2b14",
+          "text": "یہ اس لیے بھی عجیب تھا کہ IBA کے مطابق ملک میں اس قسم کی یہ پہلی مداخلت تھی۔",
+          "roman": "Yeh is liye bhi ajeeb tha ke IBA ke mutabiq mulk mein is qism ki yeh pehli mudakhilat thi.",
+          "visual": {
+            "type": "clip",
+            "query": "old documents desk",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "FIRST OF ITS KIND"
+        },
+        {
+          "id": "c2b15",
+          "text": "ذرا غور کیجیے۔ ایک عام news bulletin، اچانک ایک buzz، اور پھر ایک آواز جو کہہ رہی ہو کہ وہ Ashtar Galactic Command کی نمائندہ ہے۔",
+          "roman": "Zara ghaur kijiye. Ek aam news bulletin, achanak ek buzz, aur phir ek awaaz jo keh rahi ho ke woh Ashtar Galactic Command ki numainda hai.",
+          "visual": {
+            "type": "clip",
+            "query": "flickering tv screen",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c2b16",
+          "text": "اب سوال یہ ہے کہ ایک چھوٹی سی گڑبڑ نے اتنے بڑے علاقے کی آواز کیسے بدل دی؟ جواب آگے آئے گا، مگر پہلے اس نام کو سمجھتے ہیں۔",
+          "roman": "Ab sawal yeh hai ke ek chhoti si garbar ne itne bare ilaqe ki awaaz kaise badal di? Jawab aage aayega, magar pehle is naam ko samajhte hain.",
+          "visual": {
+            "type": "clip",
+            "query": "question mark chalkboard",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "Picture a November evening in 1977. People across southern England are watching news and programmes, and in this region they are watching Southern Television. The incident happened in parts of southern England, not across the whole of Britain. At 5:10 p.m. GMT, ITN's Ivor Mills was presenting a news summary on the latest developments in the Rhodesian Bush War. It was a routine bulletin, and Southern Television had no idea what was about to happen.",
+        "To understand the story, it helps to know how TV sound and pictures reach your home. A television transmitter is an electronic device that sends a video signal by radio waves, along with a synchronized audio channel. The waves reach the TV in your house, which turns them into picture and sound. Transmitters need a licence from the authorities. Their signals travel on VHF and UHF bands and move in line of sight, so reception is usually limited to about 40 to 60 miles.",
+        "The transmitter that matters here was the Hannington transmitter. It stood in northern Hampshire and was owned by the Independent Broadcasting Authority (IBA). Only viewers who received their TV sound from Hannington had their audio disrupted, so the effect was limited to one area. The sound changed into a deep buzz, and then a distorted male voice delivered a message for about four minutes.",
+        "Southern Television's own staff did not know it was happening. They found out only when viewers started calling. According to the IBA, it was the first interruption of its kind in the country. Imagine an ordinary news bulletin, a sudden buzz, and then a voice claiming to speak for the Ashtar Galactic Command. How could one small disruption change the sound over such a large area? The answer comes later, but first we need to understand the name Ashtar."
+      ]
+    },
+    {
+      "titleEn": "Who Is Ashtar?",
+      "titleRoman": "Ashtar Kaun Hai?",
+      "covers": "Background of the Ashtar name: George Van Tassel in the 1950s, channelers, Ashtar Sheran as alleged channeled alien, Age of Aquarius ideas",
+      "words": 420,
+      "beats": [
+        {
+          "id": "c3b1",
+          "text": "تو یہ Ashtar آخر ہے کون؟ اس سوال کا جواب سمجھنے کے لیے ہمیں 1977 سے کئی سال پیچھے جانا پڑے گا۔",
+          "roman": "To yeh Ashtar aakhir hai kaun? Is sawal ka jawab samajhne ke liye hamein 1977 se kai saal peeche jana parega.",
+          "visual": {
+            "type": "clip",
+            "query": "vintage calendar pages",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c3b2",
+          "text": "Sources کے مطابق Ashtar کا نام اور Ashtar Command کا تصور 1950s سے extraterrestrial communication کے دعووں سے جڑا ہوا تھا۔",
+          "roman": "Sources ke mutabiq Ashtar ka naam aur Ashtar Command ka tasawwur 1950s se extraterrestrial communication ke daawon se jura hua tha.",
+          "visual": {
+            "type": "clip",
+            "query": "1950s desert night sky",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "SINCE THE 1950S"
+        },
+        {
+          "id": "c3b3",
+          "text": "اس سلسلے میں George Van Tassel کا نام آتا ہے۔ انہیں UFO contactee کہا جاتا ہے، یعنی وہ جو خلائی مخلوق سے رابطے کا دعویٰ کرتے ہیں۔",
+          "roman": "Is silsile mein George Van Tassel ka naam aata hai. Unhein UFO contactee kaha jata hai, yani woh jo khalai makhlooq se rabte ka dawa karte hain.",
+          "visual": {
+            "type": "clip",
+            "query": "old photographs archive",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c3b4",
+          "text": "Van Tassel نے دعویٰ کیا کہ انہیں Ashtar کی طرف سے ایک message موصول ہوا۔ یہ صرف ایک دعویٰ تھا، کوئی ثابت شدہ حقیقت نہیں۔",
+          "roman": "Van Tassel ne dawa kiya ke unhein Ashtar ki taraf se ek message mausool hua. Yeh sirf ek dawa tha, koi sabit shuda haqiqat nahin.",
+          "visual": {
+            "type": "clip",
+            "query": "vintage radio dial",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c3b5",
+          "text": "اس کے بعد دوسرے لوگوں نے بھی کہنا شروع کیا کہ وہ Ashtar Command کو channel کر سکتے ہیں۔ Channel کرنے کا مطلب ہے پیغام آگے پہنچانے کا دعویٰ۔",
+          "roman": "Is ke baad dusre logon ne bhi kehna shuru kiya ke woh Ashtar Command ko channel kar sakte hain. Channel karne ka matlab hai paigham aage pohanchane ka dawa.",
+          "visual": {
+            "type": "clip",
+            "query": "people meditating group",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c3b6",
+          "text": "یوں Ashtar کا نام کئی لوگوں کے دعووں میں آنے لگا۔ یاد رکھیں، یہ سب دعوے ہیں، ثابت شدہ حقائق نہیں۔",
+          "roman": "Yun Ashtar ka naam kai logon ke daawon mein aane laga. Yaad rakhein, yeh sab daawe hain, sabit shuda haqaiq nahin.",
+          "visual": {
+            "type": "clip",
+            "query": "old books library",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c3b7",
+          "text": "ایک اور source میں Ashtar Sheran کا ذکر ہے۔ اسے ایک allegedly channeled alien کہا جاتا ہے، جس کے پاس زمین کے آس پاس flying saucers کا بیڑا ہے۔",
+          "roman": "Ek aur source mein Ashtar Sheran ka zikr hai. Ise ek allegedly channeled alien kaha jata hai, jis ke paas zameen ke aas paas flying saucers ka bera hai.",
+          "visual": {
+            "type": "clip",
+            "query": "earth from space",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "ASHTAR SHERAN"
+        },
+        {
+          "id": "c3b8",
+          "text": "یعنی اس دعوے کے مطابق یہ ہستی ایک fleet کے ساتھ زمین کے قریب سرگرم ہے۔ ظاہر ہے، یہ صرف ایک دعوے کی بات ہے، تصدیق شدہ واقعہ نہیں۔",
+          "roman": "Yani is dawe ke mutabiq yeh hasti ek fleet ke sath zameen ke qareeb sargaram hai. Zahir hai, yeh sirf ek dawe ki baat hai, tasdeeq shuda waqia nahin.",
+          "visual": {
+            "type": "clip",
+            "query": "clouds moving timelapse",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c3b9",
+          "text": "دلچسپ بات یہ ہے کہ Ashtar نام کے کئی اور مطلب بھی ہیں۔ جیسے Malik al-Ashtar، جو 658 میں وفات پانے والے ایک Arab military commander تھے۔",
+          "roman": "Dilchasp baat yeh hai ke Ashtar naam ke kai aur matlab bhi hain. Jaise Malik al-Ashtar, jo 658 mein wafat pane wale ek Arab military commander thay.",
+          "visual": {
+            "type": "clip",
+            "query": "ancient manuscript pages",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c3b10",
+          "text": "اسی نام کی ایک اور شکل Ethiopian Aksumite god Attar کے لیے بھی آتی ہے۔ ایک video game Ninja Gaiden II میں بھی Ashtar نام کا villain ہے۔",
+          "roman": "Isi naam ki ek aur shakal Ethiopian Aksumite god Attar ke liye bhi aati hai. Ek video game Ninja Gaiden II mein bhi Ashtar naam ka villain hai.",
+          "visual": {
+            "type": "clip",
+            "query": "video game controller",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c3b11",
+          "text": "یہ سب مختلف چیزیں ہیں۔ ان کا Vrillon والی اس آواز سے کوئی تعلق sources میں نہیں ملتا، یہ صرف ایک ہم نام لفظ ہے۔",
+          "roman": "Yeh sab mukhtalif cheezein hain. In ka Vrillon wali is awaaz se koi talluq sources mein nahin milta, yeh sirf ek ham naam lafz hai.",
+          "visual": {
+            "type": "clip",
+            "query": "magnifying glass text",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c3b12",
+          "text": "اب آتے ہیں اس message کی طرف۔ Vrillon نے کہا کہ لوگ برسوں سے انہیں آسمان میں lights کی شکل میں دیکھتے آئے ہیں۔",
+          "roman": "Ab aate hain is message ki taraf. Vrillon ne kaha ke log barson se unhein aasman mein lights ki shakal mein dekhte aaye hain.",
+          "visual": {
+            "type": "clip",
+            "query": "lights night sky",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c3b13",
+          "text": "message میں Age of Aquarius کا ذکر تھا۔ آواز کے مطابق سیارہ ایک نئے دور میں داخل ہو رہا ہے، جو امن اور evolution کا وقت ہو سکتا ہے۔",
+          "roman": "Message mein Age of Aquarius ka zikr tha. Awaaz ke mutabiq sayyara ek naye daur mein dakhil ho raha hai, jo aman aur evolution ka waqt ho sakta hai.",
+          "visual": {
+            "type": "clip",
+            "query": "sunrise over horizon",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "AGE OF AQUARIUS"
+        },
+        {
+          "id": "c3b14",
+          "text": "پیغام میں great awakening کا بھی ذکر تھا۔ شرط یہ تھی کہ انسان امن سے رہنا سیکھ لیں۔",
+          "roman": "Paigham mein great awakening ka bhi zikr tha. Shart yeh thi ke insaan aman se rehna seekh lein.",
+          "visual": {
+            "type": "clip",
+            "query": "peaceful sunrise meadow",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c3b15",
+          "text": "پیغام میں یہ بھی کہا گیا کہ زمین پر کئی چھوٹے groups امن سیکھ رہے ہیں اور آنے والے نئے دور کی روشنی آگے پہنچا رہے ہیں۔",
+          "roman": "Paigham mein yeh bhi kaha gaya ke zameen par kai chhote groups aman seekh rahe hain aur aane wale naye daur ki roshni aage pohancha rahe hain.",
+          "visual": {
+            "type": "clip",
+            "query": "small group people talking",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c3b16",
+          "text": "یاد رہے، اس زمانے کے برطانوی اخبارات نے آواز کا نام الگ الگ لکھا۔ کہیں Gillon، کہیں Ashdown Galactic Command، اور کہیں Asteron۔",
+          "roman": "Yaad rahe, is zamane ke bartanvi akhbarat ne awaaz ka naam alag alag likha. Kahin Gillon, kahin Ashdown Galactic Command, aur kahin Asteron.",
+          "visual": {
+            "type": "clip",
+            "query": "newspaper printing press",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "GILLON? ASTERON?"
+        },
+        {
+          "id": "c3b17",
+          "text": "اصل transcript کے مطابق نام Vrillon اور تنظیم Ashtar Galactic Command تھی۔ یہی فرق ہمیں آگے کی کہانی میں نظر آئے گا۔",
+          "roman": "Asal transcript ke mutabiq naam Vrillon aur tanzeem Ashtar Galactic Command thi. Yehi farq hamein aage ki kahani mein nazar aayega.",
+          "visual": {
+            "type": "clip",
+            "query": "typewriter typing paper",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c3b18",
+          "text": "تو سوال یہ ہے کہ اگر Ashtar ایک پرانا دعویٰ تھا، تو 1977 میں اسے TV کی آواز بنانے والا کون تھا؟ اور اتنے لوگوں تک پہنچا کیسے؟",
+          "roman": "To sawal yeh hai ke agar Ashtar ek purana dawa tha, to 1977 mein ise TV ki awaaz banane wala kaun tha? Aur itne logon tak pohancha kaise?",
+          "visual": {
+            "type": "clip",
+            "query": "dark silhouette television glow",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "So who is Ashtar? To answer that, we have to go back well before 1977. According to sources, the name Ashtar and the idea of an Ashtar Command are linked to claims of extraterrestrial communication from the 1950s. George Van Tassel is associated with them. He is described as a UFO contactee, someone who claims contact with beings from space. Van Tassel claimed he received a message from Ashtar. That was only a claim, not an established fact. Others then began saying they could channel the Ashtar Command, meaning they claimed to pass on its messages. Again, these are all claims, not proven facts.",
+        "Another source mentions Ashtar Sheran, described as an allegedly channeled alien said to command a fleet of flying saucers around Earth. By this claim, the being is active near our planet with a fleet. This is purely a claim and not a confirmed event.",
+        "The name Ashtar has other meanings too. Malik al-Ashtar was an Arab military commander who died in 658. A similar form of the name is used for the Ethiopian Aksumite god Attar. The video game Ninja Gaiden II also has a villain named Ashtar. These are different things, and the sources show no link between them and the Vrillon voice. They merely share a name.",
+        "Now to the message itself. Vrillon said people had seen them for years as lights in the sky. The message mentioned the Age of Aquarius, saying the planet was entering a new era that could be a time of peace and evolution. It also spoke of a great awakening, on the condition that humans learn to live in peace. It added that small groups around the world were learning peace and carrying forward the light of the coming age.",
+        "British newspapers of the time spelled the voice's name in different ways: Gillon, Ashdown Galactic Command, and Asteron. According to the original transcript, the name was Vrillon and the organization was the Ashtar Galactic Command. This difference matters later in the story. But if Ashtar was an old claim, who turned it into a TV voice in 1977, and how did it reach so many people?"
+      ]
+    },
+    {
+      "titleEn": "The Full Message",
+      "titleRoman": "Poora Paigham",
+      "covers": "The transcript: lights in the skies, remove weapons, new Age of Aquarius, false prophets and money, inner voice, leaving the planes of existence; about four to five and a half minutes",
+      "words": 500,
+      "beats": [
+        {
+          "id": "c4b1",
+          "text": "اس سوال کا جواب ہم آگے دیکھیں گے۔ پہلے یہ سنتے ہیں کہ اس آواز نے کہا کیا تھا، کیونکہ پورا transcript آج بھی موجود ہے۔",
+          "roman": "Is sawal ka jawab hum aage dekhenge. Pehle yeh sunte hain ke is awaaz ne kaha kya tha, kyunke poora transcript aaj bhi maujood hai.",
+          "visual": {
+            "type": "clip",
+            "query": "old television static",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c4b2",
+          "text": "پیغام کا آغاز ایک تعارف سے ہوا۔ آواز نے کہا، یہ Vrillon کی آواز ہے، جو Ashtar Galactic Command کا نمائندہ ہے، اور آپ سے مخاطب ہے۔",
+          "roman": "Paigham ka aghaz aik taaruf se hua. Awaaz ne kaha, yeh Vrillon ki awaaz hai, jo Ashtar Galactic Command ka numainda hai, aur aap se mukhatib hai.",
+          "visual": {
+            "type": "clip",
+            "query": "microphone radio studio",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "VRILLON"
+        },
+        {
+          "id": "c4b3",
+          "text": "آگے کہا گیا کہ برسوں سے تم ہمیں آسمان میں روشنیوں کی شکل میں دیکھتے آئے ہو۔ اب ہم امن اور دانائی کے ساتھ تم سے بات کر رہے ہیں۔",
+          "roman": "Aage kaha gaya ke barson se tum hamein aasman mein roshniyon ki shakal mein dekhte aaye ho. Ab hum aman aur danai ke saath tum se baat kar rahe hain.",
+          "visual": {
+            "type": "clip",
+            "query": "night sky stars",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c4b4",
+          "text": "پھر ایک تنبیہ آئی۔ آواز نے کہا کہ ہم تمہاری نسل اور دنیا کے مستقبل کے بارے میں خبردار کرنے آئے ہیں، تاکہ تم اس تباہی سے بچ سکو۔",
+          "roman": "Phir aik tanbeeh aayi. Awaaz ne kaha ke hum tumhari nasal aur duniya ke mustaqbil ke baare mein khabardar karne aaye hain, taake tum is tabahi se bach sako.",
+          "visual": {
+            "type": "clip",
+            "query": "storm clouds sky",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c4b5",
+          "text": "اس کے بعد Age of Aquarius کا ذکر ہوا۔ کہا گیا کہ یہ امن کا وقت بن سکتا ہے، مگر صرف تب جب حکمران برائی کی طاقتوں سے آگاہ ہوں۔",
+          "roman": "Is ke baad Age of Aquarius ka zikr hua. Kaha gaya ke yeh aman ka waqt ban sakta hai, magar sirf tab jab hukmran burai ki taaqaton se aagah hon.",
+          "visual": {
+            "type": "clip",
+            "query": "starry night timelapse",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "AGE OF AQUARIUS"
+        },
+        {
+          "id": "c4b6",
+          "text": "پھر لہجہ سخت ہوا۔ آواز نے کہا، خاموش ہو کر سنو، ورنہ شاید تمہیں دوبارہ موقع نہ ملے۔ برائی کے تمام ہتھیار ہٹانے ہوں گے۔",
+          "roman": "Phir lehja sakht hua. Awaaz ne kaha, khamosh ho kar suno, warna shayad tumhein dobara mauqa na mile. Burai ke tamam hathyar hatane hon gay.",
+          "visual": {
+            "type": "clip",
+            "query": "dark room speaker",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c4b7",
+          "text": "کہا گیا کہ لڑائی کا وقت اب گزر چکا ہے۔ اگر انسان خود کو اہل ثابت کریں، تو وہ اپنے ارتقا کے اگلے مرحلوں تک پہنچ سکتے ہیں۔",
+          "roman": "Kaha gaya ke larai ka waqt ab guzar chuka hai. Agar insaan khud ko ahl sabit karein, to woh apne irtiqa ke agle marhalon tak pohanch sakte hain.",
+          "visual": {
+            "type": "clip",
+            "query": "peace dove flying",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c4b8",
+          "text": "آواز کے مطابق وقت کم تھا۔ انسانوں کو بہت جلد سیکھنا تھا کہ امن اور خیرسگالی کے ساتھ مل کر کیسے رہا جاتا ہے۔",
+          "roman": "Awaaz ke mutabiq waqt kam tha. Insanon ko bohat jald seekhna tha ke aman aur khairsigali ke saath mil kar kaise raha jata hai.",
+          "visual": {
+            "type": "clip",
+            "query": "clock ticking closeup",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c4b9",
+          "text": "پیغام میں کہا گیا کہ لوگ چھوٹے groups کی تعلیمات قبول کرنے یا رد کرنے میں آزاد ہیں، مگر صرف امن سیکھنے والے اگلے روحانی درجوں تک پہنچیں گے۔",
+          "roman": "Paigham mein kaha gaya ke log chhote groups ki taleemat qubool karne ya radd karne mein azad hain, magar sirf aman seekhne wale agle roohani darjon tak pohanchein ge.",
+          "visual": {
+            "type": "clip",
+            "query": "community group meeting",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c4b10",
+          "text": "پھر آواز نے دوسری بار اپنا نام دہرایا، Vrillon، Ashtar Galactic Command کا نمائندہ۔ اور فوراً ایک نئی وارننگ دی۔",
+          "roman": "Phir awaaz ne doosri baar apna naam dohraya, Vrillon, Ashtar Galactic Command ka numainda. Aur foran aik nayi warning di.",
+          "visual": {
+            "type": "clip",
+            "query": "audio waveform screen",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c4b11",
+          "text": "وارننگ یہ تھی کہ اس وقت دنیا میں بہت سے false prophets اور جھوٹے رہنما سرگرم ہیں۔ ان سے ہوشیار رہو۔",
+          "roman": "Warning yeh thi ke is waqt duniya mein bohat se false prophets aur jhoote rehnuma sargarm hain. Un se hoshiyar raho.",
+          "visual": {
+            "type": "clip",
+            "query": "crowd street walking",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "FALSE PROPHETS"
+        },
+        {
+          "id": "c4b12",
+          "text": "پیغام کے مطابق وہ لوگ تمہاری توانائی چوس لیں گے۔ وہ توانائی جسے تم money کہتے ہو، اور بدلے میں تمہیں بے کار چیزیں دیں گے۔",
+          "roman": "Paigham ke mutabiq woh log tumhari tawanai choos lein ge. Woh tawanai jise tum money kehte ho, aur badle mein tumhein bekaar cheezein dein ge.",
+          "visual": {
+            "type": "clip",
+            "query": "coins money counting",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c4b13",
+          "text": "پھر کہا گیا کہ اپنے اندر کی divine آواز پر دھیان دو۔ وہ تمہاری حفاظت کرے گی، اور سچ اور confusion کا فرق بتائے گی۔",
+          "roman": "Phir kaha gaya ke apne andar ki divine awaaz par dhyan do. Woh tumhari hifazat kare gi, aur sach aur confusion ka farq batae gi.",
+          "visual": {
+            "type": "clip",
+            "query": "person meditating quietly",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c4b14",
+          "text": "آواز نے کہا کہ سچ کی یہ آواز تمہارے اندر ہے۔ اسے سنو گے تو خود کو ارتقا کے راستے پر ڈال لو گے۔",
+          "roman": "Awaaz ne kaha ke sach ki yeh awaaz tumhare andar hai. Ise suno ge to khud ko irtiqa ke raste par daal lo ge.",
+          "visual": {
+            "type": "clip",
+            "query": "forest path walking",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c4b15",
+          "text": "آخر میں لہجہ نرم ہو گیا۔ کہا گیا کہ ہم برسوں سے تمہیں بڑھتے دیکھ رہے ہیں، اور تم بھی ہماری روشنیاں اپنے آسمان میں دیکھتے رہے ہو۔",
+          "roman": "Aakhir mein lehja naram ho gaya. Kaha gaya ke hum barson se tumhein barhte dekh rahe hain, aur tum bhi hamari roshniyan apne aasman mein dekhte rahe ho.",
+          "visual": {
+            "type": "clip",
+            "query": "city lights night",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c4b16",
+          "text": "پھر دعویٰ کیا گیا کہ زمین پر اور اس کے آس پاس scientists کے ماننے سے کہیں زیادہ وجود موجود ہیں۔ ڈرنے کی ضرورت نہیں۔",
+          "roman": "Phir dawa kiya gaya ke zameen par aur is ke aas paas scientists ke maanne se kahin ziyada wujood maujood hain. Darne ki zaroorat nahi.",
+          "visual": {
+            "type": "clip",
+            "query": "telescope night sky",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c4b17",
+          "text": "ہدایت یہ تھی کہ خود کو پہچانو اور اپنی زمین کے طریقوں کے ساتھ harmony میں رہو۔ ہم تمہاری مدد کے لیے جو کر سکتے ہیں، کریں گے۔",
+          "roman": "Hidayat yeh thi ke khud ko pehchano aur apni zameen ke tareeqon ke saath harmony mein raho. Hum tumhari madad ke liye jo kar sakte hain, karein ge.",
+          "visual": {
+            "type": "clip",
+            "query": "green countryside nature",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c4b18",
+          "text": "پیغام کا اختتام ان الفاظ پر ہوا کہ ہم اب تمہارے وجود کی سطحوں سے رخصت ہو رہے ہیں۔ کائنات کی اعلیٰ محبت اور سچ تمہیں برکت دے۔",
+          "roman": "Paigham ka ikhtitam in alfaz par hua ke hum ab tumhare wujood ki sathon se rukhsat ho rahe hain. Kainaat ki aala mohabbat aur sach tumhein barkat de.",
+          "visual": {
+            "type": "clip",
+            "query": "sunset sky clouds",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c4b19",
+          "text": "ایک بیان کے مطابق پیغام تقریباً چار منٹ چلا، جبکہ دوسرے بیان کے مطابق ساڑھے پانچ منٹ بعد نشریات اپنے معمول کے پروگرام پر واپس آئیں۔",
+          "roman": "Aik bayan ke mutabiq paigham taqriban chaar minute chala, jabke doosre bayan ke mutabiq saarhe paanch minute baad nashriyat apne mamool ke program par wapas aayeen.",
+          "visual": {
+            "type": "clip",
+            "query": "stopwatch timer",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "ABOUT 4 MINUTES"
+        },
+        {
+          "id": "c4b20",
+          "text": "اور یہ بھی یاد رکھیں کہ یہ پورا transcript ہے، مگر اخباروں نے اسے مختلف طرح سے رپورٹ کیا۔ آگے ہم دیکھیں گے کہ کس نے کیا لکھا۔",
+          "roman": "Aur yeh bhi yaad rakhein ke yeh poora transcript hai, magar akhbaron ne ise mukhtalif tarah se report kiya. Aage hum dekhenge ke kis ne kya likha.",
+          "visual": {
+            "type": "clip",
+            "query": "newspaper printing press",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "Let's first hear what the voice actually said, because the full transcript still exists. The message began with an introduction. The voice said this was Vrillon, a representative of the Ashtar Galactic Command, speaking to the listeners. It said that for years you have seen us as lights in the sky, and now we speak to you with peace and wisdom. Then came a warning: they had come to alert people to the future of their race and world, so that they could avoid disaster.",
+        "Next the Age of Aquarius was mentioned. The message said this could be a time of peace, but only if the rulers were aware of the forces of evil. The tone then hardened. The voice said to listen in silence, or you may not get another chance. All weapons of evil must be removed. The time for conflict was said to be over. If humans proved themselves worthy, they could reach the next stages of their evolution. Time was short, and people had to learn very soon how to live together in peace and goodwill. The message said people were free to accept or reject the teachings of the small groups, but only those who learned peace would reach the next spiritual levels.",
+        "The voice then repeated its name, Vrillon, representative of the Ashtar Galactic Command, and immediately gave another warning. Many false prophets and false leaders were active in the world, it said, and people should beware of them. They would drain your energy, which you call money, and give you worthless things in return. Instead, listeners were told to pay attention to the divine voice within, which would protect them and help them tell truth from confusion. This voice of truth lay within each person, and listening to it would put them on the path of evolution.",
+        "At the end, the tone softened. The voice said they had watched humanity grow for years, and that people had seen their lights in the sky. It claimed there are many more beings on and around Earth than scientists accept, and said there was no need to be afraid. Listeners were told to know themselves and live in harmony with the ways of their Earth. The voice promised to do what it could to help. The message closed with the words that they were now leaving the planes of the listeners' existence, and with a blessing of the cosmic love and truth of the universe.",
+        "One account says the message lasted about four minutes, while another says that after five and a half minutes the broadcast returned to its normal programme. This is the full transcript, but the newspapers reported it in different ways. Next we will see who wrote what."
+      ]
+    },
+    {
+      "titleEn": "Back to the Goofy Gophers",
+      "titleRoman": "Wapas Goofy Gophers Par",
+      "covers": "Broadcast returns to 1947 cartoon, Southern unaware until calls, apology, ITN late bulletin, IBA says first of its kind",
+      "words": 380,
+      "beats": [
+        {
+          "id": "c5b1",
+          "text": "اور پھر، اچانک، آواز ختم ہو گئی۔ پیغام مکمل ہو چکا تھا، اور بس اسی کے بعد interruption رک گیا۔",
+          "roman": "Aur phir, achanak, awaaz khatam ho gayi. Paigham mukammal ho chuka tha, aur bas isi ke baad interruption ruk gaya.",
+          "visual": {
+            "type": "clip",
+            "query": "static tv screen",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c5b2",
+          "text": "ذرا وقت کا حساب لگائیں۔ شام 5:10 p.m. GMT پر ITN کی news summary شروع ہوئی تھی۔ اس کے بعد چند منٹوں میں سب کچھ بدل گیا۔",
+          "roman": "Zara waqt ka hisaab lagayein. Shaam 5:10 p.m. GMT par ITN ki news summary shuru hui thi. Is ke baad chand minuton mein sab kuch badal gaya.",
+          "visual": {
+            "type": "clip",
+            "query": "wall clock evening",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "5:10 P.M. GMT"
+        },
+        {
+          "id": "c5b3",
+          "text": "sources کے مطابق نشریات اپنے شیڈول پروگرام پر واپس آ گئیں۔ وہ پروگرام 1947 کا ایک cartoon تھا، The Goofy Gophers۔",
+          "roman": "sources ke mutabiq nashriyat apne schedule program par wapas aa gayeen. Woh program 1947 ka aik cartoon tha, The Goofy Gophers.",
+          "visual": {
+            "type": "clip",
+            "query": "retro television cartoon",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "THE GOOFY GOPHERS"
+        },
+        {
+          "id": "c5b4",
+          "text": "ذرا تصور کریں۔ ایک لمحہ پہلے ایک آواز زمین کے مستقبل کی بات کر رہی تھی، اور اب screen پر کارٹون کردار چل رہے تھے۔",
+          "roman": "Zara tasawwur karein. Aik lamha pehle aik awaaz zameen ke mustaqbil ki baat kar rahi thi, aur ab screen par cartoon kirdar chal rahe thay.",
+          "visual": {
+            "type": "clip",
+            "query": "family watching television",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c5b5",
+          "text": "گھر میں بیٹھے خاندانوں کے لیے یہ عجیب لمحہ رہا ہوگا۔ sources یہ بتاتے ہیں کہ بعد میں سینکڑوں لوگوں نے phone کیے۔",
+          "roman": "Ghar mein baithe khandanon ke liye yeh ajeeb lamha raha hoga. sources yeh batate hain ke baad mein saikron logon ne phone kiye.",
+          "visual": {
+            "type": "clip",
+            "query": "living room evening",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c5b6",
+          "text": "ایک چھوٹی سی الجھن بھی ہے۔ کچھ جگہ اسے Looney Tunes کہا گیا اور کچھ جگہ Merrie Melodies، مگر دونوں 1947 کے اسی cartoon کی بات کرتے ہیں۔",
+          "roman": "Aik chhoti si uljhan bhi hai. Kuch jagah ise Looney Tunes kaha gaya aur kuch jagah Merrie Melodies, magar dono 1947 ke isi cartoon ki baat karte hain.",
+          "visual": {
+            "type": "clip",
+            "query": "old film reels",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c5b7",
+          "text": "اب سب سے عجیب بات سنیں۔ Southern Television کو خود پتا نہیں تھا کہ اس کی نشریات میں کوئی گڑبڑ ہو چکی ہے۔",
+          "roman": "Ab sab se ajeeb baat sunein. Southern Television ko khud pata nahi tha ke is ki nashriyat mein koi garbar ho chuki hai.",
+          "visual": {
+            "type": "clip",
+            "query": "television studio control",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c5b8",
+          "text": "station کو اس کا علم تب ہوا جب viewers نے phone کرنا شروع کیا۔ یعنی خبر پہلے گھروں تک پہنچی، اور station تک بعد میں۔",
+          "roman": "station ko is ka ilm tab hua jab viewers ne phone karna shuru kiya. Yani khabar pehle gharon tak pohanchi, aur station tak baad mein.",
+          "visual": {
+            "type": "clip",
+            "query": "ringing telephone",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c5b9",
+          "text": "جب cartoon ختم ہوا تو Southern Television نے معذرت کی۔ معذرت اس بات پر تھی کہ کچھ viewers کو sound میں interference کا سامنا ہوا۔",
+          "roman": "Jab cartoon khatam hua to Southern Television ne maazrat ki. Maazrat is baat par thi ke kuch viewers ko sound mein interference ka saamna hua.",
+          "visual": {
+            "type": "clip",
+            "query": "apology letter writing",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c5b10",
+          "text": "یاد رہے، یہ خلل ان viewers کے لیے تھا جن کا TV sound signal Hannington transmitter سے آتا تھا۔ یعنی صرف southern England کے کچھ حصے۔",
+          "roman": "Yaad rahe, yeh khalal un viewers ke liye tha jin ka TV sound signal Hannington transmitter se aata tha. Yani sirf southern England ke kuch hisse.",
+          "visual": {
+            "type": "clip",
+            "query": "transmitter tower hills",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c5b11",
+          "text": "رات کو ITN نے بھی اس واقعے کی خبر دی۔ Saturday کے late-evening bulletin میں اس incident کو رپورٹ کیا گیا۔",
+          "roman": "Raat ko ITN ne bhi is waqiye ki khabar di. Saturday ke late-evening bulletin mein is incident ko report kiya gaya.",
+          "visual": {
+            "type": "clip",
+            "query": "newsroom desk",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c5b12",
+          "text": "دلچسپ بات یہ ہے کہ یہی ITN شام کو news summary دے رہا تھا جب مداخلت ہوئی تھی۔ اب وہی ادارہ اس مداخلت کو خبر بنا رہا تھا۔",
+          "roman": "Dilchasp baat yeh hai ke yehi ITN shaam ko news summary de raha tha jab mudakhalat hui thi. Ab wohi idara is mudakhalat ko khabar bana raha tha.",
+          "visual": {
+            "type": "clip",
+            "query": "news studio camera",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c5b13",
+          "text": "پھر Independent Broadcasting Authority، یعنی IBA، نے ایک اہم بات کہی۔ اس کے مطابق ملک میں اس قسم کی مداخلت پہلی بار ہوئی تھی۔",
+          "roman": "Phir Independent Broadcasting Authority, yani IBA, ne aik aham baat kahi. Is ke mutabiq mulk mein is qism ki mudakhalat pehli baar hui thi.",
+          "visual": {
+            "type": "clip",
+            "query": "official documents stamp",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "IBA: FIRST OF ITS KIND"
+        },
+        {
+          "id": "c5b14",
+          "text": "یعنی یہ صرف ایک عجیب شام نہیں تھی۔ IBA کے مطابق ملک میں اس قسم کی یہ پہلی مداخلت تھی۔",
+          "roman": "Yani yeh sirf aik ajeeb shaam nahi thi. IBA ke mutabiq mulk mein is qism ki yeh pehli mudakhalat thi.",
+          "visual": {
+            "type": "clip",
+            "query": "old documents desk",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "factFix": "Overstated. The source only says the IBA called it the first interruption of this kind in the country. It does not say it was the first in Britain's broadcasting history, or that this was generally accepted."
+        },
+        {
+          "id": "c5b15",
+          "text": "تو اس وقت تک تصویر یہ بنتی ہے۔ ایک مختصر پیغام، ایک cartoon، سینکڑوں الجھے ہوئے viewers، اور کوئی واضح جواب نہیں۔",
+          "roman": "To is waqt tak tasweer yeh banti hai. Aik mukhtasar paigham, aik cartoon, saikron uljhe hue viewers, aur koi wazeh jawab nahi.",
+          "visual": {
+            "type": "clip",
+            "query": "puzzle pieces table",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c5b16",
+          "text": "اس لیے سوال یہ بنا کہ نشریات کی آواز بدلنے کے لیے کیا چاہیے؟ اس کا جواب technical تھا، اور وہ ہم آگے دیکھیں گے۔",
+          "roman": "Is liye sawal yeh bana ke nashriyat ki awaaz badalne ke liye kya chahiye? Is ka jawab technical tha, aur woh hum aage dekhenge.",
+          "visual": {
+            "type": "clip",
+            "query": "radio equipment racks",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c5b17",
+          "text": "سوال یہ تھا کہ اگر station کو خبر نہیں تھی، تو لوگوں نے کیا کیا؟ اور اخباروں نے اگلے دنوں میں کیا لکھا؟",
+          "roman": "Sawal yeh tha ke agar station ko khabar nahi thi, to logon ne kya kiya? Aur akhbaron ne agle dinon mein kya likha?",
+          "visual": {
+            "type": "clip",
+            "query": "newspaper headlines stack",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "Then, suddenly, the voice stopped. The message was complete, and the interruption ended. Consider the timing: the ITN news summary began at 5:10 p.m. GMT, and within a few minutes everything had changed. According to sources, the broadcast went back to its scheduled programme, a 1947 cartoon called The Goofy Gophers. A moment earlier a voice had been talking about Earth's future, and now cartoon characters were on screen. For families sitting at home, it must have been a strange moment. The sources say that hundreds of people phoned later. There is a small confusion too: some places call the cartoon Looney Tunes and others Merrie Melodies, but both refer to the same 1947 cartoon.",
+        "The oddest part is that Southern Television itself did not know anything had gone wrong with its broadcast. The station learned of it only when viewers began phoning. So the news reached homes first and the station later. When the cartoon ended, Southern Television apologised, saying some viewers had experienced interference with the sound. This disruption affected only viewers whose TV sound signal came from the Hannington transmitter, which meant only parts of southern England.",
+        "That night ITN also reported the incident, in its late-evening bulletin on Saturday. It is interesting that ITN was the same organization giving the news summary when the interruption happened, and now it was making the interruption into news. The Independent Broadcasting Authority said something important: this was the first interruption of its kind in the country. So this was not just one strange evening.",
+        "At this point the picture looks like this: a short message, a cartoon, hundreds of confused viewers and no clear answer. The question became what it takes to change a broadcast's sound. The answer was technical, and we will come to it. First, if the station did not know, what did people do? And what did the newspapers write over the following days?"
+      ]
+    },
+    {
+      "titleEn": "Panic, Phone Calls and Confusing Headlines",
+      "titleRoman": "Ghabrahat, Phone Calls Aur Ulajhi Headlines",
+      "covers": "Hundreds of calls, 50+ 999 calls to Winchester police, UPI and AP spread worldwide, names Gillon/Asteron/Ashdown, invasion and leave the galaxy claims, Sir John Whitmore's comments",
+      "words": 520,
+      "beats": [
+        {
+          "id": "c6b1",
+          "text": "اب آتے ہیں لوگوں کے ردعمل پر۔ واقعے کے بعد Southern Television کو سینکڑوں phone calls موصول ہوئیں، اور یہ calls فکرمند viewers کی تھیں۔",
+          "roman": "Ab aate hain logon ke radd-e-amal par. Waqiye ke baad Southern Television ko saikron phone calls mausool huin, aur yeh calls fikarmand viewers ki thin.",
+          "visual": {
+            "type": "clip",
+            "query": "old phone dialing",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "HUNDREDS OF CALLS"
+        },
+        {
+          "id": "c6b2",
+          "text": "یہ calls صرف TV station تک محدود نہیں رہیں۔ Winchester police کو بھی calls ملیں، اور لوگوں نے emergency نمبر 999 ڈائل کیا۔",
+          "roman": "Yeh calls sirf TV station tak mehdood nahi raheen. Winchester police ko bhi calls milin, aur logon ne emergency number 999 dial kiya.",
+          "visual": {
+            "type": "clip",
+            "query": "police station exterior",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c6b3",
+          "text": "ذرا اس بات پر غور کریں۔ 999 وہ نمبر ہے جو UK میں emergency کے لیے ہے۔ لوگوں نے اسے اس واقعے کو report کرنے کے لیے استعمال کیا۔",
+          "roman": "Zara is baat par ghaur karein. 999 woh number hai jo UK mein emergency ke liye hai. Logon ne ise is waqiye ko report karne ke liye istemal kiya.",
+          "visual": {
+            "type": "clip",
+            "query": "emergency phone call",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c6b4",
+          "text": "یعنی کچھ لوگوں کے لیے یہ محض مذاق نہیں تھا۔ sources کے مطابق واقعے سے local سطح پر کچھ alarm پھیلا۔",
+          "roman": "Yani kuch logon ke liye yeh mahaz mazaq nahi tha. sources ke mutabiq waqiye se local satah par kuch alarm phaila.",
+          "visual": {
+            "type": "clip",
+            "query": "worried people watching",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c6b5",
+          "text": "ایک اور نکتہ۔ Southern Television کو سینکڑوں calls اور Winchester police کو 50 سے زیادہ calls ملیں۔ دونوں اعداد اس واقعے کے بعد کی گھبراہٹ دکھاتے ہیں۔",
+          "roman": "Aik aur nukta. Southern Television ko saikron calls aur Winchester police ko 50 se ziyada calls milin. Dono adaad is waqiye ke baad ki ghabrahat dikhate hain.",
+          "visual": {
+            "type": "card",
+            "title": "50+ EMERGENCY CALLS",
+            "text": "Winchester police received over 50 calls to 999"
+          }
+        },
+        {
+          "id": "c6b6",
+          "text": "پھر خبر آگے بڑھی۔ American اخباروں نے بھی کہانی چھاپی، اور کئی نے اسے United Press International اور Associated Press سے لیا۔",
+          "roman": "Phir khabar aage barhi. American akhbaron ne bhi kahani chhapi, aur kai ne ise United Press International aur Associated Press se liya.",
+          "visual": {
+            "type": "clip",
+            "query": "newspaper stack delivery",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c6b7",
+          "text": "یوں southern England کی ایک شام کا واقعہ دنیا بھر کی خبر بن گیا۔ مگر جیسے جیسے خبر پھیلی، تفصیلات بھی بدلتی گئیں۔",
+          "roman": "Yoon southern England ki aik shaam ka waqia duniya bhar ki khabar ban gaya. Magar jaise jaise khabar phaili, tafseelat bhi badalti gayeen.",
+          "visual": {
+            "type": "clip",
+            "query": "world map globe",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c6b8",
+          "text": "برطانوی اور امریکی اخبارات دونوں نے یہ خبر چھاپی۔ لیکن ہر خبر ایک جیسی نہیں تھی۔ اب سوال یہ تھا کہ کون سی خبر درست ہے؟",
+          "roman": "Bartanwi aur Americi akhbaraat dono ne yeh khabar chhapi. Lekin har khabar aik jaisi nahi thi. Ab sawal yeh tha ke kaun si khabar durust hai?",
+          "visual": {
+            "type": "clip",
+            "query": "reading newspaper morning",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c6b9",
+          "text": "سب سے پہلے نام کا مسئلہ آیا۔ transcript میں نام Vrillon ہے، لیکن زیادہ تر برطانوی اخبارات نے اسے Gillon یا Asteron لکھا۔",
+          "roman": "Sab se pehle naam ka masla aaya. transcript mein naam Vrillon hai, lekin zyada tar Bartanwi akhbaraat ne ise Gillon ya Asteron likha.",
+          "visual": {
+            "type": "clip",
+            "query": "typewriter keys",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "GILLON OR ASTERON?"
+        },
+        {
+          "id": "c6b10",
+          "text": "کہیں لکھا گیا Gillon of the Ashdown Galactic Command۔ یعنی نہ صرف نام بدلا، بلکہ تنظیم کا نام بھی Ashtar سے Ashdown ہو گیا۔",
+          "roman": "Kahin likha gaya Gillon of the Ashdown Galactic Command. Yani na sirf naam badla, balkay tanzeem ka naam bhi Ashtar se Ashdown ho gaya.",
+          "visual": {
+            "type": "clip",
+            "query": "headline text closeup",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c6b11",
+          "text": "یہ فرق چھوٹا لگتا ہے، مگر اس سے اندازہ ہوتا ہے کہ ایک ہی واقعے کی کئی versions گردش کر رہی تھیں۔ یہ reports کبھی کبھی contradictory بھی تھیں۔",
+          "roman": "Yeh farq chhota lagta hai, magar is se andaza hota hai ke aik hi waqiye ki kai versions gardish kar rahi thin. Yeh reports kabhi kabhi contradictory bhi thin.",
+          "visual": {
+            "type": "clip",
+            "query": "papers scattered desk",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c6b12",
+          "text": "IBA کے مطابق یہ ملک میں پہلا ایسا واقعہ تھا۔ ممکن ہے اسی لیے ہر کسی نے اپنی سمجھ سے کہانی بیان کی، مگر یہ صرف اندازہ ہے۔",
+          "roman": "IBA ke mutabiq yeh mulk mein pehla aisa waqia tha. Mumkin hai isi liye har kisi ne apni samajh se kahani bayan ki, magar yeh sirf andaza hai.",
+          "visual": {
+            "type": "clip",
+            "query": "thinking man window",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c6b13",
+          "text": "پھر پیغام کے الفاظ پر بھی اختلاف تھا۔ کچھ اخباروں نے لکھا کہ آواز نے دھمکی دی کہ ہتھیار نہ چھوڑے تو زمین پر جلد حملہ ہوگا۔",
+          "roman": "Phir paigham ke alfaz par bhi ikhtilaf tha. Kuch akhbaron ne likha ke awaaz ne dhamki di ke hathyar na chhode to zameen par jald hamla hoga.",
+          "visual": {
+            "type": "clip",
+            "query": "thunderstorm dark sky",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c6b14",
+          "text": "دوسری رپورٹس، جو United Press International کی رپورٹ پر مبنی تھیں، کہتی ہیں کہ آواز نے کہا زمین کو galaxy چھوڑنا پڑے گا اگر وہ امن نہ سیکھے۔",
+          "roman": "Doosri reports, jo United Press International ki report par mabni thin, kehti hain ke awaaz ne kaha zameen ko galaxy chhodna parega agar woh aman na seekhe.",
+          "visual": {
+            "type": "clip",
+            "query": "galaxy space stars",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c6b15",
+          "text": "مگر ہمارے پاس موجود transcript میں نہ حملے کی بات ہے، نہ galaxy چھوڑنے کی۔ اس میں ہتھیار ہٹانے اور امن سیکھنے کی بات ہے۔",
+          "roman": "Magar hamare paas maujood transcript mein na hamle ki baat hai, na galaxy chhodne ki. Is mein hathyar hatane aur aman seekhne ki baat hai.",
+          "visual": {
+            "type": "clip",
+            "query": "reading document pen",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c6b16",
+          "text": "ایک شخص نے اس رپورٹنگ پر سوال اٹھایا۔ 6 December 1977 کو British commercial radio پر Sir John Whitmore نے بات کی۔",
+          "roman": "Aik shakhs ne is reporting par sawal uthaya. 6 December 1977 ko British commercial radio par Sir John Whitmore ne baat ki.",
+          "visual": {
+            "type": "clip",
+            "query": "vintage radio dial",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "6 DECEMBER 1977"
+        },
+        {
+          "id": "c6b17",
+          "text": "ان کا کہنا تھا کہ یہ دعوے کہ پیغام دھمکی آمیز یا خوفناک تھا، شاید اخباروں کی اپنی projection تھے۔ اصل پیغام میں ایسا کچھ موجود نہیں تھا۔",
+          "roman": "Un ka kehna tha ke yeh dawe ke paigham dhamki amez ya khaufnak tha, shayad akhbaron ki apni projection thay. Asal paigham mein aisa kuch maujood nahi tha.",
+          "visual": {
+            "type": "clip",
+            "query": "interview talking man",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c6b18",
+          "text": "یہاں ایک احتیاط ضروری ہے۔ Whitmore کی بات ان کی رائے تھی، مگر transcript پڑھ کر ہم خود دیکھ سکتے ہیں کہ پیغام میں warning اور امن، دونوں موجود تھے۔",
+          "roman": "Yahan aik ehtiyat zaroori hai. Whitmore ki baat un ki raye thi, magar transcript parh kar hum khud dekh sakte hain ke paigham mein warning aur aman, dono maujood thay.",
+          "visual": {
+            "type": "clip",
+            "query": "magnifying glass paper",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c6b19",
+          "text": "اس بحث سے ایک سبق نکلتا ہے۔ جب کوئی واقعہ تیزی سے پھیلتا ہے تو اصل transcript اور اخباری خلاصے میں فرق ہو سکتا ہے۔ اسی لیے ہم نے پورا پیغام سنایا۔",
+          "roman": "Is bahas se aik sabaq nikalta hai. Jab koi waqia tezi se phailta hai to asal transcript aur akhbari khulase mein farq ho sakta hai. Isi liye hum ne poora paigham sunaya.",
+          "visual": {
+            "type": "clip",
+            "query": "library bookshelves",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c6b20",
+          "text": "یوں تین مختلف versions گردش کر رہی تھیں۔ ایک peace کی، ایک invasion کی، اور ایک galaxy چھوڑنے کی۔",
+          "roman": "Yoon teen mukhtalif versions gardish kar rahi thin. Aik peace ki, aik invasion ki, aur aik galaxy chhodne ki.",
+          "visual": {
+            "type": "clip",
+            "query": "three paths road",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c6b21",
+          "text": "دوستو، اسی الجھن کے بیچ سب سے بڑا سوال ابھی باقی تھا۔ یہ آواز آخر آئی کہاں سے؟ کیا واقعی کسی نے کچھ کیا تھا؟",
+          "roman": "Dosto, isi uljhan ke beech sab se bara sawal abhi baqi tha. Yeh awaaz aakhir aayi kahan se? Kya waqai kisi ne kuch kiya tha?",
+          "visual": {
+            "type": "clip",
+            "query": "question mark chalkboard",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "Now to people's reactions. After the incident, Southern Television received hundreds of phone calls from worried viewers. The calls did not stop at the TV station. Winchester police also received calls, and people dialled the emergency number 999, the UK's emergency line. They used it to report the incident, so for some people this was not simply a joke. According to sources, the incident caused some alarm locally. Southern Television received hundreds of calls and Winchester police more than 50. Both figures show the unease that followed.",
+        "The story then spread. American newspapers also printed it, and many took it from United Press International and the Associated Press. So an evening in southern England became world news. But as the story spread, details changed. Both British and American papers ran it, and no two reports were the same.",
+        "The first problem was the name. The transcript says Vrillon, but most British papers wrote Gillon or Asteron. One wrote Gillon of the Ashdown Galactic Command, so not only the name changed but the organization's name went from Ashtar to Ashdown. The difference seems small, but it shows that several versions of one event were circulating. Reports were sometimes contradictory. The IBA said this was the first such incident in the country, and it is possible that is why everyone told the story as they understood it, though that is only a guess.",
+        "The words of the message were disputed as well. Some papers wrote that the voice threatened a swift attack on Earth unless weapons were put down. Other reports, based on the United Press International report, said the voice said Earth would have to leave the galaxy if it did not learn peace. But the transcript we have mentions neither an attack nor leaving the galaxy. It talks about removing weapons and learning peace.",
+        "One person questioned this reporting. On 6 December 1977, Sir John Whitmore spoke on British commercial radio. He said the message was not threatening or frightening, and that this may have been the newspapers' own projection. A caution is needed here: Whitmore's view was his opinion, but by reading the transcript we can see for ourselves that the message contained both warning and peace.",
+        "There is a lesson in this debate. When an event spreads quickly, the original transcript and the newspaper summary can differ. That is why we played the whole message. So three versions were circulating: one of peace, one of invasion and one of leaving the galaxy. Amid this confusion the biggest question remained. Where did the voice actually come from, and had someone really done something?"
+      ]
+    },
+    {
+      "titleEn": "How Was It Done?",
+      "titleRoman": "Yeh Kaise Kiya Gaya?",
+      "covers": "Investigation by police, Post Office, IBA; Hannington rebroadcast off-air from Rowridge on Isle of Wight; nearby low-power transmitter overwhelmed receiver; IBA says technical know-how; how a television transmitter works and the capture idea; Wireless Telegraphy Act 1949, £200 fine",
+      "words": 560,
+      "beats": [
+        {
+          "id": "c7b1",
+          "text": "اس واقعے کی تحقیقات تین اداروں نے شروع کیں۔ پولیس، Post Office اور Independent Broadcasting Authority، یعنی IBA، جس کی ملکیت وہ transmitter تھا۔",
+          "roman": "Is waqiye ki tehqeeqat teen idaron ne shuru keen. Police, Post Office aur Independent Broadcasting Authority, yani IBA, jis ki malkiyat woh transmitter tha.",
+          "visual": {
+            "type": "clip",
+            "query": "police car night",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "POLICE, POST OFFICE, IBA"
+        },
+        {
+          "id": "c7b2",
+          "text": "Post Office کے پاس 1949 کے Wireless Telegraphy Act کے تحت radio frequencies کو کنٹرول کرنے کے قانونی اختیارات تھے۔ اسی لیے وہ اس تحقیقات میں شامل تھا۔",
+          "roman": "Post Office ke paas 1949 ke Wireless Telegraphy Act ke tehat radio frequencies ko control karne ke qanooni ikhtiyarat thay. Isi liye woh is tehqeeqat mein shamil tha.",
+          "visual": {
+            "type": "clip",
+            "query": "old documents desk",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "factFix": "The claim that the law 'was important in this case' is not in the sources. They only say the Post Office had statutory powers under the 1949 Wireless Telegraphy Act to regulate radio frequencies."
+        },
+        {
+          "id": "c7b3",
+          "text": "سب سے پہلے سمجھتے ہیں کہ television transmitter کیا کرتا ہے۔ یہ ایک electronic device ہے جو radio waves کے ذریعے تصویر اور آواز ناظرین تک پہنچاتا ہے۔",
+          "roman": "Sab se pehle samajhte hain ke television transmitter kya karta hai. Yeh ek electronic device hai jo radio waves ke zariye tasveer aur awaaz nazireen tak pohanchata hai.",
+          "visual": {
+            "type": "clip",
+            "query": "radio tower antenna",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c7b4",
+          "text": "ہر transmitter کو حکومت سے licence لینا پڑتا ہے، اور وہ ایک مخصوص frequency channel اور power level تک محدود ہوتا ہے۔",
+          "roman": "Har transmitter ko hukumat se licence lena parta hai, aur woh ek makhsoos frequency channel aur power level tak mehdood hota hai.",
+          "visual": {
+            "type": "clip",
+            "query": "television studio equipment",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c7b5",
+          "text": "VHF اور UHF bands کی waves line of sight میں سفر کرتی ہیں۔ اس لیے عام طور پر reception صرف 40 سے 60 میل تک رہتا ہے۔",
+          "roman": "VHF aur UHF bands ki waves line of sight mein safar karti hain. Is liye aam tor par reception sirf 40 se 60 meel tak rehta hai.",
+          "visual": {
+            "type": "clip",
+            "query": "hills countryside landscape",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "40-60 MILES"
+        },
+        {
+          "id": "c7b6",
+          "text": "کسی transmitter کی effective طاقت اس کے output power اور antenna gain کے حاصل ضرب سے بنتی ہے، جسے ERP کہتے ہیں۔",
+          "roman": "Kisi transmitter ki effective taqat is ke output power aur antenna gain ke hasil zarb se banti hai, jise ERP kehte hain.",
+          "visual": {
+            "type": "clip",
+            "query": "antenna dish rooftop",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c7b7",
+          "text": "اب اصل بات۔ Hannington کا transmitter غیر معمولی انتظام پر چلتا تھا۔ وہ ان چند بڑے transmitters میں سے تھا جو signal ہوا سے لیتے تھے۔",
+          "roman": "Ab asal baat. Hannington ka transmitter ghair mamooli intezam par chalta tha. Woh un chand bare transmitters mein se tha jo signal hawa se lete thay.",
+          "visual": {
+            "type": "map",
+            "place": "Hannington, Hampshire",
+            "lat": 51.3,
+            "lon": -1.24,
+            "zoom": "region",
+            "label": "Hannington transmitter, Hampshire"
+          }
+        },
+        {
+          "id": "c7b8",
+          "text": "اسے landline کے ذریعے سیدھا feed نہیں ملتا تھا۔ بلکہ وہ IBA کے Rowridge transmitter کا signal off-air وصول کر کے آگے نشر کرتا تھا۔",
+          "roman": "Isay landline ke zariye seedha feed nahi milta tha. Balkay woh IBA ke Rowridge transmitter ka signal off-air wasool kar ke aage nashr karta tha.",
+          "visual": {
+            "type": "clip",
+            "query": "radio receiver equipment",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c7b9",
+          "text": "Rowridge Isle of Wight پر واقع تھا۔ یعنی Hannington کا receiver دور سے آنے والے signal کو پکڑتا تھا، اور وہی آگے پھیلا دیتا تھا۔",
+          "roman": "Rowridge Isle of Wight par waqe tha. Yani Hannington ka receiver door se aane wale signal ko pakadta tha, aur wohi aage phaila deta tha.",
+          "visual": {
+            "type": "clip",
+            "query": "english island coastline",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c7b10",
+          "text": "اب سوچیں، ایک چھوٹا سا transmitter اگر اس receiver کے بالکل قریب لگا دیا جائے تو کیا ہوگا؟ یہی اس واقعے کی بنیادی وضاحت بنی۔",
+          "roman": "Ab sochen, ek chhota sa transmitter agar is receiver ke bilkul qareeb laga diya jaye to kya hoga? Yehi is waqiye ki bunyadi wazahat bani.",
+          "visual": {
+            "type": "clip",
+            "query": "radio antenna closeup",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c7b11",
+          "text": "کم طاقت والا signal بھی، اگر receiver کے بہت نزدیک ہو، تو اصل signal پر حاوی ہو سکتا ہے۔ اسی کو عام زبان میں capture کا خیال کہہ سکتے ہیں۔",
+          "roman": "Kam taqat wala signal bhi, agar receiver ke bohat nazdeek ho, to asal signal par haavi ho sakta hai. Isi ko aam zabaan mein capture ka khayal keh sakte hain.",
+          "visual": {
+            "type": "clip",
+            "query": "static television screen",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "LOW POWER, VERY CLOSE"
+        },
+        {
+          "id": "c7b12",
+          "text": "پھر Hannington وہی غلط signal amplify کر کے بہت وسیع علاقے میں پھیلا دیتا تھا۔ یوں ایک چھوٹی سی حرکت بہت سے گھروں تک پہنچ گئی۔",
+          "roman": "Phir Hannington wohi ghalat signal amplify kar ke bohat wasee ilaqay mein phaila deta tha. Yun ek chhoti si harkat bohat se gharon tak pohanch gayi.",
+          "visual": {
+            "type": "clip",
+            "query": "rural village houses aerial",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c7b13",
+          "text": "Southern Television کے spokesman نے اس وضاحت کی تصدیق کی۔ ان کے مطابق ایک hoaxer نے North Hampshire میں دوسرا transmitter بہت قریب رکھ کر اسے jam کیا۔",
+          "roman": "Southern Television ke spokesman ne is wazahat ki tasdeeq ki. Un ke mutabiq ek hoaxer ne North Hampshire mein doosra transmitter bohat qareeb rakh kar ise jam kiya.",
+          "visual": {
+            "type": "clip",
+            "query": "countryside fields mist",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c7b14",
+          "text": "IBA نے کہا کہ ایسا hoax کرنے کے لیے considerable technical know-how چاہیے۔ یعنی اس کے پیچھے تکنیکی مہارت ضرور تھی۔",
+          "roman": "IBA ne kaha ke aisa hoax karne ke liye considerable technical know-how chahiye. Yani is ke peechay takneeki maharat zaroor thi.",
+          "visual": {
+            "type": "clip",
+            "query": "engineer circuit board",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "TECHNICAL KNOW-HOW"
+        },
+        {
+          "id": "c7b15",
+          "text": "اگر ذمہ دار پکڑے جاتے تو Wireless Telegraphy Act کے تحت انہیں زیادہ سے زیادہ 200 pounds تک جرمانہ ہو سکتا تھا۔",
+          "roman": "Agar zimma dar pakre jate to Wireless Telegraphy Act ke tehat unhein zyada se zyada 200 pounds tak jurmana ho sakta tha.",
+          "visual": {
+            "type": "clip",
+            "query": "coins money pounds",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "FINE UP TO 200 POUNDS"
+        },
+        {
+          "id": "c7b16",
+          "text": "یاد رکھیں، اس وقت Southern Television کو خود بھی پتا نہیں تھا کہ اس کا signal hijack ہو چکا ہے۔ انہیں viewers کی calls سے معلوم ہوا۔",
+          "roman": "Yaad rakhein, us waqt Southern Television ko khud bhi pata nahi tha ke is ka signal hijack ho chuka hai. Unhein viewers ki calls se maloom hua.",
+          "visual": {
+            "type": "clip",
+            "query": "telephone ringing office",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c7b17",
+          "text": "تو تحقیقات کا نتیجہ کیا نکلا؟ ایک بات صاف تھی۔ آواز کسی خلائی جہاز سے نہیں، زمین پر موجود ایک چھوٹے unauthorised transmitter سے آئی تھی۔",
+          "roman": "To tehqeeqat ka nateeja kya nikla? Ek baat saaf thi. Awaaz kisi khalai jahaz se nahi, zameen par maujood ek chhote unauthorised transmitter se aayi thi.",
+          "visual": {
+            "type": "clip",
+            "query": "night sky stars",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "UNAUTHORISED TRANSMITTER"
+        },
+        {
+          "id": "c7b18",
+          "text": "یہاں ایک اور نکتہ دلچسپ ہے۔ IBA کے مطابق ایسی مداخلت اس ملک میں اپنی نوعیت کی پہلی تھی۔ یہ بات اسے خاص بناتی ہے۔",
+          "roman": "Yahan ek aur nuqta dilchasp hai. IBA ke mutabiq aisi mudakhilat is mulk mein apni nauiyat ki pehli thi. Yeh baat ise khaas banati hai.",
+          "visual": {
+            "type": "clip",
+            "query": "vintage television set",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c7b19",
+          "text": "ایک اور فرق دیکھیں۔ sources کے مطابق پیغام تقریباً چار منٹ کا تھا، جبکہ پوری مداخلت ساڑھے پانچ منٹ بتائی گئی۔",
+          "roman": "Ek aur farq dekhein. Sources ke mutabiq paigham taqreeban chaar minute ka tha, jabke poori mudakhilat sarhe paanch minute bataayi gayi.",
+          "visual": {
+            "type": "clip",
+            "query": "clock ticking close",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "4 VS 5.5 MINUTES"
+        },
+        {
+          "id": "c7b20",
+          "text": "اس سے ہم سمجھتے ہیں کہ تکنیکی کمزوری ایک ہی نکتے پر تھی۔ ایک receiver، جو غلط آواز کو بھی اصل سمجھ کر آگے بڑھا دیتا تھا۔",
+          "roman": "Is se hum samajhte hain ke takneeki kamzori ek hi nukte par thi. Ek receiver, jo ghalat awaaz ko bhi asal samajh kar aage barha deta tha.",
+          "visual": {
+            "type": "clip",
+            "query": "electronic equipment racks",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c7b21",
+          "text": "TV transmitter میں audio اور video کے input stages الگ ہوتے ہیں۔ اس واقعے میں بھی بدلی ہوئی چیز صرف audio تھی۔",
+          "roman": "TV transmitter mein audio aur video ke input stages alag hote hain. Is waqiye mein bhi badli hui cheez sirf audio thi.",
+          "visual": {
+            "type": "clip",
+            "query": "audio mixing console",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c7b22",
+          "text": "audio عام طور پر ایک FM signal کے طور پر modulate ہوتی ہے، جبکہ video amplitude modulation سے گزرتی ہے۔ دونوں آخر میں مل کر antenna سے نشر ہوتے ہیں۔",
+          "roman": "Audio aam tor par ek FM signal ke tor par modulate hoti hai, jabke video amplitude modulation se guzarti hai. Dono aakhir mein mil kar antenna se nashr hote hain.",
+          "visual": {
+            "type": "clip",
+            "query": "oscilloscope waveform screen",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c7b23",
+          "text": "دوستو، خلاصہ یہ ہے۔ آواز کے پیچھے کوئی پراسرار خلائی ٹیکنالوجی نہیں، بلکہ radio کی ایک انتظامی کمزوری تھی۔ مگر یہ کس نے کیا؟",
+          "roman": "Dosto, khulasa yeh hai. Awaaz ke peechay koi purasrar khalai technology nahi, balkay radio ki ek intezami kamzori thi. Magar yeh kis ne kiya?",
+          "visual": {
+            "type": "clip",
+            "query": "mystery silhouette dark",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "Three bodies began investigating the incident: the police, the Post Office, and the Independent Broadcasting Authority (IBA), which owned the transmitter. The Post Office had legal powers under the 1949 Wireless Telegraphy Act to control radio frequencies, which is why it was involved.",
+        "First, what does a television transmitter do? It is an electronic device that carries picture and sound to viewers by radio waves. Each transmitter needs a government licence and is limited to a specific frequency channel and power level. VHF and UHF waves travel in line of sight, so reception is usually only 40 to 60 miles. A transmitter's effective strength is its output power multiplied by antenna gain, which is called ERP.",
+        "Now the key point. The Hannington transmitter worked in an unusual way. It was one of a few large transmitters that took their signal off the air. It did not get a direct feed by landline. Instead it picked up the IBA's Rowridge transmitter signal off-air and rebroadcast it. Rowridge was on the Isle of Wight. So Hannington's receiver caught a signal from far away and passed it on.",
+        "Now imagine a small transmitter placed very close to that receiver. This became the basic explanation of the incident. Even a low-power signal, if very near the receiver, can overpower the real signal. This can be called a capture effect. Hannington then amplified the wrong signal and spread it over a wide area, so one small action reached many homes.",
+        "A Southern Television spokesman confirmed this explanation. According to him, a hoaxer in North Hampshire placed a second transmitter very close and overrode the signal. The IBA said such a hoax needed considerable technical know-how, so real technical skill was behind it. If those responsible had been caught, they could have faced a fine of up to 200 pounds under the Wireless Telegraphy Act. Remember, Southern Television itself did not know its signal had been hijacked and learned from viewers' calls.",
+        "So what did the investigation conclude? One thing was clear: the voice came not from a spacecraft but from a small unauthorised transmitter on the ground. Another interesting point is that the IBA said an interruption of this kind was the first of its nature in the country.",
+        "There is also a difference in the figures. Sources say the message lasted about four minutes, while the whole interruption was put at about five and a half minutes. This tells us the technical weakness was at a single point: a receiver that passed on the wrong audio as if it were genuine. In a TV transmitter the audio and video input stages are separate, and in this incident only the audio was replaced. Audio is usually frequency modulated (FM), while video uses amplitude modulation. The two are combined at the end and broadcast from the antenna.",
+        "So, in short, there was no mysterious alien technology behind the voice, only a weakness in how the radio system was arranged. But who did it?"
+      ]
+    },
+    {
+      "titleEn": "The Hoaxer Who Vanished",
+      "titleRoman": "Wo Hoaxer Jo Ghayab Ho Gaya",
+      "covers": "30 Nov loophole closed, Home Office says investigation complete in December, no one caught, Aetherius Society agrees hoax, ufology footnote, urban folklore by 1985, 1999 It's a Mystery episode",
+      "words": 420,
+      "beats": [
+        {
+          "id": "c8b1",
+          "text": "30 نومبر کو Southern Television نے اخبارات کو بتایا کہ انہیں معلوم ہو گیا ہے کہ مداخلت کیسے ہوئی، اور انہوں نے وہ loophole بند کر دیا ہے۔",
+          "roman": "30 November ko Southern Television ne akhbarat ko bataya ke unhein maloom ho gaya hai ke mudakhilat kaise hui, aur unhon ne woh loophole band kar diya hai.",
+          "visual": {
+            "type": "card",
+            "title": "30 NOVEMBER 1977",
+            "text": "Southern Television says loophole closed"
+          }
+        },
+        {
+          "id": "c8b2",
+          "text": "یعنی واقعے کے صرف چار دن بعد station کا دعویٰ تھا کہ راستہ بند ہو چکا ہے۔ مگر جس شخص نے یہ کیا، اس کا کوئی سراغ نہیں ملا۔",
+          "roman": "Yani waqiye ke sirf chaar din baad station ka daawa tha ke rasta band ho chuka hai. Magar jis shakhs ne yeh kiya, us ka koi suragh nahi mila.",
+          "visual": {
+            "type": "clip",
+            "query": "newspaper headlines printing",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c8b3",
+          "text": "دسمبر تک Home Office کے ایک spokesperson نے کہا کہ تحقیقات مکمل ہو چکی ہیں، حالانکہ ذمہ دار پکڑا نہیں گیا تھا۔",
+          "roman": "December tak Home Office ke ek spokesperson ne kaha ke tehqeeqat mukammal ho chuki hain, halankay zimma dar pakra nahi gaya tha.",
+          "visual": {
+            "type": "clip",
+            "query": "government building exterior",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c8b4",
+          "text": "Southern Television کے ایک اور بیان میں کہا گیا کہ پکڑنے کی امید بہت کم ہے، جب تک وہی شخص دوبارہ ایسا نہ کرے۔",
+          "roman": "Southern Television ke ek aur bayan mein kaha gaya ke pakarne ki umeed bohat kam hai, jab tak wohi shakhs dobara aisa na kare.",
+          "visual": {
+            "type": "clip",
+            "query": "empty office corridor",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c8b5",
+          "text": "ذرا سوچیں۔ تحقیقات مکمل قرار دے دی گئیں، مگر آواز کے پیچھے موجود شخص پکڑا نہیں گیا۔ کہانی یہیں رک گئی۔",
+          "roman": "Zara sochen. Tehqeeqat mukammal qarar de di gayin, magar awaaz ke peechay maujood shakhs pakra nahi gaya. Kahani yahin ruk gayi.",
+          "visual": {
+            "type": "clip",
+            "query": "detective files folder",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "NO ONE CAUGHT"
+        },
+        {
+          "id": "c8b6",
+          "text": "اس دوران IBA کے ایک engineer نے کہا کہ مستقبل میں ایسے واقعات سے tower کو بچانا ممکن ہے۔",
+          "roman": "Is doran IBA ke ek engineer ne kaha ke mustaqbil mein aise waqiyat se tower ko bachana mumkin hai.",
+          "visual": {
+            "type": "clip",
+            "query": "radio mast tall",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c8b7",
+          "text": "ایک بات اور۔ Wireless Telegraphy Act میں سزا موجود تھی، مگر چونکہ کوئی پکڑا ہی نہیں گیا، اس لیے کسی پر یہ جرمانہ لگا ہی نہیں۔",
+          "roman": "Ek baat aur. Wireless Telegraphy Act mein saza maujood thi, magar chunkay koi pakra hi nahi gaya, is liye kisi par yeh jurmana laga hi nahi.",
+          "visual": {
+            "type": "clip",
+            "query": "court gavel desk",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c8b8",
+          "text": "اب آتے ہیں UFO حلقوں کی طرف۔ Aetherius Society ایک UFO مذہبی گروپ تھا، جس نے اس واقعے کی investigation کی۔",
+          "roman": "Ab aate hain UFO halqon ki taraf. Aetherius Society ek UFO mazhabi group tha, jis ne is waqiye ki investigation ki.",
+          "visual": {
+            "type": "clip",
+            "query": "night sky clouds",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c8b9",
+          "text": "نتیجہ؟ Aetherius Society بھی اسی پر متفق ہوئی کہ یہ ایک hoax تھا۔ یعنی ایک UFO گروپ نے بھی پیغام کو حقیقی نہیں مانا۔",
+          "roman": "Nateeja? Aetherius Society bhi isi par muttafiq hui ke yeh ek hoax tha. Yani ek UFO group ne bhi paigham ko haqeeqi nahi maana.",
+          "visual": {
+            "type": "clip",
+            "query": "people discussing meeting room",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "AETHERIUS SOCIETY: HOAX"
+        },
+        {
+          "id": "c8b10",
+          "text": "پھر بھی کچھ لوگوں نے broadcast کو اس کی ظاہری شکل میں قبول کیا۔ یوں یہ واقعہ ufology میں ایک footnote بن گیا۔",
+          "roman": "Phir bhi kuch logon ne broadcast ko is ki zahiri shakal mein qubool kiya. Yun yeh waqia ufology mein ek footnote ban gaya.",
+          "visual": {
+            "type": "clip",
+            "query": "old library books",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c8b11",
+          "text": "وقت گزرتا گیا اور کہانی بدلتی گئی۔ 1985 تک یہ واقعہ urban folklore بن چکا تھا، اور کچھ لوگ کہتے تھے کہ اس کی کبھی کوئی وضاحت ہی نہیں ہوئی۔",
+          "roman": "Waqt guzarta gaya aur kahani badalti gayi. 1985 tak yeh waqia urban folklore ban chuka tha, aur kuch log kehte thay ke is ki kabhi koi wazahat hi nahi hui.",
+          "visual": {
+            "type": "clip",
+            "query": "foggy village street night",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "URBAN FOLKLORE BY 1985"
+        },
+        {
+          "id": "c8b12",
+          "text": "حالانکہ حقیقت میں وضاحت موجود تھی۔ Hannington transmitter اور ایک غیر مجاز، قریبی transmitter کی کہانی ریکارڈ پر تھی۔",
+          "roman": "Halankay haqeeqat mein wazahat maujood thi. Hannington transmitter aur ek ghair mujaz, qareebi transmitter ki kahani record par thi.",
+          "visual": {
+            "type": "clip",
+            "query": "archive records shelves",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c8b13",
+          "text": "یہی فرق دیکھنے کے قابل ہے۔ 1985 تک کچھ لوگ کہہ رہے تھے کہ اس کی کوئی وضاحت نہیں ہوئی، جبکہ تحقیقات میں وضاحت سامنے آ چکی تھی۔",
+          "roman": "Yehi farq dekhne ke qabil hai. 1985 tak kuch log keh rahe thay ke is ki koi wazahat nahi hui, jabke tehqeeqat mein wazahat saamne aa chuki thi.",
+          "visual": {
+            "type": "clip",
+            "query": "crowd talking street",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "factFix": "The generalisation about how folk tales form (answers spread less, sensationalism more, old explanations forgotten) is the narrator's speculation and is not supported by the sources. They only say that by 1985 the story had entered urban folklore, with suggestions that it was never explained."
+        },
+        {
+          "id": "c8b14",
+          "text": "پھر 1999 میں بچوں کے television series It's a Mystery کا ایک episode آیا۔ اس نے اس واقعے کو faux news reports کے ساتھ دوبارہ دکھایا۔",
+          "roman": "Phir 1999 mein bachon ke television series It's a Mystery ka ek episode aaya. Is ne is waqiye ko faux news reports ke saath dobara dikhaya.",
+          "visual": {
+            "type": "clip",
+            "query": "television studio set",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c8b15",
+          "text": "اس میں viewers کو گھر پر یہ واقعہ دیکھتے ہوئے دکھایا گیا۔ دلچسپ بات یہ کہ اسے Meridian Broadcasting نے بنایا، جو Southern کے جانشین اداروں میں شامل تھا۔",
+          "roman": "Is mein viewers ko ghar par yeh waqia dekhte hue dikhaya gaya. Dilchasp baat yeh ke ise Meridian Broadcasting ne banaya, jo Southern ke jaanasheen idaron mein shamil tha.",
+          "visual": {
+            "type": "clip",
+            "query": "family watching television",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c8b16",
+          "text": "ایک اہم نکتہ یہ ہے کہ ہمارے sources میں hoaxer کا نام، مقصد یا گروہ کہیں درج نہیں۔ اس لیے ہم کسی پر الزام نہیں لگا سکتے ہیں۔",
+          "roman": "Ek aham nukta yeh hai ke hamare sources mein hoaxer ka naam, maqsad ya group kahin darj nahi. Is liye hum kisi par ilzam nahi laga sakte hain.",
+          "visual": {
+            "type": "clip",
+            "query": "question mark chalkboard",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c8b17",
+          "text": "ہم صرف اتنا جانتے ہیں کہ اس کے لیے technical know-how درکار تھی، اور جس نے بھی یہ کیا، اس نے ایک کمزور نقطے کا فائدہ اٹھایا۔",
+          "roman": "Hum sirf itna jante hain ke is ke liye technical know-how darkar thi, aur jis ne bhi yeh kiya, us ne ek kamzor nukte ka faida uthaya.",
+          "visual": {
+            "type": "clip",
+            "query": "technician soldering electronics",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c8b18",
+          "text": "تو سوال یہ ہے کہ ایک تحقیقات جو مکمل ہو گئی، کیا واقعی سب کچھ بتا گئی؟ وضاحت تھی، مگر نام اور مقصد پھر بھی غائب رہے۔",
+          "roman": "To sawal yeh hai ke ek tehqeeqat jo mukammal ho gayi, kya waqai sab kuch bata gayi? Wazahat thi, magar naam aur maqsad phir bhi ghayab rahe.",
+          "visual": {
+            "type": "clip",
+            "query": "shadow figure walking fog",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "On 30 November, Southern Television told the press that it knew how the interruption had happened and had closed the loophole. So only four days after the event, the station claimed the route had been shut. But there was no trace of the person who did it. By December a Home Office spokesperson said the investigations were complete, although no one had been caught. Another Southern Television statement said the chance of catching the culprit was very slim unless the same person did it again.",
+        "Think about that. The investigations were declared complete, but the person behind the voice was not caught. The story stopped there. Meanwhile, an IBA engineer said that in future the tower could be protected from such incidents. One more point: the Wireless Telegraphy Act had a penalty, but since nobody was caught, no one was ever fined.",
+        "Now to UFO circles. The Aetherius Society, a UFO religious group, investigated the incident. Its conclusion was that it was a hoax. So even a UFO group did not consider the message genuine. Even so, some people accepted the broadcast at face value, and the incident became a footnote in ufology.",
+        "Time passed and the story changed. By 1985 the incident had become urban folklore, and some people said it had never been explained. In reality an explanation existed. The story of the Hannington transmitter and an unauthorised nearby transmitter was on record. That is the difference worth noticing: by 1985 some were saying there was no explanation, while the investigation had already produced one.",
+        "In 1999 an episode of the children's television series It's a Mystery retold the incident with faux news reports. It showed viewers watching the event at home. Interestingly, it was made by Meridian Broadcasting, which was among Southern's successor organizations.",
+        "One important point is that our sources record no name, motive or group for the hoaxer. So we cannot accuse anyone. We only know that technical know-how was needed, and that whoever did it exploited a weak point. So can an investigation that was completed have told us everything? The explanation existed, but the name and motive remained missing."
+      ]
+    },
+    {
+      "titleEn": "What Changed and What Remains Unanswered",
+      "titleRoman": "Kya Badla Aur Kya Sawal Baqi Hain",
+      "covers": "IBA no plans for changes, lessons on vulnerability, open questions about identity and motive, comparison briefly with later Max Headroom 1987 Chicago hijackings, call to like and subscribe",
+      "words": 200,
+      "beats": [
+        {
+          "id": "c9b1",
+          "text": "Hannington کی کہانی کا آخری حصہ یہ ہے۔ IBA کے ایک spokesperson نے کہا کہ مداخلت کے بعد ان کا کوئی تبدیلی کرنے کا منصوبہ نہیں تھا۔",
+          "roman": "Hannington ki kahani ka aakhri hissa yeh hai. IBA ke ek spokesperson ne kaha ke mudakhilat ke baad un ka koi tabdeeli karne ka mansooba nahi tha.",
+          "visual": {
+            "type": "clip",
+            "query": "transmitter mast grey sky",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "IBA: NO PLANS TO CHANGE"
+        },
+        {
+          "id": "c9b2",
+          "text": "جبکہ ایک IBA engineer نے کہا کہ tower کو بچانا ممکن ہے۔ Southern نے بھی loophole بند کرنے کا دعویٰ کیا۔",
+          "roman": "Jabke ek IBA engineer ne kaha ke tower ko bachana mumkin hai. Southern ne bhi loophole band karne ka daawa kiya.",
+          "visual": {
+            "type": "clip",
+            "query": "control room monitors",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c9b3",
+          "text": "سبق صاف ہے۔ جو نظام کسی دوسرے signal پر بھروسا کرتا ہے، اسے اس بات کی حفاظت بھی کرنی پڑتی ہے کہ وہ signal واقعی اصل ہو۔",
+          "roman": "Sabaq saaf hai. Jo nizam kisi doosre signal par bharosa karta hai, use is baat ki hifazat bhi karni parti hai ke woh signal waqai asal ho.",
+          "visual": {
+            "type": "clip",
+            "query": "signal waves antenna",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c9b4",
+          "text": "اور سوال اب بھی کھلے ہیں۔ آواز کس کی تھی؟ مقصد کیا تھا؟ کیا کوئی واقعی ایسا کر کے بس مذاق کرنا چاہتا تھا؟ ہمارے sources جواب نہیں دیتے۔",
+          "roman": "Aur sawal ab bhi khule hain. Awaaz kis ki thi? Maqsad kya tha? Kya koi waqai aisa kar ke bas mazaq karna chahta tha? Hamare sources jawab nahi dete.",
+          "visual": {
+            "type": "clip",
+            "query": "old documents desk",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c9b5",
+          "text": "دس سال بعد، 22 نومبر 1987 کو، Chicago میں بھی ایسا ہی ہوا۔ دو TV stations، WGN-TV اور WTTW، ایک رات میں hijack ہوئے۔",
+          "roman": "Das saal baad, 22 November 1987 ko, Chicago mein bhi aisa hi hua. Do TV stations, WGN-TV aur WTTW, ek raat mein hijack hue.",
+          "visual": {
+            "type": "clip",
+            "query": "city skyline night",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          },
+          "highlight": "CHICAGO, 22 NOV 1987"
+        },
+        {
+          "id": "c9b6",
+          "text": "وہاں Max Headroom mask پہنے ایک شخص نظر آیا، اور آج تک ذمہ داروں کی شناخت نہیں ہو سکی۔ مگر وہ کہانی کسی اور ویڈیو میں۔",
+          "roman": "Wahan Max Headroom mask pehne ek shakhs nazar aaya, aur aaj tak zimma daron ki shanakht nahi ho saki. Magar woh kahani kisi aur video mein.",
+          "visual": {
+            "type": "clip",
+            "query": "television screen glitch",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c9b7",
+          "text": "دونوں واقعات میں ایک چیز مشترک ہے۔ کسی دوسرے signal نے اصل broadcast کو دبا دیا، اور ذمہ دار پکڑے نہیں گئے۔",
+          "roman": "Dono waqiyat mein ek cheez mushtarak hai. Kisi doosre signal ne asal broadcast ko daba diya, aur zimma dar pakre nahi gaye.",
+          "visual": {
+            "type": "clip",
+            "query": "broadcast tower city",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        },
+        {
+          "id": "c9b8",
+          "text": "تو دوستو، آپ کیا سمجھتے ہیں؟ کیا 1977 کی یہ آواز صرف ایک hoax تھی؟ اپنی رائے comments میں لکھیں، ویڈیو like کریں، اور channel کو subscribe کرنا نہ بھولیں۔",
+          "roman": "To dosto, aap kya samajhte hain? Kya 1977 ki yeh awaaz sirf ek hoax thi? Apni raaye comments mein likhein, video like karein, aur channel ko subscribe karna na bhoolein.",
+          "visual": {
+            "type": "clip",
+            "query": "vintage television static",
+            "prompt": "Ivor Mills: ITN newsreader, 1977, suit and wide tie, studio desk. Vrillon: only a distorted voice, never shown, represented by a glowing waveform. Viewers: ordinary 1970s English family in a living room in Hampshire, patterned wallpaper, boxy wooden-cased TV. Hannington transmitter: tall mast on rural North Hampshire hills, grey sky, November 1977. Engineers: 1970s technicians in shirts and ties among racks of transmitter equipment."
+          }
+        }
+      ],
+      "checked": true,
+      "articleEn": [
+        "This is the last part of the Hannington story. An IBA spokesperson said that after the interruption it had no plans to make changes, while an IBA engineer said the tower could be protected. Southern also claimed to have closed the loophole. The lesson is clear: a system that relies on another signal must also guard against that signal being fake.",
+        "Questions remain open. Whose voice was it? What was the purpose? Did someone do it just as a joke? Our sources do not answer.",
+        "Ten years later, on 22 November 1987, something similar happened in Chicago. Two TV stations, WGN-TV and WTTW, were hijacked in a single night. A person wearing a Max Headroom mask appeared, and to this day the people responsible have not been identified. That story belongs in another video. The two incidents have one thing in common: another signal overpowered the real broadcast, and those responsible were never caught.",
+        "So what do you think? Was the 1977 voice just a hoax? Share your opinion in the comments, like the video, and don't forget to subscribe to the channel."
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "id": "s1",
+      "chapter": 0,
+      "titleEn": "The Alien Voice That Hijacked British TV in 1977",
+      "hook": "TV ki awaaz ghaib ho gayi",
+      "text": "ایک Saturday شام TV کی آواز اچانک غائب ہو گئی، اور ایک عجیب آواز نے خود کو Vrillon بتایا! یہ 26 November 1977 کا واقعہ ہے۔ Southern England میں 5:10 p.m. GMT پر ITN کے Ivor Mills Rhodesian Bush War کی news summary دے رہے تھے۔ پھر news کی آواز بند ہو گئی۔ اس کی جگہ ایک گہری buzz آئی، اور پھر ایک بگڑی ہوئی مردانہ آواز۔ اس نے کہا کہ وہ Ashtar Galactic Command کا representative ہے۔ اس کا دعویٰ تھا کہ زمین کے پاس بہت کم وقت ہے۔ پیغام تقریباً 4 minute چلا۔ مگر یہ آواز آئی کہاں سے؟ اور جب پیغام ختم ہوا، تو screen پر کیا چل رہا تھا؟ پوری کہانی ہمارے channel پر دیکھیں۔",
+      "roman": "Ek Saturday shaam TV ki awaaz achanak ghaib ho gayi, aur ek ajeeb awaaz ne khud ko Vrillon bataya! Yeh 26 November 1977 ka waqia hai. Southern England mein 5:10 p.m. GMT par ITN ke Ivor Mills Rhodesian Bush War ki news summary de rahe thay. Phir news ki awaaz band ho gayi. Is ki jagah ek gehri buzz aayi, aur phir ek bigri hui mardana awaaz. Us ne kaha ke woh Ashtar Galactic Command ka representative hai. Us ka dawa tha ke zameen ke paas bohat kam waqt hai. Paigham taqriban 4 minute chala. Magar yeh awaaz aayi kahan se? Aur jab paigham khatam hua, to screen par kya chal raha tha? Poori kahani hamare channel par dekhein.",
+      "descriptionEn": "On 26 November 1977, a voice claiming to be Vrillon of the Ashtar Galactic Command replaced the sound of a Southern Television broadcast.\nWhere did it come from? Watch the full story on our channel.",
+      "tags": [
+        "Southern Television",
+        "1977",
+        "Vrillon",
+        "Ashtar Galactic Command",
+        "broadcast signal intrusion",
+        "UK mystery",
+        "unsolved mystery",
+        "TV hijack",
+        "Hannington",
+        "documentary"
+      ]
+    },
+    {
+      "id": "s2",
+      "chapter": 5,
+      "titleEn": "People Called 999 After a Voice Took Over TV",
+      "hook": "Logon ne 999 dial kar diya",
+      "text": "جب TV پر ایک عجیب آواز آئی، تو لوگوں نے 999 dial کر دیا! UK میں 999 emergency number ہے۔ Southern Television کو سینکڑوں phone calls موصول ہوئیں، اور یہ calls فکرمند viewers کی تھیں۔ Winchester police کو بھی 50 سے زیادہ calls آئیں۔ یعنی کچھ لوگوں کے لیے یہ مذاق نہیں تھا۔ اخباروں کی headlines نے الجھن اور بڑھا دی۔ زیادہ تر British newspapers نے speaker کا نام Gillon یا Asteron لکھا۔ کچھ reports کے مطابق آواز نے invasion کی دھمکی دی، جبکہ Sir John Whitmore کا کہنا تھا کہ message میں ایسی دھمکی نہیں تھی۔ تو اصل میں کیا کہا گیا تھا؟ پوری کہانی ہمارے channel پر دیکھیں۔",
+      "roman": "Jab TV par ek ajeeb awaaz aayi, to logon ne 999 dial kar diya! UK mein 999 emergency number hai. Southern Television ko saikron phone calls mausool huin, aur yeh calls fikarmand viewers ki thin. Winchester police ko bhi 50 se ziyada calls aayin. Yani kuch logon ke liye yeh mazaq nahi tha. Akhbaron ki headlines ne uljhan aur barha di. Zyada tar British newspapers ne speaker ka naam Gillon ya Asteron likha. Kuch reports ke mutabiq awaaz ne invasion ki dhamki di, jabke Sir John Whitmore ka kehna tha ke message mein aisi dhamki nahi thi. To asal mein kya kaha gaya tha? Poori kahani hamare channel par dekhein.",
+      "descriptionEn": "After the 1977 Southern Television interruption, hundreds of viewers phoned the station and Winchester police received over 50 calls to 999.\nNewspapers even disagreed on what the voice said.",
+      "tags": [
+        "Southern Television",
+        "1977",
+        "999 calls",
+        "Winchester police",
+        "Gillon",
+        "Asteron",
+        "Sir John Whitmore",
+        "UK history",
+        "media confusion",
+        "documentary"
+      ]
+    },
+    {
+      "id": "s3",
+      "chapter": 6,
+      "titleEn": "How a Tiny Transmitter Overpowered a Big TV Tower",
+      "hook": "Chhota transmitter, bada raaz",
+      "text": "ایک چھوٹا سا unauthorised transmitter کئی علاقوں کے TV پر چھا گیا! Investigation Police، Post Office اور IBA نے شروع کی۔ IBA کا Hannington transmitter Rowridge transmitter کے signal کو rebroadcast کرتا تھا، جو Isle of Wight پر ہے۔ یہ ان چند main transmitters میں سے تھا جو landline کے بجائے off-air signal لیتے تھے۔ اسی وجہ سے ایک کم power کا transmitter بھی، اگر receiver کے بہت قریب ہو، اصل signal پر غالب آ سکتا تھا۔ پھر Hannington نے اسی غلط signal کو دور دور تک پھیلا دیا۔ IBA کے مطابق ایسا hoax کرنے کے لیے considerable technical know-how چاہیے تھی۔ مگر کیا وہ hoaxer کبھی پکڑا گیا؟ پوری کہانی ہمارے channel پر دیکھیں۔",
+      "roman": "Ek chhota sa unauthorised transmitter kai ilaqon ke TV par chha gaya! Investigation Police, Post Office aur IBA ne shuru ki. IBA ka Hannington transmitter Rowridge transmitter ke signal ko rebroadcast karta tha, jo Isle of Wight par hai. Yeh un chand main transmitters mein se tha jo landline ke bajaye off-air signal lete thay. Isi wajah se ek kam power ka transmitter bhi, agar receiver ke bohat qareeb ho, asal signal par ghalib aa sakta tha. Phir Hannington ne usi ghalat signal ko door door tak phaila diya. IBA ke mutabiq aisa hoax karne ke liye considerable technical know-how chahiye thi. Magar kya woh hoaxer kabhi pakra gaya? Poori kahani hamare channel par dekhein.",
+      "descriptionEn": "The Hannington transmitter rebroadcast an off-air signal, so a nearby low-powered unauthorised transmitter could overwhelm it in 1977.\nThe IBA said the hoax needed considerable technical know-how.",
+      "tags": [
+        "Hannington transmitter",
+        "Rowridge",
+        "IBA",
+        "Southern Television",
+        "1977",
+        "signal intrusion",
+        "Wireless Telegraphy Act",
+        "TV technology",
+        "UK mystery",
+        "documentary"
+      ]
+    }
+  ],
+  "metaChecked": true,
+  "wordCount": 3805
+}
